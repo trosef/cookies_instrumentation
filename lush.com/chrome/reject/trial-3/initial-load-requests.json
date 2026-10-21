@@ -1,0 +1,1274 @@
+[
+  {
+    "timestamp": "2026-10-20T23:57:41.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/us/en_us",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.286Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0hgi1_76mscwy.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.286Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~ukee8-y27yz.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.286Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0kxme4a~dx6zt.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0c2j41rk7~slc.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0enh9t4gmcjqz.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/09xzg17t9z5fw.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/18d2g4az419nl.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/v1792014858/collections/Hero%20Images/Cozy-Season-2026-Item2-Grounding-Goodness-6-landscape_2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/12p2iator3k6d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0ud~mmuq2hs1j.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0o09opynddn-1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/00-otc7hha6dn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0i-k__~aie-bi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0.99p19t__6.g.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0fau21f8rfzae.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0_7bnx8ana7ao.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/17br3cm~w.tob.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0mlw_z4bjgy9p.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0m03feo~w4v1n.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/064.1sll9g4tx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0zp6nvxf5rl8i.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~_00~qdwk2hk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/06rb49cvphxk..js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/17isdkq3qu31c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0-ta2eyxvqrh-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0utnuf1664tu5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/10tmhkeqb87yy.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0_7kab2a~~gfz.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0hwlx165qcwd1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0imfr6fb0cbzs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0ttgzumbwr_3o.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0r_h9-1nrdpo_.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0.qokl_ulgtjv.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0oo4zc4k7gf5c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0hxiqyencayq..js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~8-0e18w.r31.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/173v6szr-ul7i.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0dqmk~6ki51~j.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/09g3h7tr46__-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0e6k1z.aglzfx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0owzozijk01~p.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0d-gg0h3i8.k3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-069d5np.nooj9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0djsrzl7t9cvo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0.97i_8h~c~cf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.287Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/11-7t55ly~lpr.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0-z1nbi9v5_7w.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/08zavcxwildee.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/17jgo.732chnv.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/11.fcc0yq97v_.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0gatwsjj.fmbe.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0dp0ix4o9xigo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0xcmocp8yrc3i.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0rr9~289v3ahr.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-0qjbj-p~so5nw.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/production-8a16fae5/_buildManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/production-8a16fae5/_ssgManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/production-8a16fae5/_clientMiddlewareManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://res.cloudinary.com/lush/image/upload/f_auto,q_auto,fl_lossy,w_36/v1590069065/lush_com/site_assets/flags/flag_square/us.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.472Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-Regular.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-Bold.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/handwritten/LushHandwritten_WLat_Bd.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-SemiBold.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=128,f=auto/https://res.cloudinary.com/lush/image/upload/v1781100417/lush_com/site_assets/themes/2026%20Test%20Logos/Logo_standard.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376885/contentful/navigation/Categories/Category_-_Bath.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376884/contentful/navigation/Categories/Category_-_Shower.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376882/contentful/navigation/Categories/Category_-_Handmade_Soap.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376884/contentful/navigation/Categories/Category_-_Body_Care.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376885/contentful/navigation/Categories/Category_-_Hair.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376884/contentful/navigation/Categories/Category_-_Skincare.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376885/contentful/navigation/Categories/Category_-_Spa.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=3840,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1783325372/contentful/navigation/Gifts%20and%20Wrapping/Category_-_Gifts_Wrapping.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1783428583/contentful/navigation/Categories/Category_-_Fragrance_2.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.473Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/v1792505952/collections/Hero%20Images/Hand-Of-Friendship-2026-Together-Body-Scrub_hero_03_2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.640Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/challenge-platform/scripts/jsd/main.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0av2-sdy_ix90.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/01541fu57us58.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0hmmpxz0ec_p~.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0jsq3h5p~q1o5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0535x1o4qsa74.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0b8v168o7x2wq.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0p6i8~w4puiej.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0du9nno3x3op-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/deployments/lush/main_site/production/en_US/bv.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/api/basket/get?channel=us&language=EN_US",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.780Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/api/auth/me",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.783Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d2d3316b729e/main.js?",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us.json?channel=us&language=en_us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/products.json?channel=us&language=en_us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/experiences.json?channel=us&language=en_us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/places.json?channel=us&language=en_us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/cozy-season.json?channel=us&language=en_us&slug=cozy-season",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/soothing-fall-products.json?channel=us&language=en_us&slug=soothing-fall-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/grounding-fall-products.json?channel=us&language=en_us&slug=grounding-fall-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/sweet-scented-fall-products.json?channel=us&language=en_us&slug=sweet-scented-fall-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bath-products.json?channel=us&language=en_us&slug=bath-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/shower-products.json?channel=us&language=en_us&slug=shower-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/handmade-soap.json?channel=us&language=en_us&slug=handmade-soap",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/body-care.json?channel=us&language=en_us&slug=body-care",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/hair-care.json?channel=us&language=en_us&slug=hair-care",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.797Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/skincare.json?channel=us&language=en_us&slug=skincare",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.800Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.841Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/d2d3316b729e/0.6661046864383233:1792537238:G9no_khOFSTeXvMsa5yjacBjIlmAw_YyEvpHJd57vow/a4dbf75bfe90ae0d",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.842Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.889Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/faq/cookie-policy.json?channel=us&language=en_us&slug=cookie-policy",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.946Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~k-fy8kfk8om.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.947Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0c.k.-6-pq.rv.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.964Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0vj6ii4hgo3xj.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.965Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0lglvuh9r1_zs.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.965Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/093j37.zyo~v8.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.971Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~k-fy8kfk8om.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.987Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/apps/api/api-0.8.2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/deployments/lush/main_site/production/en_US/api-config.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/analytics/bv-analytics.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0c.k.-6-pq.rv.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.997Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/08s93xcn6j-p5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.997Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0j2echh_22p2s.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.997Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0cftbu7xs2rim.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.997Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/038miq83tcxws.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:41.997Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-13wu6sn6hvlxk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.000Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0ydz9z4hmioh_.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.000Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0g-i0ukym5njk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.000Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0g3irwehod89-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.000Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-0doz.r9u_yafj.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.012Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3aa1b655eccb0634&BVBRANDID=dfa696f7-4224-4051-8481-917116633aef&BVBRANDSID=6bc82885-a7f8-4b84-a354-8bbb0b6485f5&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:bv-loader,bvProductVersion:%2713.35.12%27,cl:Diagnostic,deploymentZone:main_site,elapsedMs:%270.8000%27,endTime:%27943.4000%27,locale:en_US,name:timeToRunScout,startTime:%27942.6000%27,type:Performance))&_=wue9xn",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.013Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/01w1rq2yo5jh..js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.021Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/093j37.zyo~v8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.022Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/12gmllb91cbsg.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.022Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/04ik~s6a6l01~.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.022Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0tazxviebjfj2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.022Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-0d-hk1sd3om38.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.029Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0lglvuh9r1_zs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.030Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0f8m38o2_racx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.030Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0d89p3rnbz3em.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.030Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0zcjqqs-mshja.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.030Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-0~4vgbovmuhv2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.063Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/01w1rq2yo5jh..js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/06d0f02h0kyab.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0h35r~zy__.gf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/07~s1pfa4s209.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-14g0ozmsj_mqi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.528Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:42.529Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-ExtraBold.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-Medium.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/Lush__grinch_the_grinch_bath_bomb_ecom_2026_a0d22988_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/lord_of_misrule_shower_gel_pack_2026_cfa85cca_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/sour_grinch_shower_gel_295g_2026__3163d7bf_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/Lush__grinch_gummy_ecom_2026_f6c1faaa_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/limited_edition_pin_badge_lush__the_grinch_ecom_2026_1_28b46efe_thumbnail_40.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.068Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/merry_grinchmas_gift_2026__7b29ca1e_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.069Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/apps/inline_ratings/inline_ratings-2.7.22.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.069Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/deployments/lush/main_site/production/en_US/inline_ratings-config.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.115Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.131Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?cl=PageView&loadId=3aa1b655eccb0634&type=Embedded&BVBRANDID=dfa696f7-4224-4051-8481-917116633aef&BVBRANDSID=6bc82885-a7f8-4b84-a354-8bbb0b6485f5&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&locale=en_US&deploymentZone=main_site&displaySegment=baseline&r_experiments=()&bvProduct=InlineRatings&bvProductVersion=2.7.22&href=https://www.lush.com/us/en_us&canurl=https://www.lush.com/us/en_us&res=1280x720&lang=en-us&charset=UTF-8&geo=1&cookies=1&r_t=(con:56,dns:9,load:337,req:163,res:31,tot:598)&_=cwmqz&ref=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.143Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/bfd/v1/clients/lush/api-products/cv2/resources/data/statistics.json?apiversion=5.4&stats=Reviews&filter=ContentLocale%3Aen_US%2Cen*&filter=ProductId%3A1a2c0690-90cc-11f1-9ff9-325096b39f47%2C8cab357d-2959-4356-abba-0a8d9763d336%2C1a2c087a-90cc-11f1-be64-325096b39f47%2C24a878b0-90cc-11f1-864e-325096b39f47%2C28f49070-90cc-11f1-99be-325096b39f47%2C7b29134e-9c74-11f1-bb82-325096b39f47%2C4821cebe-3e1e-11f1-b55d-325096b39f47%2Ce8c6a53c-84f1-11f1-b7cd-325096b39f47%2Cb5cfacfa-4ce9-11f0-ba26-325096b39f47%2C1125422c-84f2-11f1-a759-325096b39f47%2C6e4edf3e-c553-11ec-a5fd-db532cd4305c%2Cb30c116e-f78a-11ec-a48c-c7d91156c35e%2C25105e12-f797-11ec-9bd0-2f209b34fc75%2Cd516a368-79ff-11f1-9c84-325096b39f47%2Cc61b830a-fab7-11eb-92ef-a7afbba1b6d9%2C0d369684-03df-11ef-a786-325096b39f47%2Ce2541b96-8445-11f1-be0a-325096b39f47%2C0c0419b2-84f2-11f1-8021-325096b39f47%2Ce2541970-8445-11f1-9ed5-325096b39f47%2Ce78b4c9c-8445-11f1-a5ce-325096b39f47",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.143Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3aa1b655eccb0634&BVBRANDID=dfa696f7-4224-4051-8481-917116633aef&BVBRANDSID=6bc82885-a7f8-4b84-a354-8bbb0b6485f5&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:bfdApiRequest,displaySegment:baseline,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=nhl8om",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:43.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3aa1b655eccb0634&BVBRANDID=dfa696f7-4224-4051-8481-917116633aef&BVBRANDSID=6bc82885-a7f8-4b84-a354-8bbb0b6485f5&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:apiSuccess,detail2:%27fetchResponse%3BHit+from+cloudfront%27,displaySegment:baseline,elapsedMs:38.89999997615814,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=s5fahh",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  }
+]

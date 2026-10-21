@@ -1,0 +1,2218 @@
+[
+  {
+    "timestamp": "2026-10-20T23:32:01.896Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=2db32b38-457b-46be-9c72-46b0f42b39c5&Seq=6&ClientTime=1792539121893&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539096798&PrevBundleTime=1792539116916&LastActivity=103&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.379Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.476Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.476Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/measurement/conversion?random=1792539124461&cv=11&tid=G-1SYPSJZYJ5&fst=1792539124461&fmt=8&en=shopping_nav_click&gtm=45je6aj1v883377022z89199054215za20gzb9199054215zd9199054215xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&gacid=744263216.1792539096&hn=www.googleadservices.com&frm=0&tiba=Patagonia%20Outdoor%20Clothing%20%26%20Gear&gdid=dYWJhMj&npa=0&pscdl=noapi&auid=8139963.1792539096&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&rcb=2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.476Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-1SYPSJZYJ5&gtm=45je6aj1v883377022z89199054215za20gzb9199054215zd9199054215xf1&_p=1792539094881&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=EAAAAGQC&_prs=ok&cid=744263216.1792539096&frm=0&ir=1&pscdl=noapi&rcb=2&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792539095&sct=1&seg=1&dl=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&dt=Patagonia%20Outdoor%20Clothing%20%26%20Gear&en=shopping_nav_click&_c=1&ep.page_name=Patagonia%20Outdoor%20Clothing%20%26%20Gear&ep.page_type=homepage&ep.site_region=us&ep.content_group=homepage&ep.locale_country=us&ep.locale_language=en&ep.content_group2=homepage&ep.page_business_type=Main&ep.nav_level=L1&ep.nav_link=Women%27s&ep.nav_l1_parent=Women%27s&ep.link_target_url=shop%2Fwomens&ep.nav_name=Women%27s&_et=28517&tfd=30456",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.482Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/shop/womens",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.482Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.488Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/shop/womens",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/images/1x1.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/576fefa7-413d-4d88-8743-f0c9b4e4549c",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/da236321-e392-4b50-a7ef-0ce37ad076c9",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.831Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-core-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.831Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/main-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.831Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://rapid-cdn.yottaa.com/rapid/lib/-CdRH2wT0hSE1A.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/sprites.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/util-modern.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/global-modern.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/search.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/modules/product-category-tabs.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/css/components/marketingTiles.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/814b17ea9b73a9873ef74ca0fda5871a.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.841Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://rapid-1.yottaa.net/api/v1/configure.rapid.js?key=-CdRH2wT0hSE1A&ul=en-US&dl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&dt=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&sd=30&sr=1280,720&vp=1280,720&ct=4g&rtt=0&testVariation=100295-Optimized",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.878Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/internal/jscript/dwanalytics-22.2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.879Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/internal/jscript/dwac-21.7.1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.879Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cquotient.com/js/v2/gretel.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.879Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/internal/jscript/applepay-order-tracking.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.879Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.879Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/oTsXoz8qvX/Ar9bE2/3k0S/VpGiDwQ7V11J/F2YmSikD/Xk4hT/XoXOh4W?v=e593d60f-c58b-0689-069d-ae1022dc1738",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.910Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TG49M3T9",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.910Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/commons.32b0810ba1fc402d09de.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.910Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/814b17ea9b73a9873ef74ca0fda5871a/main.c1669838e1e36f493cca.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.910Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/me.566f7f7df1d7ec185c54.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.926Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/analytics.5fa80c4082d80c8724d0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.926Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://try.abtasty.com/svc/dacdn/cdn/lib/emotionsai-ecae9f9f037058fad705550243e5601e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.938Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-3821.30e9ca39c29b6f957ea4-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.938Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-1174.c1191b229537c3ad2deb-modern.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.939Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-8130.98cc5d7945154f7ab8d5-modern.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/images/vectors/circle.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/default/dw340b18ca/fonts/RidgewaySans/RidgewaySans.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw1c101b01/images/hi-res/84218_STYM.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw8fc6e3db/images/hi-res/25543_MRTA.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw32dde11a/images/hi-res/26278_DMGO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw1fefee1d/images/hi-res/40261_STYM.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw098445fd/images/hi-res/22796_WSTO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw0388bd31/images/hi-res/20245_WLFB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:04.981Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwbfd3f131/images/hi-res/40251_BCW.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.118Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/images/symbol/svg/sprite.symbol.svg",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.118Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/session/?action=Search-Show",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/search-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/klaviyo-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw19e2c9cf/images/hi-res/31905_DNBR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwc6ba7ec1/images/hi-res/42460_DPSA.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe9be9ad8/images/hi-res/24147_DMGO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb4d48118/images/hi-res/25618_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw8300c106/images/hi-res/23335_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwa7cafd62/images/hi-res/85420_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwf3a8f1a3/images/hi-res/45805_PSMB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw86d2e9ed/images/hi-res/21090_DMGO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw8ad224d0/images/hi-res/42407_SNWR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw3643b328/images/hi-res/24885_MRTA.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw2d2c842e/images/hi-res/22170_SNBE.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw5dd9d5b8/images/hi-res/40555_BYFG.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwf5d4eae9/images/hi-res/85160_SMBE.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw2e358b78/images/hi-res/23320_VRTB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw84704978/images/hi-res/21157_RVGN.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwbdf088a8/images/hi-res/22165_WLFB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw2281a845/images/hi-res/25455_SNQS.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwb2369457/images/hi-res/85246_GLCB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe4f3ba01/images/hi-res/84228_BYFG.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwa988acbf/images/hi-res/28442_BLSG.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwde9a46e2/images/hi-res/23075_ORTN.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwd619b986/images/hi-res/22836_WSTO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw374c4e46/images/hi-res/25236_VRTB.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwe33f5e9d/images/hi-res/84248_BLSG.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw73bbb23b/images/hi-res/40280_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw3c73a3bd/images/hi-res/25887_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwdd379b54/images/hi-res/28041_CNGR.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwd4a129e1/images/hi-res/23270_DMGO.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.121Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw46b7fdc4/images/hi-res/84712_DAK.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.155Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/images/1x1.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.160Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-9515.ba2ac60887a88aa3cea1-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.196Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-712-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.196Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-2059-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.196Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-1820-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.196Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-2000.4576b30e466fa319285c-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.297Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.store/Sites-patagonia-us-Site/en_US/Search-ShowMarketingTile?cgid=womens&view=fallbackMarketingTiles",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.305Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-8793.e6feabb956e67904f62c-modern.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.308Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.store/Sites-patagonia-us-Site/en_US/Klaviyo-Event?action=Viewed%20Category&params=womens&kx=&kldebug=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.348Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/en_US/v1792020888401/js/chunks/main-4030.c5bc22a4dec0d0903531-modern.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.379Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js?did=7b341081-d1d9-4887-8cbf-6d335f9c7dd8",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=G-1SYPSJZYJ5&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-1SYPSJZYJ5&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-965915050&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.382Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://servedby.flashtalking.com/container/14294;107400;11021;iframe/?ftXRef=undefined&ftXValue=undefined&ftXName=199346001175_199346137829_199346219518_199346154758_199346215305_199346210034_198077879688_199346086134_199346125659_195699891968_199346068413_199346051651_199346011136_199346151436_199346029810_199346531207_198077877318_199346034289_198077869061_199346007634_199346057530_198077876588_199346035743_199346060967_199346017268_199346204521_199346071949_199346215046_199346049764_199346064910_199346201254_199346154635_199346221320_199346081542_199346046503_199346243506&ftXCurrency=USD&U1=84218_25543_26278_40261_22796_20245_40251_31905_42460_24147_25618_23335_85420_45805_21090_42407_24885_22170_40555_85160_23320_21157_22165_25455_85246_84228_28442_23075_22836_25236_84248_40280_25887_28041_23270_84712&U2=Outerwear_Tops_Tops_Tops_Tops_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Outerwear_Outerwear_Tops_Tops_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear&U3=false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false&U4=239_169_79_199_159_169_145_269_95_119_149_155_289_75_249_129_125_125_139_239_165_179_119_149_189_299_365_259_159_115_199_165_129_239_129_345&U5=___________________________________&U6=Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Trail%20Running_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Hike_W%27s%20Lifestyle%20Essentials_Active%20Essentials_Alpine_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Alpine_Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Mountain%20Essentials_Active%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine&U8=Outerwear%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L/S%20Button%20Down%20Shirts_Outerwear%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L/S%20Tops_Outerwear%20Vests_L/S%20Button%20Down%20Shirts_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Midlayer%20Jackets_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Outerwear%20Jackets_Outerwear%20Parkas_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Vests_Midlayer%20Jackets_Midlayer%20Vests_Outerwear%20Jackets_Midlayer%20Jackets_Outerwear%20Jackets&ft_referrer=https%3A//www.patagonia.com/shop/womens%3F~ftXRef%3Dundefined%26ftXValue%3Dundefined%26ftXName%3D199346001175_199346137829_199346219518_199346154758_199346215305_199346210034_198077879688_199346086134_199346125659_195699891968_199346068413_199346051651_199346011136_199346151436_199346029810_199346531207_198077877318_199346034289_198077869061_199346007634_199346057530_198077876588_199346035743_199346060967_199346017268_199346204521_199346071949_199346215046_199346049764_199346064910_199346201254_199346154635_199346221320_199346081542_199346046503_199346243506%26ftXCurrency%3DUSD%26U1%3D84218_25543_26278_40261_22796_20245_40251_31905_42460_24147_25618_23335_85420_45805_21090_42407_24885_22170_40555_85160_23320_21157_22165_25455_85246_84228_28442_23075_22836_25236_84248_40280_25887_28041_23270_84712%26U2%3DOuterwear_Tops_Tops_Tops_Tops_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Outerwear_Outerwear_Tops_Tops_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear%26U3%3Dfalse_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false%26U4%3D239_169_79_199_159_169_145_269_95_119_149_155_289_75_249_129_125_125_139_239_165_179_119_149_189_299_365_259_159_115_199_165_129_239_129_345%26U5%3D___________________________________%26U6%3DMountain%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Trail%20Running_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Hike_W%27s%20Lifestyle%20Essentials_Active%20Essentials_Alpine_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Alpine_Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Mountain%20Essentials_Active%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine%26U8%3DOuterwear%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L%2FS%20Button%20Down%20Shirts_Outerwear%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L%2FS%20Tops_Outerwear%20Vests_L%2FS%20Button%20Down%20Shirts_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Midlayer%20Jackets_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Outerwear%20Jackets_Outerwear%20Parkas_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Vests_Midlayer%20Jackets_Midlayer%20Vests_Outerwear%20Jackets_Midlayer%20Jackets_Outerwear%20Jackets%26&ns=https%3A//www.patagonia.com/home/&cb=379557.0619867752",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.384Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&ae=g&auid=8139963.1792539096&dt=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&en=page_view&dl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&dr=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&scrsrc=www.googletagmanager.com&rnd=187686801.1792539125&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dYWJhMj&gtm=45He6aj1v9199054215za200zd9199054215xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616986~115938466~115938469~118897920~118897930~120385422~120412528~120469145~120469153~121049589~121246026~121246034&tft=1792539125383&tfd=904&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.384Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/pxl/?adv=70aax9j&ct=0:yf8bsi7&fmt=3&gtmcb=1936612874",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.387Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/stores/find/",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.396Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/7b341081-d1d9-4887-8cbf-6d335f9c7dd8/7b341081-d1d9-4887-8cbf-6d335f9c7dd8.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.424Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-1SYPSJZYJ5&gtm=45je6aj1v883377022z89199054215za20gzb9199054215zd9199054215xf1&_p=1792539124900&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=EAAAAGQC&cid=744263216.1792539096&frm=0&ir=1&pscdl=noapi&rcb=1&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120412528~120469145~120469153~121246026~121246034&cu=USD&sid=1792539095&sct=1&seg=1&dl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&dr=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&dt=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&tfd=935",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.425Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.452Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://d9.flashtalking.com/d9core",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.452Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://servedby.flashtalking.com/spot/8/14294;128122;11021/?ftXRef=undefined&ftXValue=undefined&ftXName=199346001175_199346137829_199346219518_199346154758_199346215305_199346210034_198077879688_199346086134_199346125659_195699891968_199346068413_199346051651_199346011136_199346151436_199346029810_199346531207_198077877318_199346034289_198077869061_199346007634_199346057530_198077876588_199346035743_199346060967_199346017268_199346204521_199346071949_199346215046_199346049764_199346064910_199346201254_199346154635_199346221320_199346081542_199346046503_199346243506&ftXCurrency=USD&U1=84218_25543_26278_40261_22796_20245_40251_31905_42460_24147_25618_23335_85420_45805_21090_42407_24885_22170_40555_85160_23320_21157_22165_25455_85246_84228_28442_23075_22836_25236_84248_40280_25887_28041_23270_84712&U2=Outerwear_Tops_Tops_Tops_Tops_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Outerwear_Outerwear_Tops_Tops_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear&U3=false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false&U4=239_169_79_199_159_169_145_269_95_119_149_155_289_75_249_129_125_125_139_239_165_179_119_149_189_299_365_259_159_115_199_165_129_239_129_345&U5=___________________________________&U6=Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Trail%20Running_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Hike_W%27s%20Lifestyle%20Essentials_Active%20Essentials_Alpine_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Alpine_Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Mountain%20Essentials_Active%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine&U8=Outerwear%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L/S%20Button%20Down%20Shirts_Outerwear%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L/S%20Tops_Outerwear%20Vests_L/S%20Button%20Down%20Shirts_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Midlayer%20Jackets_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Outerwear%20Jackets_Outerwear%20Parkas_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Vests_Midlayer%20Jackets_Midlayer%20Vests_Outerwear%20Jackets_Midlayer%20Jackets_Outerwear%20Jackets&ft_referrer=https%3A//www.patagonia.com/shop/womens%3F~ftXRef%3Dundefined%26ftXValue%3Dundefined%26ftXName%3D199346001175_199346137829_199346219518_199346154758_199346215305_199346210034_198077879688_199346086134_199346125659_195699891968_199346068413_199346051651_199346011136_199346151436_199346029810_199346531207_198077877318_199346034289_198077869061_199346007634_199346057530_198077876588_199346035743_199346060967_199346017268_199346204521_199346071949_199346215046_199346049764_199346064910_199346201254_199346154635_199346221320_199346081542_199346046503_199346243506%26ftXCurrency%3DUSD%26U1%3D84218_25543_26278_40261_22796_20245_40251_31905_42460_24147_25618_23335_85420_45805_21090_42407_24885_22170_40555_85160_23320_21157_22165_25455_85246_84228_28442_23075_22836_25236_84248_40280_25887_28041_23270_84712%26U2%3DOuterwear_Tops_Tops_Tops_Tops_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Tops_Bottoms_Bottoms_Tops_Outerwear_Outerwear_Outerwear_Tops_Tops_Tops_Outerwear_Tops_Tops_Outerwear_Tops_Outerwear%26U3%3Dfalse_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false_false%26U4%3D239_169_79_199_159_169_145_269_95_119_149_155_289_75_249_129_125_125_139_239_165_179_119_149_189_299_365_259_159_115_199_165_129_239_129_345%26U5%3D___________________________________%26U6%3DMountain%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Trail%20Running_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_Hike_W%27s%20Lifestyle%20Essentials_Active%20Essentials_Alpine_W%27s%20Lifestyle%20Essentials_Active%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Alpine_Mountain%20Essentials_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_W%27s%20Lifestyle%20Essentials_W%27s%20Sportswear_Mountain%20Essentials_Active%20Essentials_W%27s%20Sportswear_W%27s%20Sportswear_W%27s%20Lifestyle%20Essentials_Alpine%26U8%3DOuterwear%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Jackets_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L%2FS%20Button%20Down%20Shirts_Outerwear%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Jackets_L%2FS%20Tops_Outerwear%20Vests_L%2FS%20Button%20Down%20Shirts_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Midlayer%20Jackets_Pants_Pants_Midlayer%20Pullovers_Outerwear%20Jackets_Outerwear%20Jackets_Outerwear%20Parkas_Midlayer%20Jackets_Midlayer%20Pullovers_Midlayer%20Pullovers_Outerwear%20Vests_Midlayer%20Jackets_Midlayer%20Vests_Outerwear%20Jackets_Midlayer%20Jackets_Outerwear%20Jackets%26&ns=https%3A//www.patagonia.com/home/&cb=379557.0619867752&ft_trackID=1A15BA86-6B06-6291-42B6-2A310F7302ED",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.452Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=2035&partner_device_id=6867402220314F",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.452Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://servedby.flashtalking.com/segment/2/read/a;;pixel/?s=11021&d=www.patagonia.com&r=shop/womens",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.453Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://d9.flashtalking.com/lgc",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.457Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/965915050/?random=1792539125436&cv=11&fst=1792539125436&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v896280729za20ozb9199054215zd9199054215xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=8139963.1792539096&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.457Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/965915050/?random=1792539125436&cv=11&fst=1792539125436&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v896280729za20ozb9199054215zd9199054215xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=8139963.1792539096&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.457Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/965915050/?random=1792539125448&cv=11&fst=1792539125448&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1v896280729z89199054215za20gzb9199054215zd9199054215xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&label=n4ftCIT6pacZEKrjyswD&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&bttype=purchase&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&ept=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.457Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=18&frm=0&apvc=0&auid=8139963.1792539096&dt=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&tid=AW-965915050&en=page_view&dl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&dr=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&scrsrc=www.googletagmanager.com&rnd=187686801.1792539125&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&gtm=45be6aj1v896280729za20ozb9199054215zd9199054215xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&tft=1792539125451&tfd=972&tids=AW-965915050&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.480Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.481Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/965915050/?random=160556861&cv=11&fst=1792539125448&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1v896280729z89199054215za20gzb9199054215zd9199054215xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&label=n4ftCIT6pacZEKrjyswD&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&ept=5&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgjX1b4tyOy-LQ&eitems=ChAI8KLc1gYQ17jOsIKRsLQLEh0AUA6APhw3RT_SxEUV4Uh_zTmle7z_NuLS5DMy6Q&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lilx_b3A1MhEi4PGu9vsZpaFnKqCovY7bB1_1DRbC14GoCOwEjGMBx5xoC2PE&pscrd=IhMIibjGzuDJlwMV7VidBh3x_xNSOhpodHRwczovL3d3dy5wYXRhZ29uaWEuY29tL3oMCAliCAgAEAAYACAA",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.485Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/7b341081-d1d9-4887-8cbf-6d335f9c7dd8/0199632a-0030-7d28-b84e-834181afc26c/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.494Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=2176&partner_device_id=4fc932de61324f30ad896a7026bf6f7f",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.495Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://servedby.flashtalking.com/track/128122;11021;403;1A15BA86-6B06-6291-42B6-2A310F7302ED/?ft_data=d9:4fc932de61324f30ad896a7026bf6f7f;d9s:4fc932de61324f30ad896a7026bf6f7f&cachebuster=420634.07412880607",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.499Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/assets/otFloatingRoundedCorner.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.499Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/assets/v2/otPcPanel.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.499Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.509Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/fcdf99f5-a0e6-424b-830e-33dcda1d5fc9/019524a6-e6a9-79fb-926b-2d50e4edc460/af8afcbe-500a-4321-9237-89deadcb4315/Main_Brand_Logo.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.511Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.511Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.651Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/965915050/?random=160556861&cv=11&fst=1792539125448&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1v896280729z89199054215za20gzb9199054215zd9199054215xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&label=n4ftCIT6pacZEKrjyswD&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&value=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&gcl_ctr=2~0~0~0&category=acrcp_v1_512&ept=5&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgjX1b4tyOy-LQ&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lilx_b3A1MhEi4PGu9vsZpaFnKqCovY7bB1_1DRbC14GoCOwEjGMBx5xoC2PE&pscrd=IhMIibjGzuDJlwMV7VidBh3x_xNSOhpodHRwczovL3d3dy5wYXRhZ29uaWEuY29tL3oMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4gEAQM4h3GBmeFU-XVUYAdoa4JWDL5eeXGuwOpBJRD3iBEnMZbddWQrDV_X34xVCbswqHuqTvgFUhWVi3XTePCDnz6dz2dj09hoSmh6Ocwdc8Wxn77gNw7AMNvZMHZR0Mn6sCh5CqGtGO-uaVB9eI1beSS_SG9U2uk2g-D-1LiX--qPbCBcYKFq_6Iuf5fmOQdSjOtWCjdJ4eLDvL2M58irRhNOV6V_L7pJ-FK1pBg2tVxvZhGayHA_fCUV8ApjnI7p65c9EM6BeqC_e-EWszudICOdfABu108uIY5SYkqao0d1Z&eitems=ChAI8KLc1gYQ17jOsIKRsLQLEh0AUA6APrRlWLQ1WTOp8zJJFULj4CkMzzco07TlgA&random=4252913420",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.655Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Sites-patagonia-storefront-na/default/dwcf4c10ee/category/hero/womens-hero.jpg?q=85&sw=552",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.687Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/965915050/?random=1792539125436&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v896280729za20ozb9199054215zd9199054215xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~121284210&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&rcb=18&frm=0&tiba=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=8139963.1792539096&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3OAdYpOHa8TwKo-AtamixF4-7S9ILlIBWEfSMIdHkbmcZ3yM_vOce-zz2IqU5-A3mzf5kdmW-sfM2wWCqa2tWkQXiOZH4Ujklug-t2C0WtTx6MULbsgEiffPgIUu4MXvt-T_WV7ed6vBhDzGP1jzDJsW0LW8GYaleWcoMDpdHQs26GQv1bPV9joENrLyhsyFqcMotW4JZb5dtrlzdUxWCZqVmZkfnOnzhsJR2xXlXER9aCuoJR3V7mvlC866uilk2P9P0TlsFr7BKVJWQNgz6VAYjhVeywyrU8sTR9uL&random=519640360&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.769Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.patagonia.com/cdn-cgi/rum?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.771Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.brcdn.com/v1/br-trk-7718.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://utt.impactcdn.com/A5214722-580b-41e5-b49a-63a9fb026b791.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D4JMIIRC77U6TA8BNLKG&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.3.0.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.772Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://sc-static.net/scevent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/core.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_fhnnd0jb2lwb",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/YgU9me/klaviyo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://r.cquotient.com/recs/bdjb-patagonia-us/recently-viewed-pdp?callback=CQuotient._callback0&_device=mac&userId=&cookieId=ab6Ym3bv5UEVp3BThRQbz6n5M1&emailId=&anchors=id%3A%3A%7C%7Csku%3A%3A%7C%7Ctype%3A%3A%7C%7Calt_id%3A%3A&slotId=category-footer&slotConfigId=New%20Slot%20Configuration%20-%202025-05-20%2012%3A11%3A34&slotConfigTemplate=slots%2Frecommendation%2Fcarousels%2FproductSlider.isml&ccver=1.03&realm=BDJB&siteId=patagonia-us&instanceType=prd&__cq_uuid=ab6Ym3bv5UEVp3BThRQbz6n5M1&v=v3.1.3&json=%7B%22userId%22%3A%22%22%2C%22cookieId%22%3A%22ab6Ym3bv5UEVp3BThRQbz6n5M1%22%2C%22emailId%22%3A%22%22%2C%22anchors%22%3A%5B%7B%22id%22%3A%22%22%2C%22sku%22%3A%22%22%2C%22type%22%3A%22%22%2C%22alt_id%22%3A%22%22%7D%5D%2C%22slotId%22%3A%22category-footer%22%2C%22slotConfigId%22%3A%22New%20Slot%20Configuration%20-%202025-05-20%2012%3A11%3A34%22%2C%22slotConfigTemplate%22%3A%22slots%2Frecommendation%2Fcarousels%2FproductSlider.isml%22%2C%22ccver%22%3A%221.03%22%2C%22realm%22%3A%22BDJB%22%2C%22siteId%22%3A%22patagonia-us%22%2C%22instanceType%22%3A%22prd%22%2C%22__cq_uuid%22%3A%22ab6Ym3bv5UEVp3BThRQbz6n5M1%22%2C%22v%22%3A%22v3.1.3%22%7D",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.773Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://gs.wandzcdn.com/wandz/PAFFXSOO0W.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.774Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://zn9mstujvwg6axpvy-patagoniafeedback.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_9MstUJVWG6AxpVY",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.781Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://edge.fullstory.com/s/fs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.781Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.static/Sites-patagonia-us-Site/-/default/dw9e2ea514/images/favicons/favicon-16x16.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.781Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/YgU9me/klaviyo.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.785Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.cdda0c3d32e4a.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.785Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static-tracking.klaviyo.com/onsite/js/static.d4c3e9137429a.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.785Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/runtime.2ba1c82520c63.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/sharedUtils.9777083d577a3.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~fender_analytics~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~atlas~~telemetry~static.b2813a251f014.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static-tracking.klaviyo.com/onsite/js/post_identification_sync.03b8eaac7e729.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~~telemetry~client_identity~onsite-personalization~onsite-triggering-v2.346f4ba1106b6.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.786Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~atlas~product_recommendations~reviews.40bfedaf34038.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.787Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms.afb5d5a88c5fa.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.787Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms.85f90e9100e09.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.788Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/signup_forms.5e650aef7f9f9.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.788Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/event_adapter.ddb72ad8ac72a.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.788Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static-tracking.klaviyo.com/onsite/js/telemetry.92ce0184e88c7.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.789Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=gjubqie&cookie_sync=1&upv=3.0.0&upid=ghqbcey,jgai70x&ref=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.792Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://p.brsrvr.com/pix.gif?acct_id=7718&cookie2=uid%3D7718493178717%3Av%3D17.0%3Ats%3D1792539096408%3Ahc%3D2&sid=undefined&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&tzo=300&rand=0.25974006844983943&title=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&ptype=category&locale=en_US&action=Search-Show&domain_key=patagonia&user_id=&cat_id=womens&cat=Home%7CWomen%27s&type=pageview&lang=en-US&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&rc=1&version=17.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.799Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw5ca6072e/trade-in/PAT_F26_WornWear_TradeIn_1Up_MarketingTile-davis_tim_04511%20.jpg?q=85&sw=292",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.799Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/bdjb_PRD/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw2b00a401/provisions/S26_AOM_Provisions_2Up_MarketingTile-kumler_amy_08039_cc_WEB.jpg?q=85&sw=292",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.800Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.800Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=1927452&time=1792539125800&li_adsId=3d0231a9-61a3-428c-a1e0-6c5a96c1580c&pageLoadId=06935702-e4e1-4f7e-a29a-addf3ffc5da6&url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&tm=gtmv2",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.809Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://patagonia.pxf.io/cur/23649",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.819Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/p?pid=73abcb37-73c5-4f09-bf2e-f0c838b0aeb7&ev=LIST_VIEW&intg=gtm&e_iids=84218%2C25543%2C26278%2C40261%2C22796%2C20245%2C40251%2C31905%2C42460%2C24147%2C25618%2C23335%2C85420%2C45805%2C21090%2C42407%2C24885%2C22170%2C40555%2C85160%2C23320%2C21157%2C22165%2C25455%2C85246%2C84228%2C28442%2C23075%2C22836%2C25236%2C84248%2C40280%2C25887%2C28041%2C23270%2C84712&e_cur=USD&pids=73abcb37-73c5-4f09-bf2e-f0c838b0aeb7&e_ic=Outerwear%2CTops%2CTops%2CTops%2CTops%2CTops%2CTops%2COuterwear%2CTops%2COuterwear%2CTops%2CTops%2COuterwear%2CTops%2COuterwear%2CTops%2CBottoms%2CBottoms%2CTops%2COuterwear%2CTops%2CBottoms%2CBottoms%2CTops%2COuterwear%2COuterwear%2COuterwear%2CTops%2CTops%2CTops%2COuterwear%2CTops%2CTops%2COuterwear%2CTops%2COuterwear&u_c1=e2b2e36f-36f5-405c-a373-f37a4dfe1e83&cdid=%40-ef8f1e77-fe3a-4e14-9a4f-10d1fe5adf95&u_sclid=5a9fee8c-9b2c-4de9-9e99-59644cef4b5e&u_scsid=ffe62683-0c39-4fcc-86e6-476244f53d35&gat=AW-965915050%2CG-1SYPSJZYJ5%2CGTM-TG49M3T9&gac=ccd42496&bg=false&bt=1d53c387&d_a=arm&d_bvs=%5B%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155.0.8059.85%22%7D%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155.0.8059.85%22%7D%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D&d_os=27.0.1&d_ot=macOS&df=true&huah=true&m_dcl=798&m_fcps=764&m_pi=451&m_pl=1285&m_pv=2&m_rd=1337&m_sh=720&m_sl=1330&m_sw=1280&pl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&rf=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&trackId=91f8bbf6-a91c-445f-813f-800e731a672b&ts=1792539125816&v=3.61.0-2610191940",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.819Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/p?pid=73abcb37-73c5-4f09-bf2e-f0c838b0aeb7&ev=PAGE_VIEW&intg=gtm&e_iids=84218%2C25543%2C26278%2C40261%2C22796%2C20245%2C40251%2C31905%2C42460%2C24147%2C25618%2C23335%2C85420%2C45805%2C21090%2C42407%2C24885%2C22170%2C40555%2C85160%2C23320%2C21157%2C22165%2C25455%2C85246%2C84228%2C28442%2C23075%2C22836%2C25236%2C84248%2C40280%2C25887%2C28041%2C23270%2C84712&e_cur=USD&pids=73abcb37-73c5-4f09-bf2e-f0c838b0aeb7&e_ic=Outerwear%2CTops%2CTops%2CTops%2CTops%2CTops%2CTops%2COuterwear%2CTops%2COuterwear%2CTops%2CTops%2COuterwear%2CTops%2COuterwear%2CTops%2CBottoms%2CBottoms%2CTops%2COuterwear%2CTops%2CBottoms%2CBottoms%2CTops%2COuterwear%2COuterwear%2COuterwear%2CTops%2CTops%2CTops%2COuterwear%2CTops%2CTops%2COuterwear%2CTops%2COuterwear&u_c1=e2b2e36f-36f5-405c-a373-f37a4dfe1e83&cdid=%40-d90936a5-0ed9-4f23-8e01-d0ffff23abda&u_sclid=5a9fee8c-9b2c-4de9-9e99-59644cef4b5e&u_scsid=ffe62683-0c39-4fcc-86e6-476244f53d35&gat=AW-965915050%2CG-1SYPSJZYJ5%2CGTM-TG49M3T9&gac=ccd42496&bg=false&bt=1d53c387&d_a=arm&d_bvs=%5B%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155.0.8059.85%22%7D%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155.0.8059.85%22%7D%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224.0.0.0%22%7D%5D&d_os=27.0.1&d_ot=macOS&df=true&huah=true&m_dcl=798&m_fcps=764&m_pi=451&m_pl=1285&m_pv=2&m_rd=1338&m_sh=720&m_sl=1330&m_sw=1280&pl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&rf=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&trackId=c38cc477-69ef-4592-bef0-9953d1a850be&ts=1792539125817&v=3.61.0-2610191940",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.821Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:05.823Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/config/com/73abcb37-73c5-4f09-bf2e-f0c838b0aeb7.js?v=3.61.0-2610191940",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.336Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://qoe-1.yottaa.net/log-nt/event",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.336Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.store/Sites-patagonia-us-Site/en_US/__Analytics-Start?url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&res=1280x720&cookie=1&ref=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&title=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&dwac=0.2869164310738803&cmpn=&tz=US/Pacific&pcc=USD&pct=&pcat=&dw_dnt=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.336Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ariane.abtasty.com/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.339Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01campaign.zoom.us/v1/live-sdk-version/fast?apikey=ZHIA0iAaSAS9SpRMAya2nQ",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.340Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://zoom.us/user/anonymous/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.349Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/4009420.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.349Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/lib/main.cc6bb38d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.355Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://alb.reddit.com/rp?id=a2_fhnnd0jb2lwb&event=PageVisit",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.360Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://gs.wandzcdn.com/wandz/PAFFXSOO0W-patagonia_com-config.json?v=1792472400000",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.361Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/881.e7b78d19e4a0f9ce1d5e.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=www.patagonia.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.361Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/626.7b8f501279be7593f59f.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=www.patagonia.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.368Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://edge.fullstory.com/s/settings/o-1TAHHW-na1/v1/web",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.378Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite?company_id=YgU9me",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~Render~ClientStore~~~onsite-back-in-stock.7f4f70ae133ea.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~.bf6126b032be2.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.381Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/5663.c10b1970f298b.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.382Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/page",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.383Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0OQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.385Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=4009420&tm=gtm002&Ver=2&mid=69c94252-496f-4c2b-9656-e20e2e901681&bo=1&sid=648da320ccde11f1a8e5cd90c238ee06&vid=648da130ccde11f189e0973f3584b96b&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&kw=Patagonia%20is%20a%20designer%20of%20outdoor%20clothing%20and%20gear%20for%20the%20silent%20sports%3A%20climbing,%20surfing,%20skiing%20and%20snowboarding,%20fly%20fishing,%20and%20trail%20running&p=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&r=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&lt=1286&evt=pageLoad&sv=2&cdb=AQET&rn=901680",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.388Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?tid=2613978902317&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVlqZGtOV0ZrWVRndFlUUm1ZaTAwWm1WbUxUbGpZemd0TmpBM05qYzNNekF4T1RCaw%22%7D&cb=1792539126386&dep=2%2CPAGE_LOAD",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.388Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=viewcategory&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613978902317&cb=1792539126387&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.388Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22line_items%22%3A%5B%7B%22product_id%22%3A%2284218%22%2C%22product_category%22%3A%22Outerwear%22%7D%5D%7D&tid=2613978902317&cb=1792539126387&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.419Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?tid=2613978902317&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVlqZGtOV0ZrWVRndFlUUm1ZaTAwWm1WbUxUbGpZemd0TmpBM05qYzNNekF4T1RCaw%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fhome%2F%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%22cc6bb38d%22%2C%22is_eu%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2227.0.1%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D&cb=1792539126418",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.439Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.461Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://tr6.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.471Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://p.cquotient.com/pebble?tla=bdjb-patagonia-us&activityType=viewPage&callback=CQuotient._act_callback1&cookieId=ab6Ym3bv5UEVp3BThRQbz6n5M1&realm=BDJB&siteId=patagonia-us&instanceType=prd&referrer=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&currentLocation=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&__cq_uuid=ab6Ym3bv5UEVp3BThRQbz6n5M1&__cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00&ls=true&_=1792539126418&v=v3.1.3&fbPixelId=__UNKNOWN__&json=%7B%22cookieId%22%3A%22ab6Ym3bv5UEVp3BThRQbz6n5M1%22%2C%22realm%22%3A%22BDJB%22%2C%22siteId%22%3A%22patagonia-us%22%2C%22instanceType%22%3A%22prd%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fhome%2F%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens%22%2C%22__cq_uuid%22%3A%22ab6Ym3bv5UEVp3BThRQbz6n5M1%22%2C%22__cq_seg%22%3A%220~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00%22%2C%22ls%22%3Atrue%2C%22_%22%3A1792539126418%2C%22v%22%3A%22v3.1.3%22%2C%22fbPixelId%22%3A%22__UNKNOWN__%22%7D",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22line_items%22%3A%5B%7B%22product_id%22%3A%2284218%22%2C%22product_category%22%3A%22Outerwear%22%7D%5D%7D&tid=2613978902317&cb=1792539126476&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVlqZGtOV0ZrWVRndFlUUm1ZaTAwWm1WbUxUbGpZemd0TmpBM05qYzNNekF4T1RCaw%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fhome%2F%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%22cc6bb38d%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2227.0.1%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/static/ct/token_create.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.479Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/ct.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.482Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=viewcategory&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613978902317&cb=1792539126480&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVlqZGtOV0ZrWVRndFlUUm1ZaTAwWm1WbUxUbGpZemd0TmpBM05qYzNNekF4T1RCaw%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.patagonia.com%2Fhome%2F%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%22cc6bb38d%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2227.0.1%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.482Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01ccistatic.zoom.us/us01cci/web-sdk/10139/web-campaign.js?env=us01&apikey=ZHIA0iAaSAS9SpRMAya2nQ&v=10139",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.482Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static-forms.klaviyo.com/forms/api/v7/YgU9me/full-forms",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://rs.fullstory.com/rec/integrations?OrgId=o-1TAHHW-na1&isInFrame=false&isNative=false",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.564Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01campaign.zoom.us/v1/zcc/campaign/language/list?apikey=ZHIA0iAaSAS9SpRMAya2nQ",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.564Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01campaign.zoom.us/v1/zcc/campaign/styleByApiKey?url=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&mode=campaign&apiKeyType2=ZHIA0iAaSAS9SpRMAya2nQ",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.564Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01apizva.zoom.us/v1/websdk/version?apikey=ZHIA0iAaSAS9SpRMAya2nQ&instanceId=x2dsGA9cnuerFZRj0P6gN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.565Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01cciapi.zoom.us/v1/livesdk/info?apikey=ZHIA0iAaSAS9SpRMAya2nQ&sdkVersion=10139&zrZak=&isKiosk=false&instanceId=x2dsGA9cnuerFZRj0P6gN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.679Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~ClientStore.71467bcdc1765.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.679Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/default~Render~ClientStore~~onsite-back-in-stock.1d64fed3696b5.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.679Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/default~Render~back-in-stock-dynamic-button-handler~ClientStore~.e840ca610aa73.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.680Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/default~Render~~ClientStore.487e8a5a5c5dc.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.680Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/ClientStore.c4c204deaf2cb.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.689Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.762Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://file-paa.zoom.us/CR4CnPqCSceVm15G_Y9wwQ/MS4zLofIIVqI8ARXM9qRijXpb1ftwYlhBjuC3WUJI6YWRlba/RidgewaySans-Regular",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.762Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://file-paa.zoom.us/BGEZe6zNSJOvv-tctBO5UA/MS4zLqxpPQr6iSjLK9326kYVtXQcXsr1UllkSYa0VzYTzbCm/RidgewaySans-Regular",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.762Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://file-paa.zoom.us/zQ2ZU9pLTpC5v2PlzaZXtQ/MS4zLgLoLuMG9fZnrHI8F1DPy97fXWkbjxopCJgpaPnbBjWz/chat-3-line.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.762Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us01ccistatic.zoom.us/us01cci/web-sdk/10139/chat-client-zcc-v2.js?env=us01",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.836Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://file.zoom.us/file/FqyTszBCQDm6p7d0CSOaKg?jwt=eyJ6bV9za20iOiJ6bV9vMm0iLCJ0eXAiOiJKV1QiLCJrIjoiQ0hVLzRHdHAiLCJhbGciOiJFUzI1NiJ9.eyJhdWQiOiJ6ZnMiLCJ0b2tlbklkIjoiRUctWG4zbm5TZEdmWDFxUlEzLXV0ZyIsImFwcE5hbWUiOiJjYW1wYWlnbiIsImlzcyI6ImNhbXBhaWduIiwicGVybWlzc2lvbiI6IntcImFjdGlvblwiOlwicmVhZFwiLFwiZW50aXR5XCI6e1wiY291bnRcIjowLFwiZmlsZUlkXCI6XCJGcXlUc3pCQ1FEbTZwN2QwQ1NPYUtnXCIsXCJtYXhTaXplXCI6MH19IiwiZXhwIjoxNzkzMDQ5MzQ2LCJ0b2tlblR5cGUiOiJwcmVzaWduVG9rZW4iLCJpYXQiOjE3OTI0NDQ1NDZ9.K6UrWAP7-6hqAaWkeQuft3LXpgJjZTuXPVyx_Yg9jzUrImQH_riujZMSueKkKmczjD2v_nZZWv3GF6vrA7Bn0w&mode=play&with_domain=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.836Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://file-paa.zoom.us/al62yRizSqqKDjBt2e-rWw/MS4zLiyYx2qf5Tx4hGEnZSklT309jFpOmYDsizBXoMD-8Fjb/_7J7cYUaTtyoTHuRtDVY9w.json?response-cache-control=max-age%3D60",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/c4792ad0-e8d0-4e75-ba26-a829292a81a6",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.925Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_9MstUJVWG6AxpVY&Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.946Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.959Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/onsite-triggering-v2.2f57e7d62195c.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:06.994Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://edge.fullstory.com/datalayer/v4/latest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.012Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=patagoniafeedback",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.024Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/4014.ccae962fcaa72.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/styles.f5ac5e657987c.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~Render~onsite-personalization.e83d4ad5deb5a.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~Render~customerHubRoot.1bc7b7ded1c56.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/vendors~Render.ef256226715f1.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/default~in_app_forms~Render~onsite-personalization.644400905c63c.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.025Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.klaviyo.com/onsite/js/Render.be08121a54337.js?cb=2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.057Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=YgU9me",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.057Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=YgU9me",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.110Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/a0eed9a6-55c5-48ec-8cd1-38f2493b14b8",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.157Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://cfs.wandzapi.com/data",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.161Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://gs.wandzcdn.com/wandz/5kLogo.png",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.205Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/4f632afa-a9a2-443e-a669-70c07f6816ff",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.205Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/f4683d7a-4d68-4174-92c5-823551ce75e5",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.209Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=1&cycle_timestamp=2026-10-20%2023%3A32%3A07&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22WDL%20Init%22%3A0.5%2C%22hook-cycle%22%3A0%7D&href=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ai_features=%7B%22accessibilityExtensions%22%3A%5B%5D%2C%22areMultipleTabsOpen%22%3A0%2C%22areNotificationsApproved%22%3A0%2C%22batteryIsCharging%22%3A0%2C%22batteryPercentageValue%22%3A87%2C%22browser%22%3A%22chrome%22%2C%22browserVersion%22%3A%22155.0.0.0%22%2C%22clickOnOuterUrl%22%3A0%2C%22channel%22%3A%22direct%22%2C%22clicksInSessionScore%22%3A2%2C%22clicksInSessionValue%22%3A2%2C%22cpuStrengthScore%22%3A4%2C%22cpuStrengthValue%22%3A47971%2C%22cryptoExtensions%22%3A%5B%5D%2C%22dayOfSession%22%3A%22Tuesday%22%2C%22deviceType%22%3A%22pc%22%2C%22doNotTrackEnabled%22%3A0%2C%22hasAdBlocker%22%3A0%2C%22hasCameraApproved%22%3A0%2C%22hasLocationApproved%22%3A0%2C%22hasPasswordSaver%22%3A0%2C%22inCart%22%3A0%2C%22inCheckout%22%3A0%2C%22inConfirmationPage%22%3A0%2C%22isPageAutoTranslated%22%3A1%2C%22isBot%22%3A0%2C%22isBotEnhanced%22%3A0%2C%22isCopiedText%22%3A0%2C%22isDarkMode%22%3A0%2C%22isDay%22%3A0%2C%22isIncognitoSession%22%3A0%2C%22isSortedByPrice%22%3A0%2C%22isTabInFocus%22%3A1%2C%22isSortedByDate%22%3A0%2C%22networkStrengthScore%22%3A5%2C%22networkStrengthValue%22%3A2615%2C%22numOfOpenTabsScore%22%3A2%2C%22numOfOpenTabsValue%22%3A1%2C%22numOfPurchases%22%3A0%2C%22numOfSessions%22%3A1%2C%22os%22%3A%22macos%22%2C%22pageAccessibilityScore%22%3A5%2C%22pageAccessibilityValue%22%3A487%2C%22pageCount%22%3A2%2C%22pageLoadValue%22%3A798%2C%22pagesUntilReachedSite%22%3A1%2C%22pageType%22%3A%22Category%22%2C%22prefLanguage%22%3A%22en%22%2C%22pxHeight%22%3A720%2C%22pxWidth%22%3A1280%2C%22deviceLayout%22%3A%22landscape%22%2C%22referrer%22%3A%22www.patagonia.com%22%2C%22scrollBelowTheFold%22%3A0%2C%22scrollSpeed%22%3A3%2C%22purchase%22%3A0%2C%22timeOffTabScore%22%3A1%2C%22timeOffTabValue%22%3A0%2C%22timeOnPageScore%22%3A1%2C%22timeOnPageValue%22%3A0%2C%22timeOnSiteScore%22%3A2%2C%22timeOnSiteValue%22%3A5%2C%22timeSinceLastVisitValue%22%3A0%2C%22timeToInteractionValue%22%3A105%2C%22timeZone%22%3A%22America%2FChicago%22%2C%22utm_campaign%22%3A%22Unknown%22%2C%22utm_source%22%3A%22Unknown%22%2C%22vpnProbability%22%3A1%2C%22isHoney%22%3A0%2C%22isRakuten%22%3A0%2C%22isCoupert%22%3A0%2C%22isCapitalone%22%3A0%2C%22isKlarna%22%3A0%2C%22isRetailMeNot%22%3A0%2C%22isKarma%22%3A0%2C%22isAmericanAirlines%22%3A0%2C%22numOfInstalled%22%3A0%2C%22numOfPopped%22%3A0%2C%22numOfInteracted%22%3A0%2C%22englishBrowserLanguage%22%3A1%2C%22spanishBrowserLanguage%22%3A0%2C%22russianBrowserLanguage%22%3A0%2C%22frenchBrowserLanguage%22%3A0%2C%22ukrainianBrowserLanguage%22%3A0%2C%22polishBrowserLanguage%22%3A0%2C%22italianBrowserLanguage%22%3A0%2C%22germanBrowserLanguage%22%3A0%2C%22chineseBrowserLanguage%22%3A0%2C%22dutchBrowserLanguage%22%3A0%2C%22isOtherBrowserLanguage%22%3A0%2C%22numberOfBrowserLanguages%22%3A1%2C%22inAppBrowsing%22%3A0%2C%22affinityInteractionsWithBlue%22%3A0%2C%22affinityInteractionsWithRed%22%3A0%2C%22affinityInteractionsWithGreen%22%3A0%2C%22affinityInteractionsWithOrange%22%3A0%2C%22affinityInteractionsWithYellow%22%3A0%2C%22affinityInteractionsWithPurple%22%3A0%2C%22affinityInteractionsWithPink%22%3A0%2C%22affinityInteractionsWithBlack%22%3A0%2C%22affinityInteractionsWithWhite%22%3A0%2C%22affinityInteractionsWithGrey%22%3A0%2C%22affinityInteractionsWithBrown%22%3A0%2C%22affinityInteractionsWithGold%22%3A0%2C%22affinityInteractionsWithSilver%22%3A0%2C%22isPinterestInstalled%22%3A0%2C%22isBitmojiInstalled%22%3A0%2C%22isTubeBlockInstalled%22%3A0%2C%22isZoomInstalled%22%3A0%2C%22isSkypeInstalled%22%3A0%2C%22isWebexInstalled%22%3A0%2C%22isWeherebyInstalled%22%3A0%2C%22jsHeapSizeLimit%22%3A4395630592%2C%22numOfCookieKeys%22%3A39%2C%22numOfDomProperties%22%3A11%2C%22numOfLocalStorageKeys%22%3A35%2C%22numOfSessionStorageKeys%22%3A23%2C%22numOfWindowObjectKeys%22%3A431%2C%22redirectCount%22%3A0%2C%22navigationType%22%3A0%2C%22dnsResolutionTime%22%3A0%2C%22TimeToFirstByte%22%3A3%2C%22serverResponseTime%22%3A309%2C%22DOMProcessingTime%22%3A53%2C%22pageLoadTime%22%3A1286%2C%22contentLoadTime%22%3A798%2C%22connectionTime%22%3A0%2C%22pageDownloadTime%22%3A86%2C%22unloadEventTime%22%3A0%2C%22domContentLoadedTime%22%3A1%2C%22redirectionTime%22%3A0%2C%22isGoogleMeetAttendanceListInstalled%22%3A0%2C%22isTiktokPixelHelperInstalled%22%3A0%2C%22isInssistInstalled%22%3A0%2C%22hourInDay%22%3A18%2C%22locale%22%3A%22en-US%22%2C%22batteryPercentageScore%22%3A2%2C%22pageLoadScore%22%3A2%2C%22timeSinceLastVisitScore%22%3A1%2C%22timeToInteractionScore%22%3A2%2C%22affinityToCategories%22%3A%5B%22clothing%22%2C%22gear%22%5D%2C%22affinityToBrands%22%3A%5B%22Patagonia%22%5D%2C%22pageTitle%22%3A%22Women%27s%20Outdoor%20Clothing%20by%20Patagonia%22%2C%22numOfProductViews%22%3A0%2C%22engagementWithExtension%22%3A0%2C%22pageCategory%22%3A%22clothing%22%2C%22hebrewBrowserLanguage%22%3A0%2C%22arabicBrowserLanguage%22%3A0%2C%22inAppBrowsingPackage%22%3A%22%22%2C%22isProxy%22%3A0%2C%22landingSection%22%3A%22Unknown%22%2C%22HasAffinityToColor%22%3A0%2C%22HasAffinityToCategory%22%3A1%2C%22HasAffinityToBrand%22%3A1%2C%22utmContent%22%3A%22Unknown%22%2C%22isBravoBestPrice%22%3A0%2C%22isPouch%22%3A0%2C%22isVpn%22%3A0%2C%22browsingWithShoppingAffiliate%22%3A0%2C%22browsingWithSocialMediaAffiliate%22%3A0%2C%22browsingWithVideoConferencingAffiliate%22%3A0%2C%22reachedBottomOfFunnel%22%3A0%2C%22isForceDarkMode%22%3A0%2C%22hasForceDarkModeExtensions%22%3A0%2C%22pageZoom%22%3A1%2C%22innerWidth%22%3A1280%2C%22innerHeight%22%3A720%2C%22outerWidth%22%3A1282%2C%22outerHeight%22%3A800%2C%22devicePixelRatio%22%3A1%2C%22isSimplyCodes%22%3A0%2C%22isDontPayFull%22%3A0%2C%22numOfCategoryPageViews%22%3A1%7D&section=Category&category=clothing&page_title=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&load_time=798&dom_contentloaded=1&dom_complete=486&on_load=2&os=macos&device=pc&device_type=pc&browser=chrome&user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&referrer=www.patagonia.com&app_referrer=&traffic_source=direct&affiliate=direct&js_version=v2.3.25&snapshot_version=2.32&snapshot_timestamp=1792456223006&model_targets=%7B%228bdc7da3-c5af-4391-a67a-b1346c0c7a3a%22%3A1%7D&accumulated_affinities=%7B%22category%22%3A%7B%22172338%22%3A1%2C%22172423%22%3A2%7D%2C%22brand%22%3A%7B%22120293%22%3A2%7D%2C%22keywords%22%3A%7B%22clothing%22%3A2%2C%22gear%22%3A1%7D%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&categories=%5B172423%5D&category_keywords=%5B%22172423%7Cclothing%22%5D&brands=%5B120293%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.209Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=1&cycle_timestamp=2026-10-20%2023%3A32%3A07&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22WDL%20Init%22%3A0.5%2C%22hook-cycle%22%3A0%7D&href=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&ai_features=%7B%22accessibilityExtensions%22%3A%5B%5D%2C%22areMultipleTabsOpen%22%3A0%2C%22areNotificationsApproved%22%3A0%2C%22batteryIsCharging%22%3A0%2C%22batteryPercentageValue%22%3A87%2C%22browser%22%3A%22chrome%22%2C%22browserVersion%22%3A%22155.0.0.0%22%2C%22clickOnOuterUrl%22%3A0%2C%22channel%22%3A%22direct%22%2C%22clicksInSessionScore%22%3A2%2C%22clicksInSessionValue%22%3A2%2C%22cpuStrengthScore%22%3A4%2C%22cpuStrengthValue%22%3A47971%2C%22cryptoExtensions%22%3A%5B%5D%2C%22dayOfSession%22%3A%22Tuesday%22%2C%22deviceType%22%3A%22pc%22%2C%22doNotTrackEnabled%22%3A0%2C%22hasAdBlocker%22%3A0%2C%22hasCameraApproved%22%3A0%2C%22hasLocationApproved%22%3A0%2C%22hasPasswordSaver%22%3A0%2C%22inCart%22%3A0%2C%22inCheckout%22%3A0%2C%22inConfirmationPage%22%3A0%2C%22isPageAutoTranslated%22%3A1%2C%22isBot%22%3A0%2C%22isBotEnhanced%22%3A0%2C%22isCopiedText%22%3A0%2C%22isDarkMode%22%3A0%2C%22isDay%22%3A0%2C%22isIncognitoSession%22%3A0%2C%22isSortedByPrice%22%3A0%2C%22isTabInFocus%22%3A1%2C%22isSortedByDate%22%3A0%2C%22networkStrengthScore%22%3A5%2C%22networkStrengthValue%22%3A2615%2C%22numOfOpenTabsScore%22%3A2%2C%22numOfOpenTabsValue%22%3A1%2C%22numOfPurchases%22%3A0%2C%22numOfSessions%22%3A1%2C%22os%22%3A%22macos%22%2C%22pageAccessibilityScore%22%3A5%2C%22pageAccessibilityValue%22%3A487%2C%22pageCount%22%3A2%2C%22pageLoadValue%22%3A798%2C%22pagesUntilReachedSite%22%3A1%2C%22pageType%22%3A%22Category%22%2C%22prefLanguage%22%3A%22en%22%2C%22pxHeight%22%3A720%2C%22pxWidth%22%3A1280%2C%22deviceLayout%22%3A%22landscape%22%2C%22referrer%22%3A%22www.patagonia.com%22%2C%22scrollBelowTheFold%22%3A0%2C%22scrollSpeed%22%3A3%2C%22purchase%22%3A0%2C%22timeOffTabScore%22%3A1%2C%22timeOffTabValue%22%3A0%2C%22timeOnPageScore%22%3A1%2C%22timeOnPageValue%22%3A0%2C%22timeOnSiteScore%22%3A2%2C%22timeOnSiteValue%22%3A5%2C%22timeSinceLastVisitValue%22%3A0%2C%22timeToInteractionValue%22%3A105%2C%22timeZone%22%3A%22America%2FChicago%22%2C%22utm_campaign%22%3A%22Unknown%22%2C%22utm_source%22%3A%22Unknown%22%2C%22vpnProbability%22%3A1%2C%22isHoney%22%3A0%2C%22isRakuten%22%3A0%2C%22isCoupert%22%3A0%2C%22isCapitalone%22%3A0%2C%22isKlarna%22%3A0%2C%22isRetailMeNot%22%3A0%2C%22isKarma%22%3A0%2C%22isAmericanAirlines%22%3A0%2C%22numOfInstalled%22%3A0%2C%22numOfPopped%22%3A0%2C%22numOfInteracted%22%3A0%2C%22englishBrowserLanguage%22%3A1%2C%22spanishBrowserLanguage%22%3A0%2C%22russianBrowserLanguage%22%3A0%2C%22frenchBrowserLanguage%22%3A0%2C%22ukrainianBrowserLanguage%22%3A0%2C%22polishBrowserLanguage%22%3A0%2C%22italianBrowserLanguage%22%3A0%2C%22germanBrowserLanguage%22%3A0%2C%22chineseBrowserLanguage%22%3A0%2C%22dutchBrowserLanguage%22%3A0%2C%22isOtherBrowserLanguage%22%3A0%2C%22numberOfBrowserLanguages%22%3A1%2C%22inAppBrowsing%22%3A0%2C%22affinityInteractionsWithBlue%22%3A0%2C%22affinityInteractionsWithRed%22%3A0%2C%22affinityInteractionsWithGreen%22%3A0%2C%22affinityInteractionsWithOrange%22%3A0%2C%22affinityInteractionsWithYellow%22%3A0%2C%22affinityInteractionsWithPurple%22%3A0%2C%22affinityInteractionsWithPink%22%3A0%2C%22affinityInteractionsWithBlack%22%3A0%2C%22affinityInteractionsWithWhite%22%3A0%2C%22affinityInteractionsWithGrey%22%3A0%2C%22affinityInteractionsWithBrown%22%3A0%2C%22affinityInteractionsWithGold%22%3A0%2C%22affinityInteractionsWithSilver%22%3A0%2C%22isPinterestInstalled%22%3A0%2C%22isBitmojiInstalled%22%3A0%2C%22isTubeBlockInstalled%22%3A0%2C%22isZoomInstalled%22%3A0%2C%22isSkypeInstalled%22%3A0%2C%22isWebexInstalled%22%3A0%2C%22isWeherebyInstalled%22%3A0%2C%22jsHeapSizeLimit%22%3A4395630592%2C%22numOfCookieKeys%22%3A39%2C%22numOfDomProperties%22%3A11%2C%22numOfLocalStorageKeys%22%3A35%2C%22numOfSessionStorageKeys%22%3A23%2C%22numOfWindowObjectKeys%22%3A431%2C%22redirectCount%22%3A0%2C%22navigationType%22%3A0%2C%22dnsResolutionTime%22%3A0%2C%22TimeToFirstByte%22%3A3%2C%22serverResponseTime%22%3A309%2C%22DOMProcessingTime%22%3A53%2C%22pageLoadTime%22%3A1286%2C%22contentLoadTime%22%3A798%2C%22connectionTime%22%3A0%2C%22pageDownloadTime%22%3A86%2C%22unloadEventTime%22%3A0%2C%22domContentLoadedTime%22%3A1%2C%22redirectionTime%22%3A0%2C%22isGoogleMeetAttendanceListInstalled%22%3A0%2C%22isTiktokPixelHelperInstalled%22%3A0%2C%22isInssistInstalled%22%3A0%2C%22hourInDay%22%3A18%2C%22locale%22%3A%22en-US%22%2C%22batteryPercentageScore%22%3A2%2C%22pageLoadScore%22%3A2%2C%22timeSinceLastVisitScore%22%3A1%2C%22timeToInteractionScore%22%3A2%2C%22affinityToCategories%22%3A%5B%22clothing%22%2C%22gear%22%5D%2C%22affinityToBrands%22%3A%5B%22Patagonia%22%5D%2C%22pageTitle%22%3A%22Women%27s%20Outdoor%20Clothing%20by%20Patagonia%22%2C%22numOfProductViews%22%3A0%2C%22engagementWithExtension%22%3A0%2C%22pageCategory%22%3A%22clothing%22%2C%22hebrewBrowserLanguage%22%3A0%2C%22arabicBrowserLanguage%22%3A0%2C%22inAppBrowsingPackage%22%3A%22%22%2C%22isProxy%22%3A0%2C%22landingSection%22%3A%22Unknown%22%2C%22HasAffinityToColor%22%3A0%2C%22HasAffinityToCategory%22%3A1%2C%22HasAffinityToBrand%22%3A1%2C%22utmContent%22%3A%22Unknown%22%2C%22isBravoBestPrice%22%3A0%2C%22isPouch%22%3A0%2C%22isVpn%22%3A0%2C%22browsingWithShoppingAffiliate%22%3A0%2C%22browsingWithSocialMediaAffiliate%22%3A0%2C%22browsingWithVideoConferencingAffiliate%22%3A0%2C%22reachedBottomOfFunnel%22%3A0%2C%22isForceDarkMode%22%3A0%2C%22hasForceDarkModeExtensions%22%3A0%2C%22pageZoom%22%3A1%2C%22innerWidth%22%3A1280%2C%22innerHeight%22%3A720%2C%22outerWidth%22%3A1282%2C%22outerHeight%22%3A800%2C%22devicePixelRatio%22%3A1%2C%22isSimplyCodes%22%3A0%2C%22isDontPayFull%22%3A0%2C%22numOfCategoryPageViews%22%3A1%7D&section=Category&category=clothing&page_title=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&load_time=798&dom_contentloaded=1&dom_complete=486&on_load=2&os=macos&device=pc&device_type=pc&browser=chrome&user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&referrer=www.patagonia.com&app_referrer=&traffic_source=direct&affiliate=direct&js_version=v2.3.25&snapshot_version=2.32&snapshot_timestamp=1792456223006&model_targets=%7B%228bdc7da3-c5af-4391-a67a-b1346c0c7a3a%22%3A1%7D&accumulated_affinities=%7B%22category%22%3A%7B%22172338%22%3A1%2C%22172423%22%3A2%7D%2C%22brand%22%3A%7B%22120293%22%3A2%7D%2C%22keywords%22%3A%7B%22clothing%22%3A2%2C%22gear%22%3A1%7D%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&categories=%5B172423%5D&category_keywords=%5B%22172423%7Cclothing%22%5D&brands=%5B120293%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.209Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/592515ed-59ac-4ad3-ae4d-7a75a5de4b7f",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.214Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://geop.wandzapi.com/predict?clientTag=PAFFXSOO0&domain=patagonia.com&userId=814b632eb098d6f5503f4d0af6a21bcf&sessionId=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=1&cycle_timestamp=2026-10-20%2023%3A32%3A07&aiFeatures=%7B%22HasAffinityToBrand%22%3A1%2C%22HasAffinityToCategory%22%3A1%2C%22HasAffinityToColor%22%3A0%2C%22add_to_cart%22%3A0%2C%22affinityInteractionsWithBlack%22%3A0%2C%22affinityInteractionsWithBlue%22%3A0%2C%22affinityInteractionsWithBrown%22%3A0%2C%22affinityInteractionsWithGold%22%3A0%2C%22affinityInteractionsWithGreen%22%3A0%2C%22affinityInteractionsWithGrey%22%3A0%2C%22affinityInteractionsWithOrange%22%3A0%2C%22affinityInteractionsWithPink%22%3A0%2C%22affinityInteractionsWithPurple%22%3A0%2C%22affinityInteractionsWithRed%22%3A0%2C%22affinityInteractionsWithSilver%22%3A0%2C%22affinityInteractionsWithWhite%22%3A0%2C%22affinityInteractionsWithYellow%22%3A0%2C%22arabicBrowserLanguage%22%3A0%2C%22areMultipleTabsOpen%22%3A0%2C%22areNotificationsApproved%22%3A0%2C%22batteryIsCharging%22%3A0%2C%22batteryPercentageScore%22%3A2%2C%22browser%22%3A%22chrome%22%2C%22browsingWithShoppingAffiliate%22%3A0%2C%22channel%22%3A%22direct%22%2C%22chineseBrowserLanguage%22%3A0%2C%22clicksInSessionScore%22%3A2%2C%22clicksInSessionValue%22%3A2%2C%22connectionTime%22%3A0%2C%22cpuStrengthScore%22%3A4%2C%22dayOfSession%22%3A%22Tuesday%22%2C%22deviceLayout%22%3A%22landscape%22%2C%22devicePixelRatio%22%3A1%2C%22deviceType%22%3A%22pc%22%2C%22doNotTrackEnabled%22%3A0%2C%22dutchBrowserLanguage%22%3A0%2C%22englishBrowserLanguage%22%3A1%2C%22filter__sort%22%3A0%2C%22frenchBrowserLanguage%22%3A0%2C%22germanBrowserLanguage%22%3A0%2C%22hasAdBlocker%22%3A0%2C%22hasCameraApproved%22%3A0%2C%22hasForceDarkModeExtensions%22%3A0%2C%22hasLocationApproved%22%3A0%2C%22hebrewBrowserLanguage%22%3A0%2C%22inAppBrowsing%22%3A0%2C%22inAppBrowsingPackage%22%3A%22%22%2C%22inCart%22%3A0%2C%22inCheckout%22%3A0%2C%22inConfirmationPage%22%3A0%2C%22innerWidth%22%3A1280%2C%22isAmericanAirlines%22%3A0%2C%22isBitmojiInstalled%22%3A0%2C%22isCapitalone%22%3A0%2C%22isCoupert%22%3A0%2C%22isDarkMode%22%3A0%2C%22isDay%22%3A0%2C%22isForceDarkMode%22%3A0%2C%22isHoney%22%3A0%2C%22isIncognitoSession%22%3A0%2C%22isKarma%22%3A0%2C%22isKlarna%22%3A0%2C%22isPageAutoTranslated%22%3A1%2C%22isProxy%22%3A0%2C%22isRakuten%22%3A0%2C%22isTabInFocus%22%3A1%2C%22isTubeBlockInstalled%22%3A0%2C%22isWebexInstalled%22%3A0%2C%22isZoomInstalled%22%3A0%2C%22italianBrowserLanguage%22%3A0%2C%22jsHeapSizeLimit%22%3A4395630592%2C%22landingSection%22%3A%22Unknown%22%2C%22locale%22%3A%22en-US%22%2C%22navigationType%22%3A0%2C%22networkStrengthScore%22%3A5%2C%22networkStrengthValue%22%3A2615%2C%22numOfCategoryPageViews%22%3A1%2C%22numOfCookieKeys%22%3A39%2C%22numOfDomProperties%22%3A11%2C%22numOfInstalled%22%3A0%2C%22numOfLocalStorageKeys%22%3A35%2C%22numOfOpenTabsScore%22%3A2%2C%22numOfOpenTabsValue%22%3A1%2C%22numOfProductViews%22%3A0%2C%22numOfSessionStorageKeys%22%3A23%2C%22numOfSessions%22%3A1%2C%22numOfWindowObjectKeys%22%3A431%2C%22numberOfBrowserLanguages%22%3A1%2C%22os%22%3A%22macos%22%2C%22outerWidth%22%3A1282%2C%22pageCategory%22%3A%22clothing%22%2C%22pageCount%22%3A2%2C%22pageLoadScore%22%3A2%2C%22pageLoadTime%22%3A1286%2C%22pageLoadValue%22%3A798%2C%22pageType%22%3A%22Category%22%2C%22pageZoom%22%3A1%2C%22pagesUntilReachedSite%22%3A1%2C%22polishBrowserLanguage%22%3A0%2C%22prefLanguage%22%3A%22en%22%2C%22proceed_to_checkout%22%3A0%2C%22purchase%22%3A0%2C%22pxHeight%22%3A720%2C%22pxWidth%22%3A1280%2C%22redirectCount%22%3A0%2C%22redirectionTime%22%3A0%2C%22referrer%22%3A%22www.patagonia.com%22%2C%22russianBrowserLanguage%22%3A0%2C%22scrollBelowTheFold%22%3A0%2C%22scrollSpeed%22%3A3%2C%22spanishBrowserLanguage%22%3A0%2C%22timeOffTabScore%22%3A1%2C%22timeOffTabValue%22%3A0%2C%22timeOnSiteScore%22%3A2%2C%22timeOnSiteValue%22%3A5%2C%22timeSinceLastVisitScore%22%3A1%2C%22timeSinceLastVisitValue%22%3A0%2C%22timeToInteractionScore%22%3A2%2C%22timeZone%22%3A%22America%2FChicago%22%2C%22ukrainianBrowserLanguage%22%3A0%2C%22unloadEventTime%22%3A0%2C%22utmContent%22%3A%22Unknown%22%2C%22utm_campaign%22%3A%22Unknown%22%2C%22utm_source%22%3A%22Unknown%22%2C%22vpnProbability%22%3A1%7D&modelsArray=%5B%22218b5644-4bad-46c2-8e05-e927f744c92a%22%2C%22c25eaa53-6942-46d2-8bb2-cd77d1dd0541%22%2C%2247d42d5d-ee44-42f4-aaeb-006cabc2d8a7%22%2C%22ca6d19ee-99e7-475e-8ed6-2c2633eaa87b%22%5D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.217Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_1igmHVIxhHUJVqA&Version=9&Q_ORIGIN=https://www.patagonia.com&Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.217Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_2P82ilgXh2oYl45&Version=7&Q_InterceptID=SI_1igmHVIxhHUJVqA&Q_ORIGIN=https://www.patagonia.com&Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=pdx1",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.223Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/147.a8487fc457fb7b055b41.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=patagoniafeedback",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.223Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/463.b4041796801017c38dbb.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=patagoniafeedback",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.223Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=patagoniafeedback",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.268Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.296Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/YgU9me/images/b2415b8c-371e-4ab8-8d16-5366f6477a90.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.296Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/YgU9me/images/f8e041cd-5e1f-49ef-8392-daa4a500e8e2.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.313Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://images.patagonia.com/eMedia/fonts/RidgewaySans/static/RidgewaySans-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.313Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://images.patagonia.com/eMedia/fonts/RidgewaySans/static/RidgewaySans-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.320Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.patagonia.com/oTsXoz8qvX/Ar9bE2/3k0S/VpGiDwQ7V11J/F2YmSikD/Xk4hT/XoXOh4W",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.372Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=2db32b38-457b-46be-9c72-46b0f42b39c5&Seq=7&ClientTime=1792539127371&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539096798&PrevBundleTime=1792539121915&IsNewSession=true&DeltaT=2572&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.387Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://pdx1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_bdUelOuRxbE0VQa",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.870Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Impress=1&Q_CID=CR_2P82ilgXh2oYl45&Q_SIID=SI_1igmHVIxhHUJVqA&Q_ASID=AS_2c1a4mBNpNmMIHh&Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&r=1792539127868",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.870Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.952Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/static/q-siteintercept/b878b451e12167045c07ee1e24b3711c5709a247/img/wr-dialog-close-btn-black.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:07.987Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:08.287Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://try.abtasty.com/svc/dacdn/emotionsai/score",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.082Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.144Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ariane.abtasty.com/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.191Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=8e540783-673e-4791-bc0f-b8eca078ff9c&Seq=1&ClientTime=1792539129166&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539126471&PrevBundleTime=0&LastActivity=29&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.206Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.274Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.patagonia.com/oTsXoz8qvX/Ar9bE2/3k0S/VpGiDwQ7V11J/F2YmSikD/Xk4hT/XoXOh4W",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.569Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://a.klaviyo.com/onsite/track-analytics?company_id=YgU9me",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.647Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw9d5d3f5d/images/hi-res/25543_MRTA_BF1.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.711Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/5383cff7-b68a-457f-9e47-8d6605b722b7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.711Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/fa0552dd-357f-4e38-b382-0858a70f7b13",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.716Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=2&cycle_timestamp=2026-10-20%2023%3A32%3A09&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22hook-cycle%22%3A0.1%7D&predictions=%7B%22218b5644-4bad-46c2-8e05-e927f744c92a%22%3A0%2C%22c25eaa53-6942-46d2-8bb2-cd77d1dd0541%22%3A0%2C%2247d42d5d-ee44-42f4-aaeb-006cabc2d8a7%22%3A1%2C%22ca6d19ee-99e7-475e-8ed6-2c2633eaa87b%22%3A0%7D&predictions_score=%7B%22218b5644-4bad-46c2-8e05-e927f744c92a%22%3A0.04%2C%22c25eaa53-6942-46d2-8bb2-cd77d1dd0541%22%3A0.06%2C%2247d42d5d-ee44-42f4-aaeb-006cabc2d8a7%22%3A0.22%2C%22ca6d19ee-99e7-475e-8ed6-2c2633eaa87b%22%3A0.29%7D&ai_features=%7B%22scrollSpeed%22%3A2%2C%22timeOnPageValue%22%3A2%2C%22timeOnSiteValue%22%3A7%2C%22numOfWindowObjectKeys%22%3A433%2C%22numOfSessionStorageKeys%22%3A25%2C%22clicksInSessionValue%22%3A3%2C%22isTabInFocus%22%3A1%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:09.717Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=2&cycle_timestamp=2026-10-20%2023%3A32%3A09&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22hook-cycle%22%3A0.1%7D&predictions=%7B%22218b5644-4bad-46c2-8e05-e927f744c92a%22%3A0%2C%22c25eaa53-6942-46d2-8bb2-cd77d1dd0541%22%3A0%2C%2247d42d5d-ee44-42f4-aaeb-006cabc2d8a7%22%3A1%2C%22ca6d19ee-99e7-475e-8ed6-2c2633eaa87b%22%3A0%7D&predictions_score=%7B%22218b5644-4bad-46c2-8e05-e927f744c92a%22%3A0.04%2C%22c25eaa53-6942-46d2-8bb2-cd77d1dd0541%22%3A0.06%2C%2247d42d5d-ee44-42f4-aaeb-006cabc2d8a7%22%3A0.22%2C%22ca6d19ee-99e7-475e-8ed6-2c2633eaa87b%22%3A0.29%7D&ai_features=%7B%22scrollSpeed%22%3A2%2C%22timeOnPageValue%22%3A2%2C%22timeOnSiteValue%22%3A7%2C%22numOfWindowObjectKeys%22%3A433%2C%22numOfSessionStorageKeys%22%3A25%2C%22clicksInSessionValue%22%3A3%2C%22isTabInFocus%22%3A1%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:10.198Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw24e5bac4/images/hi-res/22796_WSTO_BF1.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:10.425Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-1SYPSJZYJ5&gtm=45je6aj1v883377022za20ozb9199054215zd9199054215xf1&_p=1792539124900&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=EAAAAGQC&cid=744263216.1792539096&frm=0&ir=1&pscdl=noapi&rcb=1&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120412528~120469145~120469153~121246026~121246034&sid=1792539095&sct=1&seg=1&dl=https%3A%2F%2Fwww.patagonia.com%2Fshop%2Fwomens&dr=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&dt=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&en=page_view&ep.page_name=Women%27s%20Outdoor%20Clothing%20by%20Patagonia&ep.page_type=category&ep.site_region=us&ep.content_group=category&ep.page_section=plp&ep.locale_country=us&ep.locale_language=en&ep.content_group2=commercial&ep.content_group3=plp&ep.page_business_type=Main&_et=2&tfd=5944",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:11.272Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://dis.patagonia.com/dw/image/v2/BDJB_PRD/on/demandware.static/-/Sites-patagonia-master/default/dwa40453f3/images/hi-res/26278_DMGO_BF1.jpg?sw=512&sh=512&sfrm=png&q=95&bgcolor=f3f4ef",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:11.622Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=8e540783-673e-4791-bc0f-b8eca078ff9c&Seq=2&ClientTime=1792539131617&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539126471&PrevBundleTime=1792539129189&LastActivity=281&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:12.714Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/47b4cb17-7f14-4fce-ac19-27ae15b7e9a3",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:12.715Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/6292928b-6c4e-49f2-bb54-cc48aaacd0b4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:12.719Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=3&cycle_timestamp=2026-10-20%2023%3A32%3A12&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22hook-cycle%22%3A0.3%7D&ai_features=%7B%22scrollSpeed%22%3A1%2C%22scrollBelowTheFold%22%3A1%2C%22timeOnPageValue%22%3A3%2C%22timeOnSiteValue%22%3A8%2C%22timeOnPageScore%22%3A2%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:12.720Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=3&cycle_timestamp=2026-10-20%2023%3A32%3A12&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22hook-cycle%22%3A0.3%7D&ai_features=%7B%22scrollSpeed%22%3A1%2C%22scrollBelowTheFold%22%3A1%2C%22timeOnPageValue%22%3A3%2C%22timeOnSiteValue%22%3A8%2C%22timeOnPageScore%22%3A2%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

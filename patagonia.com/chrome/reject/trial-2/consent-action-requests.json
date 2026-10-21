@@ -1,0 +1,130 @@
+[
+  {
+    "timestamp": "2026-10-20T23:33:02.010Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/9e1eb83a-455a-442d-923a-0ef068682410",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:02.011Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/ae290388-8968-45d8-8fc6-88bd75ce2937",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:02.018Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=3b32424329c39c42ffdf52d95ce0a43b&session_id=8269275f15d6113314a8608ad574ac68&page_cb=1792539172716&page_cb_timestamp=2026-10-20%2023%3A32%3A52&cycle=4&cycle_timestamp=2026-10-20%2023%3A33%3A02&etag_user_id=&etag_session_id=&pv=1&js_perf=%7B%22audiences-detect%22%3A2.6%2C%22hook-cycle%22%3A0.6%7D&ai_features=%7B%22timeOnPageValue%22%3A8%2C%22timeOnSiteValue%22%3A8%2C%22timeOnSiteScore%22%3A2%2C%22numOfSessionStorageKeys%22%3A19%7D&custom_ai_features=%7B%7D&audiences=%5B%22firstTimeVisitors%22%2C%22nighttimeVisitors%22%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:02.019Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=3b32424329c39c42ffdf52d95ce0a43b&session_id=8269275f15d6113314a8608ad574ac68&page_cb=1792539172716&page_cb_timestamp=2026-10-20%2023%3A32%3A52&cycle=4&cycle_timestamp=2026-10-20%2023%3A33%3A02&etag_user_id=&etag_session_id=&pv=1&js_perf=%7B%22audiences-detect%22%3A2.6%2C%22hook-cycle%22%3A0.6%7D&ai_features=%7B%22timeOnPageValue%22%3A8%2C%22timeOnSiteValue%22%3A8%2C%22timeOnSiteScore%22%3A2%2C%22numOfSessionStorageKeys%22%3A19%7D&custom_ai_features=%7B%7D&audiences=%5B%22firstTimeVisitors%22%2C%22nighttimeVisitors%22%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:02.661Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:02.942Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=1ec691b0-d5f4-4db9-a995-c709a94ffb3d&SessionId=dcfeb0d9-9b0a-43e9-b54a-3244308cddd1&PageId=2ddc4a82-dd1a-489c-ac5a-f86a4ec3cc8c&Seq=3&ClientTime=1792539182934&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539172836&PrevBundleTime=1792539177959&LastActivity=9827&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:04.215Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:04.291Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:04.313Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.390Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.694Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.712Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=4009420&tm=gtm002&Ver=2&mid=83244a6e-b82b-4a3c-a0fb-89b05d358c3c&bo=2&sid=91dd2240ccde11f1af146f0f5d479bd7&vid=91ddbad0ccde11f184eeab0ce7516af8&vids=1&msclkid=N&evt=gtmConsent&gasc=D",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.715Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.patagonia.com/on/demandware.store/Sites-patagonia-us-Site/en_US/ConsentTracking-SetSession?consent=false",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.715Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://patagonia-privacy.my.onetrust.com/request/v1/consentreceipts/anonymous",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:06.723Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:33:07.931Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=1ec691b0-d5f4-4db9-a995-c709a94ffb3d&SessionId=dcfeb0d9-9b0a-43e9-b54a-3244308cddd1&PageId=2ddc4a82-dd1a-489c-ac5a-f86a4ec3cc8c&Seq=4&ClientTime=1792539187928&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539172836&PrevBundleTime=1792539182954&LastActivity=0&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

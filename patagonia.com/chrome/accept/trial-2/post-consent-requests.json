@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-10-20T23:31:51.899Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=2db32b38-457b-46be-9c72-46b0f42b39c5&Seq=4&ClientTime=1792539111895&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539096798&PrevBundleTime=1792539106926&LastActivity=2580&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:31:56.666Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:31:56.897Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=2db32b38-457b-46be-9c72-46b0f42b39c5&Seq=5&ClientTime=1792539116893&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539096798&PrevBundleTime=1792539111918&LastActivity=7579&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

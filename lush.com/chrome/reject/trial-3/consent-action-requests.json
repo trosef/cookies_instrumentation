@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-10-20T23:57:56.482Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0pnfoc92k23.2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-10-20T23:32:13.574Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://ariane.abtasty.com/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.219Z",
+    "stage": "final-observation",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/bf097256-ed19-4933-adc0-29e5e9dff607",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.220Z",
+    "stage": "final-observation",
+    "method": "GET",
+    "url": "blob:https://www.patagonia.com/361cc83a-1e03-4429-8c80-fc4913b1de19",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.229Z",
+    "stage": "final-observation",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=4&cycle_timestamp=2026-10-20%2023%3A32%3A16&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22audiences-detect%22%3A1.1%2C%22hook-cycle%22%3A0.4%7D&ai_features=%7B%22timeOnPageValue%22%3A7%2C%22timeOnSiteValue%22%3A12%2C%22timeOnSiteScore%22%3A3%7D&custom_ai_features=%7B%7D&audiences=%5B%22firstTimeVisitors%22%2C%22nighttimeVisitors%22%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.230Z",
+    "stage": "final-observation",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=PAFFXSOO0&domain=patagonia.com&user_id=814b632eb098d6f5503f4d0af6a21bcf&session_id=a0fd742c5d4b72f958676aa09e0e5b77&page_cb=1792539126835&page_cb_timestamp=2026-10-20%2023%3A32%3A06&cycle=4&cycle_timestamp=2026-10-20%2023%3A32%3A16&etag_user_id=&etag_session_id=&pv=2&js_perf=%7B%22audiences-detect%22%3A1.1%2C%22hook-cycle%22%3A0.4%7D&ai_features=%7B%22timeOnPageValue%22%3A7%2C%22timeOnSiteValue%22%3A12%2C%22timeOnSiteScore%22%3A3%7D&custom_ai_features=%7B%7D&audiences=%5B%22firstTimeVisitors%22%2C%22nighttimeVisitors%22%5D&custom_audiences=%5B%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.628Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1TAHHW-na1&UserId=ddd3d8bf-0b49-4931-97f8-7fae30a29c51&SessionId=34bec7d1-f7ea-482e-b60c-9400243c0dbf&PageId=8e540783-673e-4791-bc0f-b8eca078ff9c&Seq=3&ClientTime=1792539136620&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792539126471&PrevBundleTime=1792539131639&LastActivity=5280&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:32:16.943Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

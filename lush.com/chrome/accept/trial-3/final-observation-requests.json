@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-10-20T23:57:27.341Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-G7G8V3E5ZS&gtm=45je6aj1v9115569264za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=6&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&sid=1792540622&sct=1&seg=1&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&_tu=CA&en=page_view&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=689&tfd=39030",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:28.901Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

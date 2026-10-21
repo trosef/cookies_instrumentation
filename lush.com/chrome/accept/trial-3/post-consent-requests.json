@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-10-20T23:57:07.675Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:11.152Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

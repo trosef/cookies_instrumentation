@@ -1,0 +1,86 @@
+[
+  {
+    "name": "cf_clearance",
+    "value": "zNIXmfdFfJywatmXdoT0_jwr8sU5O49IBzNNhpPkm4c-1792540661-1.2.1.1-YqeUjw93ZTpWupAUOK9nugpgqkjpnu.gPn3Oday3zHqwkllnJzMhA70IujhVGfn.MsXTEcM3lroXRB.2AhDzKsptupdkQlXtWhyxRkS9An5UnUn.7xXwdNH8Ewe2mBRDzbgtj7sBMAKZAeViBuFkv4TxUs7PxuhytsUpg_ZX5dl0WAhohp1YEDZz6lqGqJV91dHZwVBA5tohCFGc9hR3DEBK8KjEMKoFw.quFs7Vs0uSTgpcnncY0go8pnCG4ovhdxI1NJVXkDLZSK1Mi5K_uRWhdsSpaKHR7eMAnh.SLdkIqj_QXMeqC_JM1.L5AJCXCwJb2Q9C3byjkUytd3229_Ra9Vgp1b_SbgIeLF9Mswk",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1824076661.93952,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://lush.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "preferred-market",
+    "value": "us",
+    "domain": "www.lush.com",
+    "path": "/",
+    "expires": 1824076701.314018,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "preferred-language",
+    "value": "en_us",
+    "domain": "www.lush.com",
+    "path": "/",
+    "expires": 1824076701.314137,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "BVBRANDID",
+    "value": "dfa696f7-4224-4051-8481-917116633aef",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1824076662,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "BVBRANDSID",
+    "value": "6bc82885-a7f8-4b84-a354-8bbb0b6485f5",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1792542462,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lush-commerce-cookies",
+    "value": "%7B%22necessary%22%3Atrue%2C%22statistical%22%3Afalse%2C%22chat%22%3Afalse%7D",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1824076681.085074,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cfwaitingroom",
+    "value": "ChhBbDRIeDNlMTZ1MU9MT05ZZmtOOHh3PT0SgAJlcEwyTlRhRUFLUllacGU0Ym5ycWNmczFEdmpTWGdVRXhkR1JpSkJiSDVPbjFxcTJlKzU4QWtRS1BCWTVPdUE3dytmbHFZTWlxQm5ja3psODNCSFhUUFEzdUI1NXZjVXVPcmMybDk3U1lQVE02YUlTYmwyTEp2Q005RjBKbWdCV2Q3dzdFVWdDUUhGWGtVcDFpQmpTWWJRVkp3Y0JNMmpaNE11cXAvbCtac2w5QUJwNzJhbjE0N0RqKzBlTC9pbTJwaDZpMmxySnN4QWpLcFVQZjRTSGMrMk9FVC9haXdRMkNDa1dOVFhJVm5FZ3czeVl1TWRlaVNnSmFQSUl0SSsy",
+    "domain": ".www.lush.com",
+    "path": "/",
+    "expires": 1792541301.416976,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://lush.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "__cf_bm",
+    "value": "Xmj5whVAR7Aq7gQJkVf9z3dsdvzDexUJQ2IQqhCtBik-1792540702.7322388-1.0.1.1-XpIJSxa9UCv9wmIIN8oke1H1it2I9XpWrkM8RCv3bG3fHSIhKI5R1L2JvhweCcrJ06XQ6AjBc9WqE_o993.eDfqaVo0kOFj7bAOd0FeaAJ0csqKwWGL60pgVenJL7Gyu",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1792542502.833788,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

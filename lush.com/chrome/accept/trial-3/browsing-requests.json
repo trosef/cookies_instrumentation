@@ -1,0 +1,1298 @@
+[
+  {
+    "timestamp": "2026-10-20T23:57:14.293Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.721Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/lush-giving-products.json?channel=us&language=en_us&slug=lush-giving-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.725Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/v1792509033/collections/Hero%20Images/boo__shower_gel_halloween_lush_hero_2026_landscape.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.733Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/02_aw6846iv8n.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.737Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/02_aw6846iv8n.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.835Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0fdvkczatoe0d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.835Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/02v-tsxgwvk6-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:16.835Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/turbopack-0db0n.7.j5cop.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:17.634Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://res.cloudinary.com/lush/video/upload/f_auto/q_auto/v1780033188/contentful/navigation/Categories/Category-Bath.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:17.695Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bath-products.json?channel=us&language=en_us&slug=bath-products",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.892Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0yafp8x.-~isy.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0misb.lqq3o5c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0jlfy51ehj1ay.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0t7mwg9y33ct9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0~q5cc8u7q61h.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/05iae9aoh0r.-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/016.b20j~7atu.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0pyq0f1vfs1o2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0vr2316yvuy~s.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/11.y.op1.jx06.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.992Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L8TMXCLQMX&gtm=45je6aj1v868644067za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=&_tu=CA&en=scroll&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&epn.percent_scrolled=90&_et=16640&tfd=30675",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.992Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/634357793/?random=1792540638986&cv=11&fst=1792540638986&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.992Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/634357793/?random=1792540638986&cv=11&fst=1792540638986&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.993Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.994Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.997Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10847692885/?random=1792540638993&cv=11&fst=1792540638993&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.997Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/10847692885/?random=1792540638993&cv=11&fst=1792540638993&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.997Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&en=page_view&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45He6aj1v837270289za200zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792540638995&tfd=30687&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.997Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&tid=AW-634357793&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&tft=1792540638996&tfd=30688&tids=AW-634357793&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.997Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&tid=AW-10847692885&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&uid=0&_tu=CA&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792540638996&tfd=30688&tids=AW-10847692885&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:18.998Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AEAAAAQ&_fplc=0&ae=a&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.sp=1&sst.em_event=1&sst.lpc=255935894&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=&_tu=DA&en=scroll&gap.sstd=5&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&epn.percent_scrolled=90&_et=16598&tfd=30646&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.021Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;dc_pre=CKDwoaDmyZcDFRjf0gQdLRorLA;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.030Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376876/contentful/navigation/Bath/Bath_-_Bath_Bombs.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.031Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376876/contentful/navigation/Bath/Bath_-_Bubble_Bars.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.031Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376875/contentful/navigation/Bath/Bath_-_Bath_Oils.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.031Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376877/contentful/navigation/Bath/Bath_-_FUN_Bars.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.031Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://res.cloudinary.com/lush/image/upload/f_auto/q_auto/v1779376876/contentful/navigation/Bath/Bath_-_Bath_Body_Gift_Sets.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.031Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613067437450&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPU1qVXhaamxoT0dJdFpEa3dOaTAwWmpkaUxUa3haRFV0TXpBMlpUY3dORGN6TTJRMw%22%7D&cb=1792540639031&dep=4%2CTAGS_RECEIVED&stc=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.034Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613067437450&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPU1qVXhaamxoT0dJdFpEa3dOaTAwWmpkaUxUa3haRFV0TXpBMlpUY3dORGN6TTJRMw%22%7D&cb=1792540639033&dep=4%2CTAGS_RECEIVED&stc=true&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2227.0.1%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.034Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/634357793/?random=1792540638986&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3NGRUWboqOtfUHEg6xzqPJrrZzlTNTbAWMoOjiCw9G1v2XuoZiDKcNhTwdV944ZOVbyLF5ak0jiKQzB8Dxk3W3J2tMPGfQo8NUo8ljYcw0UVo1GF7Qw57qC-VzQT6Xe5_n0dqOMZvWbi33ODDd5vgCVFBrOMB4hZKoUiMviil_Z-Er-yv1d7WYeVKHwx73Z3gjD5pHkkXMe4Z0jqmlW8cooIroaNp_QynZkhUWE55J9PNyfsVUGYw9RC3TkYzdQ2LvvcgPGFnVXir-kBeLtoVJ05qNl2GN6tVCFc5H8A&random=4100652214&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.037Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bath-bombs.json?hub=bath-products&channel=us&language=en_us&slug=bath-bombs",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.039Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bubble-bars.json?hub=bath-products&channel=us&language=en_us&slug=bubble-bars",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.039Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bath-oils.json?hub=bath-products&channel=us&language=en_us&slug=bath-oils",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.039Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/fun.json?hub=bath-products&channel=us&language=en_us&slug=fun",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.039Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/c/bath-body-gifts.json?hub=bath-products&channel=us&language=en_us&slug=bath-body-gifts",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.045Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/10847692885/?random=1792540638993&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&rcb=8&frm=0&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3J-5qWSm9pjAPPgjpZNSdjU75AFYuKEMXBdWw2c3SR29aEGsp7G-Fdnzi9eBFTdpNekYFOYuLM5eVp35X6mxbRmC1o1XNgqnPLl9j0qqhJ759C_JNvKq3ObWpJLO57Q12ejEOMEVCZsKMQ-sQa7kl7RkCK_NE77HC3XLJtZWwXfI-zdkAg379xBqWoWgtexsDQ-d3SLSaF1vmM5Nz3nNGJ_18ewIT5-T0PpPhipio--Ak5oYBkm0xZ4pSENIrpeDF9hJP6mSiUWHvoujWPGfweTdBu7NnTQefmnj5dwl&random=1150922016&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.054Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.057Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CKDwoaDmyZcDFRjf0gQdLRorLA;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=*;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.154Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CI3FoaDmyZcDFdFWnQYdxC8g2Q;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.156Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=10538610977883448862;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOjsfYMLrPv_f7znbqj7Ztvk6jONT63s4yclp;_dc_time=1792540639;cid=CAQS4gEAQM4h3B2dAvgBnIuGWyVr6g6YSiDeZGWhDg26t4_jt8I4xpgtBsyRTlu1fK2lbzJMxso9_yUc2MCxus3x_cH4NO783NjmzABDMRuNuGmS8bxe_5COdx_UhyFCO-EYjJMyB-ILvhAvERS01GnK7D8_8RnCRqt4RVmo93eDuLr3F7gTt9Y0q6NoP7tDNrymLCYXH7ZwwWE1AKbKE72wAXj2ftVINm_XgaeFEFHHmJWUhtoeAcKeilDfLy20VimlxQWp9OoHB_lMSV5g9UBcYbadxcWIUXrSWd12otdIdkmlh-XL;eps=AHas8cCERtjz2hpHbDr9K4qX2dDMHsbhtOaHMlOrM-4kZdzOjU4iUFeFtxD8HtDfLuIqTilKgH79U3WADN68kthkAPW6MhfIhcrNDKJYlqkiXR0WJA;dc_pre=CI3FoaDmyZcDFdFWnQYdxC8g2Q;src=11691146;type=count0;cat=lushp001;rcb=7;ord=03b14609-37a5-4893-bcb9-c85c32dba4c9;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540638_1TZaeDelX023idfHLr-7LNYhqvpHcrV20Q;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.249Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.751Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/15i336rsx6tvz.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.754Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/saanjh_bath_bom_2026_dd64b269_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.754Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/jalebi_bubble_bar_2026__c6379cf0_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/snowdrift_bath_bomb_2023_f2e20180_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/calaverita_bath_bom_2026_666012dd_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/u.sa.ha.na_bath_bomb_hello_kitty_lush_e-com_2026_83812ee2_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/hangyodon_bath_bomb_hello_kitty_lush_e-com_2026_0b3f6787_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/moomintroll_bath_bomb__ecom_Lush_x_moomins_cdb0b4ea_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.755Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/plauge_doctor_bath_bomb_halloween_ecom_2026_50722510_thumbnail_4096.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.769Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-G7G8V3E5ZS&gtm=45je6aj1v9115569264za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=&_tu=CA&en=scroll&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&epn.percent_scrolled=90&_et=16682&tfd=31452",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.770Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L8TMXCLQMX&gtm=45je6aj1v868644067za20ozb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAACAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us%2Fc%2Fbath-products&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=&_tu=CA&en=page_view&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us%2Fc%2Fbath-products&ep.site_name=LUSH&ep.page_type=category&ep.page_market=us&ep.page_language=en_us&_et=31&up.user_id_ref=&upn.customer_id=0&up.visitor_type=guest&tfd=31455",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.770Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.770Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.775Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/bfd/v1/clients/lush/api-products/cv2/resources/data/statistics.json?apiversion=5.4&stats=Reviews&filter=ContentLocale%3Aen_US%2Cen*&filter=ProductId%3Ad77fa4b6-2445-11f1-86fc-325096b39f47%2Cd77fa2a4-2445-11f1-9ab9-325096b39f47%2C57aeb606-5298-11f1-9e0c-325096b39f47%2C32e1c586-3e1e-11f1-a662-325096b39f47%2C4b39905e-c917-11eb-81b6-cbc56ab494e3%2Cefcd9386-64d5-11f1-9873-325096b39f47%2C7c4c78be-64d5-11f1-9ec3-325096b39f47%2C44a3b716-79de-11f0-92e2-325096b39f47%2Ce5dd514a-64d5-11f1-8629-325096b39f47%2Cefcd971e-64d5-11f1-8481-325096b39f47%2Ce5dd4e84-64d5-11f1-ad99-325096b39f47%2Cefcd9692-64d5-11f1-8f47-325096b39f47%2C40cf4d28-7940-11f1-857f-325096b39f47%2C343c3aee-7940-11f1-ab33-325096b39f47%2C008d3b5c-ee5c-4b52-802e-80e1d19b3eca%2Cba5ae586-c8b1-45a0-a16e-7c7d5982e845%2C343c38b4-7940-11f1-a14c-325096b39f47%2C596e084e-4a5e-4a3a-b124-cbaeb1eadec7%2C9075e815-2500-4e8f-aecf-43cb240d7939",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.775Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:bfdApiRequest,displaySegment:baseline,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=x7gze2",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.777Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AAAAAAQ&_fplc=0&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.lpc=255935894&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=Discover%20our%20Bath%20Category&_tu=DA&en=view_item_list&gap.sstd=5&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=810&tfd=31458&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.779Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/the-grinch-bath-bomb.json?channel=us&language=en_us&slug=the-grinch-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.780Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/usahana-bath-bomb.json?channel=us&language=en_us&slug=usahana-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.780Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/hangyodon-bath-bomb.json?channel=us&language=en_us&slug=hangyodon-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.796Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;dc_pre=CO6g0aDmyZcDFeQkyQIdf-oOUQ;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.888Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/moomintroll-bath-bomb.json?channel=us&language=en_us&slug=moomintroll-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.888Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/saanjh-bath-bomb.json?channel=us&language=en_us&slug=saanjh-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.889Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/jalebi-bubble-bar.json?channel=us&language=en_us&slug=jalebi-bubble-bar",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.900Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-G7G8V3E5ZS&gtm=45je6aj1v9115569264z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=Discover%20our%20Bath%20Category&_tu=CA&en=view_item_list&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=810&tfd=31583",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.900Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AEAAAAQ&_fplc=0&ae=a&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.sp=1&sst.em_event=1&sst.lpc=255935894&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=4&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us&sid=1792540622&sct=1&seg=1&dt=Discover%20our%20Bath%20Category&_tu=DA&en=page_view&gap.sstd=5&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=127&tfd=31587&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.922Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CPuO0aDmyZcDFSxWnQYdCQUHrQ;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.922Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=8638348109518567749;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOtbnPUx238QVbaIs-ANZ8RQJUa6jtfSzGzba;_dc_time=1792540639;cid=CAQS4gEAQM4h3CRCkpoyeZ5o7jOyCswCRu3Pkkp3hFQ_2gqogMTV0HfniBJPQYMId8t1HqM4GBnBn3FKo5ogLmT8X0mBHQip3l2DEpl3sN-e6fYHcr0QIZwiBYpYWr8pJktAmVaa4BrxGIT9soAXFDin-HghqW8ZwWiPmH_lz--3Pg8iw_Bv-71hyBF0NkCHylVDNC6grDavVBFg67COJpNzOdiYVrriKPRXM-nFgumpJ8cPiNgPT2l0YomfxOJyq0vsFzu9NQwl2JIJFSW-GDHqIgXkBuTl_LJdbFnMrXwraKGeoMOq;eps=AHas8cAdKtK0N3J-cCM_hVo_hwML9TBsEwOrawJvNFT6FQd1HNqeyJl5vsX4xzGWZfYjc1za5EWj8AdFbmI8UNi4Vs9piirEHSMMjCZoxb7uHoh6fA;dc_pre=CPuO0aDmyZcDFSxWnQYdCQUHrQ;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:19.926Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CO6g0aDmyZcDFeQkyQIdf-oOUQ;src=11691146;type=count0;cat=lushp00;rcb=7;ord=3262235551474;npa=0;auiddc=*;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540639_bDsvx5PIoTnH9ItJP1Va7Xn28B4dtqf97w;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.067Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:apiSuccess,detail2:%27fetchResponse%3BHit+from+cloudfront%27,displaySegment:baseline,elapsedMs:39.5,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=5744yp",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.067Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Feature,deploymentZone:main_site,displaySegment:baseline,experiments:(),interaction:%270%27,locale:en_US,name:InView,productId:%271a2c0690-90cc-11f1-9ff9-325096b39f47%27,type:Used))&_=b1w3l3",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.318Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Feature,deploymentZone:main_site,displaySegment:baseline,experiments:(),interaction:%270%27,locale:en_US,name:InView,productId:d77fa2a4-2445-11f1-9ab9-325096b39f47,type:Used),(bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Feature,deploymentZone:main_site,displaySegment:baseline,experiments:(),interaction:%270%27,locale:en_US,name:InView,productId:d77fa4b6-2445-11f1-86fc-325096b39f47,type:Used))&_=5oqf0z",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.371Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-G7G8V3E5ZS&gtm=45je6aj1v9115569264za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAGQC&ae=a&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=4&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us&sid=1792540622&sct=1&seg=1&dt=Discover%20our%20Bath%20Category&_tu=CA&en=page_view&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=130&tfd=32043",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.372Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.373Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.376Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AAAAAAQ&_fplc=0&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.lpc=255935894&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=5&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us&dt=Discover%20our%20Bath%20Category&_tu=DA&tfd=32057&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.382Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.453Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;dc_pre=CPnk-aDmyZcDFYP40gQdF8sFXA;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.493Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CPnk-aDmyZcDFYP40gQdF8sFXA;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=*;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.582Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CIvi-aDmyZcDFTNHnQYdZTQZxg;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.582Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=8374496988918921883;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOktT_gGHpE-0mTEjUd_R_iE64wkw2GGnro1_;_dc_time=1792540640;cid=CAQS4gEAQM4h3FyYo2h3LFpYxPO8sAfOZTlz8Tb1cZoPSY2ogfxDitbdqSDs8_lF15pf3bF9AyaemWaeQynlPZE2SOj3KyxzNnICJ03CLfPYdx60vWBz4R9lhSFiwxprHZTgV1XCpFw7QslVIr08sr7Ci_0525_Nwuz_-OgDz1-AjY5QO9drGvJfL1pdEZSOYWRUmUT74zOSOo2-gMhWxT7IzboMSxLIoCCirnBU9mvBalUqQDnzzISUw3lAwLMl4s5tPgRQet66ooEg9CNgJ8JV418jsz_LiPa_sMw_AT0IMXdmy-X5;eps=AHas8cBjqaanJ7jtqWzaLty8oyobkx8Ti-_6Mx55o9h_d0fI7_AKmMRY8s1ie3gCrme7kAtTEkTd2cNjZwF7k6bswmwHjQ3ocLxhGPAVoMRgGyb7EQ;dc_pre=CIvi-aDmyZcDFTNHnQYdZTQZxg;src=11691146;type=count0;cat=lushp00;rcb=7;ord=4278734631246;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u2=undefined;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540640_IN0DTicfK4ABHzupMbG1gFMUIx5S7Ki4bA;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:20.640Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/data/production-8a16fae5/us/en_us/p/the-grinch-bath-bomb.json?channel=us&language=en_us&slug=the-grinch-bath-bomb",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.329Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/12ykrowi_rbwn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0yqx~wtu.-z26.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0gdn_gtwtx62~.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0tvyr~jikzi4v.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0cypxoj8p2bud.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/139t56m4rwyu4.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0di8ihqkir_28.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0kui935n9ffb6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/176~0ygp1q-~l.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.353Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0xsqjru4hrg_h.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.353Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0u42yviqqh0j7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.353Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0u2qidzgul38u.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.417Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L8TMXCLQMX&gtm=45je6aj1v868644067z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us%2Fc%2Fbath-products&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dt=Discover%20our%20Bath%20Category&_tu=CA&_s=4&tfd=33102",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.417Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/634357793/?random=1792540641412&cv=11&fst=1792540641412&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.417Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/634357793/?random=1792540641412&cv=11&fst=1792540641412&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.417Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.419Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.421Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10847692885/?random=1792540641418&cv=11&fst=1792540641418&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.421Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/10847692885/?random=1792540641418&cv=11&fst=1792540641418&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.422Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&en=page_view&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45He6aj1v837270289za200zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792540641420&tfd=33112&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.422Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&tid=AW-634357793&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&tft=1792540641421&tfd=33113&tids=AW-634357793&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.422Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1413772502.1792540622&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&tid=AW-10847692885&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&scrsrc=www.googletagmanager.com&rnd=1029041251.1792540622&navt=n&npa=0&ep.ads_data_redaction=0&uid=0&_tu=CA&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792540641421&tfd=33113&tids=AW-10847692885&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.428Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613067437450&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPU1qVXhaamxoT0dJdFpEa3dOaTAwWmpkaUxUa3haRFV0TXpBMlpUY3dORGN6TTJRMw%22%7D&cb=1792540641427&dep=4%2CTAGS_RECEIVED&stc=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.429Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2613067437450&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPU1qVXhaamxoT0dJdFpEa3dOaTAwWmpkaUxUa3haRFV0TXpBMlpUY3dORGN6TTJRMw%22%7D&cb=1792540641428&dep=4%2CTAGS_RECEIVED&stc=true&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2227.0.1%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.501Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;dc_pre=COvguaHmyZcDFafx0gQdjI4Tyw;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.532Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COvguaHmyZcDFafx0gQdjI4Tyw;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=*;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.539Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0gj2~m5lknx35.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.539Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/_next/static/chunks/0tz7gf.9wiv86.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.539Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/assets/fonts/inter/Inter-Italic.otf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.543Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=384,f=auto/https://unicorn.lush.com/media/thumbnails/products/01_Grinch_Bath_Bomb_Grinch__Lush_2026_Portrait_6869ec0e_thumbnail_4096.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=384,f=auto/https://unicorn.lush.com/media/thumbnails/products/02_The_Grinch_Bath_Bomb_Grinch__Lush_model_hero_2026_1_ae583253_thumbnail_40.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=384,f=auto/https://unicorn.lush.com/media/thumbnails/products/03_The_Grinch_Bath_Bomb_Grinch__Lush_bath_art_hero_202_744aa6ae_thumbnail_40.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=384,f=auto/https://unicorn.lush.com/media/thumbnails/products/04_The_Grinch_Bath_Bomb_Grinch__Lush_bath_art_hero_202_4e4643e0_thumbnail_40.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/thumbnails/products/Lush__grinch_the_grinch_bath_bomb_ecom_2026_a0d22988_thumbnail_256.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/file_upload/litsea_cubeba_seeds_ingredient_2021_c8cd3da0.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/file_upload/pink_grapefruit_new_9743799c.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/file_upload/patchouli_powder_ingredient_2021_0e86512b.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.544Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=256,f=auto/https://unicorn.lush.com/media/file_upload/wild_mint_22_d1fc377b.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.549Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/634357793/?random=1792540641412&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3ON60GhJV_jxYNDP8cdtUVYWi9IAGsw9ZaV5ugtQe_EmdhzMqECauAjj1k0mYfae34ZWzBiiIFqAOhjuWb64ROwROOXwJyIEZamkWe8wVOQr_hCQHch8Ro7LoKhUCs1HMlDieSUKsKAXGcZhSm0bC_gNuSt_uNtPhPZ2QSrFrKnxhUo3lq6vDyZIKjQeTaaGd4YZcLN1SjLx9vH12uSe3YA4mrgRoOQnAxnOT1yuiUWmW8QskQEvFfMonVoCiJtcLjhFy6mGUUTua8dAK4ZB3sTKGEMngUyc-6ne8-qq&random=3609338898&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.551Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=1920,f=auto/https://unicorn.lush.com/media/file_upload/89bbb475-0a7e-429f-972b-f752c6cd9425_d1efad78.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.551Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/10847692885/?random=1792540641418&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v885929570z8837270289za20gzb837270289zd837270289xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&rcb=8&frm=0&tiba=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&userId=0&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1413772502.1792540622&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3PWQ0koMN6_Zieh0esOV9r6But9v4VeRSYV2s4HoWwUWMBOGIL9gvrOwKA_bjwJvSf0Y1095Bg0WCESl1BgteXzJrbGHpVXSpl2jcL-ARfIh2BQUMem_5vkOMo_6qCIsUDY4oYjF_RxrOaDGuC23QuNOsSAkZ_KFswLNoVeqUoexLRzQ1AzXxOVbPuHA9TLl9sdnYnSRPD5j789OqvM7elboIih3aW0hgOwLbiDcOiRgZQPlnDlmsHgfz4iJSzF8qbIrm2C9ey6z7hRcU5WdzXar2-YtxHnTaDvJHBd_&random=549322047&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.552Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:bfdApiRequest,displaySegment:baseline,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=whrg04",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.609Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lush.com/api/wyvern",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.630Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=COvguaHmyZcDFVlSnQYdeWMfCA;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.630Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=13143920022753942954;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOnFbksJrTbvRzwDSMmunWA9OtyBUnGc3Bj17;_dc_time=1792540641;cid=CAQS4gEAQM4h3OVQZfd0JPKwyGJP5sbsKg7SVCtth7H5rvoWlADcvbT3Oaqx-1CJyG1SD0ar8R6OeW65euzuqe-tieO76nBOGIbLqlg3NUYeIj_0r3QRtSKwz5mxXMskoMp9AARnnFq2BJBrwjIZbWIOXwVB88XxxvTRjI0z8VvcP7gJJ8yADue825YROMCwMHPP4DQIcsS0LToIiEUm02sgGA7K0REUIMLrY7SGV_-VEjwfn4QDHvolI6G0Xmc4Jsqp0-StNj4y64J682BfREb0TT83XYcOUb4lhqc3v0zMmbqLhJHK;eps=AHas8cDD0M3yuAh1OZ5YWsNM3GhYBZEfbna5q2Rh8wHqpSYhlCHBxB5plSVD41Xejrzge7qpBNiT2EBs9c9F6Cz7_OZy3TpqNZN0YnC9pJsyec6nNQ;dc_pre=COvguaHmyZcDFVlSnQYdeWMfCA;src=11691146;type=count0;cat=lushp001;rcb=7;ord=2f2bf861-880a-4001-b57c-33a60ca21f4f;npa=0;auiddc=1413772502.1792540622;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KAAB;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_HC7TB8qBJ1uVsHReIBdYBoTjsA47b3KlVQ;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.649Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L8TMXCLQMX&gtm=45je6aj1v868644067za20ozb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAACAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=5&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&_tu=CA&en=page_view&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&ep.site_name=LUSH&ep.page_type=product&ep.page_market=us&ep.page_language=en_us&_et=1052&tfd=33335",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.649Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.653Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AAAAAAQ&_fplc=0&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.lpc=243746968&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=6&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&_tu=DA&en=view_item&pr1=id65790-NA~pr9.5~nmThe%20Grinch~caBath%20Bomb~brus~qt1&gap.sstd=5&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=1280&tfd=33338&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.669Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://11691146.fls.doubleclick.net/activityi;dc_pre=CJfww6HmyZcDFfPf0gQdqiojeQ;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.691Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.708Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.708Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CJfww6HmyZcDFfPf0gQdqiojeQ;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=*;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;_dc_test=1;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.711Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/10858732417/?random=1792540641708&cv=9&fst=1792540641708&num=1&npa=1&label=mGAICJ6bz6QDEIG37Lko&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1117&u_w=1728&ig=1&auid=1413772502.1792540622&frm=2&url=https%3A%2F%2F11691146.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCJfww6HmyZcDFfPf0gQdqiojeQ%3Bsrc%3D11691146%3Btype%3Dcount0%3Bcat%3Dlushp0%3Brcb%3D7%3Bord%3D3356437718043%3Bnpa%3D0%3Bauiddc%3D1413772502.1792540622%3Bu11%3Dguest%3Bu12%3D0%3Bu5%3Den_us%3Bu3%3Dus%3Bu10%3D6.1oz%3Bu2%3DBath%2520Bomb%3Bu6%3DUHJvZHVjdDoxODc5NA%253D%253D%3Bu8%3D65790-NA%3Bu9%3D9.5%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D27.0.1%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6aj1v9190660741z8837270289za20gzb837270289zd8372&ref=https%3A%2F%2Fwww.lush.com%2F&top=https%3A%2F%2Fwww.lush.com%2F&hn=www.googleadservices.com&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.757Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10858732417/?random=733040731&cv=9&fst=1792540641708&num=1&npa=1&label=mGAICJ6bz6QDEIG37Lko&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1117&u_w=1728&ig=1&auid=1413772502.1792540622&frm=2&url=https%3A%2F%2F11691146.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCJfww6HmyZcDFfPf0gQdqiojeQ%3Bsrc%3D11691146%3Btype%3Dcount0%3Bcat%3Dlushp0%3Brcb%3D7%3Bord%3D3356437718043%3Bnpa%3D0%3Bauiddc%3D1413772502.1792540622%3Bu11%3Dguest%3Bu12%3D0%3Bu5%3Den_us%3Bu3%3Dus%3Bu10%3D6.1oz%3Bu2%3DBath%2520Bomb%3Bu6%3DUHJvZHVjdDoxODc5NA%253D%253D%3Bu8%3D65790-NA%3Bu9%3D9.5%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D27.0.1%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6aj1v9190660741z8837270289za20gzb837270289zd8372&ref=https%3A%2F%2Fwww.lush.com%2F&top=https%3A%2F%2Fwww.lush.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAgjL4bEC&cerd=CgiDsL4tyOy-LQ&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil5Kqu339hLDuMZAViVh6AlGTdonZ6W9LfS-sp0Qi0poIls7_PA1nJRoC4xo&pscrd=IhMIv-XHoebJlwMVtSAHAx287ioMOiVodHRwczovLzExNjkxMTQ2LmZscy5kb3VibGVjbGljay5uZXQvQlhDaEVJOEtMYzFnWVF2OVM2dVlDZThyU1ZBUkl0QUFzSGx0bGtqSWxfaVVoSnI1VjhuN0FOZzJRM05MeHQtV1B2dXk2WE5NcTZSOFd2MU16b2RJX3dUU182egwICWIICAAQABgAIAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.787Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/10858732417/?random=733040731&cv=9&fst=1792540641708&num=1&npa=1&label=mGAICJ6bz6QDEIG37Lko&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953496&u_h=1117&u_w=1728&ig=1&auid=1413772502.1792540622&frm=2&url=https%3A%2F%2F11691146.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCJfww6HmyZcDFfPf0gQdqiojeQ%3Bsrc%3D11691146%3Btype%3Dcount0%3Bcat%3Dlushp0%3Brcb%3D7%3Bord%3D3356437718043%3Bnpa%3D0%3Bauiddc%3D1413772502.1792540622%3Bu11%3Dguest%3Bu12%3D0%3Bu5%3Den_us%3Bu3%3Dus%3Bu10%3D6.1oz%3Bu2%3DBath%2520Bomb%3Bu6%3DUHJvZHVjdDoxODc5NA%253D%253D%3Bu8%3D65790-NA%3Bu9%3D9.5%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D27.0.1%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DKFA%3Bgtm%3D45fe6aj1v9190660741z8837270289za20gzb837270289zd8372&ref=https%3A%2F%2Fwww.lush.com%2F&top=https%3A%2F%2Fwww.lush.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAgjL4bEC&cerd=CgiDsL4tyOy-LQ&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil5Kqu339hLDuMZAViVh6AlGTdonZ6W9LfS-sp0Qi0poIls7_PA1nJRoC4xo&pscrd=IhMIv-XHoebJlwMVtSAHAx287ioMOiVodHRwczovLzExNjkxMTQ2LmZscy5kb3VibGVjbGljay5uZXQvQlhDaEVJOEtMYzFnWVF2OVM2dVlDZThyU1ZBUkl0QUFzSGx0bGtqSWxfaVVoSnI1VjhuN0FOZzJRM05MeHQtV1B2dXk2WE5NcTZSOFd2MU16b2RJX3dUU182egwICWIICAAQABgAIAA&is_vtc=1&vdi=1&cid=CAQSvwEAQM4h3DK1GDbRmLvEWiuVV_SuQeQcp5kSncNORDerQ6Z5NSoFHyvmvCge6K48xXLluMKJRu1p3CXVk-BvYO6KtsZEXxflyCIu6uA3pajxAkaTWl-osdxJyEP6VIcvUEZYFgh208FBJs1kppXdnqIdFa_7nrBEcOdZklwCuPv_PVZcXEoUrczaWz8Zo1xL-EUy3vexkmf3AwIf330Y-Dl4RrxeqhSp4x-FFi045x4X67_ILVoN4Dw_hPyinHlNNA&random=3452640241&resp=GooglemKTybQhCsO",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.796Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CNbhw6HmyZcDFXxSnQYdgCEOHg;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.796Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=17521788827178456172;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOkny-25e0MANOX6O7Zghb2-lFYOUEkgULbTs;_dc_time=1792540641;cid=CAQS4gEAQM4h3HVFlxIRCSNvoSStIxukCdpCsaMSnIh9ThNQ2xZ4_YIUNAltGx1mt0hB3DE_k40pWq5_Gs1ZiAuol2XWUxpRUtLIUXfMfIIntLeDy9OPg5CtjwQQ1U69W2wqbujOTkq4Y2m4JRKiLa_tpketbMgwySrLoggejuxbuOdEeqc89IUTsJWoehiZ30njNASpgnOunHFSpmkKRqLVnNAgqTYlOY8dVAZxT-DBEaGAIl3ukIZ0jfMslm4YrC1U2U208w7OnsQBrmoUWXpnEyzmsS08ZfCYtXmdjI5Vy4oqh89W;eps=AHas8cBWIMwLTmCqBtKMT0Yp39NHzQ_cahNPGgD9RWw70Uju_k3L24FU2QYmjQnOe-09nBgT3ZUkj18pPVS2TpU8PwjK_gp_8jIXAYVWq4ICjNkTnQ;dc_pre=CNbhw6HmyZcDFXxSnQYdgCEOHg;src=11691146;type=count0;cat=lushp0;rcb=7;ord=3356437718043;npa=0;auiddc=1413772502.1792540622;u11=guest;u12=0;u5=en_us;u3=us;u10=6.1oz;u2=Bath%20Bomb;u6=UHJvZHVjdDoxODc5NA%3D%3D;u8=65790-NA;u9=9.5;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1v9190660741z8837270289za20gzb837270289zd837270289xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792540641_C3f4CODN4hXNP_TKmzjJIkvdJk9WbStkKg;~oref=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.804Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:apiSuccess,detail2:No-Cache-Time,displaySegment:baseline,elapsedMs:!n,experiments:(),locale:en_US,name:statisticsJson,type:api),(bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:bfdApiRequest,displaySegment:baseline,experiments:(),locale:en_US,name:statisticsJson,type:api),(bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:apiSuccess,detail2:No-Cache-Time,displaySegment:baseline,elapsedMs:!n,experiments:(),locale:en_US,name:statisticsJson,type:api),(bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Feature,deploymentZone:main_site,displaySegment:baseline,experiments:(),interaction:%270%27,locale:en_US,name:InView,productId:%271a2c0690-90cc-11f1-9ff9-325096b39f47%27,type:Used))&_=ii8dfm",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.894Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://apps.bazaarvoice.com/bfd/v1/clients/lush/api-products/cv2/resources/data/statistics.json?apiversion=5.4&stats=Reviews&filter=ContentLocale%3Aen_US%2Cen*&filter=ProductId%3A91fa0172-4923-11f1-8396-325096b39f47%2C96b486f0-073e-11f1-9278-325096b39f47",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:21.894Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:bfdApiRequest,displaySegment:baseline,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=gqizet",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:22.272Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://network-a.bazaarvoice.com/a.gif?loadId=3f35950338a06204&BVBRANDID=6e5b1734-81f1-4ded-8950-8d2883880972&BVBRANDSID=2b9ba9f4-1525-48b2-babe-ea6f8e54c671&tz=300&sourceVersion=3.19.0&magpieJsVersion=3.19.0&source=bv-loader&environment=prod&client=lush&dc=12756&host=www.lush.com&r_batch=!((bvProduct:InlineRatings,bvProductVersion:%272.7.22%27,cl:Diagnostic,deploymentZone:main_site,detail1:apiSuccess,detail2:%27fetchResponse%3BHit+from+cloudfront%27,displaySegment:baseline,elapsedMs:121.39999997615814,experiments:(),locale:en_US,name:statisticsJson,type:api))&_=pqoyuw",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:22.353Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-G7G8V3E5ZS&gtm=45je6aj1v9115569264z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us&dt=Discover%20our%20Bath%20Category&_tu=CA&_s=5&tfd=34028",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:22.354Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://metrics.lush.com/g/collect?v=2&tid=G-N5RVGVF1W0&gtm=45je6aj1v9167345817za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=1494630163&_eu=AEAAAAQ&_fplc=0&ae=a&cid=601661025.1792540622&frm=0&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1029041251.1792540622&sst.gch=0&sst.tft=1792540621929&sst.sp=1&sst.em_event=1&sst.lpc=243746968&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=7&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&dr=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fc%2Fbath-products&sid=1792540622&sct=1&seg=1&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&_tu=DA&en=page_view&gap.sstd=5&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us&ep.site_name=LUSH&ep.page_type=homepage&ep.page_market=us&ep.page_language=en_us&_et=695&tfd=34037&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:22.810Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:23.189Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lush.com/cdn-cgi/image/width=384,f=auto/https://unicorn.lush.com/media/thumbnails/products/05_Grinch_Lush_Portrait_2026_eada931d_thumbnail_4096.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:57:24.966Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://k.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:57:26.647Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-L8TMXCLQMX&gtm=45je6aj1v868644067z8837270289za20gzb837270289zd837270289xf1&_p=1792540621929&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAGQC&cid=601661025.1792540622&frm=0&pscdl=noapi&rcb=15&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&gaf=2&_s=6&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dp=%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&cu=USD&sid=1792540622&sct=1&seg=1&dl=https%3A%2F%2Fwww.lush.com%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&dt=The%20Grinch%20Bath%20Bomb%20%7C%20LUSH&_tu=CA&en=view_item&pr1=id65790-NA~pr9.5~nmThe%20Grinch~caBath%20Bomb~brus~qt1&ep.domain_id=US&ep.local_store=not%20set&ep.clean_url=%2Fus%2Fen_us%2Fp%2Fthe-grinch-bath-bomb&ep.site_name=LUSH&ep.page_type=product&ep.page_market=us&ep.page_language=en_us&_et=233&tfd=38337",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

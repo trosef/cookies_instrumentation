@@ -1,0 +1,11 @@
+[
+  {
+    "url": "https://www.lush.com/us/en_us",
+    "storage": {
+      "localStorage": {},
+      "sessionStorage": {
+        "journey:breadcrumb": "{\"state\":{\"trail\":[],\"anchor\":null},\"version\":0}"
+      }
+    }
+  }
+]

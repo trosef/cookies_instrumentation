@@ -1,0 +1,818 @@
+[
+  {
+    "name": "X-AB",
+    "value": "428b79d905c147e289eb837b2d9eed79",
+    "domain": "sc-static.net",
+    "path": "/scevent.min.js",
+    "expires": 1792625572.495817,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dwsid",
+    "value": "V0RB0qFFvmBRURtKC2z9QmgGqup2JdcVCBUuKWACdDREJOQyo5AucW0YyJOzRjVwXyK8m6GElHuhOsnrAtFQyA==",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bm_so",
+    "value": "DA376FE4F66F7F903C4F90E59C4279BC9C616659EC8560357E91764A012D9564~YAAQMew4F4vRHyOhAQAAURepWwnPiASwBLaS5teGABlij8c7YxGTf2hFVJNmVALjU0AomvrEyTuVv1RcZlRpe2q1xUMXxrvumIm6EHfVqNcBdjFXiNvZmZaQdb2zlW1B5ngv/8qiAVJoCJ+ChJCpFrwtcUbiEvAvQAFeNhN8EmTOt+eWgbJX7VkMG+ZQIjrDW1UZA3buIlMGO5F+QWFrecsWfQ51jw7GFPM8r9dyl9GGKGZbHBj7etQaahzkDLGVDet+GlbG2/pjXJvyHb2RviRwrj7SobWOwpCaZNGRz88o6Fyzys2MZYJslyS+1/4lIONQJDQAHu9kU+FOClDtKt8YUs6gJpTm54Uiu8+mQ4cSpQZvsu5vPyEVjKHka92nPNKCYNOM3zMp8rlOIwDls9ZDtNduEqELBcAejwNVsNS6V/cqYddxK57bso11OgRe1BjajaJY6wLbWb1EkisdAtNrGQMUpTieTB0v+hMVQhA=~6",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1792625570.648435,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dwac_8cd9b022d7269f392c1ffcd8ea",
+    "value": "YKoP0Fk4cWFoE4gmhJZLZl_o5OiOWBgUMVc%3D|dw-only|||USD|false|US%2FPacific|true",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cqcid",
+    "value": "abr1oeUFAaf6niYWYugjOPd3p4",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cquid",
+    "value": "||",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "YKoP0Fk4cWFoE4gmhJZLZl_o5OiOWBgUMVc",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dwanonymous_aa4135988320dfd11a2574fc0fe760c4",
+    "value": "abr1oeUFAaf6niYWYugjOPd3p4",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": 1808091170.921407,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cq_dnt",
+    "value": "0",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dw_dnt",
+    "value": "0",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "5D9EEBF614098DDB7B7E5D2EC108FF17~000000000000000000000000000000~YAAQMew4F6rRHyOhAQAAXxipWwFUeom6yDql43Qby9TRt0lkCnNxGAeQKL/gcebvwR36hCHEgNbDV8HFcxlRti7K16e3CbClvxU6yhbIZvd2Q+R2lYiZWKgi2BZYxPhtC/Qfm3QQv6fO51xt1SYWCqgXlWkcIfpOO4UdFXoA3Yb2N5o/IGnHmjYVMoD5XvnfmKdh/iaGxVqdQVdH+xbGq8BsAWwZe6BpI25Q7bi0PFhgincLriRdawlMe26Dvn6Ru7uLa3y5M6olEsJ0e+qWMgdmc1gAq4FYdI5Agx4Gegc0Ar3t7eULmYbGHiJQ6LBwM3KXNIuN5HUxS+cZvPDGDCmTbJzBZCwgB1vLiYy7cCl7v+O0VfVCRjVcIGXUk9nssJ83z3TqShNQ9u2jg/z95tY=",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1792546370.921465,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_s",
+    "value": "YAAQMew4F6vRHyOhAQAAXxipWwb9UFqFsf1cWO6kadulDAgETuHnaTbyqoilkOgxDUycgng3IwF7OyOqqw3KD3avL+MQ0ZtwTEsPB5cNMi+y2CSHucgKtLvtVWrxQR04kn+kIDaTXtXElIRDgnsL9HmQM/QOegArys6lTXzJWQPm7Mu7Jmmayd85Z//dw2chfL3g61ec7o8FeOGjswZLAkFBA0gGUAkFIgJxUAujafwI1JMIQueqZaWn8fUodZPFZkW6Y21MBt42oaESJDEXLkXtvzSnAaPOGSAjtPEPKx0kWmhZq9XZLxLxKrirdNdsOForaVRfJl4lrNzq0EWXUKkM+IdqOcR20mzNwQt1aq7+Q6CfY9bxRHcBoTrr8ODdBFTeZutuiGeZ8sBHoTYB35tgsKg/elgU1mrH0R1PXaZRuyIjb21WtzA2XPpWqpP+QZUtKJ9LiCpGDUYZNT3M6haKiNfIhq7pWsyUWA3GmDuG533nFlkjF/DZw7ObP5vrTof5goaSTnkwcJp+yk3B8myqN+UV8XLuIcwNFOW8sf2NAT+64DuUDqs2LLfvqxrJWnVhLStPcXAOdX595tGew6sgEKhNrx+7xc+PrUJZFHbwHI452l3TOHGU1W8wi3G2Xkgvees1O+3meoLJOZmPBOlbpJpkhm4xvHhpI/zYSWwQNfq7aad4Ti8fZTzGgjVQpKz61PPWSx+fVEeQGmCd+QPpfHaxalgr3IKmY4i9DKP5804wQS9DyMZGo6KjupwNleg3blfMfTKX8utUaVfurQE+1kwL4WRK+4W2qAIV6xyedP+W5qxmpRRVfq97ASwYKtGP0DicgyXilItAeyRpkeOKvtqz/UGWIkpeZGV15rNFq6FwAEvN9P/Em31E4QcKbCnk6q/YxdjQYwuro/pnnxS4hIw/xmLD3vytqTflKZRtDrt2w1ah9m5yS4qnDCrhXz6kRw==",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1795217570.921492,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pat_web_scope_id",
+    "value": "patagonia",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": 1827099171.526869,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__kla_off",
+    "value": "false",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "65560bab-eb4e-4388-844a-f631d42b358a",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824075172.785273,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XANDR_PANID",
+    "value": "NxRcML-VbXteJ5ay69c5gY4Pr-xWQwzO8QwlNa8Q2vswU0cTjRsVRB_iqkam0qf9fuKXNBCySZ0twS6HFcDD7kU1WxnYqEk8W9vPIwRjMhM.",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800315171.886612,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://patagonia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "uuid2",
+    "value": "5848384387876292481",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800315171.886652,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "flashtalkingad1",
+    "value": "\"GUID=6867EFCBE9907F\"",
+    "domain": ".flashtalking.com",
+    "path": "/",
+    "expires": 1826703171.891488,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_D9J",
+    "value": "153b51d69adf43cb8c187a1e4d8c7303",
+    "domain": ".flashtalking.com",
+    "path": "/",
+    "expires": 1824075171.936962,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_3WAY_SYNCS",
+    "value": "",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797723172.83596,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_TS",
+    "value": "1792539171912",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797723172.835919,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_DID",
+    "value": "6c9ea7ac-d07f-4796-af6c-d8c93adf7498",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797723172.835944,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|WOlz+4duJ6oQ6tsN4U7yVleDCGy54NpQDNsH7sD9LNXwZT71y0sa8fJsFuiiezFDWuqkuoKlPyMwHTRO1/p4iHX0qfg68IpFQAPcN3ARK86Sapl+dqSf4WTaAWpOCEe2uLI1/3xwV0PmRCeuN6NC4k1a1y4sy9ohIKW8PaswOYTREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824075172.032131,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://patagonia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVHBJH68-1S-49SX",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824075172.032174,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVHBJH68-1S-49SX",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824075172.032187,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://patagonia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|WOlz+4duJ6oQ6tsN4U7yVleDCGy54NpQDNsH7sD9LNXwZT71y0sa8fJsFuiiezFDWuqkuoKlPyMwHTRO1/p4iHX0qfg68IpFQAPcN3ARK86Sapl+dqSf4WTaAWpOCEe2uLI1/3xwV0PmRCeuN6NC4k1a1y4sy9ohIKW8PaswOYTREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824075172.032198,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUm2iwCQ1SSYqUtdUyP8WrREm5QpjpV--RzMsFqvkZaa8qAdTPbuzWsEsCIvp00",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827099172.131063,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ABTasty",
+    "value": "uid=0yaw1qsfz7g4e07b&fst=1792539171341&pst=-1&cst=1792539171341&ns=1&pvt=1&pvis=1&th=&eas=",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826757171,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ABTastySession",
+    "value": "mrasn=&lp=https%253A%252F%252Fwww.patagonia.com%252Fhome%252F",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1792540972,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.370761237.1792539172",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1800315172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_1SYPSJZYJ5",
+    "value": "GS2.1.s1792539171$o1$g0$t1792539171$j60$l0$h0",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1827099172.205946,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1095992588.1792539172",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1827099172.20619,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Tue+Oct+20+2026+18%3A32%3A52+GMT-0500+(Central+Daylight+Time)&version=202608.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=32e7081d-ce7e-477a-ba30-7486ec6074a8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.patagonia.com%2Fhome%2F&groups=C0001%3A1%2CC0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0005%3A1",
+    "domain": ".www.patagonia.com",
+    "path": "/",
+    "expires": 1824075172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "CMID",
+    "value": "atf6JNHM72AAFIU8ABaLBAAA",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1824075172.295508,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPS",
+    "value": "386",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800315172.255156,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPRO",
+    "value": "386",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800315172.295538,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_br_uid_2",
+    "value": "uid%3D5397858047084%3Av%3D17.0%3Ats%3D1792539172448%3Ahc%3D1",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1827099172.448465,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "3KyoSyyPhDH9PvAebvuhcwEcHte.1792539172465",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1826235172.482213,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IR_gbd",
+    "value": "patagonia.com",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid",
+    "value": "bQBXoiTnzw4KBx2sUDgkp4EVEzuMziAD",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826667172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid_r",
+    "value": "bQBXoiTnzw4KBx2sUDgkp4EVEzuMziAD",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826667172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_rdt_uuid",
+    "value": "1792539172521.5804687d-7df0-455d-879f-ecd17fbe0412",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1800315172,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "bm_sv",
+    "value": "7A89DC5BCB8CB823092095AF1E53A53C~YAAQL+w4F7A4L0KhAQAA2B6pWwH8ZwbO3lBuF4zPHcW9Ge43qfSlLT7rFj/ZfQDxQcrk5eZbRLZWkLgDdbmp8nxe4YI4aRK8ZmHrTYfS56QfKYlaZ+o9pIyqY26+iG2C7rRK1Fq48qs618/mZs9dEW1xplw+xPg97Ss5/1e1UZrijPwTKs5qk8oPOICJ9YgVKVn/rDVeZh4gafY8ywxR7nB7XyMQHYUvIenTq9NeyYxuHra3KQ0yE5B32sc6HdDRJw2q~1",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1792546371.577196,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826235172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "brwsr",
+    "value": "91cf1648-ccde-11f1-8954-11c03c3a6ed2",
+    "domain": ".pxf.io",
+    "path": "/",
+    "expires": 1824075172.642585,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "irld",
+    "value": "LRdxWsR1JHwGB1xT1%3AiQQHSBC35OyW73NjySjS8vzqFVda1h7",
+    "domain": "patagonia.pxf.io",
+    "path": "/",
+    "expires": 1808091172.642846,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "irtps",
+    "value": "1",
+    "domain": ".pxf.io",
+    "path": "/",
+    "expires": 1792625572.642861,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ttp",
+    "value": "01M5DTJ7S1ESVABHRTEFZM6H5G_.tt.1.1792539172641",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826235172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IR_23649",
+    "value": "1792539172661%7C0%7C1792539172661%7C%7C",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IR_PI",
+    "value": "91cf1648-ccde-11f1-8954-11c03c3a6ed2%7C1792625572664",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1824075172,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "KRTBCOOKIE_377",
+    "value": "6810-65560bab-eb4e-4388-844a-f631d42b358a&KRTB&22918-65560bab-eb4e-4388-844a-f631d42b358a&KRTB&22926-65560bab-eb4e-4388-844a-f631d42b358a&KRTB&23031-65560bab-eb4e-4388-844a-f631d42b358a",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1800315172.681557,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "PugT",
+    "value": "1792539172",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795131172.68158,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tst",
+    "value": "AYhfCtWqbqgv7V4AWmPq6sDkKMyCWvbkC82v878idBxpUlbZ5zRiq7oLCoqcJT0IJcVNOtR9-Fp-Teuf56Q2sALi5rknGlM24V2kdKlfADIFXDxKiF38MoHRPMyl3jW2BdEAWv0LNrgxz8u-Q1MdUMA",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "expires": 1792711972.696158,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pin_unauth",
+    "value": "dWlkPU1EZ3dPR1JsTldRdFlqZ3daaTAwTURRNUxXSXlaREF0TW1WbU16SXhPV05tWVRVeg",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1824075172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "li_sugr",
+    "value": "d59c3d99-e8ff-4e70-8e80-f117c1decc86",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1800315173.195021,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&cbf192ca-59e6-446b-8803-9006db9c533f\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1824075173.195056,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=OGST05:s=O:r=O:a=O:p=O:g=3683:u=1:x=1:i=1792539172:t=1792625572:v=2:sig=AQEnxNxPE2GwKq2DvUjyvsbrfVypMIHX\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792625572.714257,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "7f5qbYHoIY.hu7huQfu7t5lHX3YKDEF01GFd_xg2WIo-1792539172.589736-1.0.1.1-5PyNYFoFY65d_gwsSbEUS1rOcdXN0S89.Wq2VBm7tGqBC6DfQIXBxlhqsHnQVNA12AEot_UNMnUJF_9pagwUghQBpdmYhziWx34mQubxA9YZVgoOhidNZcCSvD3JRjp8",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792540972.714283,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_uetsid",
+    "value": "91dd2240ccde11f1af146f0f5d479bd7",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1792625572,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "91ddbad0ccde11f184eeab0ce7516af8",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826235172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tuuid",
+    "value": "53980ec5-c4f3-4f80-9481-c028f1810066",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824075172.760841,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "c",
+    "value": "1792539172",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824075172.729737,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid_lu",
+    "value": "1792539172",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824075172.760867,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "brwsr",
+    "value": "91dcf8e3-ccde-11f1-9c7a-c9ab0d3f4b7c",
+    "domain": ".ojrq.net",
+    "path": "/",
+    "expires": 1824075172.730067,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__kla_id",
+    "value": "eyJjaWQiOiJNell4Tmprd09UZ3RZVFV6T1MwME5tRmhMV0U0TkRRdE5HUXdOVEEwTVRka05qQTAifQ==",
+    "domain": "www.patagonia.com",
+    "path": "/",
+    "expires": 1827099172.732566,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uuid",
+    "value": "abr1oeUFAaf6niYWYugjOPd3p4",
+    "domain": ".cquotient.com",
+    "path": "/",
+    "expires": 1826667172.737593,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pinterest_ct_ua",
+    "value": "TWc9PSZiK0h4bUk5SFZjcFc3SmY1aDI5RTlpM0lPaTh4SkZXMUU4aHdIK3luaVVpMUdBc2FYZnpFMEZHMmFPNnByWVJITjh2V3N1dDd2Nm9WZ3NpczFqek9tTkIrT2IxRjd1S3BvL3M2NXQyZTZKcz0mUWJURDA0Z1luRUFHRVM3VDc1WHB6UUFXQks0PQ==",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "expires": 1824075172.738013,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cq_uuid",
+    "value": "abr1oeUFAaf6niYWYugjOPd3p4",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826667172.749469,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cq_seg",
+    "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1795131172.749537,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MUID",
+    "value": "0563128CFD49698304EE0574FCEE68FD",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826235172.759773,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".bat.bing.com",
+    "path": "/",
+    "expires": 1793143972.75981,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFwoIYXBwbmV4dXMSCwje1YLej8PXPxAFEhYKB3J1Ymljb24SCwic9oLej8PXPxAFEhUKBmdvb2dsZRILCOCJn-CPw9c_EAUSFQoGY2FzYWxlEgsI6q2f4I_D1z8QBRIXCghwdWJtYXRpYxILCNKF_eOPw9c_EAUSGAoJYmlkc3dpdGNoEgsIyrj944_D1z8QBRgFIAIoBjILCIrU_5Cmw9c_EAVaB2dqdWJxaWVgAXoJCgV0aWVyMxAB",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824075172.785318,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sc_at",
+    "value": "v2|H4sIAAAAAAAA/03GyQ3AQAgDwIqQMBhZpJu9UsUWn2/mNQ7lVqQdsowTtKlx7F3bfWhVNS/oD9RR2VDcX/0DNberokAAAAA=",
+    "domain": ".snapchat.com",
+    "path": "/",
+    "expires": 1826235172.935969,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UserMatchHistory",
+    "value": "AQI9eQ0aImzImgAAAaFbqR-sUK47Q_yzFSYyjajxRfizt5zP_mG5NtPFXmo4NZlsOtS42LGk5kkCjw",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795131172.831808,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AnalyticsSyncHistory",
+    "value": "AQKL3WpV3v78VwAAAaFbqR-sStLtjgT2lSQD4ArRLzrshUylkk-8ugRkBQD0FLWvT7yH5cyC0RuVwFPu2-0SlQ",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795131172.831818,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "fs_lua",
+    "value": "1.1792539172724",
+    "domain": ".www.patagonia.com",
+    "path": "/",
+    "expires": 1792540972,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "fs_uid",
+    "value": "#o-1TAHHW-na1#1ec691b0-d5f4-4db9-a995-c709a94ffb3d:dcfeb0d9-9b0a-43e9-b54a-3244308cddd1:1792539172724::1####/1824075174",
+    "domain": ".www.patagonia.com",
+    "path": "/",
+    "expires": 1824075174,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_sctr",
+    "value": "1%7C1792472400000",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826667172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1792539172650::z91QMTBV_qaZaD7I6jbK.1.1792539172970.0::1.-2155.0::0.0.0.0::0.0.0",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826235172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_D4JMIIRC77U6TA8BNLKG",
+    "value": "1792539172649::ipX-acIctnCvzkhRw2PC.1.1792539172970.0",
+    "domain": ".patagonia.com",
+    "path": "/",
+    "expires": 1826235172,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&20261020233252512a7537-26aa-4e5f-8fdb-9b3b7624aa9eAQFRDWuK5V1_2qo-vYEyZnW9qRIRKAi_\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1824075172.057768,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]
