@@ -1,0 +1,37 @@
+{
+  "website": "https://www.lego.com/en-us",
+  "browser": "Chrome",
+  "condition": "accept",
+  "trial": "2",
+  "startTime": "2026-10-20T23:52:59.368Z",
+  "endTime": "2026-10-20T23:53:46.710Z",
+  "requestCount": 414,
+  "cookieCount": 58,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-20T23:53:11.366Z",
+      "cookieCount": 13,
+      "requestCountSoFar": 129
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-20T23:53:29.265Z",
+      "cookieCount": 58,
+      "requestCountSoFar": 246
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-20T23:53:46.707Z",
+      "cookieCount": 58,
+      "requestCountSoFar": 414
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 223,
+  "errors": []
+}

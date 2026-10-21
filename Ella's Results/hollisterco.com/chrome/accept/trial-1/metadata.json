@@ -1,0 +1,37 @@
+{
+  "website": "https://www.hollisterco.com/",
+  "browser": "Chrome",
+  "condition": "accept",
+  "trial": "1",
+  "startTime": "2026-10-18T18:36:24.546Z",
+  "endTime": "2026-10-18T18:37:42.566Z",
+  "requestCount": 1729,
+  "cookieCount": 114,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-18T18:36:36.661Z",
+      "cookieCount": 82,
+      "requestCountSoFar": 457
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-18T18:36:48.067Z",
+      "cookieCount": 82,
+      "requestCountSoFar": 470
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-18T18:37:42.561Z",
+      "cookieCount": 114,
+      "requestCountSoFar": 1729
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 1477,
+  "errors": []
+}
