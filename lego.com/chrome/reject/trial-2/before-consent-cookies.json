@@ -1,0 +1,134 @@
+[
+  {
+    "name": "original_country",
+    "value": "US",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "locale",
+    "value": "en-US",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1800489245.711961,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "country",
+    "value": "US",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1800489245.712212,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "zeLkhrSb84MYfUWHKDW7_o7db2qAgApOt.7fwMTmtNQ-1792540445.6383803-1.0.1.1-L7gP2enec_RBfBJC9MR2eBND2VvE4cibskmsSJKYU.o",
+    "domain": ".www.lego.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "fff_id",
+    "value": "8f0e92d4-54d0-41a8-8caa-0cf1fc769853",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1824076447,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "session_cookie_id",
+    "value": "krfq4fyEekD00dmq8z6kB",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "USER_GUID",
+    "value": "1327df9f-e1c1-476b-aebd-cb81c1c89ec4",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1824076447,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_sp_ses.efcf",
+    "value": "*",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1792542246,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_sp_id.efcf",
+    "value": "ff1029aa-ceef-4845-977d-2ccd772fe252.1792540446.1.1792540446..ec51361c-db35-4af0-8fdb-891cc2d86853....0",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": 1827100446.401195,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cfwaitingroom",
+    "value": "ChhEMGRNTkw2SDh3TnJPTUJ3TER4VVh3PT0SgAJ5NW1YbGpVWnVQZHdZZlVWTTd5YjNQU2RXbEtmVjN5OUt3NG55b3BvNjRSdTBmeEVDOTlhcnhpQlc4RXBUMUJSbGFXVU9hWWk3aWNXTjkvNmZ0RVRDN0c0Z0tVU1VJRUZmNEpld3VPMDJoM1FLZlV2bnM4MjZoNEsyak52S1MzWkEyUndvbGh1TnFDSUxCNUlGaHM4T2thWTJSREpMTGsydUQ4aDlXM2tqdzZVM1NDSXRaVzBDS3JVVzdRZFRWQ29FL1FnYWlVZU9CRFJXSTR5N2crRmhoOWNKOGJMYzVSTXVWMHpIT2NDanFEUDN5QzJLdEhBRmwrUVlqSkk5eUZK",
+    "domain": ".www.lego.com",
+    "path": "/",
+    "expires": 1792540746.517019,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://lego.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "gqauth",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InB1YiI6e30sInB2dCI6ImFSclU1WDFROE1pZ3ppUTJNOVJBcHRHZUtTaGZpNWdRV3VoRGp2bEM5dit0d1FxeVpKQ0dFRnBEUDZreEJMU00zSGlQNlhUWWpWVWplWFR1WnNtOU9yalovUG1BKzRCSDNXZEcydGFnZzhmNmxLNmxGNEtIMnNReWNnbVlpV3BWOGNnTmlnenB3dVhUZ2g4TGhBNGtHeG9EaXhhaVNHRWg0aFVBcm1JYi9uS2VMUXo5WHN6RzBnOXdFQ0pyMytGTlVnOWt0eXJubEkwdVB5ZCszOWxKY2U2bmoycGJudjdKRkxWc2hRYkNaOWVveVZaRmp3V0huWVFaT1lQaGtjY2lqRE5RbFNpZEMwRXgxTzQ4ZCt3aWRyT1JROUVEdERLK1pKVzdEanZXWVo5V1o3b0I5R3gvWVplQWd6WUF3NTNWYjdnOTJNQVlnUGxQLzhGMmw3dlRsVitJZG00VkNacmhTU1hlSnIxNkZLRjlYamw4VGdzZHlIKytWZyt3SjJrRHhCMmpvd281ZkFwTm5nMFk1Nk9SbElnMkRjNWhWUzRNVEcrYTgxbFhlZWVBWEpxT0lUOVJjQ0JJS3BYR2xtcFpsVHJDTmo4UEdhMGxzWHJpTmxJaVMzSCtEM0lRMWR0bkVYZytKcSs4N0pCVUFNQ1RHekVyeFNQbFVNQ3hncEVLZmlzWHhiNVY0ODYyK1haZDdpR2RhTy9yOGlYNTNXRWJkUFNXZkxsSERkamxJQnk0elFFVW5vcmZibVY0RGtWNC43enJSeGhhaDN5N29KK2dvTFZmKzJRPT0ifSwiaWF0IjoxNzkyNTQwNDQ2LCJleHAiOjE3OTI1NTEyNDV9.HmXr71nlYL4x_kdVJcQBp_WpktqGQwoqRfsfbm6PQ9U",
+    "domain": "www.lego.com",
+    "path": "/",
+    "expires": 1824076446,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "search_session",
+    "value": "%7B%22timestamp%22%3A1792542247000%2C%22data%22%3A%7B%22id%22%3A1%7D%7D",
+    "domain": ".lego.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "8HIygWwhbZ9cbW4p4NPapzFHRtWmMfN4Pb41K8ahQjI-1792540447.2904904-1.0.1.1-y3ItEAFSpPJcdE1o4yfmo_n72bdFyooNreOAaU4cBnQM_aUcBgu8JVlwwWu0UVgVh2PFF.HONhMd4VXmrWeG3K4jbrtq11pRg8znekYaX3pgMGcctTFOIcZQQ4My4gKY",
+    "domain": ".www.lego.com",
+    "path": "/",
+    "expires": 1792542247.522631,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

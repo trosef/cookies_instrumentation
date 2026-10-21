@@ -1,0 +1,1978 @@
+[
+  {
+    "timestamp": "2026-10-20T23:54:05.558Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/en-us",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.758Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.758Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/ecd35e575451c7de.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/970a339ac7254ba5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/7fd37e653f6c1627.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/ebc9f7a1926fcde9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/6ad8b51f8b1d31b5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/1afa6298553013bd.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/3eef6008af3fee52.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/f527d6336309cb0e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/2c221a664ceefb9c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/4ef55e14adf238ac.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/8f0ce389dc029abc.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/newrelic.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/2313.470bd4bd61246f65.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/4507.33c949fd8e9f2d80.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/7184.702efd29580f3eff.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/437.9bfdd38b633f29c8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/885.927f6740771afc4c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/6367.c0b298d38b5306d0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/4280.c8a0f9c1dfb88522.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/9611.c9d53ca2ef6720e3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/3123.6634c00737896cfd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/135.ea3b1f4274e1d974.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/7471.0d2c75c744c721a6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/webpack-295a01f55d1d3979.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/framework-83b22b52f08d3dd0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/main-079e8c21eee8b538.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/pages/_app-39c81ecbcdd1af19.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/6576-3186026e253be4fe.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/1828-f9334e7be238f8a8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/995-d8be4d278ceeb070.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/5128-cf83537d479deace.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/pages/%5Blocale%5D-a4b0244255939360.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.761Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/m08RHG0ELoMHp18TNQokL/_buildManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.761Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/m08RHG0ELoMHp18TNQokL/_ssgManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.761Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/logos/v4.10.0/brand-lego.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/DesktopNav.astro_astro_type_script_index_0_lang.U4fHFkC3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/thumbnails/latest/interest-thumbnail-all.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Header.astro_astro_type_script_index_0_lang.DEcXOZJV.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Header.astro_astro_type_script_index_1_lang.Dbdf92nl.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt9e0fe8da3e72b934/blte26f9ba4a81ea64b-.Place_Artwork_Here.png?format=webply&fit=crop&quality=75&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.762Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfc08b8a49a3f3c0b/Project-2026XX-Page-HighlightProductBanner-PeekingImage.png?format=webply&fit=crop&quality=75&width=161&height=433&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.778Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Footer.astro_astro_type_script_index_0_lang.GRSliRpi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Header.load.client.CQoa7xl5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:05.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/client.Co_UjMOc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.003Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/control-close.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.003Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.003Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-down.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.017Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/magnifying-glass-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.017Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/account-profile.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.017Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/heart.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.017Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/shopping-bag.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.018Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Navigation.store.CLpnveen.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.027Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Footer.client.DyQ52fsj.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-right.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/brick-breaker-banner-styles/latest/downSlope3-desktop-v1.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-left-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-right-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/control-plus-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.049Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/location-dot.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/facebook.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/instagram.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/youtube.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/tiktok.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-BoldItalic.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/birthday-cake.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/brick-one-by-one-iso.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/star-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt16dcde6f67f1a0e7/New-Generic-202508-Home-Quicklink-Advanced_1.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt5956113685fb44d9/GenericExclusive3-202511-Home-Quick-Link_Advanced.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt700376e22277a7bc/Updated-Home-AdvQuicklink-202504-Offers.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt05ec0c4c1d51f600/star_wars_atat_jan_26.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt3945fd57b46c8b35/bltabfa3b3953dba755-Project-2026XX-Page-Quick-Link_Advanced.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/bltbab5f97e95bd5b38/blt008bf36819a15f3f-Project-2026XX-Page-Quick-Link_Advanced.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/blt8ffa5e27c2f5c3fe/AQL-update-202601-370x522-Bestsellers.jpg?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/shopper-domain-terms/assets/bltee52365f8fb74017/blt8209d1f8aea2c9f5-.Place_Artwork_Here_1.png?format=webply&fit=crop&quality=75&width=202&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfd7ab6765ac5f1a1/11387_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt027dd971da05e450/blt5831cca8505c1f87-72306_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltad314f25ee503191/21373_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd4bcece36ae19cab/blt6caf97af32ad6473-40874_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt3f63be50d91997bd/bltf1df1459ba3b1736-40875_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte0b3c699c81b31ad/blt2b3eb4df7154d352-40865_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte4ce7b4eb8d04300/bltef325e4d60641b11-40866_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfcc4bac4e2ed6bab/blt84e1e3aa7909b62f-21369_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt0a0c0d2edcee8331/11372_square_still_life.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd2985120a1b48da9/11505_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.052Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt96e12993e7229fc3/42705_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.055Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/adobeLaunch.CWLOkqGc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.056Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/uec.KpHU9-Z-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.060Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/Header.idle.client.uL7aKBR4.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/formatPoints.DKC4apcC.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/vendor.CoStullf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/utils-CEZVB2uB.D_KDWHez.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/user.C63Oll06.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/signals.CmHDBVn8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.061Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/skroll.93FZcr4C.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/ConsentButton.client.CpINjEAj.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/OptOutButton.client.BhvJIYYj.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.142Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_islands/assets/consent.DQe00WJm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.182Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/sitewideBanner",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-1.316.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.423Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Localization",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.424Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/launch-EN3afcd11904874083bf4a6f01b995e349.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.424Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Login",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.424Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt3e8dc492e10988fa/Giftgiving-202504-Home-Content-Block-Standard.jpg?format=avif&quality=1&width=50",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.439Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.687Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Flags",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.687Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/UserConsentPreferences",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.691Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/UserQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.711Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/en-us/gifts/halloween.json?locale=en-us&slug=halloween",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.711Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1152&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b&af=err,spa,xhr,stn,ins&be=156&fe=614&dc=607&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792540445555,%22n%22:0,%22f%22:1,%22dn%22:1,%22dne%22:14,%22c%22:14,%22s%22:39,%22ce%22:69,%22rq%22:69,%22rp%22:157,%22rpe%22:222,%22di%22:503,%22ds%22:763,%22de%22:763,%22dc%22:769,%22l%22:769,%22le%22:770%7D,%22navigation%22:%7B%7D%7D&fp=464&fcp=464",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.881Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1325&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.881Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/jserrors/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1326&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.882Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1326&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.882Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1327&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:06.883Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/ins/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=1327&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.005Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/productRecommenderQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.005Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/en-us.json?locale=en-us&age-gate=grown_up",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.058Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ConsentModalSettings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.064Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/970a339ac7254ba5.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.075Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.097Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/brick-18a296d081686c71..png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.097Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/bag-e60e9e72622694a9..png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.097Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/support-b5f37ccf1686edb3..png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.097Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.lego.com/logos/v4.5.0/brand-lego.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.097Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/play-zone-e31c48d88156eb53..webp",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.277Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/UserConsentPreferences",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:07.547Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Localization",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.031Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/7555-0bc9f1bd0aba8df1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.031Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/7286-a4d7bd81306322a5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/5601-caf7b1685f245794.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/7110-fed5c955872a30ef.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/9447-15d1b9f05af43ae4.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/pages/%5Blocale%5D/gifts/%5Bslug%5D-4f0334a3651cbdf7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/398adac5c74c1526.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:08.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/d9d3af10a1791834.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:20.259Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://allowed-countries.scout.services.lego.com/?app_key=62cf12ec-1dfc-4d33-b52e-c1a42e9ee428",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:20.259Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/en-us.json?locale=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:20.311Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:20.341Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.lego.com/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:22.019Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:22.019Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/SaveConsentMutation",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:22.019Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:22.183Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:24.030Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.lego.com/api/uec/v1/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:32.042Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.409Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltcdb61bdaa64f8e9c/76787_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.409Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt558defc2f6374254/40975_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.883Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31318&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.884Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/jserrors/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31320&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.884Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31322&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.884Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31324&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:36.885Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/ins/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31325&ck=0&s=b7fefe40c7110df7&ref=https://www.lego.com/en-us&ptid=e5a3b094fd88462b",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:37.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltbb03bb17e88b2422/blt84ffeb57a9a21008-Home_EX-SKU-2025XX-Home-LS-Hero-Standard-Large.png?format=webply&fit=crop&quality=75&width=1600&height=700&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:37.352Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt0b2125e32d87ef3d/bltfa2124b30193c6a5-Home_EX-SKU-2025XX-Home-SL-Hero-Standard-Large.jpg?format=webply&fit=crop&quality=75&width=1600&height=700&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:37.392Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/logos/v8.9.0/sp-logo-black-all-in-one-en.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.492Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/en-us/product/holiday-house-11387.json?locale=en-us&product=holiday-house-11387",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/307-94cad0548b7aabda.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/3606-6660e4d547d16d80.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/620-e3e6223a010a716e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/pages/%5Blocale%5D/product/%5Bproduct%5D-3af4e445abfc7dbf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.546Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/6b18f6684e2f2008.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.576Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.577Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.694Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:38.715Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Localization",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.002Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/api/graphql/ProductDetails?variables=%7B%22slug%22%3A%22holiday-house-11387%22%7D&extensions=%7B%22locale%22%3A%22en-US%22%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22bc9f65ff1301bd210c5b246749a3622e13c325f660b9687f9b9ed68900404756%22%7D%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.230Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/0e56d91acc56d988.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/4994.8c299ed8823a7d01.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/play-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/stacked-images.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-left.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/brick-two-by-two-instructions.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/control-minus.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/circle-info.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/insiders-points-visual-device.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/received.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-down-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta35c925771c1c082/11387.0012.png?format=webply&fit=bounds&quality=75&width=800&height=450&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd40f94749c93f523/11387_ShopperVideo_16x9_Thumbnail.png?format=webply&fit=bounds&quality=75&width=800&height=450&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/points-87b112a181802dce..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/rewards-07455083a0293286..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/gwp-66bb607e54ff48e0..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt22b7db1933ef70df/11387_Prod.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfd7ab6765ac5f1a1/11387_Prod.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.231Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf35d63b76bdd42a3/11387_boxprod_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/PdpPromotionResult",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/productRecommenderQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/productRecommenderQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ProductPromotions",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-MediumItalic.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/api/graphql/ProductReviewStatisticsQuery?variables=%7B%22productCode%22%3A%2211387%22%2C%22reviewFilters%22%3A%5B%5D%2C%22sort%22%3A%22MOST_RELEVANT%22%2C%22reviewsPerPage%22%3A1%2C%22offset%22%3A0%7D&extensions=%7B%22locale%22%3A%22en-US%22%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22d3a346dd8dea5594b65a2c74527debe2a5e495a6aba9383df594b1d65d7cf363%22%7D%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf069681054c66e98/blt6b694def74cda761-Hero_Superhero.png?format=webply&fit=crop&quality=75&width=1600&height=200&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd501bfc06dc7ba14/blt84443ab96e37b829-Hero_Superhero.png?format=webply&fit=crop&quality=75&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltdd64c8bcdf0166b3/blt61ba365b7a18d6fa-Hero_Superhero.jpg?format=webply&fit=crop&quality=75&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltce767034f5200c55/PAB_Collection_Christmas_Desktop.jpg?format=webply&fit=crop&quality=100&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.232Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.241Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-RegularItalic.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta35c925771c1c082/11387.0012.png?format=webply&fit=bounds&quality=75&width=160&height=90&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7c9332ed5ec6017d/icons-logo-pos-600w.png?format=webply&fit=crop&quality=75&width=200&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfd7ab6765ac5f1a1/11387_Prod.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf35d63b76bdd42a3/11387_boxprod_v39.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta23a18dc4ff74a00/11387_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt202f9f1b47ce5158/11387_WEB_SEC02_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt438315c213ddf946/11387_WEB_SEC03_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltc3a492571212a7ca/11387_WEB_SEC04_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltb0fc399d5c704d78/11387_WEB_SEC05_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt5713b70bc146a6db/11387_WEB_SEC06_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt64d7694cb8e0f4f8/11387_WEB_SEC07_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt4a009c26a14edd40/11387_WEB_SEC08_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltdfc1074766040963/11387_Lifestyle_Build_01.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7aa3795800bca3bb/11387_Lifestyle_Build_02.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2f774038589f6053/11387_Lifestyle_Build_04.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.243Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt1269c7486d914966/11387_Lifestyle_Build_05.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte135cd8ba5550832/11387_Lifestyle_Build_06.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte8712b5e810b8752/11387_Lifestyle_Build_07.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt0b0113e715bcb4c8/11387_Lifestyle_Envr_01.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt5ca7c63c4071b099/11387_Lifestyle_Envr_02.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt74650c6e7cbf7e8f/11387_Lifestyle_Envr_03.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltb697b4a1970895e7/11387_360_SoMe.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.244Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt77c1c84d191b9b29/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_US.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.257Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7cbe8ebfc663d1fc/bltb18cc523369548b2-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.257Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7c1f9375c27e5ed3/blt6646d23a7988f65a-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=400&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.553Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/trustmark_en-14c82d4f33b80351..png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.588Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/gift.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.588Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt087d74cd74f8509f/40772_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=100&height=100&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:39.588Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltc5e43a3546405f83/bltf41f1e48b90ad34f-30717_Prod.png?format=webply&fit=bounds&quality=75&width=100&height=100&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:40.027Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/uec/v1/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:40.136Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd40f94749c93f523/11387_ShopperVideo_16x9_Thumbnail.png?format=webply&fit=bounds&quality=75&width=160&height=90&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:40.229Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt436e363ddc804167/11387_Box5_v39.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.203Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.203Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.254Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.255Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.379Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.447Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/[locale]/product/[product].json?locale=%5Blocale%5D&product=%5Bproduct%5D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.668Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/pause-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.757Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:41.908Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt8e2b68539e476ad5/blt6fe022d44359e5ff-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=400&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:45.261Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7a6fc4143082898d/bltcfca1e7974173b84-21372_Prod_en-gb.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:45.261Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltaf15f7318ac0ba98/blt21fb8295f9caaf81-11383_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:45.261Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt9956e5fb469cf0ea/blt41320ab511b43baa-21330_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:45.262Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt6d4c85ec676b3157/40806_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:54:49.237Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

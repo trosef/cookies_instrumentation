@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2026-10-20T23:53:19.183Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/ZMAwryCI?redir=https%3A%2F%2Fdsum-sec.casalemedia.com%2Frum%3Fcm_dsp_id%3D88%26external_user_id%3D%24%7BTM_USER_ID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.266Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s51964599856268?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A18%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&ch=lego%20shop&server=LEGO.com&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&c3=D%3Dv3&v3=lego&c4=D%3Dv4&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Alego%20shop&c39=D%3Dv74&v53=false&c72=homepage&v72=homepage&v74=https%3A%2F%2Fwww.lego.com%2Fen-us&v248=20-10-2026&v249=18%3A53%3A18&v250=GMT-0500&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.282Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=88&external_user_id=atf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.285Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/UH6TUt9n?redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D158%26code%3D%24%7BTM_USER_ID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.310Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/setuid?entity=158&code=atf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.387Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/ny75r2x0?redir=https%3A%2F%2Fus-u.openx.net%2Fw%2F1.0%2Fsd%3Fid%3D537148856%26val%3D%24%7BTM_USER_ID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.412Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fsetuid%3Fentity%3D158%26code%3Datf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.413Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=88&external_user_id=atf_7gAAADjnFROe&C=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.413Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537148856&val=atf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.482Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?cc=1&id=537148856&val=atf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.489Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/b9pj45k4?redir=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA%3D%26piggybackCookie%3D%24%7BUSER_ID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.513Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjE5MSZ0bD0yNTkyMDA=&piggybackCookie=atf_7gAAADjnFROe",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.593Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/h0r58thg?redir=https%3A%2F%2Fsync.search.spotxchange.com%2Fpartner%3Fadv_id%3D6409%26uid%3D%24%7BUSER_ID%7D%26img%3D1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.620Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.search.spotxchange.com/partner?adv_id=6409&uid=atf_7gAAADjnFROe&img=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.651Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.lego.com/api/uec/v1/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.695Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync-tm.everesttech.net/upi/pid/r7ifn0SL?redir=https%3A%2F%2Fwww.facebook.com%2Ffr%2Fb.php%3Fp%3D1531105787105294%26e%3D%24%7BTM_USER_ID%7D%26t%3D2592000%26o%3D0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:19.810Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.facebook.com/fr/b.php?p=1531105787105294&e=atf_7gAAADjnFROe&t=2592000&o=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:22.406Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/lgs/api/v1/logs",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:22.482Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540402476&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&P=2&N=2&S=1391&b=8425&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:22.482Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540402477&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&N=1&Q=2&S=2668&b=141&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:27.667Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:27.668Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://c.scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

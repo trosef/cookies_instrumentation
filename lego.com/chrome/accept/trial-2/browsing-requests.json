@@ -1,0 +1,1322 @@
+[
+  {
+    "timestamp": "2026-10-20T23:53:29.481Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540409478&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&P=3&N=3&S=9816&b=873&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.577Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31286&ck=0&s=af23ee59c9a51370&ref=https://www.lego.com/en-us&ptid=1b30c09a338205be",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.578Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/jserrors/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31288&ck=0&s=af23ee59c9a51370&ref=https://www.lego.com/en-us&ptid=1b30c09a338205be",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.578Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31290&ck=0&s=af23ee59c9a51370&ref=https://www.lego.com/en-us&ptid=1b30c09a338205be",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.578Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31292&ck=0&s=af23ee59c9a51370&ref=https://www.lego.com/en-us&ptid=1b30c09a338205be",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.579Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/ins/1/df07c5d304?a=103247242&sa=1&v=1.316.0&t=Unnamed%20Transaction&rst=31293&ck=0&s=af23ee59c9a51370&ref=https://www.lego.com/en-us&ptid=1b30c09a338205be",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltcdb61bdaa64f8e9c/76787_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:31.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt558defc2f6374254/40975_Square.jpg?format=webply&fit=crop&quality=75&width=750&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:32.982Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540412980&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&P=4&N=4&S=10689&b=4181&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:32.983Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540412980&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&N=2&Q=2&S=2809&b=41&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:33.036Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltbb03bb17e88b2422/blt84ffeb57a9a21008-Home_EX-SKU-2025XX-Home-LS-Hero-Standard-Large.png?format=webply&fit=crop&quality=75&width=1600&height=700&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:33.036Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt0b2125e32d87ef3d/bltfa2124b30193c6a5-Home_EX-SKU-2025XX-Home-SL-Hero-Standard-Large.jpg?format=webply&fit=crop&quality=75&width=1600&height=700&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:33.060Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/logos/v8.9.0/sp-logo-black-all-in-one-en.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.387Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/en-us/product/holiday-house-11387.json?locale=en-us&product=holiday-house-11387",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.492Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.492Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://c.scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.492Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s57950891119969?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A34%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Alego%20shop&v33=product-leaf&v38=New%3A&c39=D%3Dv74&v50=lego%20shop%3ANew%3A&v53=false&v54=click&v59=lego%20shop%3Aproduct-leaf%3A11387%3A&v74=https%3A%2F%2Fwww.lego.com%2Fen-us&v81=product-leaf%3A11387&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=cta_click&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&lrt=70&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.494Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.515Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/307-94cad0548b7aabda.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.515Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/3606-6660e4d547d16d80.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.515Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/620-e3e6223a010a716e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.515Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/pages/%5Blocale%5D/product/%5Bproduct%5D-3af4e445abfc7dbf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.515Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/6b18f6684e2f2008.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.527Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s51802440113700?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A34%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Alego%20shop&v33=tabbed-product-carousel&v35=standard&v38=tabbed-product-carousel%3Asection-carousel-non-insider-us%3Atab-carousel-non-insider-us-featured%3Anew-exclusive&c39=D%3Dv74&v39=tabbed-product-carousel%3Ablt636e37950835766e&v50=lego%20shop%3Atabbed-product-carousel%3Asection-carousel-non-insider-us%3Atab-carousel-non-insider-us-featured%3Anew-exclusive&v51=product-listing&v53=false&v54=tabbed-product-carousel%3Asection-carousel-non-insider-us%3Atab-carousel-non-insider-us-featured%3Anew-exclusive%3A11387%3A1&v59=lego%20shop%3Atabbed-product-carousel%3Asection-carousel-non-insider-us%3Atab-carousel-non-insider-us-featured%3A11387%3A1%3A&v74=https%3A%2F%2Fwww.lego.com%2Fen-us&v81=tabbed-product-carousel%3Asection-carousel-non-insider-us%3Atab-carousel-non-insider-us-featured%3A11387%3A1&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=cta_click&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.629Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:34.643Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Localization",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.058Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/api/graphql/ProductDetails?variables=%7B%22slug%22%3A%22holiday-house-11387%22%7D&extensions=%7B%22locale%22%3A%22en-US%22%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22bc9f65ff1301bd210c5b246749a3622e13c325f660b9687f9b9ed68900404756%22%7D%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.639Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/823275890/?random=1792540415625&cv=11&fst=1792540415625&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.640Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/823275890/?random=1792540415625&cv=11&fst=1792540415625&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.640Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=0&auid=1220952129.1792540398&tid=AW-823275890&en=page_view&dl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&scrsrc=www.googletagmanager.com&rnd=541971548.1792540398&navt=n&npa=0&ae=a&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcs=G110&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792540415638&tfd=35357&tids=AW-823275890&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.678Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540415639&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&N=3&Q=2&S=2850&b=3611&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.679Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us&t=1792540398901&v=1792540415640&H=effed76a35dcdac1fe4c46f3&s=8657028088f34dcd8918ea47932fe9b2&P=5&N=5&S=14870&b=22153&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.686Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540415668&s=8657028088f34dcd8918ea47932fe9b2&U=d055abc535eac96d15e33a6a570e1b63&Q=1&Y=1&X=ad2307de87ba45319e363452de4b4638&S=0&b=697044&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.686Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540415670&s=8657028088f34dcd8918ea47932fe9b2&U=d055abc535eac96d15e33a6a570e1b63&P=0&N=0&S=0&b=1089&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.686Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/uec/v1/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.686Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/823275890/?random=1792540415625&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&ae=a&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3GKlgBwKh_MkIuBpwl-EfUZ0xUCQnUmC4XKGZE0YAfoaEBjv_XOb1LDJElvOiAQfdEd_Jz4ke3k8o_qDR8ntwV5wps6jZOwXDuX8w5hmtXKw9qN1gI857nnYGRaGmj3S70I5568_22clB_VvL6mGTNxGza68LJX04PFbeI1SD4Uhr-Ui95npq12rxERrTZ-mWq6gH2BoHVge3PFORnOV5t4if3lg_sEJPaz3nanoNBI4z15DhEek56TYFrxpNK91ygWrKW1Fqlo1H_ipTwZVjAOYfCHMyFPMcZScrtPZ&random=3194017680&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/css/0e56d91acc56d988.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/chunks/4994.8c299ed8823a7d01.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/play-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/stacked-images.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-left.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/brick-two-by-two-instructions.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/control-minus.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/circle-info.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/insiders-points-visual-device.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/received.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.813Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/chevron-down-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/Localization",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta35c925771c1c082/11387.0012.png?format=webply&fit=bounds&quality=75&width=800&height=450&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd40f94749c93f523/11387_ShopperVideo_16x9_Thumbnail.png?format=webply&fit=bounds&quality=75&width=800&height=450&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/points-87b112a181802dce..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/rewards-07455083a0293286..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/gwp-66bb607e54ff48e0..svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt22b7db1933ef70df/11387_Prod.png?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfd7ab6765ac5f1a1/11387_Prod.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf35d63b76bdd42a3/11387_boxprod_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ExperimentVariationV2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/PdpPromotionResult",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.814Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ExperimentVariationV2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/productRecommenderQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/productRecommenderQuery",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ExperimentVariationV2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ProductPromotions",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-RegularItalic.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/fonts/v3/cera-pro/CeraPro-MediumItalic.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/api/graphql/ProductReviewStatisticsQuery?variables=%7B%22productCode%22%3A%2211387%22%2C%22reviewFilters%22%3A%5B%5D%2C%22sort%22%3A%22MOST_RELEVANT%22%2C%22reviewsPerPage%22%3A1%2C%22offset%22%3A0%7D&extensions=%7B%22locale%22%3A%22en-US%22%2C%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22d3a346dd8dea5594b65a2c74527debe2a5e495a6aba9383df594b1d65d7cf363%22%7D%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/823275890/?random=1792540415804&cv=11&fst=1792540415804&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&tiba=Holiday%20House%2011387%20%7C%20LEGO%C2%AE%20Icons%20%7C%20Buy%20online%20at%20the%20Official%20LEGO%C2%AE%20Shop%20US&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view%3Becomm_pagetype%3Dproduct&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/823275890/?random=1792540415804&cv=11&fst=1792540415804&fmt=8&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&tiba=Holiday%20House%2011387%20%7C%20LEGO%C2%AE%20Icons%20%7C%20Buy%20online%20at%20the%20Official%20LEGO%C2%AE%20Shop%20US&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view%3Becomm_pagetype%3Dproduct&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/113bc1fcf650/3c16da378851/9f4a05752db2/RCd8837f5202ec417499d8fc8817f8d55b-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf069681054c66e98/blt6b694def74cda761-Hero_Superhero.png?format=webply&fit=crop&quality=75&width=1600&height=200&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltd501bfc06dc7ba14/blt84443ab96e37b829-Hero_Superhero.png?format=webply&fit=crop&quality=75&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltdd64c8bcdf0166b3/blt61ba365b7a18d6fa-Hero_Superhero.jpg?format=webply&fit=crop&quality=75&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltce767034f5200c55/PAB_Collection_Christmas_Desktop.jpg?format=webply&fit=crop&quality=100&width=1600&height=500&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=0&auid=1220952129.1792540398&dt=Holiday%20House%2011387%20%7C%20LEGO%C2%AE%20Icons%20%7C%20Buy%20online%20at%20the%20Official%20LEGO%C2%AE%20Shop%20US&tid=AW-823275890&en=page_view&dl=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&scrsrc=www.googletagmanager.com&rnd=541971548.1792540398&navt=n&npa=0&ep.ecomm_pagetype=product&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcs=G110&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792540415810&tfd=35529&tids=AW-823275890&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/graphql/ExperimentVariationV2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://c.scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.815Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://scout.services.lego.com/com.snowplowanalytics.snowplow/tp2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta35c925771c1c082/11387.0012.png?format=webply&fit=bounds&quality=75&width=160&height=90&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7c9332ed5ec6017d/icons-logo-pos-600w.png?format=webply&fit=crop&quality=75&width=200&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltfd7ab6765ac5f1a1/11387_Prod.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltf35d63b76bdd42a3/11387_boxprod_v39.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blta23a18dc4ff74a00/11387_WEB_SEC01_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt202f9f1b47ce5158/11387_WEB_SEC02_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt438315c213ddf946/11387_WEB_SEC03_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.825Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltc3a492571212a7ca/11387_WEB_SEC04_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltb0fc399d5c704d78/11387_WEB_SEC05_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt5713b70bc146a6db/11387_WEB_SEC06_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt64d7694cb8e0f4f8/11387_WEB_SEC07_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt4a009c26a14edd40/11387_WEB_SEC08_NOBG.png?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltdfc1074766040963/11387_Lifestyle_Build_01.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7aa3795800bca3bb/11387_Lifestyle_Build_02.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2f774038589f6053/11387_Lifestyle_Build_04.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt1269c7486d914966/11387_Lifestyle_Build_05.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte135cd8ba5550832/11387_Lifestyle_Build_06.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blte8712b5e810b8752/11387_Lifestyle_Build_07.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt0b0113e715bcb4c8/11387_Lifestyle_Envr_01.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt5ca7c63c4071b099/11387_Lifestyle_Envr_02.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.826Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt74650c6e7cbf7e8f/11387_Lifestyle_Envr_03.jpg?format=webply&fit=bounds&quality=75&width=170&height=170&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.828Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltb697b4a1970895e7/11387_360_SoMe.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.828Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt77c1c84d191b9b29/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_US.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.857Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7cbe8ebfc663d1fc/bltb18cc523369548b2-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=800&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.857Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7c1f9375c27e5ed3/blt6646d23a7988f65a-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=400&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.876Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/113bc1fcf650/3c16da378851/9f4a05752db2/RCcbc9390af64a4c82b9a15c44e4ff5eae-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.876Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/823275890/?random=1792540415804&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=page_view&gtm=45be6aj1v894751188za200zd894751188xecxf1&gcd=13v3q3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&ref=https%3A%2F%2Fwww.lego.com%2Fen-us&rcb=13&frm=0&tiba=Holiday%20House%2011387%20%7C%20LEGO%C2%AE%20Icons%20%7C%20Buy%20online%20at%20the%20Official%20LEGO%C2%AE%20Shop%20US&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1220952129.1792540398&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&data=event%3Dpage_view%3Becomm_pagetype%3Dproduct&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3G1dR3mYzlaP9PvT4lki75GegEk9LMt9jaT-ltBie96azBIjUzhO79vKtGvEQf2w7k5eClDgtxpuS5nggCC9_03ONYDgXZEfRMwsuEsrSSZhTMPhaK0Br7qnJDKIif4J91rKLkkXeYHfJ-2yMtU8L0KsxbzXfEqxstToA9_v6UlJXN6WHs1HA9KwSC_T5UGTxLqNFPkW0Jf5MW5QNDGLsg8plj3BJ_vX2iUrMTWgth5Do5W33g7vrAaPu33k09fSx_S_eI6ArlQiXhLTQnmi7eqzHPidQUfAVl6pAStv&random=1693243681&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.894Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540415879&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&U=d055abc535eac96d15e33a6a570e1b63&N=0&Q=2&S=0&b=1867&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.897Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540415881&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&P=1&N=1&S=0&b=519572&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.912Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/static/images/trustmark_en-14c82d4f33b80351..png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.950Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=20122873&Ver=2&mid=fc08c740-eae1-404a-a44c-641036ce4b9b&bo=3&evt=pageHide&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.951Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=20122873&Ver=2&mid=a5f1f52b-c829-4e35-ac0b-41eac052bda8&bo=1&page_path=%2Fen-us%2Fproduct%2Fholiday-house-11387&spa=Y&p=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Holiday%20House%2011387%20%7C%20LEGO%C2%AE%20Icons%20%7C%20Buy%20online%20at%20the%20Official%20LEGO%C2%AE%20Shop%20US&r=https%3A%2F%2Fwww.lego.com%2Fen-us&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=987037",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.951Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=20122873&Ver=2&mid=a5f1f52b-c829-4e35-ac0b-41eac052bda8&bo=2&prodid=6589571&pagetype=product&en=Y&p=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&sw=1280&sh=720&sc=30&nwd=1&evt=custom&asc=G&cdb=AQAS&rn=502769",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:35.951Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/113bc1fcf650/3c16da378851/9f4a05752db2/RC248c4dec6f7a40849475296840f60d0e-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.092Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.093Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.094Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.095Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.097Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.098Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.100Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.101Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.101Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s51583948247702?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v54=LEGO%3Apdp%3Aproduct_media_displayed%3A%20Infinity&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=pdp_product_media_displayed&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&lrt=37&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.125Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;dc_pre=COqT_bXlyZcDFZT60gQdeL4AgA;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.127Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;dc_pre=CKiz_bXlyZcDFdnB0gQdbOcxUw;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.128Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;dc_pre=CIu6_bXlyZcDFffK0gQdSP0heg;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.130Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://14832541.fls.doubleclick.net/activityi;dc_pre=CObT_bXlyZcDFZ_X0gQdCt4sAQ;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.136Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/gift.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.136Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt087d74cd74f8509f/40772_Prod_en-gb.png?format=webply&fit=bounds&quality=75&width=100&height=100&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.136Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltc5e43a3546405f83/bltf41f1e48b90ad34f-30717_Prod.png?format=webply&fit=bounds&quality=75&width=100&height=100&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.141Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s52528674875617?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v109=pab_on_pdp_abt933&v110=variant_abt933&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=ab_test&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.174Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COqT_bXlyZcDFZT60gQdeL4AgA;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=*;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.180Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s55083073760375?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v109=pdp_image_carousel&v110=on&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=ab_test&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.191Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CKiz_bXlyZcDFdnB0gQdbOcxUw;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=*;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.217Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s59478314322482?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&events=event206&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v135=GWP&v136=en-us%2Fproduct%2Fcelebration-series-luminous-ghost-40772&v139=1&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=promotion_card_loaded&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.254Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s53762433488164?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&events=event206&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v135=GWP&v136=en-us%2Fproduct%2Ffun-halloween-skeleton-30717&v139=2&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=promotion_card_loaded&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.300Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CObT_bXlyZcDFZ_X0gQdCt4sAQ;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=*;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.303Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIu6_bXlyZcDFffK0gQdSP0heg;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=*;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;_dc_test=1;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.336Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/dl-event-ingest/dl-event-stream-prod",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.343Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s52103077983477?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Ahomepage&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v22=ab397c3f-522c-4bac-ab83-c7393ae03c3c&v23=recs_engine&v26=lego%3Ahomepage&v27=lego%3Aproducts&c39=D%3Dv74&v53=false&v70=auto&v71=old_content_based_similarity&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v109=persy_new_similar_vs_old_similar_products_pdp_abt_951&v110=old_similar_products&v248=20-10-2026&v250=GMT-0500&pe=lnk_o&pev2=personalisation_event&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&lrt=40&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.373Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CKr1_LXlyZcDFTZTnQYd9649Pw;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.374Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=5683483779404729764;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOunEOMnnk8UWoJEXuCbsMJmoZ4k6raF5CGyu;_dc_time=1792540416;cid=CAQS4gEAQM4h3DuFSGCLpB6X90LxGBtFz3Bm2L1nmY6rNAJU8imOAs_S-Mj16nEkkloyAJvO0LW9a2xRntNk-RgclEBxr-EY9kKlshtopBpdPGfaEPgHP42j0lRT1v5jEUw0YmHWeZctHmjBypIymE9-FDCq_i1iRCk-3v-y9pHg_z-IC2m1oqFLNql4EDScKZIxkjgduuppBaNG2ktEPiE3WomvEk6Fuxi7wFCMJMQx1GcMNmIULKzbsB9s5TUZPhpDOn14quyMbvAx7yRbWKIzEEO5-vD6ZXo6IwVxtMyXLjLjuS-C;eps=AHas8cD5KKjz3lMcfhpGTELtiwOW54xhpf5V9OjlNYyH1e7P8tM6-jEzbc-E_dd-OqsOdNTIqQeG44jFNMeRhGTGmtnW4y9zP34RpDaYw2jBSCuW_Q;dc_pre=CKr1_LXlyZcDFTZTnQYd9649Pw;src=14832541;type=prodview;cat=ameri0;rcb=13;ord=5551994223411;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u4=119.99;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_qrSbYhtpuJHIXD3ikIzmZz8hHZiyyuAMPw;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.376Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CK_V_bXlyZcDFSBRnQYdDzcPig;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.377Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=1036942276342724902;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOth152AEWU7aG-nbqRBM2muTphxtmQVlDLPr;_dc_time=1792540416;cid=CAQS4gEAQM4h3MNjBuz5ZpaedAa-fopJRYinI2Ut0Z2vjCxs3eq7yPc_20YSr2sIwnSHWpK9l9IUtmbO4K5WfAOd7eR_UfFNfKW9uk2cPdnGBypimZHMgd98HJxx8_ltsGvS6qW6GzyHz6SVo2R24N83DWwE6CiGFkf75rsHCM6oaJXTbIyId-DJ69DqBzJxpVgnCNNlsZtztvgWmj5X0j6FzLoF27uAalKUQcltu4AJL51mZPw5I-yOh5pSTG4ZAIGAR-Nlbr3hTEuWHI--7iVM4yuCqqKd3GLVFvuNJPu_wv4FoGMi;eps=AHas8cCYijmG7fV7Ayk4kegb2kG1UJkAz6sr-BYYsTVDhjKMsGxX4-a4u4-_CB2hd22MynD7laaQtNytW-9zlzg4fbQos6NpGpcBCu89jq-nXHBXGw;dc_pre=CK_V_bXlyZcDFSBRnQYdDzcPig;src=14832541;type=load;cat=ameri00;rcb=13;ord=1;num=3494608497087;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IJA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_2AlOYaRuy1d9ieQ_S4Kw1Z9c8PU-koRsug;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.404Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CJ2T_bXlyZcDFbNSnQYdTx0hSQ;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.404Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=COCw_bXlyZcDFdtbnQYd9kIxkw;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.404Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=12010742048517765476;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOqyDd6ACIlkN0k5s7HudMrOErW-hMymeBFkA;_dc_time=1792540416;cid=CAQS4gEAQM4h3FS4cucdttgzSTMsChMgO5VdA2iUheptuht1N5LAqCpqZxAyIQvvtxkso8KERRZwHsI-We1R0779LWa3TaxhSrUG8oUWtq3vi6owYxvwCJvXwZS5fyUPtN8-XqtmQXd3MgpjN0LEMm8NPwzt8gnOXVlIa3dlfej3GaqN8PfqvWh1_r65goIjbTjAkJ_CPnW0lzfOSFKdpqIbULrPDluZ79j_GHuSBEInuh9nI6y1olLNB6H-4AHsG068NGTv3FfCuyYq1CkfHv46GAl1wuqI8ybv5IZUWnf1NsZgb2ky;eps=AHas8cCRT0TeN1cqt19TT21HY7T8uJQByWBMpzfqXXWDJq-U2I_lVxw7BqVAu7jaykhNyfb2jX9Na3qPhAOoq91lx5Zpy6ApqA47YUWHp-jHuJUBZg;dc_pre=CJ2T_bXlyZcDFbNSnQYdTx0hSQ;src=14832541;type=pageview;cat=ameri0;rcb=13;ord=2458580695056;npa=0;auiddc=1220952129.1792540398;u2=6589571;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IFA;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_9fFcv1x0ZPwsKRPK5wv3jT23ar05JCo1SA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.404Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=3739187912601394350;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOgsHZRIQ2LmgYNIQhcuhfSoeq1ZxO94mUZms;_dc_time=1792540416;cid=CAQS4gEAQM4h3LNxk938bMwzgE0e9x8WoI3VRCKzRKPYt2trj2_z969-hLOAFtTkosj9nNT1kfzwk0_OtQPzLvFPYP0Zgsm2QwfsxlrZLYkh1GHb983yDldPiDS1Ye-0kDCSH6MihfmK5hQza6jALrWTsqOS5Ai_KmA-ivLL21OMKUbTTO5-hSnMFWvhP3UpVTYs4yXgCyp7tQk3TO-7DRyLnvF-yiqWYkQNJLUM9CA-OMs3n1p9SZMmSrj3kdcJDrthvDHxzggOseKQyvCvs2PQCmi1r2MgK8siEULfJC0pdLnBDC7U;eps=AHas8cA8-k1pKT9lAxWi5oYDBi7Oou-nZT1P6Y_gxOsfiQ-Kp_79HWKwribCJ0qSha7_-nz7zQx2C44gpGgaPoRs2TlghIa-WssEpRww-Fbvlk_X8g;dc_pre=COCw_bXlyZcDFdtbnQYd9kIxkw;src=14832541;type=load;cat=ameri0;rcb=13;ord=6XS7jBjFFZ5CfQMiCN0MO;npa=0;auiddc=1220952129.1792540398;u3=product%20detail;u5=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=27.0.1;uaw=0;pscdl=noapi;frm=0;_tu=IAAB;gtm=45fe6aj1v9193079702za200zb894751188zd894751188xecxf1;gcs=G110;gcd=13v3q3v3v5l1;dma=0;dc_fmt=3;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034~123548195;epver=2;dc_random=1792540416_a0FOfA4HuKdAP9WgJ1sEfOAPbAhSJtMSsA;~oref=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.489Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540416482&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&P=2&N=2&S=519572&b=193527&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.489Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540416483&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&N=1&Q=2&S=1867&b=733&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:36.678Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cs.analytics.lego.com/b/ss/legoglobal/1/JS-2.27.0-LGU4/s51030222957964?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A53%3A36%202%20300&mid=27112888423580660792468696694024755501&aamlh=7&ce=UTF-8&pageName=lego%3Aproduct%3Aproducts%3A11387&g=https%3A%2F%2Fwww.lego.com%2Fen-us&cc=USD&ch=products&server=LEGO.com&events=undefined%2Cevent4%2CprodView&products=e_available%3B11387%3B%3B%3B%3B%7CeVar112%3Dnew%3Aexclusive&aamb=6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y&c3=D%3Dv3&v3=lego&c4=D%3Dv4&v4=11387&c5=D%3Dv5&c6=D%3Dv6&c7=D%3Dv7&v7=en-us&c8=false&v8=false&c9=D%3Dv12&v9=e_available&v26=lego%3Aproduct%3Aproducts%3A11387&v27=lego%3Aproducts&c35=lego-shop&c39=D%3Dv74&v47=lego-shop&v53=false&c72=product&v72=product&v74=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&v112=new%3Aexclusive&v248=20-10-2026&v249=18%3A53%3A36&v250=GMT-0500&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=FCD5E69B53FDC29C0A4C98A7%40AdobeOrg&lrt=39&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:37.649Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.lego.com/api/uec/v1/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:37.955Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:37.955Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.004Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.186Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt2108d0c4777440d5/11387_AID261GLeffd0cd5_ShopperVideo_30s_16x9_WoText_NoEnd_ReUpload.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.259Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.lego.com/icons/v8.6.0/pause-solid.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.259Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/_next/data/m08RHG0ELoMHp18TNQokL/[locale]/product/[product].json?locale=%5Blocale%5D&product=%5Bproduct%5D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.383Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt8e2b68539e476ad5/blt6fe022d44359e5ff-.Place_Artwork_Here.jpg?format=webply&fit=crop&quality=75&width=400&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt7a6fc4143082898d/bltcfca1e7974173b84-21372_Prod_en-gb.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/bltaf15f7318ac0ba98/blt21fb8295f9caaf81-11383_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt9956e5fb469cf0ea/blt41320ab511b43baa-21330_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:38.650Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.lego.com/cdn/cs/set/assets/blt6d4c85ec676b3157/40806_Prod.png?format=webply&fit=bounds&quality=100&width=250&height=250&dpr=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:53:39.175Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540419171&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&P=3&N=3&S=713099&b=48653&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:39.175Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540419172&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&N=2&Q=2&S=2600&b=570&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:39.990Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540419985&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&P=4&N=4&S=761752&b=30594&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:53:39.991Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ingesteu.quantummetric.com/horizon/lego?T=B&u=https%3A%2F%2Fwww.lego.com%2Fen-us%2Fproduct%2Fholiday-house-11387&t=1792540415643&v=1792540419985&H=fffed76a842023222262fec1&s=8657028088f34dcd8918ea47932fe9b2&N=3&Q=2&S=3170&b=51&z=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

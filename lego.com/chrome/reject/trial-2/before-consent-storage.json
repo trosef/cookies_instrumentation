@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.lego.com/en-us?age-gate=grown_up",
+    "storage": {
+      "localStorage": {
+        "snowplowOutQueue_ct-sp": "[]",
+        "NRBA_SESSION::d253119e": "{\"value\":\"b7fefe40c7110df7\",\"inactiveAt\":1792542246698,\"expiresAt\":1792554846698,\"updatedAt\":1792540446874,\"sessionReplayMode\":0,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":2,\"traceHarvestStarted\":false,\"loggingMode\":0,\"logApiMode\":0,\"serverTimeDiff\":-39,\"custom\":{\"loggedIn\":\"false\"},\"numOfResets\":0,\"consent\":false}"
+      },
+      "sessionStorage": {}
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-10-18T18:36:36.677Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bf61930lop.bf.dynatrace.com/bf?sc=5&ty=js&pv=4&ai=6a6cb8d196c43976&en=hko5s9u1&cr=1792063560288&av=1.347.4&cy=event&bc=833575295&co=snappy&si=v_4_srv_22_sn_6958388F12863F10A26EB90B3239EA78_perc_100000_ol_0_mul_1_app-3A6a6cb8d196c43976_1_app-3Aea7c4b59f27d43eb_1&st=1792348596676&ss=0&qc=2042459132&end=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:37.164Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bf61930lop.bf.dynatrace.com/bf?type=js3&sn=v_4_srv_22_sn_6958388F12863F10A26EB90B3239EA78_perc_100000_ol_0_mul_1_app-3A6a6cb8d196c43976_1_app-3Aea7c4b59f27d43eb_1&svrid=22&flavor=cors&vi=FDUNRVMUJHKCHATCCKCSQFVFPOKRLOQK-0&modifiedSince=1792063560288&bp=3&app=6a6cb8d196c43976&crc=1604210818&en=hko5s9u1&end=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "2026-10-18T18:36:38.124Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.hollisterco.com/b7bec429-135f-4484-8bc3-1d06d61d705c",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.125Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.hollisterco.com/32b6e4be-9a4f-4bd7-8817-b977aaf3ac75",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.132Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://glb.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=ABC20QUDB&domain=hollisterco.com&user_id=5ddec3c19cf0c404ea39341256c3a59b&session_id=8889bf9ef28fd9dcbbd9c8c26c22a3e9&page_cb=1792348588666&page_cb_timestamp=2026-10-18%2018%3A36%3A28&cycle=5&cycle_timestamp=2026-10-18%2018%3A36%3A38&etag_user_id=&etag_session_id=&pv=1&js_perf=%7B%22audiences-detect%22%3A5.5%2C%22hook-cycle%22%3A1.7%7D&ai_features=%7B%22isTabInFocus%22%3A0%2C%22timeOnPageValue%22%3A5%2C%22timeOnSiteValue%22%3A5%2C%22timeOnSiteScore%22%3A2%2C%22clicksInSessionValue%22%3A2%2C%22numOfCookieKeys%22%3A54%2C%22numOfWindowObjectKeys%22%3A492%2C%22numOfLocalStorageKeys%22%3A42%2C%22timeOffTabValue%22%3A2%2C%22timeOffTabScore%22%3A2%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%2289b5e6ef-d28e-4530-9955-376a32a8f50d%22%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.132Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://geows.sitelabweb.com/jdldata/?action=wandz_stack&client_tag=ABC20QUDB&domain=hollisterco.com&user_id=5ddec3c19cf0c404ea39341256c3a59b&session_id=8889bf9ef28fd9dcbbd9c8c26c22a3e9&page_cb=1792348588666&page_cb_timestamp=2026-10-18%2018%3A36%3A28&cycle=5&cycle_timestamp=2026-10-18%2018%3A36%3A38&etag_user_id=&etag_session_id=&pv=1&js_perf=%7B%22audiences-detect%22%3A5.5%2C%22hook-cycle%22%3A1.7%7D&ai_features=%7B%22isTabInFocus%22%3A0%2C%22timeOnPageValue%22%3A5%2C%22timeOnSiteValue%22%3A5%2C%22timeOnSiteScore%22%3A2%2C%22clicksInSessionValue%22%3A2%2C%22numOfCookieKeys%22%3A54%2C%22numOfWindowObjectKeys%22%3A492%2C%22numOfLocalStorageKeys%22%3A42%2C%22timeOffTabValue%22%3A2%2C%22timeOffTabScore%22%3A2%7D&custom_ai_features=%7B%7D&audiences=%5B%5D&custom_audiences=%5B%2289b5e6ef-d28e-4530-9955-376a32a8f50d%22%5D&client_attr1=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.658Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://collect.hollisterco.com/abercrombie-hco/main/01a1504d086a00196628de9144fe05075002306d007ee?callback=utag.ut%5B%22writevamain%22%5D&rnd=1792348598655&tealium_cookie_domain=.hollisterco.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.713Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:38.719Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:39.080Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://rs.fullstory.com/rec/bundle/v2?OrgId=o-234GET-na1&UserId=32a47c09-68f2-47ff-ad21-88977bb90465&SessionId=f42f2ae7-58a9-4de0-ae1a-6c70e2364365&PageId=2fb597f4-929d-4f8c-91d9-c12cae7f46fc&Seq=3&ClientTime=1792348599070&CompiledVersion=9177873e332ed500eceb15ab9a0ab6d2fa758635&PageStart=1792348588968&PrevBundleTime=1792348594082&LastActivity=3004&IsNewSession=true&ContentEncoding=gzip",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:39.976Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.hollisterco.com/effcdfd1-49d4-401b-afcc-82bee89c0c93",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:39.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://colrep.sitelabweb.com/chpdata/?m=bac2%7C7sg80%2FQFpKc20vpNmN%2BXE9%2Fxad9p7pH68YFmY8p9O4Z8UFNq%2Ff8U2BO0E2nO3jfq3eFIJRNMJpwuNqf9H49SsTvQbnxrfDvbVCf9y2TvYlwoNLLcbxWTvBhDtj7MBVBKTCD7%2F3wG1JMG1t3IO8weIfSH7y%2Fg1wQpg4ufxVqIwFmoU1vws%2BRZVz4DHeMDu8H%2BxU23tnYfGVkzSVAYGFeDTsXn0M1hGgd9ok%2BM3y0JMXHV1zHeAQCA1pInMEOkucc9nss5TV2qYkcCmee2YzHsMQKOjbgwYEYrOCW7v8UHVI4HhFC1NkNZ4PQUbfljh%2BbgWekkG42ni%2FGcP7eDx6%2BQoh3yB871t1LW6zop7bFUcd5PWX45hVFyAXwstVwOU6bNYWPtkJDwX5%2BqW89Zu37xiX7c5tTyNNY3%2Bln4Tx8TdpK5YMC2XvHhPy75bzmsjyXXrRHKXnElCAoFzPN2A2TxDt6HaVHoNAY%2Bp6jzalsO809pyii%2BEIU%2BY9OHV62QBWqe8TY9GH68OD8DbtyRnySTzzjn49pGW0vhhI9xDcCOb1hORDVkCG3Bd02EB8CgCQ04Z2L2YrZO8xUCoiMEY7MG0RmU0SmOZVG71gI5HKDn80AhO5%2BXO9%2BoPRLEQhBEuNxz4kAxPF9GoKxRAyWuB9k8IV018D5A98p55j4U70hGm4%2Fd3I7olci3VVd9skU2BVmBS6MIWiCrYBNAX4MWYU9K2U8se4sHRh2Wi9sE6epGFXFg5DP51hm4NHW1zJJSES170l06aA2QcaTcnopvlSXr0OlT31QYILkGaCglcVS%2FaYy3oTD3toA9yg8xbXZC1ZLOUdsSav8jw3yQB4y3vjfDri%2FF87oNbiPwwm0hOHTovRCTDL%2FxD%2BxFEvcO8WLwRLi9GUkGIA60F749mVlL2CQ0NF0ZSFn7jtm4OJBrJRxeVxzyyitw8TZZaR%2BQpHLuxA5EiAxnsOwExm3ju2oI79e15XLTUUkaGFNI25MZ176QJG78WkWL4GFJX66FTWAmwOz8DY1RU6y1Uke0MlFK8MuH8%2BQI08V04a2EUM%2BI9DZ6C2nrRn%2BGfW%2BZ38%2BoftOFVWVDMTsh02iM9VYCgWlCmc1EqQ0UUXUYMMU9UV7tHc1zdy871bLtDFJ%2F8Z05A44def%2Bemc8mft%2BwE766osdY0TVCE6zzgK%2BcPfw5IF6ZMNaW41IkVUX4c8cd0Q%2BU02L9G95z8m%2BCzPhOc1OYK4AuyFtIKFNFlMt1ISEdceNF1GVC40HI%2Bwb%2FsXhFzPqn34kP%2BIEooiw1FTKCgcwe7UscqscQFH3BAMsE0IaAUyw4BTcDkZuZp9vNcnCckuOL33enevGYQsI9ifPxQjpzUnMBQ1n23AFV6ZJdHbIl3O8e3oDOQVULw1jFxbjLrpcBRo4DxXLBjYB3GdXEJeB3CGjdq%2B%2BIH169E1YFCU5ExIpZd0h9Usd3G9TjWLuvLP%2BDBqnWUuAe06ovmRSjZSA8efgJf8x%2FVwklUJYWCPRdj4ph6MtLNtvcnQaFhZeqshFQCt7ruEn%2BMN6ngzVkikYEWfP%2BgFzMGBsUCwyw9GDsdJW4Yb9lH%2BLO6jPGDoSGO6gB%2B1OWLta9jKHr%2BJDCRvQfPuSK2pSntHuuA%2Bcbb1d7SRjCtM%2F6QmJCnMKmKrco9hiOqMvKL4H%2FXudAaiZNQJKKinYoxyCBRCIApXPqpaq6HgB6IlN9aATjOoj6mb1uGNoV1cPCt%2BfiforJIUDj%2F7j2xSXkEwqOupOdRI5qqJgRjhdqv6mmwJnPP2uWynMA32VfxzSnvpqub5jaldqZop5ZheOmLXQ1lxh%2B4mkMnvvnqX9LBRzYfc7ApYZWdNj5UTJasaZYKJqsQ3XcnZcvgsEsizDuFXhPhmbOm%2Fi5hc69GiWuGrrh%2FSSa%2FYNXa%2Bd5Q5Tds1mRs4ds2vP3qoOlisdvTzD8f5pmzfFS9MYjvxgMMvFr3yhEK1BhR26BuunwxrLa%2FMGatUfWmkKLMRrlSJq7qonG5GqhGYA%2BemrqVqlnTCQjUM4%2F6jsdR6P3E0u%2BROI75LSw1%2Bu8DNjJXmtTSgCYm0dxRmU4NMh8ceZu0Ufb7JPamGiYAL4q9tza6QwNNqghNxu9lsekGw%2Fg0rZiXOrpfcDKZ80tkAaBxOBrLMN2RdjGz%2BEdlSt5z64VL6ciuM29a%2BFEfT3%2B3cDN2cw%2FzxGgZ%2BYuLuwCF3ipvf%2Fq9MJpgScSb%2BaiXTT5ayoBEkTCjNJ1iMfPk1a%2F6vb8YXHChZRv2J0YjRZyKb7un%2FwNX%2F%2BQGaGiXnNmojCk0daqxcBVCfMleUePUSl1IX9TcfXiKqDLMyT3kaMxCQPeYe5wRWuOlJoIKtY6tZrMP0wrlsn%2FrLmbOiCcI3kuoJP%2B3F3rigubdt%2FaBdmnHM9J67%2Beu4SSB5vsINR9Evrsc5lJlx2o1PrbsRL%2B37D1uZ9IuAFiKhtMPKK0UPzjuZ%2BgUvhywl%2BfAZ%2F%2BbmP2MukY8OCzva5%2FdmnJvS5edDdZPGsKitZxLjjvg9JvDgyubcS1PDX0Y%2BeMhKjBcDTIqLJudpkh3qj8CDESdEiMyp3RUfaF%2BWZoq6KshFhhEKpGCByhEC%2FtSiSPz%2F%2FrVFYv2zbxkdjZejemYNqfkUZRLGENYBpnf%2BUF%2B0tH3upfHNoZvMety%2BgugwjYHfVBxMlNjTIlytHnSaIrdpIb1QuA0KF6TL5rRMhaTHn03FITfKxfHnc2QmxHPgmLiG8QbNfs9fUaS4RvSQ5eYbLavL0%2BHABItlxLhQSS%2FcOv3SPx%2ByrHUfo5%2BDiJEwpO6pPNHhjJwYnXCGSNOYGfzN%2Fe1VIgJSdxVKlthZzrP4BgrnLeOmY4NwUcrcIwsxbCP6stP%2FV5eQLItePGaBJN6DaNui3sNRD7L7%2F64OHUb60x3UjptgzOcuvgksOPAU4XIXqISA8ZC30MSczWP7%2B5pFczLxDwbxmD5JXBCbCxLnEfuWguM7ipuCBVoGv6KeLXZdhHL9EPH%2BxpT1qYFslNpE7mcyureHpB4CADBLjHpprybSTkqhQWCBahObqd%2BRASau%2FAjhMfr0rDjqnaaxyyAgH4y09v6nK0AudpdCDUdmxJ8%2Bts2IqEIP6nLnNIJviXAvo4H8FhacluhHZueJFZ2XO08p1Bw1j5ew%2BKnci0d4yitaC%2B7SGoHxD85FwnvZrMgxo%2BDf4fWnuS4gpHb%2FDu8SEMaYCDOch6BQfU0lRUbpQv8Wzi6g8rDtouKoNXhHPciR5GL%2F9aCXQhgyEcdHOdbiHMSb6AqeVGmsTHU8VnepGjRKwnEpLWq05oJD7zYXzBGem1%2F3ElIk70VJDjh2K%2B9t3%2BGKs1MttgPnygiGLqoxrz1rx6oDXAsIiXHih4wmmOtzpE%2BpNxrOpuBPk7eTAp7aPfnt8L%2FaJV2R6pnnDPMLJjV%2BjaKGxiaJPCOCtH7Z8h4c%2BG%2Fy5xnq96Rml7yvFNx3LZTDTxP77uVHVC2KLVX9r%2B38h%2B1ZilJPqkO5QRfJSRKgxOr7SxxX%2Fv0u%2BG1bRldMq4sDHSHLhTmhoOFnqih1UJXcoEZwk2edbXrCeG%2ByK6KrMqNkhBgGlSqYjbyrezzhHJHDzcxKSNulyyiJboBXan387laQCyRr972hzbZ8QvaaTiJTQWRYLqmFxR3%2BajLRff%2BaMPTdM5gjnA8HDXD3GvxHrsWARPMzx3aXO5K1d6waYnvTDQeUH7PR4BTQNhfMyk8QukwYmnv%2FY%2BJYi9ujBdHOGeiHsszwlnAOjV4%2F3MrRDSMGxzxDh3typtftbkndvmLZRdrLQ2nEz1lqAFmh1pwtufjWbChHTA7kkfBOvxzD8iTPw3oxafwoXiPSdWSD8rbrCknozbssqmlCpWCXHR6TCwtnZr2dTqkWi7BirZrCspjD9sLGeRd7jJ0VGnBnX%2FLjoiyyzPos6c3P6Qsiig12SyIAWZDb8PAJWR%2BfjoXzJ%2BjLf6YTPmoXkwtgKqpUXntDBHlxeX%2Bxt3oqEm%2F%2B7DLSjfHDYmivKjb%2BwosWRROEnxumT7n7Cdoybpp8H5MmtHXdoG0ucvwn5DXvLnFtzaR3zApeBxojT5YqCDLTFCxsrnMlRBRwhR4DnKCaz%2FKCJZyB%2FtV5Z2lCoyhIvhXavDkrJaMxlybPak51YjqeT%2BW4rPpSU%2BaRbF%2BxiC55FzvjAaMSncs8FwgDKSq9ypm5qW2upvsM2lvm9pLuDJvaiT3V5fMZejOwoRbvVSSbUWK%2BzIt2VzOawyvG0nzSk%2F9Rr%2BjrdbaDHuv8e9JpfDrfbqqe%2F%2B1pQITBe3srQpCL4PqKTvSgq2syd4qQpqWKnTBhSRdhLtT9nPMhfjzAmODTVvve7V25xxaSOkz%2BCawmzvld2ydnGtwNbbpqvwiKzsb3qiySLRilRewf81XvuUyq5lxoWRq1zv%2BmYjB8Tc53DM1%2BIcyhispdK4h%2BjdvKhBTNaxMROCclLJbqvvVqPqwF2LuduVrrcSDiSdDyzver4K37ojiBfZvdKTAtrjxvKth7hh6EyxLzeg%2BYejwqTDI75TRzfSNDMqox7ZJjJt7esHRqrHrTWDSWYcqiBL%2FqjdGnSQAlmaGSuQDqSZHLTXmyZcTCcMbPYBRy9VWX3sjPDpDAnPki5wggKSDyiCFLrpvzCIOiO1vU1IuxO5Bg9Zsx1tNntutrBSd1JKpF%2Bxuo8kKoQP5HSxfwzNHSBNXYCtu%2F22cn3xgjQKrNjjibqxTb7SBen%2BT6UsmRPe%2F3Wt8SzTu0hjeR9xzWte9vBkIuzOC%2FiZVm9Ch74QCjNukvWNbQRXS5Ila9gFxKLjnTX3Dw5YvCqiO6tDRQPUpK7GkVhx7vlLX%2BBMxG6Puhv9nkMhcKZyziTLjk3bbl0TVVg000%3D%3D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T18:36:42.217Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bf61930lop.bf.dynatrace.com/bf?sc=5&ty=js&pv=4&ai=6a6cb8d196c43976&en=hko5s9u1&cr=1792063560288&av=1.347.4&cy=event&bc=1603510686&co=snappy&si=v_4_srv_22_sn_6958388F12863F10A26EB90B3239EA78_perc_100000_ol_0_mul_1_app-3A6a6cb8d196c43976_1_app-3Aea7c4b59f27d43eb_1&st=1792348602213&ss=0&qc=1986762856&end=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

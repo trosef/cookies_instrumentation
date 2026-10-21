@@ -1,0 +1,114 @@
+[
+  {
+    "timestamp": "2026-10-18T17:40:42.130Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.628Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.ikea.com/global/api/episod/collect/v2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.628Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr?id=3465423686912116&ev=QualityVisit&dl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2F&ts=1792345242625&fbp=fb.1.1792345231496.2101386736&eid=e18e027d-d4db-46d1-a5b7-f9b7ccd8f55d&cd%5Bcountry%5D=us&cd%5Blanguage%5D=en",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.628Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr?id=1825851541354261&ev=QualityVisit&dl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2F&ts=1792345242625&fbp=fb.1.1792345231496.2101386736&eid=e18e027d-d4db-46d1-a5b7-f9b7ccd8f55d&cd%5Bcountry%5D=us&cd%5Blanguage%5D=en",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.628Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr?id=1622624318707955&ev=QualityVisit&dl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2F&ts=1792345242625&fbp=fb.1.1792345231496.2101386736&eid=e18e027d-d4db-46d1-a5b7-f9b7ccd8f55d&cd%5Bcountry%5D=us&cd%5Blanguage%5D=en",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.628Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.ikea.com/global/api/episod/collect",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:40:42.631Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sgtm.ikea.com/g/collect?v=2&tid=G-S4EX53B760&gtm=45je6ae1h1v9167569830za200zd9167569830xf1&_p=1792345232573&gcs=G111&gcd=13t3t3t3t6l1&npa=0&dma=0&ecid=1072172887&_eu=AAAAAGQ&_fplc=0&cid=68331842.1792345233&frm=0&pscdl=noapi&rcb=6&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.82%7CChromium%3B155.0.8059.82%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=27.0.1&uaw=0&ul=en-us&ur=US-AL&sst.rnd=2028125625.1792345232&sst.gch=0&sst.tft=1792345232573&sst.lpc=42307133&sst.navt=n&sst.ude=1&sst.sw_exp=1&gaf=2&_s=2&tag_exp=115938465~115938468~118869188~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.ikea.com%2Fus%2Fen%2F&dt=Shop%20Affordable%20Home%20Furnishings%20%26%20Home%20Goods%20-%20IKEA&sid=1792345232&sct=1&seg=1&_tu=xAg&en=quality_visit&_c=1&_ee=1&gap.sstd=5&ep.site_language=en&ep.site_market=us&ep.site_platform=owfe&ep.query_parameter=&ep.user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.logged_in=false&ep.content_group1=Homepage&ep.team=analytics&ep.csMatchingKey=0.09534760616108073_1792345232411&ep.anonymize_ip=true&ep.client_event_id=e18e027d-d4db-46d1-a5b7-f9b7ccd8f55d&ep.targeting_cookies=true&ep.label=time_on_lp_10&ep.type=global_tracking&_et=10021&tfd=12138&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:43.248Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/measurement/conversion/?random=438613817&fmt=8&cv=12&fst=1792345242741&tid=G-S4EX53B760&gtm=45j91e6ae1v9167569830z9897939628za200zd9167569830xf1&tag_exp=115938465~115938468~117215455~118869188~118869188~118897920~118897930~120213116~120362506~120385423~120469145~120469153~121246026~121246034&gap.sstd=5&rcb=6&gcs=G111&dma=0&npa=0&s3p=1&gacid=68331842.1792345233&pscdl=noapi&auid=2065491335.1792345232&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.82%7CChromium%3B155.0.8059.82%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=27.0.1&uaw=0&en=quality_visit",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:43.249Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sgtm.ikea.com/_/set_cookie?val=Go0xg5swIxkWaokZeZqaNz7lAW3YdH0Ve5GY177WMHSBoUEEm5ogsm9IrfANB6LgHv5vNrR6b4tMy%2BMmEkHBkVx1hdrp371TAF%2FkkM70WQ5xK0mwhT1GMFLRgFzJw%2F4d2KexhQSeS2KNEfQ021WFV6RXDb59zqKOgeuaz0sC3yKH%2Beg04T5WIgD6OYw%3D&path=%2F",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:43.249Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sgtm.ikea.com/_/set_cookie?val=yeh0MPNtP4F2hnRi7OO6oPlDRsFf%2BdhlmI0SwCCOL4LBbd%2FmqQAKRNXL9lWXdUygkFVfIesLzJV4WOyybKM6P3gF77aOx5xhuzEisykYOjy9Ih8GefS3osGGskiejrlTmeCTT9%2BOXBJAD9%2BY2ywCVQ9ztyrsycuRb2cZI5GgMLqNqs%2FLYPHeQMtGH3M%3D&path=%2F",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:47.182Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://logx.optimizely.com/v1/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:52.531Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://logx.optimizely.com/v1/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:53.248Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://logx.optimizely.com/v1/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:40:54.691Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://privacyportal-eu.onetrust.com/request/v1/consentreceipts/anonymous",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

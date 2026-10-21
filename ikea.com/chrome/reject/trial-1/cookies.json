@@ -1,0 +1,548 @@
+[
+  {
+    "name": "guest",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImVxSFFLR3duR3hfV3dJZkx0RGpaeDA5MTUzS2xSam5fVE1nVUlMYlJ5RncifQ.eyJpc3MiOiJodHRwczovL2FwaS5pbmdrYS5pa2VhLmNvbS9ndWVzdCIsInN1YiI6IjMyN2I4NDIyLThlNjQtNGUxMi04ZjZmLWU5NTFlZTc0NTRmOCIsInJldGFpbFVuaXQiOiJ1cyIsImlhdCI6MTc5MjM0NTIzMiwiZXhwIjoxNzk0OTM3MjMyfQ.Fx4hWOKTNo1Qs5_RV_lC9A9p6fh0tt_vsKmmqMsECoUdAbV4dnTggATQSJPwErAgbkno7lA5391iRZhrzJLng9XAIb9pbL78lWEXqwK5CTDyszXt9Hbs8pfLksuXe7x-92wxp13KWyZ2GGmeZCZ9RPYHqa9bGjC0JmgSNbBmYGc",
+    "domain": ".ikea.com",
+    "path": "/us/",
+    "expires": 1794935432,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "nav_state",
+    "value": "%7B%22pc%22%3A%7B%22postalCode%22%3A%2236830%22%2C%22city%22%3A%22Auburn%22%2C%22state%22%3A%22AL%22%2C%22source%22%3A%22NAV%22%2C%22method%22%3A%22geolocation%22%7D%2C%22store%22%3A%7B%22id%22%3A%22257%22%2C%22name%22%3A%22Atlanta%2C%20GA%22%7D%7D",
+    "domain": ".ikea.com",
+    "path": "/us/",
+    "expires": 1823881288.013943,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2026-10-18T17:40:54.684Z",
+    "domain": ".ikea.com",
+    "path": "/us",
+    "expires": 1823881254,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Sun+Oct+18+2026+12%3A40%3A54+GMT-0500+(Central+Daylight+Time)&version=202508.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a45a7876-03fc-4d6c-bd0f-6d49e0ea2066&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=1%3A1%2C2%3A0%2C3%3A0%2C4%3A0&intType=6",
+    "domain": ".ikea.com",
+    "path": "/us",
+    "expires": 1823881254,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ikexp_id",
+    "value": "08e9baf5-505e-4c75-8eb9-58b0ec789b61",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1823881230.676933,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ikea_geo",
+    "value": "US",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "phixaOFb4BVvjFz4TSxwUOIDY8dsqL1wO1ZxCXjiTYU-1792345230.6202376-1.0.1.1-epxvC1JtiD.VeIqqFsgf5hg4oFSHEeCMT4CeqqvoqI3QqZkUVjisyAsWH3wnc6A70YGxbncjsMxjG44ViRt7yRwDf8ASP2EXXVyL7t8ydOFsgDYETlFb7HnS8sY1Gbfk",
+    "domain": ".www.ikea.com",
+    "path": "/",
+    "expires": 1792347030.677213,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "cB5q4Czj5I5nRZ4r_HvSvLTs.nU3oHcU9gtnwKCqrfk-1792345231.2659822-1.0.1.1-6o9Z2pOhnaC6iNNRAASxLJKQmlod5NisPSADcAdfTF5zKhg3xrSiT0olg5zAKQyIG4KsBDmhVi3Z.HCliccLPjmc1puwuZl_4ZVsPN4sX.ylkPzTT_p8Wg0PcKFxSeUv",
+    "domain": ".accounts.ikea.com",
+    "path": "/",
+    "expires": 1792347031.317762,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1792345231496.2101386736",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1800121243.372863,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "C",
+    "value": "1",
+    "domain": ".adform.net",
+    "path": "/",
+    "expires": 1795023631.767428,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uid",
+    "value": "8328074506192722711",
+    "domain": ".adform.net",
+    "path": "/",
+    "expires": 1797529241.604008,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "https://www.ikea.com_08e9baf5-505e-4c75-8eb9-58b0ec789b61$$a11701662245$$session_state",
+    "value": "{\"lastSessionTimestamp\":1792345231588,\"sessionId\":\"b3786b48-2f15-4458-92ce-b67eae846ce4\"}",
+    "domain": "a11701662245.cdn-pci.optimizely.com",
+    "path": "/",
+    "expires": 1807897231.833507,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ttp",
+    "value": "3KsTN2JzETh91u6JskQf40m4gkt.1792345231882",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1826041231.91367,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_rdt_uuid",
+    "value": "1792345231922.d3a64e76-87ab-4a0a-83c2-c8026563abfd",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1800121231,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "barometric[cuid]",
+    "value": "cuid_6ad5048f-1cfc-4da1-972d-afae0326431e",
+    "domain": ".trkn.us",
+    "path": "/",
+    "expires": 1823881231.98902,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tq_id.TV-5418727281-1.9eec",
+    "value": "77c9b19fedbb3a55.1792345232.0.1792345232..",
+    "domain": "www.ikea.com",
+    "path": "/",
+    "expires": 1826905231.978829,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "04331160cb1b11f1adc25db3a76327eb",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1792431632,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "043342c0cb1b11f1959c9dd8827def50",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".bat.bing.com",
+    "path": "/",
+    "expires": 1792950033.197427,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01M581KMQJB9BCP5D9TS3T1Q4R_.tt.1.1792345232114",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "flashtalkingad1",
+    "value": "\"GUID=68654239DF3DAB\"",
+    "domain": ".flashtalking.com",
+    "path": "/",
+    "expires": 1826509232.171751,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tfpsi",
+    "value": "e8bd8d91-93bd-4505-8629-be41cfb399a9",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1792347088.890294,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "09FCD519A7FD6C300FAAC2EFA6EA6D85",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826041233.197361,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cs_mk_ga",
+    "value": "0.09534760616108073_1792345232411",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1792347032,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "epi_client_id",
+    "value": "6e232dea-29dc-4f97-9bbd-67b1eaffbd5a",
+    "domain": "www.ikea.com",
+    "path": "/",
+    "expires": 1792359632,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "epi_session",
+    "value": "dmnirb3-mve42oez",
+    "domain": "www.ikea.com",
+    "path": "/",
+    "expires": 1792356032,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "epi_session_num",
+    "value": "1",
+    "domain": "www.ikea.com",
+    "path": "/",
+    "expires": 1792348832,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "A3",
+    "value": "d=AQABBJAE1WoCEIJc3BCJ_sx6iFuEoW_wFwsFEgEBAQFW1mreatwn0iMA_eMDAA&S=AQAAAjQh5DIDx9fBPU83lcJ0hhY",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "expires": 1823902832.443458,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.68331842.1792345233",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "episod_id",
+    "value": "1792345232602.9a04f65b",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IRMW_CART_COUNT_US",
+    "value": "0",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1794937232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "0E9iejPtASuDf84tO..Bq1QSQ...1.0.Bq1QSQ.AWfxRtFLpLbISkUZfUNtOZAowIs",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800121232.801217,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sc_at",
+    "value": "v2|H4sIAAAAAAAA/wXBgRUAIAQFwIm8J35oHJWmMHx3GHgwM8oqJlzetP1MOl7pYaGM6B6+RDFFpfkD1Vm+RDIAAAA=",
+    "domain": ".snapchat.com",
+    "path": "/",
+    "expires": 1826041232.91045,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cs_ex",
+    "value": "1566490483",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1794937233,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_c",
+    "value": "1",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826509233,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "FPGSID",
+    "value": "1.1792345232.1792345232.G-S4EX53B760.F4VwvfKfgJFaI6pyOl6W6Q",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1792347033.229579,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_scid",
+    "value": "67b1095c-1642-4810-b775-953f19788901",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1823881233.366727,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "953c14ed-28a2-4d57-9093-243ab1000b26",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1823881233.959262,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUl_L7EVYwtyIdOC3la26MFoTetliyMIRDpovdhDJ8UjdEbYnYVoA6CeUMzM5cU",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1826905233.836315,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|KAtVFQrwedYgIZr5MEJSePzUO9wcYZ6vmnCkammoa453jk7WnJNoKFKySdCEaKFWzmPB4rH0kcowHTRO1/p4iHX0qfg68IpFQAPcN3ARK85R11wxHM7UNJ7MkL4maB3+n3QiPy64CO81f/Y2yv6VBWGrc4Vho8Mg5k4X5my3/zPREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1823881233.860532,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://ikea.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVE42PIU-25-J7TA",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1823881233.860587,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVE42PIU-25-J7TA",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1823881233.860598,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://ikea.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|KAtVFQrwedYgIZr5MEJSePzUO9wcYZ6vmnCkammoa453jk7WnJNoKFKySdCEaKFWzmPB4rH0kcowHTRO1/p4iHX0qfg68IpFQAPcN3ARK85R11wxHM7UNJ7MkL4maB3+n3QiPy64CO81f/Y2yv6VBWGrc4Vho8Mg5k4X5my3/zPREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1823881233.860619,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XANDR_PANID",
+    "value": "WP6z4eS9VztZ72Un6CkYsddZyC9FLMANQdzYCKUW5FIxOPVA7Ry5cMK5ppRBUd5hwKywy5sgvB6LsxaFdSAHXfEotYg8l5PfUl8_b8ejO4I.",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800121233.930266,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://ikea.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "uuid2",
+    "value": "110413848055110510",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800121233.930318,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFgoHcnViaWNvbhILCIz7zpqe0tY_EAUSFQoGZ29vZ2xlEgsIyJ_Pmp7S1j8QBRIXCghhcHBuZXh1cxILCKzevJ2e0tY_EAUYBSACKAYyCwjUzdHHtNLWPxAFWgc5cGlkeHkxYAF6CQoFdGllcjEQAQ..",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1823881233.959313,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.2065491335.1792345232.-.-.1792345241.230515342.1792345241.1792345241",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1800121232,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_CR6808BC77UBVEOEFGAG",
+    "value": "1792345232115::Zpfx5UthNhaM0meHVNlH.1.1792345242129.1",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041242,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_S4EX53B760",
+    "value": "GS2.1.s1792345232$o1$g1$t1792345242$j50$l0$h1072172887",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041242,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "optimizelySession",
+    "value": "1792345253244",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1807897253,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ikea_cookieconsent_us",
+    "value": "%7B%221%22%3Atrue%7D",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1823881288,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1792345232116::p6Y3IGPBX7qsRJEMutQE.1.1792345242128.0::1.-1629.0::56661.15.230.227::0.0.0",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041288,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "episod_session_id",
+    "value": "1792345232603.56e9f073.1.1792345288889",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1826041232,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

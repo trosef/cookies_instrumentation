@@ -1,0 +1,1530 @@
+[
+  {
+    "timestamp": "2026-10-18T17:41:13.753Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/rooms/",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.860Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/64e0fe5a6ef6ac92/original/PH209681.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/4f226c4af8366a93/original/PH205298.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/1caceb8ac62fbdb6/original/PH205369.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/3c265ccb875da578/original/PH205398.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/10c97f8b0838e4e6/original/PH207699-crop001.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/1f0a9292a1e9f0e4/original/PH300364.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/63cb3a75875882ec/original/PH196183.JPG?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/images/a-large-outdoor-space-with-dark-gray-vittskaer-table-and-eig-5e8a2ab9834f149ddae7804fdf7f77b0.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/5720082d0ef0987a/original/PE1034439.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/47709a110dccb236/original/PH208522.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/62f91049150438c7/original/PE991414.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:13.861Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/20fe24a365accdd1/original/PH200336.jpg?imwidth=500",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:17.432Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/offers/",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:17.545Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/26ec93d9bb2482e/original/PH204378.jpg?imwidth=600",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:19.265Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/cat/products-products/",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:19.339Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/navigation/catalog-products-slim.json?cb=gskfuesbdi",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:19.438Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/images/autumn-tabletop-display-with-paper-pumpkins-candles-dried-le-55017f640e2a5eed950ed87de6f209d9.jpg?imwidth=600",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:20.783Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/ideas/",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:20.898Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/images/ikea-designers-share-inspiration-for-2026-80615a8d34156d7be6a3c49777fe9af5.jpg?imwidth=600",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:25.860Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/26ec93d9bb2482e/original/PH204378.jpg?imwidth=600",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.679Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/planners/",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.786Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://cloudflareinsights.com/cdn-cgi/rum",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.794Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/planners/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.903Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/stylesheets/vendors.36e4528160aef1b63c04.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/stylesheets/main.b51c80462e1acdce15e6.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/shoppable-1HC7WlHQ.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/style-Ytl48l0p.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/index-D4B9jbrv.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/shoppable-HI4sXe8t.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/energy-class-Dm1JAKw4.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/pip/index-ClWSXuMv.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/StorePicker-CCRU-Hds.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/header-1Bvga7xQ.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/experiment-fragment/scripts/kickstart-L4ZW5VIT.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.904Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/experiment-fragment/scripts/index-SPEL7CBO.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/fonts/en/fonts.b98b69e7.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/cookieconsent/scripts/cookieconsent-onetrust-js.js?v=mudtqw57",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/search/v2/box.CtCzjTZF.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/css/main.70e91b67.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/nudge/vendor.preact.chunk.Don6TFqJ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/nudge/asset.tn0RQdqM.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/loyalty/wlo-modal/assets/index-DFB6fDOQ.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/products/stylesheets/price-package-styles.1f3f65c6c9c812f142b0.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.905Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/in-clude/in-clude.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.912Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/preact-CyNEoCgL.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.912Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/main-C8zcz3v2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-B_xQFO1R.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/fragments-CmPlIjM-.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-BH5SiGA1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-DpntpFfJ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/sitefolder-DLnoHk7F.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-CNNPBMPl.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/analytics-D2aW5eWo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-xabcz8hC.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-CAWHJiy9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-R_5Hlymk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/Sheets-BR7fZOfe.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/feedback-sad-DKSyu7hn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.913Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/domain-Dpy2Pp-L.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-CDwLao_E.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/renderPaths-dtj-2F7l.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/Footer-BRvjiZCr.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-BzkSsaOo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/Icon-CW8zPwS6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/link-out-DTjjNc8h.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/dom-CJAzQv3h.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/experiments-CIarzuJT.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/StoreDetails-XsTpapmx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/stores-CybG7pFI.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.914Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/cross-small-CbO9W1ZS.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-Bs69TdFL.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/chevron-down-small-D47lILgh.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/index-fYT4M2dR.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/_commonjsHelpers-CqkleIqs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/preload-helper-C3afcOe8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/theme-DwqTjZys.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/chevron-right-small-NXQlkA3Y.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/chevron-right-DDaS8dg3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/chevron-left-9ruQ-QXi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/information-circle-DhVX1vZU.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.915Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/store-picker-modal-CycktuHw.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/translation-context-DD4R6AYm.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-BASu3Drk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-CJYy_fUA.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-BLGYw_tU.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-CnIwEOCZ.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/sales-item-api-D61bf9p9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-2jwqpsEQ.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-z6kt6JcE.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/expt-store-CHn00NnB.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/preact-BrGjQMqm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/store-picker-modal.component-Bl84SQuQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/route.utils-9c3ak0gW.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/translation-context-Dy0UDaW9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-BVFGK6Re.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-6ke7f_ug.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.916Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-BdCQqCCx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-07mW0Ywx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-Duk5zhlB.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/sales-item-api-B92fS1ex.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-CJGNz493.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/checkmark-circle-B4QwF3mg.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/information-circle-DbmBn1b9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/renderPaths-DsomnUJD.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/image-B5KIpB9K.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-nVT6TQQ3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/index-BQlrOOvq.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.917Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/information-circle-569p37Et.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.946Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/expt-store-DZd1AtmS.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/customer-item-availabilities-api-_Wy2dgpj.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/root-CRO0ODRz.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/root-DW_R6pC0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.947Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/Breadcrumbs-D9pD_osS.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.973Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/renderPaths-SbPNwCwS.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.973Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/instantpage-CyzbhCwV.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://accounts.ikea.com/resources/cie-utils/cie-utils-fragment.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/token-service/token-service-CqBvbyE5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/analytics/scripts/incognito.324fe339.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/search/v2/box.AyFEogBg.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/runtime.ce1298a5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/main.ce1298a5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/content-rec/fragments/static/initer.d96b9c44.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/content-rec/fragments/static/initer.d96b9c44.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/nudge/main.CjwWoFGV.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/gift-registry/agent/agent.Cp8a7kzo.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.974Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/loyalty/wlo-modal/assets/index-yoHxVCES.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/favs-agent/agent/agent-list-agent-v1-83-2.Cvu13RWT.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/shoppingcart/agent/agent-2-5-2.61eQSjPx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/ingka-isx-billie-widget/assets/index-BL0dXeJX.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/ingka-isx-billie-widget/assets/index-DgFhpLi7.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/marketing-tags/scripts/mt-script-loader.6b6caa3a.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/javascripts/main.99b8424ac2f926e89101.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/javascripts/vendors.70a8bee66977eae5fa9b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:28.975Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/products/javascripts/price-package-scripts.db14ab02fcb8b7288e88.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.004Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/fonts/woff2/noto-ikea-400.latin.fa208442.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.004Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/fonts/woff2/noto-ikea-700.latin.5ba98ac3.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/fonts/woff2/noto-ikea-400i.latin.28a206d7.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/29251a8de04458f7/original/PH205956.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/images/5f/19/5f190ee4b4d03ad82b4b3ca3b3903e3c.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/49c947887423aee1/original/PH205342-crop001.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/2bf2bdffaaf2fb50/original/PH192022.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/3b87d245320e94f5/original/PE984719.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/2a448b612ccac0e5/original/PH202184.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.005Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/7627c78585ee077f/original/GL-Kreativ-138.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.069Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://web-api.ikea.com/episod/publishIncognitoEvent",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.070Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/favs-agent/agent/agent-DM1oqySl.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.070Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/ingka-isx-billie-widget/assets/rolldown-runtime-BMeI84Mc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.098Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/lower-funnel-fragments/global-store-picker.route-ClqmRzRA.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.101Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/header.route-z3tYxXwF.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.101Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/src/routes/header.route--DoIMotn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.101Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/src/routes/breadcrumbs.route-l1pbRbN8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.108Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/shoppingcart/data/phrase/en-US.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.111Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://web-api.ikea.com/cschatbot/gcs/widget/817bb76ad3a78bc079119533ba7d2d26/US.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.111Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://web-api.ikea.com/cschatbot/gcs/widget/7310b71ae7b9a3f603d87dbba73fcd4b/widget-message-data/en-US.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.119Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec_vendors_ingka.6d0190f5.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec_vendors_preact.85f2942a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec_non_initial_555.ee6068c1.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec_non_initial_984.b06b20df.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/css/rec-add-to-cart.c4cfdc0f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec-add-to-cart.5565f7f7.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/css/rec-init-mount-panels.4f46586f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/recommendations/panels/rec-init-mount-panels.9f15e30b.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.143Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/breadcrumbs.route-CNOhkGPd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.155Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/shoppingcart/agent/index-4D3Ign5N.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.155Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/us/en/shoppingcart/agent/_commonjsHelpers-CqkleIqs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.160Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.175Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/footer.route-CZ9TvuGe.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.175Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/global/assets/dwf/nav/src/routes/footer.route-DFWYYvpg.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.434Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://web-api.ikea.com/cschatbot/queue-open/check-opening-hours-bulk",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.857Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/25aaa9eb30c56857/original/PH203870.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.857Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/6c0db31ce89a9f52/original/PH202487_SHI_001-crop001.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:29.858Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/2063c67bd78730e4/original/PH203920_SHI_001.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:30.900Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/45625431a758e7d2/original/PH183098.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:30.900Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/6c9d7536db763c9e/original/PH195148.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:30.900Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/3fbf0efbc2afee33/original/PH132654-crop001.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:31.967Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/65fa396b163d1db0/original/PE975081.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:31.967Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/19ffca19ed260223/original/PH196291.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:31.967Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/565b5644cbe097e/original/PH207858.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:32.716Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/2ca8e34ec60fab66/original/PH189494.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:32.717Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/473ab03b2edaf43c/original/PH172238.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:32.717Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/215eab3acf8e5e9b/original/PH191992.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:33.308Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/28c5671624b16e7d/original/PH178400.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:33.308Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/4154d1db665a93d4/original/PH170369.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:33.308Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/12e9068ffe2dfa5b/original/PH135664.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:33.924Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/636a97baaed88773/original/PE825337-crop002.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:33.925Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/14d32c760c1dfec6/original/PH169014.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:34.707Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/a3432ce85df8ffb/original/PE1020496.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:34.708Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/7edb0df868a8e396/original/PE1011872-crop003.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:41:34.708Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.ikea.com/ext/ingkadam/m/298346157e69f7b2/original/PH193161-crop001.jpg?f=xxs",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  }
+]

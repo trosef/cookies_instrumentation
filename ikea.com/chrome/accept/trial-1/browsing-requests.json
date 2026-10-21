@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-10-18T17:38:52.269Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.ikea.com/global/api/episod/collect/v2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-18T17:38:52.270Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.ikea.com/global/api/episod/collect",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  }
+]
