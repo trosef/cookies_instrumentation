@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-10-21T21:49:26.744Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://simage4.pubmatic.com/AdServer/SPug?partnerID=167120&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  }
+]

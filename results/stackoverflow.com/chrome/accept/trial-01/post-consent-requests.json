@@ -1,0 +1,3090 @@
+[
+  {
+    "timestamp": "2026-10-21T21:49:47.674Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://amspbs.com/openrtb2/auction",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.677Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.679Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://krk2.kargo.com/api/v1/prebid",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.679Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=21408&site_id=281598&zone_id=4077849&size_id=2&alt_size_ids=43%2C44&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&eid_33across.com=v1.0015a00002qqhgFAAQ.1059.71eaQ6go5pVLk132Ytjf9WmhwRhAZ1%2BqKWa3LtW26GhbQ7epYv8qpoGPYcN%2F8Cptl0Glc2k%2BgAT2nWbgJwgMt3XBpyLmEJqBNOHXcUhSkh0EFUBxdl7qNs5EYanChkl6oVp5kIlHWWaq0lnRGLyc7vPZscdlmYNkTet8c7FUylA4FdrbIEub9fmwyI4ktPRUYGke1Yw8RlE%2FAZK2hY2Aj22FYr4ZUQlSPVso3AU9Q%2B%2FQhAUKRg4gSJsnWaqwn9JI1Ob5MwFEd8Iq6XaclNlYDTJ%2FIneFunLs%2FyXK6hSi7Y686Zmg3Gqo755vB9%2BZhFKdglyQ%2BD6CBAyUWR1XjGTxOafTZfHHaJRZim48PaN6XoHOCrp2lbnzhP5qJuLp1ZyDl1zfKyLD1w6UQKiarSOJ%2BGjPWliEE085eBrcxEMqAt7NI9mq2VavXE7r5nd3OzRJi%2BZbDBE406JFXTivZk20FZdivNCKdU9HA7G9jds%2B%2Be4uWCdoCAe0pZy6J8Gmgznup5KkVt%2BYoozozbGyZJHi2aLo75HzysKcmLFLmqJBwpRKS%2FhV1UMUx5GxiUfvnsuyOhkoLpUyMaLXh%2BnM%2FnaaXt9wZlkzWZMJH7VZ3empEYVogToyrpvN8R07AMsfGSKkb09EV1FtJF259lTLIMvlqjcHdZmQMhtGP1jzWwCHt2ePg873QVkQh08%2BCW3KCRhdK6%2F%2FTofO9cMoxkFOk6nvnvZZ1dVJCtufyBPuReDfZLIHCKkki9BQed3L2%2BB6knu9TyVcIfMPtbp9rUqN1qU%2BFomn2oKBYeiTeMZ0nax0mgxacckp3YJKq7W9%2FZLxBLkr1MSa7JDTsfz38zWuRR0DerT1ECT9QdKVsgXOWQo5DuRxEipJx2UzKtA5UNMlVGW7yIvaJe%2FYyJBcgUSy1TXy6YkdItxkrU%2Fd41xfM%2Bzr1%2FtRFvnS9fhDEDoufO4irRzgpMBzmaDMqgNegQj1iqD9kJgWUBZOUYS4CpCihukiYk%2BljMDfJwMe%2BOoEj%2B982ARQybF9KO7VOTFokwvw6isHrneOZpTtTDCjrEwup0DlWh1kVltTSWGEbSJoyOZcBoX%2F3ISa6HlNjYOgGsVHAzsMFsz1VLUtrjh2nIv0gB1FDq4PvTRNKJgg6mz1I4KDXXGUAKIPvGu6dXG9SX4NAtIgI5Mrh9VGnqJ3RaiG6j%2FURzYthEeHnHXcQ3fH%2BWUM3BHOCoY04WWcGyoS6NnPQZLmxdoe6aWHTssf%2Bid4ZSFMWk2IdDcyM%2FBChg35AQmL0Yhs2DYaWQ1y%2FqlEHIx4VXow1A%3D%3D%5E1%5E%5E%5E%5E%5E&eid_criteo.com=9H6ZdV9iajl0ZWZRVEJmVXE4UVVUR3UzQSUyRlNoaWxIbiUyQnduUVZ1ZmclMkJCaXlzM2daMzEzTyUyQk1xdlJqS0x5M3pCVjh3M0I1M05YTUJ0Y1JKSWpQQVZ3bjJNZVFBJTNEJTNE%5E1%5E%5E%5E%5E%5E&eid_id5-sync.com=ID5*l2gm4yQjk9gq0ftO0kIVAOwgO5FBEkVyeojP8zI4NsH__2rZM19aAAEBCmrZM14A8FHMDwPNKAze6Vob51-D_A%5E1%5E%5E%5E%5E%5E&eid_pubcid.org=ae4f71cd-af35-4adc-9758-bc35fbccc8e4%5E1%5E%5E%5E%5E%5E&eid_adserver.org=2b71cd69-2f27-4362-8c9c-0e8f650c4add%5E1%5E%5Eadserver.org%5Eadserver.org%5E4%5ETDID&rf=https%3A%2F%2Fstackoverflow.com%2Fquestions&tg_i.domain=stackoverflow.com&tg_i.page=https%3A%2F%2Fstackoverflow.com%2Fquestions&tg_i.ref=https%3A%2F%2Fstackoverflow.com%2Fquestions%3F__cf_chl_tk%3DYEf23VsiUEno0WY2O5Pe1InIfLIq2u_iSlfih.92tHA-1792619355-1.0.1.1-HjiGhF_QLX3b_LdGAF9FvvhcDUqQ4BiOuy7AkhZMRuo&tg_i.documentLang=en&tg_i.pbadslot=%2F248424177%2Fstackoverflow.com%2Fbottom-anchor%2Fhome-page%23pb-anchor&tk_flint=pbjs_lite_v9.53.5&x_source.tid=f590770e-89c6-4691-88a0-b9e53e404c01&l_pb_bid_id=722a1ee9be87b83&p_screen_res=1280x720&rp_secure=1&x_imp.ext.tid=3ed53c20-6cb1-4f9e-bb9f-ed15b720aaba&rp_hard_floor=0.05&p_gpid=%2F248424177%2Fstackoverflow.com%2Fbottom-anchor%2Fhome-page%23pb-anchor&m_ch_ua=%22Google%20Chrome%22%7Cv%3D%22155%22%2C%22Chromium%22%7Cv%3D%22155%22%2C%22Not(A%3ABrand%22%7Cv%3D%2224%22&m_ch_mobile=%3F0&m_ch_platform=macOS&slots=1&rand=0.203683290083587",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.680Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://btlr.sharethrough.com/universal/v1?supply_id=WYu2BXv1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.681Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://htlb.casalemedia.com/openrtb/pbjs?s=1333083",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.682Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ssb-global.smartadserver.com/api/bid?callerId=169",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.683Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ib.adnxs.com/ut/v3/prebid",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.684Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://direct.adsrvr.org/bid/bidder/direct29k4dc0z",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.684Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://prebid.media.net/rtb/prebid?cid=8CU4SHE46",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.685Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://tlx.3lift.com/header/auction?lib=prebid&v=9.53.5&referrer=https%3A%2F%2Fstackoverflow.com%2Fquestions&tmax=1500&us_privacy=1---",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.685Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://rtb.openx.net/openrtbb/prebidjs",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.688Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://direct.adsrvr.org/bid/bidder/direct29k4dc0z",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.689Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://web.hb.ad.cpe.dotomi.com/cvx/client/hb/ortb/25",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.689Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://hbopenbid.pubmatic.com/translator?source=prebid-client&gzip=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.896Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=1687687577221446&correlator=1305310464270713&eid=122881720%2C122881757%2C122881696&output=ldjh&gdfp_req=1&vrg=202610160101&ptt=17&impl=fif&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&iu_parts=248424177%2Cstackoverflow.com%2Cnative-question%2Cquestion-pages&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=320x50%7C730x135&fluid=height&ifi=3&dids=dfp-nativequestion-1&adfs=3651283682&sfv=1-0-45&fsfs=1&fsbs=1&rcs=1&eri=1&sc=1&cookie=ID%3D4acb19fd78ca1877%3AT%3D1792619358%3ART%3D1792619358%3AS%3DALNI_Mam2ePXS563oblRVxr6EwI5w8KyQQ&abxe=1&dt=1792619387888&lmt=1792619387&adxs=189&adys=525&biw=1280&bih=720&scr_x=0&scr_y=0&btvi=0&ucis=1&oid=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=30&u_sd=1&u_tz=-300&dmc=16&bc=31&nvt=1&uach=WyJtYWNPUyIsIjEzLjAuMCIsImFybSIsIiIsIjE1NS4wLjgwNTkuODUiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE1NS4wLjgwNTkuODUiXSxbIkNocm9taXVtIiwiMTU1LjAuODA1OS44NSJdLFsiTm90KEE6QnJhbmQiLCIyNC4wLjAuMCJdXSwwXQ..&uas=1&url=https%3A%2F%2Fstackoverflow.com%2Fquestions&ref=https%3A%2F%2Fstackoverflow.com%2Fquestions%3F__cf_chl_tk%3DYEf23VsiUEno0WY2O5Pe1InIfLIq2u_iSlfih.92tHA-1792619355-1.0.1.1-HjiGhF_QLX3b_LdGAF9FvvhcDUqQ4BiOuy7AkhZMRuo&vis=1&psz=751x96&msz=735x71&fws=0&ohw=0&psts=AOrYGslfyYNjDand5_bmK43Ywe-o_dRCoSzTxJLW9JPB8UTrlQZNaQhSC3bTK4bBeNfYdY6tPGmwCEf1GbBkZ34zU40tQwGvqYImQUnB-O12GPCwVc7OJSg&a3p=EmwKDGlkNS1zeW5jLmNvbRJaSUQ1KmwyZ200eVFqazlncTBmdE8wa0lWQU93Z081RkJFa1Z5ZW9qUDh6STROc0hfXzJyWk0xOWFBQUVCQ21yWk0xNEE4RkhNRHdQTktBemU2Vm9iNTEtRF9BWAESNAoKcHViY2lkLm9yZxIkYWU0ZjcxY2QtYWYzNS00YWRjLTk3NTgtYmMzNWZiY2NjOGU0WAESNgoMYWRzZXJ2ZXIub3JnEiQyYjcxY2Q2OS0yZjI3LTQzNjItOGM5Yy0wZThmNjUwYzRhZGRYARKdAQoKY3JpdGVvLmNvbRKMATlINlpkVjlpYWpsMFpXWlJWRUptVlhFNFVWVlVSM1V6UVNVeVJsTm9hV3hJYmlVeVFuZHVVVloxWm1jbE1rSkNhWGx6TTJkYU16RXpUeVV5UWsxeGRsSnFTMHg1TTNwQ1ZqaDNNMEkxTTA1WVRVSjBZMUpLU1dwUVFWWjNiakpOWlZGQkpUTkVKVE5FWAES0wEKDmVzcC5jcml0ZW8uY29tErcBZkZvU0FWOVBTV2xZUms5S2MzbFpWRWxtUmxoWVFtcDZRamxZVkhGVU5YaFZhbTFyV1NVeVJuZHVja1o0YUhkM09XOVZZMDlaUjNSVVlrTTFSMlZZTlRSbVdXbHBhbXAxVFhsS2JHZGFNVVFsTWtKaFluZDBNRTFzYlc5NlFWTnNNSFI0YlVzM01qa3dRM2w0WkdKTlYxTkxRVWxhVkUxSllVOVhOVVZtZDBoVGQzZENkbUZEUzNrGIPVwoOWNEgA&dlt=1792619356606&idt=694&ppid=ae4f71cdaf354adc9758bc35fbccc8e4&prev_scp=refresh_count%3D1%26baseDivId%3D.htlad-native-question-qp%26test%3Dprebid%26tude%3Dtrue%26cw%3Dstackoverflow.com%26htl_refresh%3D1%26cw_div_refresh%3D1&cust_params=htlbidid%3Dcw%26tude_htl%3Dtude%26Registered%3Dfalse%26Reputation%3Dnew%26Moderator%3Dfalse%26is_suspected_bot%3D0%26cf_bot_score%3D91%2520-%252099%26TargetingConsent%3DFalse_Passive%26loader_script%3Daditude%26reduced_ads_privilege%3Dfalse%26UPR_test%3DB%26aa%3Dfalse&adks=2626662007&frm=20&no_cau_info=1&cpu=4&eo_id_str=ID%3D1ef84812c4341890%3AT%3D1792619358%3ART%3D1792619358%3AS%3DAA-AfjZImRgr0x2ogcxX88p4iV7P&gblpids=%2F248424177%2Fstackoverflow.com%2Fnative-question%2Fquestion-pages%23dfp-nativequestion-1&pb_szs=730x135&pbbce=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:47.976Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.236Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-later2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.238Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://8bc7c54366dad3594a9358f44a795ecc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.271Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tpc.googlesyndication.com/safeframe/1-0-45/js/ext.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tpc.googlesyndication.com/pagead/js/r20261019/r20110914/abg_lite_fy2021.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.sstatic.net/Shared/stacks.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.sstatic.net/Sites/stackoverflow/primary.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tpc.googlesyndication.com/simgad/11926185231562157825?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://8bc7c54366dad3594a9358f44a795ecc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html?r=2117948877",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsswv7CVE9tltT2OwT__MMFuvlM5SVG4AvTSJeefQPsLHnz0wY4YquE5uvzwJBO-ikiLpB4a3Z-kkpCLOd-Tqa6y6aIh0XC8PjAts-DViLU5vtHcHRkPj-U9GaJrbKUr0DEy2vBaq0vAE5TJfdHnrWLf6S3pBNXSVp9TAcpAf-JmymWWc_Dm5npCOruV7k4REZoSryHQGeGE-2DWe6eNX0DQLy5RSvjd1VnzMlEAQak8AC3HPyIRvlagJOsKVPZCTiQZp2_V7LvvR2HE_NOoQSVpNqlHw0KnQt5clMcv5EpCskhgJC4QmHQJ5MO3G4f4wMUw8sGKZETUg6Ibhkt2Q70L5wHVOQ7g3JnKPgj98URMmv6EcwN_CxLQ8_kkDPrypPZSIsR4ZIA0IpI3uErx9JRczZw-JT7-a1e9aidBaJDs8ssD1jl69NBvgSoTpFmWsRoHOznyqH55hc_4eX5E-pyq1FvTag&sai=AMfl-YTaqlOZ53nZM7kVBbcSNmbeV14hYGFDN-oEICi5KxQ4PQ7IK4od9pZCEWKnDBHCHP3G53Ht0bNx-9l6cuV6_svFIqstMW9XO8VbDJ-Z-fAjwVNKFftWrtlwnkmhp7AaS7aLkWeRDcc4Z9iQ1OfJSms9kRzQiIizf21btI8l9r2e-7fIenxTvMm-NvFhxxJ7GNKYgMF0tGHp7i28rHx4SiYxYRS6DOEynl7OhicveRY0BfJ5-pWGbMrZnpTnUxmWIYki21EBzHTPxjfc9Q4sAiKQmIRA_z5zTXs_uqoVIZeSd7bfaFn_kLhfxSfOdPx5hluCwXYAE4SEi0-K4Ghqw-bk-CreOPQOz-1eqjyWnewKv0Exr-eZeQrQLVlEIy8gYsrp0OpzzxmPv0Q&sig=Cg0ArKJSzJfYxY5XERcfEAE&uach_m=%5BUACH%5D&urlfix=1&adurl=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjst7OV4z1GbjL6VeBhtgNAHWIWa66HfBQN42gk5VTB8dvLfjBUr9IE0BqOIIivbXAjMhDgPuS4oK2rZyPxP1IaTrW25Qnsx60W0paKY0kEdfl8jxv5fy4XRrSMD9kM4sALSVlLwUbAUDHgY8MGXC1F3ZHhAqrd8_rb2KD-FFcrkA-Q1Llp15-8vIeBqZZsTv34a5usJ_Wbqr-lnyTnkYTPR8KrfvdlGZN5F1Gyhm5GR4uVdm0I3z7XknLcch5MysrizTppfRGYZWgwiKm5LwIfhUJOZvH9FcxRQCITJ4-2fJpPogLsbp-wBJmtU000e1eWzQ_nJ_HGmB_TvI7z07XRheAoTtW2tVjBCyY1oCJBkFfiiYBEJrSuN4NFwHb4yJScwzzUa98Ga1nUgrKJ76k8evdyf_ExG84sP6WcYWnZEFi6B5hFUd8jkk-YJH9vq4ceus0gi451XXXNxWqMjywNNBuUpLvB8b&sai=AMfl-YQBngLEszdO4xQf1qUWubsPhvS22ymxFSIAkpao4OJ0P0npKTD2oyQ91cmeibT0xWZcRc0BsvJAKP3tTDvwwjfQsamsExwOAuCDD_LrEXKV9B2tBU6RUFrv9j4GAQS0a0xRvi2NFVM8wxDxDDMQSU4aJLC0y-2kFOHbx0Z4DrSYJoLAT5J0Q5WjRpdL-qx6GaeVcPZjzOkDxWTabWo1ukCYJzGT5aABQLqgQPuIoAQYehx3lQiLyXf52fkN-SrhcffZOwHGXfJaLIeRwC4KcNpln2iAv6qcDplSEy7iVp-0hHFmZfuWRoWSxPvM0l7QSjN0tGe0xXLpw6eaUBOIkWYjdfZD_EBi7zMNq_jxeT9sL0Ccx1REDeYRuG3bCKmuf0Y8SZac68xGS30&sig=Cg0ArKJSzFf7W8BeDtztEAE&uach_m=%5BUACH%5D&urlfix=1&vt=11&igpp=1&dett=3&adurl=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:48.976Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:49.065Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=59087901&p=0&s=0&a=0&ptask=ALL&np=0&fp=0&rp=1&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:49.189Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=1687687577221446&correlator=3632992096514465&eid=122881720%2C122881757%2C122881696&output=ldjh&gdfp_req=1&vrg=202610160101&ptt=17&impl=fif&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&iu_parts=248424177%2Cstackoverflow.com%2Cbottom-anchor%2Chome-page&enc_prev_ius=%2F0%2F1%2F2%2F3&prev_iu_szs=300x50%7C320x50%7C728x90&ifi=4&dids=pb-anchor&adfs=2627107510&sfv=1-0-45&fsfs=1&fsbs=1&rcs=1&eri=1&sc=1&cookie=ID%3D4acb19fd78ca1877%3AT%3D1792619358%3ART%3D1792619358%3AS%3DALNI_Mam2ePXS563oblRVxr6EwI5w8KyQQ&abxe=1&dt=1792619389184&lmt=1792619389&adxs=276&adys=630&biw=1280&bih=720&scr_x=0&scr_y=0&btvi=0&ucis=2&oid=2&u_his=3&u_h=720&u_w=1280&u_ah=720&u_aw=1280&u_cd=30&u_sd=1&u_tz=-300&dmc=16&bc=31&nvt=1&uach=WyJtYWNPUyIsIjEzLjAuMCIsImFybSIsIiIsIjE1NS4wLjgwNTkuODUiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE1NS4wLjgwNTkuODUiXSxbIkNocm9taXVtIiwiMTU1LjAuODA1OS44NSJdLFsiTm90KEE6QnJhbmQiLCIyNC4wLjAuMCJdXSwwXQ..&uas=1&url=https%3A%2F%2Fstackoverflow.com%2Fquestions&ref=https%3A%2F%2Fstackoverflow.com%2Fquestions%3F__cf_chl_tk%3DYEf23VsiUEno0WY2O5Pe1InIfLIq2u_iSlfih.92tHA-1792619355-1.0.1.1-HjiGhF_QLX3b_LdGAF9FvvhcDUqQ4BiOuy7AkhZMRuo&vis=1&psz=728x-1&msz=728x-1&fws=512&ohw=0&psts=AOrYGslZ1XVKI_rCQOo7a4q0002lM5Vgcaou7ojQbU5Q9uSv926HrkIMRqgtQ4lv6w6VHP7IuM1J8xnyx-eBv4l3VbhKrrOOOdRkDOwRwr2HnCyh6uMVwiA&a3p=EmwKDGlkNS1zeW5jLmNvbRJaSUQ1KmwyZ200eVFqazlncTBmdE8wa0lWQU93Z081RkJFa1Z5ZW9qUDh6STROc0hfXzJyWk0xOWFBQUVCQ21yWk0xNEE4RkhNRHdQTktBemU2Vm9iNTEtRF9BWAESNAoKcHViY2lkLm9yZxIkYWU0ZjcxY2QtYWYzNS00YWRjLTk3NTgtYmMzNWZiY2NjOGU0WAESNgoMYWRzZXJ2ZXIub3JnEiQyYjcxY2Q2OS0yZjI3LTQzNjItOGM5Yy0wZThmNjUwYzRhZGRYARKdAQoKY3JpdGVvLmNvbRKMATlINlpkVjlpYWpsMFpXWlJWRUptVlhFNFVWVlVSM1V6UVNVeVJsTm9hV3hJYmlVeVFuZHVVVloxWm1jbE1rSkNhWGx6TTJkYU16RXpUeVV5UWsxeGRsSnFTMHg1TTNwQ1ZqaDNNMEkxTTA1WVRVSjBZMUpLU1dwUVFWWjNiakpOWlZGQkpUTkVKVE5FWAES0wEKDmVzcC5jcml0ZW8uY29tErcBZkZvU0FWOVBTV2xZUms5S2MzbFpWRWxtUmxoWVFtcDZRamxZVkhGVU5YaFZhbTFyV1NVeVJuZHVja1o0YUhkM09XOVZZMDlaUjNSVVlrTTFSMlZZTlRSbVdXbHBhbXAxVFhsS2JHZGFNVVFsTWtKaFluZDBNRTFzYlc5NlFWTnNNSFI0YlVzM01qa3dRM2w0WkdKTlYxTkxRVWxhVkUxSllVOVhOVVZtZDBoVGQzZENkbUZEUzNrGIPVwoOWNEgA&dlt=1792619356606&idt=694&ppid=ae4f71cdaf354adc9758bc35fbccc8e4&prev_scp=refresh_count%3D1%26baseDivId%3D.htlad-bottom-anchor-hp%26test%3Dprebid%26tude%3Dtrue%26cw%3Dstackoverflow.com%26htl_refresh%3D1%26cw_div_refresh%3D1&cust_params=htlbidid%3Dcw%26tude_htl%3Dtude%26Registered%3Dfalse%26Reputation%3Dnew%26Moderator%3Dfalse%26is_suspected_bot%3D0%26cf_bot_score%3D91%2520-%252099%26TargetingConsent%3DFalse_Passive%26loader_script%3Daditude%26reduced_ads_privilege%3Dfalse%26UPR_test%3DB%26aa%3Dfalse&adks=1716828381&frm=20&no_cau_info=1&cpu=4&eo_id_str=ID%3D1ef84812c4341890%3AT%3D1792619358%3ART%3D1792619358%3AS%3DAA-AfjZImRgr0x2ogcxX88p4iV7P&gblpids=%2F248424177%2Fstackoverflow.com%2Fbottom-anchor%2Fhome-page%23pb-anchor&pb_szs=300x50%7C320x50%7C728x90&pbbce=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:49.330Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsv-StpcoTC676MivqYXPsVxZ_BL9GAamdDR91MuhMAPt0zBxFyjAe2yQILwvhSfW0V5dmqMOekchvKr9mQ5gEBye82TJwfe3p6K4aXRWQAvnK2BfNj66VlHnK88OKGVuSgZd0mt8cQcj5I8uyhXGx7m87LET1q80611xp3UrptbPKhbTwRZwD1XMjoYUnM&sig=Cg0ArKJSzPBCHw1DPvxbEAE&id=lidar2&mcvt=1002&p=542,189,613.421875,924&tm=1058.5&tu=56.69999998807907&mtos=0,1002,1002,1002,1002&tos=0,1002,0,0,0&v=20261019&bin=7&avms=nio&bs=0,0&mc=0.99&if=1&vu=1&app=0&itpl=0&adk=2626662007&rs=4&la=0&cr=0&uach=WyJtYWNPUyIsIjEzLjAuMCIsImFybSIsIiIsIjE1NS4wLjgwNTkuODUiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE1NS4wLjgwNTkuODUiXSxbIkNocm9taXVtIiwiMTU1LjAuODA1OS44NSJdLFsiTm90KEE6QnJhbmQiLCIyNC4wLjAuMCJdXSwwXQ%3D%3D&vs=4&r=v&co=8855218800&rst=1792619388230&rpt=35&isd=0&lsd=0&met=mue&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:49.979Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.493Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/usync/?pubId=5d49f482552c9b6&gdpr=0&gdpr_consent=${GDPR_STRING}&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.711Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://contextual.media.net/cksync.php?cs=1&type=ot&gdpr=0&gdpr_consent=${GDPR_CONSENT}&us_privacy=${USP_CONSENT}&gpp_sid=${GPP_SID}&ovsid=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.760Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=62235453&p=167120&s=0&a=0&ptask=ALL&np=0&fp=0&rp=1&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.809Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cms.quantserve.com/pixel/p-5aWVS_roA1dVM.gif?idmatch=0&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.813Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tr.blismedia.com/v1/api/sync/pubmatic?&gdpr=0&gdpr_consent=&us_pricacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.819Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://c1.adform.net/serving/cookie/match?party=14&redirect=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&piggybackCookie=[PLACE%20YOUR%20PIGGYBACK%20COOKIES%20HERE]&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.822Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ums.acuityplatform.com/tum?umid=6&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.827Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp-cookie.adfarm1.adition.com/?ssp=9&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.830Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://b1sync.outbrain.com/usersync/pubmatic/?cb=https%3A%2F%2Fsimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTMzNDMmdGw9MTI5NjAw%26piggybackCookie%3D__UID__&gdpr=0&gdpr_consent=&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.840Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp.adkernel.com/sync?exchange=4&r=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTQwNTkmdGw9MTI5NjAw%26piggybackCookie%3D%7BUID%7D&gdpr=&gdpr_consent=&gpp_sid=&gpp=&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.845Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://csync.loopme.me/?pubid=11331&redirect=https%3A%2F%2Fsimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw%26piggybackCookie%3D{viewer_token}&gdpr_consent=&gdpr=0&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.848Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?gdpr=0&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&vcode=bz0yJnR5cGU9MSZjb2RlPTExMTMmdGw9NDMyMDA=&piggybackCookie=HTMZWhhhS1IGakgFTTFQUhNqTwYGZh9VSGC9qu__",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.852Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ipac.ctnsnet.com/int/cm?exc=14&redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MTEmdGw9MjAxNjA=&piggybackCookie=[user_id]&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.858Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.resetdigital.co/csync/pubmatic&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.880Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://8bc7c54366dad3594a9358f44a795ecc.safeframe.googlesyndication.com/safeframe/1-0-45/html/container.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.880Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NzUmdGw9NDMyMDA=&gdpr=0&gdpr_consent=&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&piggybackCookie=6902085579206786579",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.881Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-later2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM3MjkmdGw9MjAxNjA=&piggybackCookie=6AD9335FD4F018F8A295AD8C_&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.888Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzNDMmdGw9MTI5NjAw&piggybackCookie=ff4a4ac5-82cc-444e-ae58-8fd806e861da&gdpr=0&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.906Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/xbbe/pixel?d=CKHA_7IdEMHn7foeGL6Qk-YCMAE&v=APEucNWn-HQH4APJ-C57k1TmFRWPt8OLZRFL0ZjkZl-ArvgA7tTYPol4WS0faeLKag-j1fhVSjRlabpJeHHdDVgCYAAL4ScThs9_ffjIbD7A_MThS7Jv1msD1sEc_hFEvGvIlsXUx9gX",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.949Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.doubleverify.com/dvbm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.949Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/js/r20261019/r20110914/abg_lite_fy2021.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.949Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/js/r20261019/r20110914/elements/html/omrhp_fy2021.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.949Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjsvM3MYvKzKMkaOjVc6RfyvBIbWZ7CoIIaEvAU04CBUWrBKiq_pO9xa5fpFIgxPKLdguntTMd_f21L_xmrZSNFrpxn6Nawyd2B5mNnVTY5wSSZnX8TCC--KSyP1KUVYmBjIDDkWM2zbSg5Xn9gKSTe2sYat6FOL167x4km-LvOQpfxLATrpUjbWGJwalyDuAaCeeJn2rdOX1ydq69sG3EVONzm1uzq78M7JBfD30wCYR43XeHWrZISPkT7bqCWDoRRyMCQMRiWM5DdzGx99RhbHnUnBpiQASlzxQz193y-uwfcPnDdTEA0yk_5l311Z-glxH2N5lqeLt7NvbnCO_MRSWHmg1pJ74FYVMjMGWmhLEtaRiRF3LCugB6C4LqwAn0nUP0vslWcNNdEvpKRk3jo2cTrSsy1TkbRKWR2UqYLfLxNNOMdCjNsB6QlrV3sTrUeQDlHRMr_R94e73YwgtcfaWbh8o87Ei7B-BEDeZMt5eHnYv9sgyd00Atm0gd2oxe-DXsJhMhR8BcPKBP6cTob0LXg04gWBRKotYTWpUVecKDG_Z_IhDYTocglKcKEV9B1pQjocGDcEXwoJaKiBfF2cUbCsAyMuAoDwHojB6vpxiRGjbIdl1elZ1_k2Y27S_9nhShXzlsQA8OYxrytgqzc8FgGvc-T6JC44Ox1_IdaVbtGtk88tw375b5phd_df-NAKjyRoibMGE1slOi3quytkF9iTl_OS9WXwtQJ_dtQWO80_x2D_Tc9pP2rak16xk7kq9bz8Dp3bU4ZkjeOXyJLq4Zc09oT2iWQu5jmbUcpEGnuQ9eGhFlslOPJ6wlbT7xuXtvec7zeZ3lSEMSmTC6sV9UXlykaQ3_uvFuV8iuCbzaZp8pqwa8qqVtyQp6IjXtB5Px33ORH9h5mCY7FucZ0ud_-EtitiHWYn85eiXKSSpngHk48Sk3_JXws5U_Hoo4YpdvL7E2saNwT6hzOJsAoZwakj7z1pxG2hu1NqpXcfI4XWt5Tnni6vKtbB5q-2cfYun00kzhCJMZkQL2dEC4-6dW6WnsGHBAtckfjNtZLtMc8B0j8CYQ3u3bymHTUQWD2S7YqoRjsij2moudUQjVIFmTNBNuPFpq6qCAJx13zzh6cydISqGn_l1CrDktJhq-hy39bN_UveQNAdu83avcHWwJJMQkGAocXMcaQiEs5c6FIzKOcRbHokCjY6p1qB3BC2O6H9KkjUfbDMOL3CT2CGpUerA_fqcmSUUS0CO1wBxzTJXFzsY6fI1h8JSdQ_zJIq8OD8y0KuDf7T5mQwK1Izr4OwRuFwO8dF0gVbB9aRiVwYvWXqyY2Uh5z7NKF4s1c2hPn_5FGJR1h674v_UZ01I-uEnc8lITVh60Pkhn3VyP4eDiwOLQHPM2gAVU2AqkawxEEccczDSSXcT0wuf1IhrsPsF5HZenKi7qkH8YSTZICGPD0g4JQ9KUcu8IUCJ3wx-3RLDsvKWEKIYvO4bHGigZlbxg_RR1wbWZb_qvj3kO_v_CalTDouXLj8bH3Mmb61j96_oehKnbJySuyBA0TdbXkF3GbR6SiEUeG15bIBh12c27vrl36PjE7qZH6I5Rp5pqNO87HzK9_f4g3ZSb0cum5F_2VX8RTQTROEIG8uCOkkQ3AtUFfEfaM5XFuzlDSR9OgFely8kNA7l31IhMqI3RieryY3oLy_ehhs7uF35ujKxcF4LT3Rmy-36cAN9vzm-OGP9M-8qF9vDPkk4Dxph5UxBnPrAMB_aALkiuwxM3PYUVZ5Yh7jjzR-Htptc7YjabXfq3pK0iC0rFUK7HrUULeRW0E4t4WPed5Z_DG4emffTTcZm_UuG911BVkgrK-VcJTw_yH4PDO5Eiqq-EtPr50PlTLKJUg-6Io0ggws9cIV1QL68fnRMgLI6xlSZLB0rO7_Q1M8RoxirFOeCzJeEfjTCWhg3Kl9P_sh6SrEOjHEScx6Pcih__3If69R4nM0u3D8_VxQabOKTLddMoY1uveyGD2HLGfY7ghs_C5PZb0GxwiKtmy0uUQ0rIBMV1Ryn7NbtJVwgO2MdyQ&sai=AMfl-YQ_HPFiJWBAPZz9stgdGj5H-TZ7SApn3LkHKvOY1VzvebeVmu0S1vZAv25z5N5x5jP9lZeRXgZuQOx3kp1jxqJTmVlr9O_tASLIdJc5B3OiXINIY9SlkNP7jAYnbqgy5F_quZOq5CErRdevUmgp4CQMkfsWIEJ8CIpwtwm1WwyYwuxPMcQh347sdNRBZwDJBwm_ZN_0KoeqGwVtT_B6Po0RYIQ1XlaDYmV4xD41U-L19ioXL5pEG_gV4KRg8j-oRRZ__Dx5k2jfets2bwsaADuwDV6H9slvdGoV0yd8mw9JsJ7lJM8nRqFBENSlAJHhcPyec5LlocwpfV40irnUtpeWDN5t4qTc2707YdcXL2qd5N4yKkIe-_yNAqNanpp8eevNz4EUmVABpLTEBdodt5qzGv_WlkDq0_wKQaRslVCvmvRZHqkdsDavc7nNCg4Ju_I1sTPzZqgVPVjOK2SUi26p0O4nZgJRRyAuwRRxf676yv-Y5eoS9cyhUIGxmIz6Hg3N9doaKjL5jALAaO29QNlDyVRvIyBt2NQOTzU65vKkv3QfmML4NfyAxDDLf2v87PzYJlpeXAOcz1pyGqNQZETSn0KjKGN-9-9jwC54od0ix79wPBJRJk8j_5jU6RQ1NSH6WOMwUJ_rE6ZS1uJfxsj2vSQK2z0sQNRLDhAHQpQfRImgmNSOihkeNmwhfGl2CqVsePEWGa6ssRp2FHKhNla80juvcTvL0BXnax5jntYuwUVl9Od5-x0K_Hmv8NKuRkQAG2j8CEFNlFt3oIVoF20_KYKH2s10d0Cm50Xu55au9b4PGo_d6tFAKdhlpGrtRzvK3eK-iOLoLLci0TtHROFG7wtyeljwhlQ6Xt-AXzbp5_vrNp2U586u8xMSGWhzMssfK5ElXn0GrfnyDgWlrsZstl3h91F4hZEhRnoYvulscFPvilvBRa95kW0ImYi4A-nvY7N1Xgwtvyd1Z3wY3nOmbDvdu5zY-ad0bbU4AE3zm7sJfVk71o_WFQN-EOlwHB89y_VcIzIx6SIheJpCwEYBbXA-_wUyvYB54YuaZ0hMt8CqvqLmkoZP5KLyLKY7zBZA-dJpD17ZtOU9sTE19kwjXy1HVBYeE6ZSWQKWe0r5FwpCIklCzbfA3OST72AH5tQaFjGXRDC_o96bm9E9pPtwCm_5e_0re9hEzvs22UzitTRAHbIsy3Iwc0Jr_BlRMLiPyqdaS2AY7MicgROSrY0jqWoVIEw7PFBYB4Jz-_z5daEtIfm0qp6c9tr4_Myx42eBqCVCJpnTZoOAH3UylsMgF5kbSGRWCF18YhlUJ0yizHAYFb-BaFqJ-_PJikxxBtyJQRvqjuuNM9kQXjVIXSO6zEoIFP6nP0X0UngxCuV_xvNXT3mwxn11&sig=Cg0ArKJSzNQJmyq88kD9EAE&uach_m=%5BUACH%5D&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&omid=0&rm=1&ctpt=2&cbvp=2&dett=2&cstd=1&cisv=r20261019.34672&arae=0&ftch=1&adurl=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tpc.googlesyndication.com/pagead/js/r20261019/r20110914/client/window_focus_fy2021.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tpc.googlesyndication.com/pagead/js/r20261019/r20110914/client/qs_click_protection_fy2021.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=xbid&dbm_b=AKAmf-A9B7nGjVSupVZhGe3vFevvqb6kkmTE1iP3PFow2Hd5AsUtDPaHl6za5bU8Tw9_rHbDaUSeJR0ywRxIj04L5BmbgDhVk2MpUyx-PLRk91RikvoIpoQ",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/ads/measurement/l?ebcid=ALh7CaRpdH7Xs9He1aU0Yb0LoE_q4v17M_JU6Ks-WR12db3q9Fn5Z5ukA1Ys-fgoupNsC3q_Yrbx0giZA-Yvbk0lxoISM7TuXQ",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.950Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.951Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb0.doubleverify.com/verify.js?ctx=41515965&cmp=36857866&sid=10645013&plc=458200710&crt=265978479&advid=17008968&adsrv=1&mon=1&blk=1&cawf=crtwrp&cm360cw=1&unit=728x90&prr=1&turl=https://stackoverflow.com/questions&aucmp=24301851975&auevent=ABAjH0jG5fTBWU0Ex8F2ZphNbJBQ&autt=1&ppid=103&aucrtv=751093822&auorder=1031647462&pltfrm=1&ausite=18388890470&auxch=1&aufilter1=7891574817&c1=7891574817&audeal=4321570&adid=&app=&dup=&gmnpo=&isdvvid=&supplySource=&tagtype=&aUrlD=-1&brid=97&bridua=3&brver=&brh=3&vavbkt=&lvvn=28&fcifrms=23&winh=90&winw=728&chro=1&noc=8&wouh=800&wouw=1282&htmlmsging=1&refD=1&scah=919&scaw=1470&jsver=11027&uid=1792619391925710&srcurlD=0&ttfrms=12&num=6&dvp_isOnHead=0&flvr=1&ver=11027&jsCallback=__verify_callback_1792619391925710&jsTagObjCallback=__tagObject_callback_1792619391925710&ssl=1&m1=96&blkmode=2&ee_dp_rdystreq=loading&dvp_rcp=2&dvp_seem=2&dvp_tuk=1&dvp_sukv=45600098866.34178&ee_dp_sukv=45600098866.34178&dvp_tukv=1638899462.4645598&ee_dp_tukv=1638899462.4645598&dvp_strhd=0.5&dvpx_strhd=0.5&ee_dp_tcfds=0&ee_dp_tcfrp=0&eparams=DC4FC%3Dl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETauU2%3F4r92%3A%3Fl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETar9EEADTbpTauTaug34f4dcbee525bdhc2hbdg7cc2fhd644%5DD2767C2%3E6%5D8%40%408%3D6DJ%3F5%3A42E%3A%40%3F%5D4%40%3EU2%26C%3Dl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETauBF6DE%3A%40%3FD&referrer=https%3A%2F%2F8bc7c54366dad3594a9358f44a795ecc.safeframe.googlesyndication.com%2Fsafeframe%2F1-0-45%2Fhtml%2Fcontainer.html",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.959Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=fle-fetch-start2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.960Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=colleague-executed&name=4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.960Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu85viGV9ixomRW3Haw0Ul8KzxKxgbyphJN3HdlcRPu0H93nJT4LQktwty0av7bJeWCocbWw0KfaUGsmCYqiIUzvYhDoi3x9zqoHiZyAqI0zfJCLO6MlO99ntdmYThSNYCQZsIUkOrp5sI2XKKQpndJu9LocKRaF6oz04wiLw3JOTXze5g3ym9kxvopN2FIioS8IvzaQy-oAx3lBGWyGw6fw25FwdEPndcktYV3efjGa6wToqi-zXPtOYK-P2PJwpnDkZ4bVHuw7qGww6z-wqlDYdzVRTrGZfFs26Hr8Z37-gj2ySc3ZBpWrCDV8lExt4GGFinjAJ5zoPVKIz7aGQjhc8Lp7HH3imqcYmpp0jh85l74OUBairLDUJ_pRej992WIp0KUjbtzps-YPUAzklD8wH61WthNSdgfrV5pw5FrKd0mdt25PMQmhcccfe-jnzaHNpVFNWp_PYeL0U4SW27XJv8cBhs09qUF-J3B1KsY8w2frheMsUaDLq6ClyjqD7ek5NYwwhjeOwZ3Y5O1oqdOJliSJckJwJvgQ9av_erh9EbQOKukRv5dENUzEi7r0E-1CjorOknQ84AhlcEgAVHRM7SN9A20yOMn6VOjy54DVkX8DzPx6R8oRmOxpeT6eRmQOJ3ZRasnVOWPBnn4OMXGOEcrktaCgH_1BWPAJNgUrWPDtQWpz4LJeNY6jlx7GwH_z9wLtLzI6X7yq7FfbxMw-wfvffnij3mf7rrEz2ejA42gd8lLy31Xxedvp0oHO_ixpvUbgS7fdFjPvbNCjTdVeXvmXyqkZQNhby-eZ0gCSMlBj1o75BEmk25wXPEbarRdQbpWVJQIVicr0nkScahQOeHx59S_GS8j9dtn-Ox7ZwaINA8VqzXbqP1ccAQ_RpR8buOH1OFo4LKKzzRllnt5fanHNifrRPRVzFsFqf5j4lxkxdtWOFKLzmr4c12bjk7KP3SHN0MnabTeB4PRs-9W-ObP19V9Io5XSMJxL-SWq8k7thc6zQaL42I1aV7Bt2zCDKC_O7kSctyjvHyjPEOQmEvfJFN2y_MmenHVclLnlHA40u_J9a2Fi-2vpULjOc2i6bllG4WApR241thZ1mWrHz_Fd5VYqnD-xRLCsrZTAQnyLdOdandYwlIZHws2N8oe3yLTOUGzxsFqj8oioFhk8vvTegp14ewkaZmrLi-xUUzBAdqbpGg8MGamWv_wplPSTsnNFX-tjkAUoPHYmpPIwH29JeAg2a0CfCPAUS98E7VR19xJxaWtaGqWp3U1toQok6HbAVmwjDR3JVtpz5y2rNwGUb9yDsoIPM_m8FKh53Sd9EYxiNSNvHDJt_8n5Gvwu-Mtj7r0r21FKLET3yM4GZrEBnOFKyZwvedjpfefXeZlCNFLIwzidDcNsMU5OlqtaCoD21MeZFwBxtpLY_4HgOyoe2mgZ9ml8HEcf_u5TDDvm8c7wXrH7Bw_-wq5Mp4RrzFwIDbpbcQloVy-9GkBcexLlJhIvY3jLyNiOo7V9BAvVOH5k3sLuV0WrjoNP4ePkyLvaLxR2sNF42p486rTKDqBzNla8HkbTmZZkXaPYfXQNVtt-I9KE1R4S7mxKggYdKVoO6rPD3fyh6_pTg3MCseU0T9ha0SrkEWTFWIdN5CVs3vKwmngdUd4N_4bLUF7wpVWRTZWVn0wwGiHrbtgY6-Hp5jAqieWfk9hU796j7FUvr161s3SGHC6yDgJC2m2uNAECx-2epia5i2CMqA-1Q-CV_W7Lx0PHtHZKoRtkEYq0kI3H-haCjMZkq_6F11Ut7OT06UegQdAoZ3Tz68sOlxwR2cpZjBflrRvvjOAMl5CUWYkM_UBmBih0fgVScW_V4lfj2KFFzmMJ-xqYPTeLPkPy47WBVsA99CZgbeJQu9m0w7EOgCVRLjRQe4N9VUWbEljm6JPvLkL8YKYwJhYrXWqAgMLtJaWbI1FhB2et5reONjZnSdkpr05zQ&sai=AMfl-YQYncU-HVmDgmHDnri9lbEcYbJXIHyClRGktZuwwQCHBlss4T5LjuK34r5I9dY6PPhroYq7LYPaajMK4R0WgwfEW1faHsGcicadZF8wbl7HNqpHtIaIpZN_9dWXth-TXLa42GgL_uyX54RQdBpg86t7mIgvjKOhBwI6BSYSDxNB__GQ0bNidNx7AdDsWAmokf-mrJQO_8CInMPRvnVt20eapuHE_2VvX1F09en6rbWrFjwyXUBjzs95bBoPubzcsyHc5KRonHQnSztGA3pPGzpVL8UZewsSOlM2SPbmoBqvyj7ayvrU3rJyFQr6leKJVkufg--e1JIQi8sOyEexMCUbfL4sTKlacs281g_TR8eNPSrpKotJOAkoRgUbP0WW89rLqWCFigMU7OF0oIvYrpCiDTvGZJld-peq02mpAcV9NfSH5lkN3QgaRQjzz-hOScDTumzwipVzYnAaEXavJ7KyTJ0EyAd9NVTlIwGGn2QKIqaIKb4AsHKCA5-8DvHdwypd80xPcoTpHlsEBPuLZJbiMi6RG3LvAIqbUIO9Lx0rmorWUM7mzN9t6M2CRgTqkAWeXlfmvaJ_IYV0sBzAgy217BirA3LHd9-xCwFvoADyKX3pOFgypajCFBR21u464JMTNdBH8p7lSvdr0pkbO2mD4_ch8vsD-PNYpldhiSALyHjob0Ho15aoYR6TLG05Vx1OTcYsbT0CdpUHMM4W6cSxLMOaABsMMxdt5Ir5WM9A8I8tWwp6aJdHspgkciOnplFUMgF9pFMkmJrclbirUuVrYD88ZNZg6jO1CmtK99HEPO3ueL4QjfXM2pXKr6-zpt3nyXWb5mMuHVlqdUhza9Jhp-qODfcOqNC-ib2fni2TD-veVNGHlebMX6UN25GpASkNDvaRR6Z4CuqJarg&sig=Cg0ArKJSzB4Q2_LxeBvcEAE&uach_m=%5BUACH%5D&urlfix=1&adurl=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.961Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pagead/gen_204?id=av-js&type=reach&proto=CAlgAWgD",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://a.tribalfusion.com/i.match?p=b6&u=&google_push=AbeoXYw8Gxb34i75juxQiL8nI_P3BzAxj2HoTUmYcKSDyxk64nV3ir-nXQZWU5S1KejEoB_cYWh0fxp6QlDK1K-eZTou8vnVRxm4&redirect=https%3A//cm.g.doubleclick.net/pixel%3Fgoogle_nid%3Dexp%26google_push%3DAbeoXYw8Gxb34i75juxQiL8nI_P3BzAxj2HoTUmYcKSDyxk64nV3ir-nXQZWU5S1KejEoB_cYWh0fxp6QlDK1K-eZTou8vnVRxm4%26google_ula%3D2786954%26google_hm%3D%24TF_USER_ID_ENC%24",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ads.travelaudience.com/google_pixel?google_push=AbeoXYzJqc6983R65iqbLBqt0cPAiGEKmfPBdqQW-WA5uP6YgJlDm9pcgkO2CHwzABEVVZyvPcMYx5x21bGL0Drl2jCApni5HC5y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/adxpm?google_push=AbeoXYzOPgXa-GjVzZjHuuwlA0d60v0UaW257reJRo0ZxVrsv3L7HOymJz_wXXyn32JveZtRH1Y-A_7RFRPQzq82rPt_rxMdFA0n",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp.adkernel.com/sync?exchange=11&google_push=AbeoXYyelNbJT04cdptyFICkQzhdicgDiLE6aJZRMBSTPVgchzFaxGnVz6pus3uFV_ns53xeK5MI2A6zFwRNU8SxPe93H8xPUL8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.968Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://google.partners.tremorhub.com/sync?UIDF=&google_push=AbeoXYwgb9F2aO0fhlKI93phmUvFFp3CqEAQ9y192I-ry1Ka2NIp3EWMHE2tDOBqJy7pibWZxgkQVQvF3gf6JTwGlCmpQm7BTJ0D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.968Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ads.yieldmo.com/exptsync?google_push=AbeoXYwNbhrGfWnwO82QSYJCpz2gmRM1iU7oj1j5AJ9QmQnhl-CD0qAeW7-QgK3TegUJZ58t1KfCwlJov1zowUjYP_Wia-pG3vjS",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.968Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://u.4dex.io/ob/usync?google_push=AbeoXYxNNkqff1eIZwTn4iufBMbYvnZ2Om20C8lCbG0doPA7ozgmd9UexvfeBA2Cw8O2TklQ3h2J47Ar1gbu50PL1ufncmSQ7S9Kkw&gdpr=%%GDPR%%&gdpr_consent=%%GDPR_CONSENT%%",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.968Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel/attr?d=AHNF13KEACzIiesEm1G65YAteErF5kDISiELtYA3XPEjCn6qA8ovF8bxQBC7NZsm6W_0T207oYzFgQ",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:51.976Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=openx&google_cm&google_dbm&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/cm?id=9ca165a9-d9fe-2ff6-d83d-d145a80b0d37&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&r=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dopenx%26google_hm%3D%7Bopenx_uuid_base64%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_dbm&google_cm&google_dbm&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.teads.tv/um?eid=3&uid=&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&fb=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dteadstv_dbm%26google_hm%3D%5BVID_B64%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.056Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537072991&val=CAESEHDzMlLxns_zV9aTkJ14mzk&google_cver=1&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.059Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNTkmdGw9MTI5NjAw&piggybackCookie=A1644251973571273942&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.060Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.teads.tv/um?eid=3&uid=CAESEDS5s-CP7IB57AB08wVc_bc&google_cver=1&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.062Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MTgmdGw9NzIwMA==&piggybackCookie=00001241B6EB9125",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=tremor&google_hm=OTJiNzAxM2U0MTUyNGM4YTgxNjI4Nzc0MGY0M2JlZmY%3D&UIDF=&google_push=AbeoXYwgb9F2aO0fhlKI93phmUvFFp3CqEAQ9y192I-ry1Ka2NIp3EWMHE2tDOBqJy7pibWZxgkQVQvF3gf6JTwGlCmpQm7BTJ0D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=doubleverify_ddp&google_ula=7327243&google_hm=**&google_redir=https%3A%2F%2Fmaestro-ue1.tps.dv.tech%2Fbsevent.gif%3Fimpid%3D24b208d3673b451da6944c90bbd28166%26flavor%3D1%26gdpr%3D%26gdpr_consent%3D%26dvpx_gfbc%3D1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.078Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=exp&google_push=AbeoXYw8Gxb34i75juxQiL8nI_P3BzAxj2HoTUmYcKSDyxk64nV3ir-nXQZWU5S1KejEoB_cYWh0fxp6QlDK1K-eZTou8vnVRxm4&google_ula=2786954&google_hm=18072661919155103899",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.078Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://googleads4.g.doubleclick.net/pcs/view?xai=AKAOjssUrdj5FeSqAs3WD2OONsQJUju-jD0UJgcSTJEbguzGthtj6XuQKXq2fSR-QA6GDzGEjuMHMm9wO3W_7TBXVgWsYyirRPbjCgIjwoV_fzpVZGSWRN52WdNfcHeNCJuJfOp5XFb1aHZVNbZ1yel93j7TFx49xJMaVL9VZY-FrPyYpMGkueXoBfz9I4OSCYTfn3-oi6ubJUc4kbxVJXZe&sai=AMfl-YSiRFoQ5c0dpRxdQRwjN3rMhX6SKh1SIaT08-iOj4OBII5OKVXcLoeZMmASyeUrUvE_4dQ0lJe7t943kNb_LA2LXWWIsXqeKdjz-_q6V8Ax5pZ6zXJBpI5VJmzTuq4_bEPPwkksHvP4CLp1gvkyHBuoFiZNuVAWT1a88HGIiu6x32MurFflL8AcByd-BMLG-oXBN4G8nueENK7TCRHcc-SXdOuUSw2Wl9WdBMH_WVzNXVaTqeKHYuceoKbvL0fxC5TKqP8eV807SqONbAeAQQn10wyLeZI70DxaU34wlnA5YCed2vcT0Y58_b9WLum9IwtvnjDh4_uBi9ZQU-0k54QAHYT1aIsdvP861MiGz-3yV6PBmiJvlRh4I56rMWSCeimBKrjkP5ckU20&sig=Cg0ArKJSzPn379bM94rcEAE&uach_m=%5BUACH%5D&urlfix=1&vt=13&adurl=",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.080Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.doubleverify.com/dvbs_src.js?ctx=2303585&cmp=20250310&plc=31025003&sid=29259&dvregion=0&unit=728x90",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.083Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.doubleverify.com/dvbs_src_internal141.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.083Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb0.doubleverify.com/verify.js?flvr=0&jsCallback=__verify_callback_452598368369&jsTagObjCallback=__tagObject_callback_452598368369&num=6&ctx=2303585&cmp=20250310&plc=31025003&sid=29259&advid=&adsrv=&unit=728x90&isdvvid=&uid=452598368369&tagtype=&adID=&app=&sup=&isovv=0&gmnpo=&crt=&ee_dp_rdystreq=loading&dvp_intrst=1&dvp_ttp=&nav_pltfrm=MacIntel&dvp_strhd=0.50&dvpx_strhd=0.50&brid=97&brver=&bridua=3&dup=null&chro=1&hist=3&winh=90&winw=728&wouh=800&wouw=1282&scah=919&scaw=1470&srcurlD=0&ssl=1&refD=2&htmlmsging=1&tstype=128&aUrlD=-1&m1=15&noc=8&fcifrms=23&brh=3&vavbkt=&lvvn=28&dvp_idcerr=undefined&ver=187&eparams=DC4FC%3Dl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETauU2%3F4r92%3A%3Fl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETar9EEADTbpTauTaug34f4dcbee525bdhc2hbdg7cc2fhd644%5DD2767C2%3E6%5D8%40%408%3D6DJ%3F5%3A42E%3A%40%3F%5D4%40%3ETar23%40FETbpTauTauU2%26C%3Dl9EEADTbpTauTauDE24%3C%40G6C7%3D%40H%5D4%40%3ETauBF6DE%3A%40%3FD&dvp_exetime=2.20&callbackName=__verify_callback_452598368369",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.112Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=adkernel&google_hm=QTc0NzQ4NDM0MjIxNTczMjQwNTU&google_push=AbeoXYyelNbJT04cdptyFICkQzhdicgDiLE6aJZRMBSTPVgchzFaxGnVz6pus3uFV_ns53xeK5MI2A6zFwRNU8SxPe93H8xPUL8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.123Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://maestro-ue1.tps.dv.tech/bsevent.gif?impid=24b208d3673b451da6944c90bbd28166&flavor=1&gdpr=&gdpr_consent=&dvpx_gfbc=1&google_hm=2&google_ula=7327243,0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.132Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://maestro-ue1.tps.dv.tech/bsevent.gif?flvr=0&impid=0d76d284f2e645ac8f36bc57d5e32b4b&vfdur=48&cbust=1792619392130456",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.133Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.pathtosuccess.global/DV_GlobalPassback_Update_728x90.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.148Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=openx&google_hm=NjhkODM2NDItY2I2ZS0yNzM4LWY0ZDEtYzE4N2VmZmM1ZWFj&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.156Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=teadstv_dbm&google_hm=OTg2NWU1M2QtMDNmNC00ZDE5LWExYmItNDE1MDMyMDVkOTcw&gpp=DBABLA%7EBVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.157Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?process_consent=T&google_nid=yieldmo&google_push=AbeoXYwNbhrGfWnwO82QSYJCpz2gmRM1iU7oj1j5AJ9QmQnhl-CD0qAeW7-QgK3TegUJZ58t1KfCwlJov1zowUjYP_Wia-pG3vjS&google_hm=d2VyMFFWVjh6MFY4OW0wNTlNVkQ=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.178Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=moloco_ads&google_hm=eQvHlqUUSRmpFtgIhPkCEQ&google_push=AbeoXYzOPgXa-GjVzZjHuuwlA0d60v0UaW257reJRo0ZxVrsv3L7HOymJz_wXXyn32JveZtRH1Y-A_7RFRPQzq82rPt_rxMdFA0n",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.217Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=adagio_&google_push=AbeoXYxNNkqff1eIZwTn4iufBMbYvnZ2Om20C8lCbG0doPA7ozgmd9UexvfeBA2Cw8O2TklQ3h2J47Ar1gbu50PL1ufncmSQ7S9Kkw&google_hm=TS3HaeGvQYC62x1VRUN4ZA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.248Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=ta&google_hm=vXH3pa8cTmcb7_0lfhANfg&google_push=AbeoXYzJqc6983R65iqbLBqt0cPAiGEKmfPBdqQW-WA5uP6YgJlDm9pcgkO2CHwzABEVVZyvPcMYx5x21bGL0Drl2jCApni5HC5y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=26694c88-8948-41f0-a1ef-36ef369677bc&gpp_sid=7&gpp=DBABLA~BVQqAAAAAACA.QA&us_privacy=1---&gdpr_consent=null&gdpr=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:52.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjstDU8vVJVDOt1GjKS8itDp582irmAkAPQlQhOyFUv1cRrk8rUyPZMybJOUPr_Wvp7v1zE4epFuc7CZLsPgYi2FXk8G0L_fTcNGCexaxbSvU5NjUTS6hAA2-DHuRu9yDzXfD5_7R40LqOrTI06mBPuLY-S9qE_-u0womiwSTNEaHdqbRXLFn4Ai1G92-5qfavGZO92VGQiwKUUXH85ACXkFT_7YtRRfqAtxiMgeYxgJucDDH2DVEKgGQ7D1ne-0czj5zWrodl7CRZw7ZqTbG6E89J717MviSYoKM8vCfzomL5C__9GBehBYvAWL2&sai=AMfl-YRnf7ZZgTcvsqD4FA_nRzY7bzqQVKzzt_NI6GzX0yosAB2LKahGOiPrBUoCxOYo257MWhitoSeP6tpMJk6AKDbkdUCbOz9Rs_W40XYSwROSaXSQb4qIXBgv6JyXQtzibZd2qro75kXFOByhQtvKNHSXMp-ZrIaqiH__ocrmFWyZDkP1ZodVvU6SNLkz2pmB2Am8De3Kum55pKGXqPsxit7qgftt-zHClBm1AxBqk9Q26VyS0u-BmSjQpeqUcQMEUUe9AbWLNMmuZWsYr_g4kgRtRVWfMdiBmZT_b3q9NxlLfMQ4J38zJxi7wDABqlNjBX1FiEEqd9KIcDHPOLwibpIxGgjv_FG9nvJEBiw9B-p5ehtULRZ7P7rv-ArEDNPFK3aCqb5NaghMzRk&sig=Cg0ArKJSzFzGJl4MtyXkEAE&cid=CAQShgIAQM4h3D-4dvNIU3voNYP2Y_TLmz9Okv4aQAtyyS51dDyroyZ8t1IO2DV0FIdKlBc3Q81UPolU8P6wAZjzxrt29gggjlR-duAIQm3FcSw1HRFxkQ_DiNO3fTqY7eaEnKuP37fKuw5yLL6olerJYX82IWHku76h4RufoR9UvNu7M4IZNknDizZMJiQQ21d-sOF66B1cB3eVfpArB5x_opopwm-AjeMf4IV4RP5iz7o6r8FO530xbrpPH9DmJb8QWHEfcgNIlN-wvFqcTyECUxUn4A0EG1Lfn0bMx77Ey0K7cblThd3LPU_5MHCSEABGXsE455B1IODhiz_Scap6qrwoTvHazyamGAE&id=lidar2&mcvt=1001&p=630,276,724,1004&tm=1011.7000000178814&tu=10.300000011920929&mtos=0,1001,1001,1001,1001&tos=0,1001,0,0,0&v=20261019&bin=7&avms=nio&bs=0,0&mc=0.96&if=1&vu=1&app=0&itpl=20&adk=1716828381&rs=4&la=0&cr=0&uach=WyJtYWNPUyIsIjEzLjAuMCIsImFybSIsIiIsIjE1NS4wLjgwNTkuODUiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE1NS4wLjgwNTkuODUiXSxbIkNocm9taXVtIiwiMTU1LjAuODA1OS44NSJdLFsiTm90KEE6QnJhbmQiLCIyNC4wLjAuMCJdXSwwXQ%3D%3D&vs=4&r=v&co=8855219100&rst=1792619391810&rpt=142&isd=0&lsd=0&met=ie&wmsd=0&pbe=0&fle=0&vae=0&spb=0&sfl=0&ffslot=0&reach=8&io2=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:53.812Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage4.pubmatic.com/AdServer/SPug?partnerID=167120&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:53.978Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://event-ingestor.judy.pnap.aditude.cloud/v1/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.746Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=5489423&p=167120&s=0&a=0&ptask=ALL&np=0&fp=0&rp=1&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.797Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.adgrx.com/bridge?AG_PID=pubmatic&AG_SETCOOKIE&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.801Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp.360yield.com/dsp_match/275?ssp=76&gdpr=0&gdpr_consent=&r=https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM3MzUmdGw9MTI5NjAw&piggybackCookie={DSP_USER_ID}",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.805Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cpm.vistarsagency.com/user-sync?zone=383926&r=https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQxNTcmdGw9MTI5NjAw&piggybackCookie={UID}&gdpr=0&gdpr_consent=&us_privacy=1---",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.811Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.adkernel.com/user-sync?zone=218872&t=image&r=https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MjgmdGw9MjE2MDA=&piggybackCookie={UID}&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.813Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.iqzonertb.live/psync?t=s&e=415&cb=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTM2MTgmdGw9MjAxNjA%3D%26piggybackCookie%3D%25USER_ID%25%26gdpr%3D0%26gdpr_consent%3D%26ccpa%3D%5BCCPA%5D%26coppa%3D%5BCOPPA%5D%26us_privacy%3D%24%7BUS_PRIVACY%7D%26gpp%3D%24%7BGPP_STRING%7D%26gpp_sid%3D%24%7BGPP_SID%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.816Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.adtech.ink/psync?t=s&e=251&cb=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTM5NDcmdGw9MTI5NjAw%26piggybackCookie%3D%25USER_ID%25&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.822Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.krushmedia.com/d0d3910d86e99acbd84ac90b691dc0c5.gif?puid=[UID]&redir=[RED]&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&ccpa=[CCPA]&coppa=[COPPA]",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.827Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://prism-tracking.pacvue.com/tracking/user/sync/pubmatic-adx&gdpr=0&gdpr_consent=&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&ccpa=[CCPA]",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.834Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.company-target.com/s/pm?puid=${PUBMATIC_UID}&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.836Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm-mx.advolve.io/pixel?adx_id=462&vcode=bz0yJnR5cGU9MSZjb2RlPTQwNTImdGw9MTI5NjAw&adx_uid=$UID&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.836Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzMDEmdGw9MTI5NjAw&piggybackCookie=4628903b-cd99-11f1-80be-669cbd3c16b4",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.845Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM3MzUmdGw9MTI5NjAw&piggybackCookie=fa78f201-c136-4d87-97cf-4b272ef83625&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQyODQmdGw9NDMyMDA=&piggybackCookie=1a915899-472a-46bd-9365-eebd9ecbfeca&gdpr=0&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:54.997Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM5NDcmdGw9MTI5NjAw&piggybackCookie=C-eAGrVopXslIqKCgwK4gsNVOqBQAptgUU",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.005Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ap.lijit.com/pixel?gdpr=&gdpr_consent=&redir=https%3A%2F%2Fsync.iqzonertb.live%2Fpsync%3Ft%3Dd%26e%3D391%26u%3D%24UID%26clp%3DaHR0cHM6Ly9pbWFnZTIucHVibWF0aWMuY29tL0FkU2VydmVyL1B1Zz92Y29kZT1iejB5Sm5SNWNHVTlNU1pqYjJSbFBUTTJNVGdtZEd3OU1qQXhOakE9JnBpZ2d5YmFja0Nvb2tpZT0lVVNFUl9JRCUmZ2Rwcj0wJmdkcHJfY29uc2VudD0mY2NwYT1bQ0NQQV0mY29wcGE9W0NPUFBBXSZ1c19wcml2YWN5PSR7VVNfUFJJVkFDWX0mZ3BwPSR7R1BQX1NUUklOR30mZ3BwX3NpZD0ke0dQUF9TSUR9",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.013Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.pmbmonetize.live/psync?t=s&e=102&cb=https%3A%2F%2Fcpm.vistarsagency.com%2Fuser-sync%3Fzone%3D383926%26dsp%3D1266198%26t%3Dimage%26us_privacy%3D1---%26uid%3D%25USER_ID%25",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.015Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-east-1-cs-rtb.openwebmp.com/sync-iframe?gdpr=0&gdpr_consent=&gpp=&gpp_sid=&redirect=https%3A%2F%2Fcpm.vistarsagency.com%2Fuser-sync%3Fzone%3D383926%26dsp%3D1319215%26t%3Diframe%26us_privacy%3D1---%26uid%3D%7BpartnerId%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?%2F%2Fsync.adkernel.com%2Fuser-sync%3Fzone%3D218872%26dsp%3D1092986%26t%3Dimage%26us_privacy%3D1---%26gpp%3DDBABLA%7EBVQqAAAAAACA.QA%26gpp_sid%3D7%26uid%3D%24UID",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.061Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://csync.smilewanted.com/getuid?source=prebid-server&redirect=https%3A%2F%2Fsync.pmbmonetize.live%2Fpsync%3Ft%3Dd%26e%3D248%26u%3D%24UID%26clp%3DaHR0cHM6Ly9jcG0udmlzdGFyc2FnZW5jeS5jb20vdXNlci1zeW5jP3pvbmU9MzgzOTI2JmRzcD0xMjY2MTk4JnQ9aW1hZ2UmdXNfcHJpdmFjeT0xLS0tJnVpZD0lVVNFUl9JRCU",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.074Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://maestro-ue1.tps.dv.tech/bsevent.gif?impid=24b208d3673b451da6944c90bbd28166&flavor=1&gdpr=&gdpr_consent=&tgdur=0&vfdur=143&vfsz=1227&tuveims=13&tuveems=158&eoid=1&ttfurm=3157",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.148Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.adkernel.com/user-sync?zone=218872&dsp=1092986&t=image&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7&uid=7726102487234853428",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.163Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.iqzonertb.live/psync?t=d&e=391&u=8a267ef9a25afe798ad17636&clp=aHR0cHM6Ly9pbWFnZTIucHVibWF0aWMuY29tL0FkU2VydmVyL1B1Zz92Y29kZT1iejB5Sm5SNWNHVTlNU1pqYjJSbFBUTTJNVGdtZEd3OU1qQXhOakE9JnBpZ2d5YmFja0Nvb2tpZT0lVVNFUl9JRCUmZ2Rwcj0wJmdkcHJfY29uc2VudD0mY2NwYT1bQ0NQQV0mY29wcGE9W0NPUFBBXSZ1c19wcml2YWN5PSR7VVNfUFJJVkFDWX0mZ3BwPSR7R1BQX1NUUklOR30mZ3BwX3NpZD0ke0dQUF9TSUR9",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.167Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQxNjkmdGw9MTI5NjAw&piggybackCookie=ac8fb3a5b22343f2a0c32e7b0f360b05&gdpr=0&gpp=DBABLA%7EBVQqAAAAAACA.QA&gpp_sid=7&ccpa=%5BCCPA%5D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://match.sharethrough.com/universal/v1?gdpr=0&gdpr_consent=&supply_id=wldemn0V",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssbsync.smartadserver.com/api/sync?callerId=132",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.richaudience.com/f7872c90c5d3791e2b51f7edce1a0a5d/?gdpr=0&gdpr_consent=&p=JAHJ4YZq4O&r=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40057%26id%3D%5BPDID%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tracker.ssp.balance-x.com/sync?gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&id=1&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40056%26id%3D%7BPLL_USER_ID%7D&uid=%5BUID%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?gdpr=0&gdpr_consent=&ssp=adyoulike",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/oRTB?gdpr=&gdpr_consent=&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40016%26id%3D%7BID5UID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://creativecdn.com/cm-notify?pi=adyoulike",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssp-sync.criteo.com/user-sync/redirect?gdpr=0&gdpr_consent=&profile=342&redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40045%26id%3D%24%7BCRITEO_USER_ID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync2/rmpssp?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40017%26id%3D%5BRX_UUID%5D&sub=rise",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.184Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40026%26id%3D%24UID&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.184Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://jadserve.postrelease.com/suid/102008?gdpr=0&gdpr_consent=&ntv_r=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40046%26id%3DNTV_USER_ID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.184Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ap.lijit.com/pixel?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40021%26id%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.184Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://openweb-match.dotomi.com/match/bounce/current?gdpr=0&gdpr_consent=&networkId=9252335&nuid=&version=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.187Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel-sync.sitescout.com/dmp/pixelSync?nid=117",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.187Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssum-sec.casalemedia.com/usermatchredir?cb=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40025%26id%3D&gdpr=0&gdpr_consent=&s=190532",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.187Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eb2.3lift.com/getuid?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40028%26id%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ads.yieldmo.com/pbsync?gdpr=0&gdpr_consent=&gpp=%5BGPP%5D&gpp_sid=%5BGPP_SID%5D&is=opnwb&redirectUri=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40039%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://syncingbridge.com/user?gdpr=0&gdpr_consent=&p=12&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40058%26id%3D%7BUID%7D&usp_consent=%5BUS_PRIVACY%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://visitor-ow.omnitagjs.com/visitor/bsync?name=Openweb_SSP&uid=ee7f7070fcde32ab0ae4be25799fd7f5&url=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40035%26id%3DPARTNER_USER_ID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://b1sync.outbrain.com/usersync/adyoulike/?cb=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40050%26uid%3D__UID__&gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&gpp=%5BGPP%5D&gpp_sid=%5BGPP_SID%5D&us_privacy=%5BUS_PRIVACY%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://user-sync.fwmrm.net/ad/u?cr=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40030%26id%3D%23%7Buser.id%7D&mode=echo",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://api-ssp.spot.im/pixels/rise_pixel?gdpr=0&gdpr_consent=&gpp=%5BGPP%5D&gpp_sid=%5BGPPSID%5D&ruid=a0a83cf6-6a5f-4273-9541-f14c1e9997f4_ow&us_privacy=%5BUS_PRIVACY%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.pmbmonetize.live/psync?cb=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40047%26id%3D%25USER_ID%25&e=118&t=s",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cpm.vistarsagency.com/user-sync?zone=383926&dsp=1319215&t=iframe&us_privacy=1---&uid=a0a83cf6-6a5f-4273-9541-f14c1e9997f4_ow",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.html?endpoint=us-east&p=17184-d",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.media.net/cksync?cs=88&gdpr=%7BGDPR%7D&gdpr_consent=%7BGDPR_CONSENT%7D&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40034%26id%3D%3Cvsid%3E&type=opd",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/cm?gdpr=0&gdpr_consent=&id=5c25ba01-8014-471d-b115-9488b0bab07b&ph=bb3dfa1e-28f2-4379-aa01-73e27cdce2ee&r=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40019%26id%3D%7BOPENX_ID%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/usync/?gdpr=0&gdpr_consent=&pubId=86bd773208c31e6",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.a-mo.net/cchain?cb=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40018%26uid%3D&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image8.pubmatic.com/AdServer/ImgSync?gdpr=0&gdpr_consent=&p=160925&pu=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40059%26id%3D%23PMUID&us_privacy=%5BUS_PRIVACY%5D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.190Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.copper6.com/api/user/html/6a1ed8a22dc11401c64d1442?redirect=%7B%7BREDIRECT_URL%7D%7D%24%7BuserId%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.193Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?id=001Pg00000HgK4BIAV&m=xch&rt=html&ru=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40043%26id%3D33XUSERID33X",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.195Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MjgmdGw9MjE2MDA=A7474843422157324055",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.214Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM2MTgmdGw9MjAxNjA=&piggybackCookie=C-eAGrVjK2NFSyUrJINDIzT02zTDQyTUxLNbe0SEwxNDczNlOqBQCZBgj8&gdpr=0&gdpr_consent=&ccpa=[CCPA]&coppa=[COPPA]&us_privacy=${US_PRIVACY}&gpp=${GPP_STRING}&gpp_sid=${GPP_SID}",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.221Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40021&id=8a267ef9a25afe798ad17636",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.247Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://c1.adform.net/serving/cookie/match/?party=24&bidswitch_ssp_id=adyoulike",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.247Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40026&id=7726102487234853428&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.252Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40039&uid=wer0QVV8z0V89m059MVD&gdpr=0&gdpr_consent=&gpp=[GPP]&gpp_sid=[GPP_SID]",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.253Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40028&id=4194688085622779216426",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.html?p=onetag&endpoint=us-west",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb.mfadsrvr.com/sync?ssp=onetag&ssp_user_id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D98%26uid%3D$UID&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://user-sync.fwmrm.net/ad/u?mode=echo&cr=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D3%26gdpr%3D0%26gdpr_consent%3D%26uid%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=223352&nid=4584&put=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.admanmedia.com/73c1e1bfc3bde354d60b80e601ae3914.gif?puid=[UID]&redir=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D164%26gdpr%3D0%26gdpr_consent%3D%26uid%3D%5BUID%5D&gdpr=0&gdpr_consent=&ccpa=&coppa=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=106&redir=1&ot_initiated=1&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssbsync-global.smartadserver.com/api/sync?callerId=5&gdpr=0&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D107%26uid%3D[ssb_sync_pid]",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=113&gdpr=0&gdpr_consent=&callback=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Donetag.com%26id%3D%24%7BUSER_TOKEN%7D&ot_initiated=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image8.pubmatic.com/AdServer/ImgSync?p=159706&gdpr=0&gdpr_consent=&us_privacy=&pu=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D114%26gdpr%3D0%26gdpr_consent%3D%26uid%3D%23PMUID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=onetag_eb&gdpr=0&gdpr_consent=&google_cm",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync2/rmpssp?sub=onetaglimited&gdpr=0&gdpr_consent=${GDPR_CONSENT}&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bh.contextweb.com/bh/rtset?pid=562985&ev=1&us_privacy=&rurl=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D149%26gdpr%3D0%26gdpr_consent%3D%26uid%3D%25%25VGUID%25%25",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://prebid-match.dotomi.com/match/bounce/current?version=1&networkId=72582&rurl=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D90%26gdpr%3D0%26gdpr_consent%3D%26uid%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=onetag&gdpr=0&gdpr_consent=&user_id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.268Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40024&id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.287Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40030&id=umeb0b5_7701013949802536362",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.292Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40019&id=a85ce9ea-9284-4fd3-9df9-844af74de3e0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=1955&partner_device_id=42c99674-591e-441b-abd0-03e8169251c0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb.adentifi.com/CookieSyncOpenX",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/709996.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=openx",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id5-sync.com/s/122/3.gif?puid=34fc4783-9aa5-4a4d-9fe5-744a498bc4cb&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://um.simpli.fi/ox_match",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.293Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40022&id=17506d87-6f58-4315-bba5-ce4b3e2583d0-6ad93361-5553&gdpr=0&gdpr_consent=&gpp=&gpp_sid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.306Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=98&uid=7726102487234853428&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40050&uid=ff4a4ac5-82cc-444e-ae58-8fd806e861da&gdpr=0&gdpr_consent=[GDPR_CONSENT]&us_privacy=[US_PRIVACY]",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.319Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.320Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40034&id=4356209615926562000V10",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.325Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://token.rubiconproject.com/khaos.json?khaos=MVINA52O-N-G98",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.351Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://visitor.omnitagjs.com/visitor/sync?uid=094e13e3a08b6f25e4d4f7b1fba0b26b&visitor=m0cKgKorVBfLzgky-daNdzOOAKpObRDoOYcNGipp2Qw&name=RTB_HOUSE&pi=adyoulike",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.351Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40057&id=527a7c79-8806-4eac-9f47-1zz1792618192",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.352Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d.adroll.com/cm/b/tp_out?advertisable=3GMDZMBFQREVBC75SYYKWH&ssp=onetag&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr=0&gdpr_consent=&us_privacy=&gpp_consent=${GPP_STRING_128}",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.352Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://r.bidswitch.net/sync?bidswitch_ssp_id=openx&bsw_custom_parameter=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.353Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=149&gdpr=0&gdpr_consent=&uid=UQZTi6q7wrG9&ev=1&us_privacy=&pid=562985",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.354Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=70&user_id=6902085579206786579&ssp=adyoulike",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.357Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/ecm3?ex=onetag.com&id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.358Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=one_tag&google_hm=AAABoWBxOP2iVYIbOumur8LEAHgjwcpvPGx7Lw&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.375Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://token.rubiconproject.com/khaos.json?khaos=MVINA52O-N-G98",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.381Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=3&gdpr=0&gdpr_consent=&uid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.383Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=106&google_gid=CAESELW27ees7wwjkm0twGd5f8s&google_cver=1&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.390Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537072966&val=8FDAA9F52932492082CD19361B90F14E",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.399Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=adconductor&ttd_tpi=1&rndcb=6082701143",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.399Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=adconductor&ttd_tpi=1&rndcb=7372415620",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.403Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40027&id=c1c2748b-fcc8-4d53-bdcb-56a346aca38d&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.407Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537077954&val=cuid_48215370-cd99-11f1-8ee0-42010ab20045",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.408Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://visitor.omnitagjs.com/visitor/sync?uid=2a62ca3297af454b8f19eb7922ed945f&visitor=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&name=BIDSWITCH&gdpr=&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.426Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel-us-east.rubiconproject.com/exchange/sync.php?p=17184-d&khaos=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.428Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://de.tynt.com/deb/?id=001Pg00000HgK4BIAV&m=xch&rt=html&ru=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40043%26id%3D33XUSERID33X",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.428Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.a-mo.net/cchain?gdpr=&gdpr_consent=&us_privacy=&cb=https%3A%2F%2Fsync.pmbmonetize.live%2Fpsync%3Ft%3Dd%26e%3D175%26u%3D%24UID%26clp%3DaHR0cHM6Ly9jcy5vcGVud2VibXAuY29tL2NzP2Z3cmQ9MSZhaWQ9NDAwNDcmaWQ9JVVTRVJfSUQl",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.465Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?gdpr=0&gdpr_consent=&int_id=168&uid=OPU26c0844d2a404b9a9dfac6529af7e6d6",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.484Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=44&user_id=MWRlYmRjYzExOWQ1Njk5YmRkYzE0NDI1NDQzZDljMjY&ssp=onetag&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&user_group=2",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.491Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/sync?redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40016%26id%3D%7BID5UID%7D&gdpr_consent=&gdpr=&us_privacy=&gdpr_pd=&source=5&google_push=&retry=&gpp=&gpp_sid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.499Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id.a-mx.com/u?gdpr=0&us_privacy=1---&cb=https%3A%2F%2Fuse3-sync.a-mo.net%2Fcchain%2F5%2F35104%3Fgdpr%3D0%26A%3D90c27403-4dbc-46c8-9243-53fc5911fc55%26bidder%3Damx_com%26cbx%3DaHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%253D%253D%26uid%3D&A=90c27403-4dbc-46c8-9243-53fc5911fc55&F=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.501Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=criteo&custom_data=OYVUU195JTJGeG4lMkZsZnBESlRSaFB6aHhkdXVVN0k0bmZhU2dsVHg5T2hINlRBNSUyRk1RbExZQVNudUhIYkdqaFZnaldsZWV6YjlxOFl6VGF0eVpmaTI3NHpMQ1cyRUZSOCUyQjVaZ1pLcEpQJTJGOUtKNjJleDR6NGhjMjZXSjdBcFVFQktyZjFISyUyRno0YnJwQVFUUHhQZnBUdUk2SHRsa3AyZUVmeE9ENWpTZVlSTlNKUXdIM0klM0Q&gpp=&gpp_sid=&gdpr=0&gdpr_consent=&us_privacy=&cr_user_id=k-xVVFGaU92CFa0zAcOfLC-nSSK2PfHYd2tRYAsA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.501Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync/tradedesk/2b71cd69-2f27-4362-8c9c-0e8f650c4add",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.501Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync/tradedesk/2b71cd69-2f27-4362-8c9c-0e8f650c4add",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.501Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40059&fwrd=1&id=F006BE4F-9D42-4DB7-B48B-F9AB5C4D288F",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.506Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?gdpr=0&gdpr_consent=&int_id=114&uid=F006BE4F-9D42-4DB7-B48B-F9AB5C4D288F",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.508Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.copper6.com/api/user/html/%7B%7BREDIRECT_URL%7D%7Ddbe168af-617f-6608-f2e0-5b05a6b01a6d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.510Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://secure.adnxs.com/getuid?https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-xandr%26userId%3D%24UID%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D&gdpr=&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.510Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.512Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/usync/?pubId=9501725253aecf0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.515Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://a.amxrtb.com/js/cframe.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.517Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssp-sync.criteo.com/user-sync/redirect?gdpr_consent=&gdpr=&gpp=${GPP}&gpp_sid=${GPP_SID}&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-themediagrid%26userId%3D%24%7BCRITEO_USER_ID%7D%26gdpr%3D%24%7Buser.gdpr%7D%26gdpr_consent%3D%24%7Buser.consentStr%7D%26us_privacy%3D%24%7Buser.usPrivacy%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.527Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel-us-west.rubiconproject.com/exchange/sync.php?p=onetag&khaos=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.528Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40035&id=eab6958b4d9d54398bd053be6081d952",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.529Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=164&gdpr=0&gdpr_consent=&uid=e0d582fe-2252-442b-906d-ecdd732f0dae",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.530Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=30&uid=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr=&gdpr_consent=&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.531Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.targeting.unrulymedia.com/csync/RX-ba20b130-601c-4153-b476-baf0855c4e1d-005?redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40017%26id%3DRX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.532Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/sync?redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40016%26id%3D%7BID5UID%7D&gdpr_consent=&gdpr=&us_privacy=&gdpr_pd=&source=5&google_push=&retry=true&gpp=&gpp_sid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://hb.trustedstack.com/cksync.php?cs=61&type=bts&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fsyncingbridge.com%2FuserBack%3Fuid%3D%3Cvsid%3E%26gdpr%3D%7BGDPR%7D%26gdpr_consent%3D%7BGDPR_CONSENT%7D%26p%3D1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.targeting.unrulymedia.com/csync/RX-ba20b130-601c-4153-b476-baf0855c4e1d-005?redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40017%26id%3DRX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.549Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssp-sync.criteo.com/user-sync/match?p=OYVUU195JTJGeG4lMkZsZnBESlRSaFB6aHhkdXVVN0k0bmZhU2dsVHg5T2hINlRBNSUyRk1RbExZQVNudUhIYkdqaFZnaldsZWV6YjlxOFl6VGF0eVpmaTI3NHpMQ1cyRUZSOCUyQjVaZ1pLcEpQJTJGOUtKNjJleDR6NGhjMjZXSjdBcFVFQktyZjFISyUyRno0YnJwQVFUUHhQZnBUdUk2SHRsa3AyZUVmeE9ENWpTZVlSTlNKUXdIM0klM0Q&u=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.550Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=criteo&custom_data=2fEqw19tMzNOMENqa3MybCUyRjlBeWVMVEtGWENOdzBXRFJDTTd3M3dpTiUyRkFtdkNNWSUzRA&gpp=%24%7bGPP%7d&gpp_sid=%24%7bGPP_SID%7d&gdpr=&gdpr_consent=&us_privacy=&cr_user_id=k-xVVFGaU92CFa0zAcOfLC-nSSK2PfHYd2tRYAsA",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.553Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.copper6.com/api/cookie?partnerId=copper6-xandr&userId=7726102487234853428&gdpr=&gdpr_consent=&us_privacy=&gdpr=&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.568Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40016&id=ID5-5-544517c3-eaa1-414b-bb36-3c3e5433a2e3",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.580Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=223352&nid=4584&put=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.581Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://prebid-match.dotomi.com/match/bounce/current?version=1&networkId=72582&rurl=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D90%26gdpr%3D0%26gdpr_consent%3D%26uid%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.582Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.html?p=onetag&endpoint=us-west",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb.mfadsrvr.com/sync?ssp=onetag&ssp_user_id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8&gdpr=1&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D98%26uid%3D$UID&gdpr=1&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://user-sync.fwmrm.net/ad/u?mode=echo&cr=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D3%26gdpr%3D1%26gdpr_consent%3D%26uid%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.admanmedia.com/73c1e1bfc3bde354d60b80e601ae3914.gif?puid=[UID]&redir=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D164%26gdpr%3D1%26gdpr_consent%3D%26uid%3D%5BUID%5D&gdpr=1&gdpr_consent=&ccpa=&coppa=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=106&redir=1&ot_initiated=1&gdpr=1&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssbsync-global.smartadserver.com/api/sync?callerId=5&gdpr=1&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D107%26uid%3D[ssb_sync_pid]",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.583Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=113&gdpr=1&gdpr_consent=&callback=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Donetag.com%26id%3D%24%7BUSER_TOKEN%7D&ot_initiated=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image8.pubmatic.com/AdServer/ImgSync?p=159706&gdpr=1&gdpr_consent=&us_privacy=&pu=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D114%26gdpr%3D1%26gdpr_consent%3D%26uid%3D%23PMUID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=onetag_eb&gdpr=1&gdpr_consent=&google_cm",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync2/rmpssp?sub=onetaglimited&gdpr=1&gdpr_consent=${GDPR_CONSENT}&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bh.contextweb.com/bh/rtset?pid=562985&ev=1&us_privacy=&rurl=https%3A%2F%2Fonetag-sys.com%2Fmatch%2F%3Fint_id%3D149%26gdpr%3D1%26gdpr_consent%3D%26uid%3D%25%25VGUID%25%25",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=onetag&gdpr=1&gdpr_consent=&user_id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.585Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40045&id=k-xVVFGaU92CFa0zAcOfLC-nSSK2PfHYd2tRYAsA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.592Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.595Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40053&uid=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.595Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=107&uid=3476642784257981916",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.601Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://token.rubiconproject.com/khaos.json?khaos=MVINA52O-N-G98",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.602Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40033&id=AQAGbyaC3QM4ugIFRIscAQEBAQEBAQCgYXGmbgEBAKBhcDjy&expiration=1792705795&nuid=&gdpr_consent=&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.603Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssp-sync.criteo.com/user-sync/match?p=2fEqw19tMzNOMENqa3MybCUyRjlBeWVMVEtGWENOdzBXRFJDTTd3M3dpTiUyRkFtdkNNWSUzRA&u=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.626Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=212&uid=OPTOUT",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.627Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=3&gdpr=1&gdpr_consent=&uid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.631Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=149&gdpr=1&gdpr_consent=&uid=UQZTi6q7wrG9&ev=1&us_privacy=&pid=562985",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.636Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40029&id=3476642784257981916&gdpr=0&gdpr_consent=&gpp=[GPP]&gpp_sid=[GPP_SID]",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.642Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=one_tag&google_hm=AAABoWBxOjFTX9RPuqnyXNiLL1G9eiYenHNTxg&gdpr=1&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.646Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/ecm3?ex=onetag.com&id=j7Uqju8MWIC1AFnAKjo8SVFmEjK5zsjW1QWYGRz0Px8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.662Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=3205&partner_device_id=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&partner_url=https%3A%2F%2Fx.bidswitch.net%2Fsync%3Fdsp_id%3D393%26user_id%3D0%26ssp%3Dopenx%26bsw_param%3D9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.664Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?aid=40023&id=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.666Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40017&id=RX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.666Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40017&id=RX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.669Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=90&gdpr=0&gdpr_consent=&uid=AQAGbyaC3QM4ugIFRIscAQEBAQEBAQCgYXGmbgEBAKBhcDs1&expiration=1792705795",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.674Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://hde.tynt.com/deb/?id=001Pg00000HgK4BIAV&m=xch&rt=html&ru=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40043%26id%3D33XUSERID33X&b=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.684Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.a-mo.net/getuid?ts=1792619395684",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.708Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=90&gdpr=0&gdpr_consent=&uid=AQAGbyaC3QM4ugIFRIscAQEBAQEBAQCgYXGmbgEBAKBhcDt_&expiration=1792705795",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.714Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=164&gdpr=1&gdpr_consent=&uid=e0d582fe-2252-442b-906d-ecdd732f0dae",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.721Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://secure.adnxs.com/getuid?https%3A%2F%2Fpixel.tapad.com%2Fidsync%2Fex%2Freceive%3Fpartner_id%3DAPPNEXUS%26partner_device_id%3D%24UID%26pt%3D1ed4484f-d52d-4369-99ca-b3ae14260aed%252Chttps%25253A%25252F%25252Fx.bidswitch.net%25252Fsync%25253Fdsp_id%25253D393%252526user_id%25253D0%252526ssp%25253Dopenx%252526bsw_param%25253D9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16%252C",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.721Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40018&uid=90c27403-4dbc-46c8-9243-53fc5911fc55",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.765Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.plusoneads.com/sync/out/adaptmx?__st=if&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb.openx.net/sync/prebid?gdpr=0&gdpr_consent=&r=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dopenx%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24%7BUID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ap.lijit.com/pixel?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dsovrn%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dappnexus%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image8.pubmatic.com/AdServer/ImgSync?p=158355&gdpr=0&gdpr_consent=&pu=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dpubmatic%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%23PMUID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssbsync-global.smartadserver.com/api/sync?callerId=5&gdpr=0&gdpr_consent=&redirectUri=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dsmartadserver%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%5Bssb_sync_pid%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id.a-mx.com/u?gdpr=0&gdpr_consent=&cb=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Damx_com%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D&A=569365c6-5a8a-4366-9429-5e841bb84b7f&F=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.767Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&gdpr_consent=&redirectUri=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dyieldmo%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.767Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eb2.3lift.com/getuid?gdpr=0&cmp_cs=&redir=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dtriplelift%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.767Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.adform.net/cookie?gdpr=0&gdpr_consent=&redirect_url=https%3A%2F%2Fuse3-sync.a-mo.net%2Fsetuid%3Fbidder%3Dadform%26A%3D569365c6-5a8a-4366-9429-5e841bb84b7f%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.767Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/exchange/sync.php?p=pbs-adaptmx&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.777Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=APPNEXUS&partner_device_id=7726102487234853428&pt=1ed4484f-d52d-4369-99ca-b3ae14260aed%2Chttps%253A%252F%252Fx.bidswitch.net%252Fsync%253Fdsp_id%253D393%2526user_id%253D0%2526ssp%253Dopenx%2526bsw_param%253D9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16%2C",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.794Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=sovrn&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=8a267ef9a25afe798ad17636",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.799Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=yieldmo&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=wer0QVV8z0V89m059MVD&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.800Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=triplelift&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=4194688085622779216426",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.804Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=appnexus&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=7726102487234853428",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.804Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=smartadserver&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=3476642784257981916",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.805Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.a-mo.net/setuid/magnite?uid=MVINA52O-N-G98&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.805Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?A=569365c6-5a8a-4366-9429-5e841bb84b7f&bidder=pubmatic&uid=F006BE4F-9D42-4DB7-B48B-F9AB5C4D288F",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.817Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=openx&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=7d696a47-bb86-4a75-8abd-5b2ba4455241&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.819Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://u.openx.net/w/1.0/cm?id=b355ce4f-581b-4a1c-8c84-81fe81e4bc39&gdpr=0&gdpr_consent=&r=https%3A%2F%2Fid5-sync.com%2Fc%2F122%2F1919%2F2%2F2.gif%3Fpuid%3D%7BOPENX_ID%7D%26gdpr%3D0%26gdpr_consent%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.820Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/cchain/5/35104?gdpr=0&A=90c27403-4dbc-46c8-9243-53fc5911fc55&bidder=amx_com&cbx=aHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%3D%3D&uid=90c27403-4dbc-46c8-9243-53fc5911fc55",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.822Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=393&user_id=0&ssp=openx&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.825Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?int_id=2&uid=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.863Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?us_privacy=&ts=1792619395841.2&ri=25&ru=https%3A%2F%2Fads.pubmatic.com%2FAdServer%2Fjs%2Fuser_sync.html%3F%26p%3D156423%26us_privacy%3D%24%7BUS_PRIVACY%7D%26predirect%3Dhttps%253A%252F%252Fet-c-ash.33across.com%252Fmatch%253Fliv%253Dh%2526us_privacy%253D%24%7BUS_PRIVACY%7D%2526bidder_id%253D25%2526external_user_id%253D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.868Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=33across&endpoint=us-east&us_privacy=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?_=1792619395841.&ri=001Pg00000HgK4BIAV&gdpr_58=&gdpr=0&gdpr_consent=&us_privacy=&ru=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40043%26id%3D33XUSERID33X",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=the33across&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.krushmedia.com/4d6ff4b39a6da63948bf15a61ab8f452.gif?puid=&redir=https%3A%2F%2Fssc-cms.33across.com%2Fps%2F%3Fxi%3D131%26us_privacy%3D%26xu%3D%5BUID%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.iqzone.com/570908b7e92df631fee32098aa272f7b.gif?puid=cXCyjGrZM4NjauzkVNobFA%3D%3D&gdpr=&gdpr_consent=&ccpa=&coppa=&redir=https%3A%2F%2Fssc-cms.33across.com%2Fps%2F%3Fxi%3D145%26ts%3D1792619395841.6%26us_privacy%3D%26xu%3D%5BUID%5D%26gpp_sid%3D%26gpp%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?us_privacy=&ts=1792619395841.7&ri=90&ru=https%3A%2F%2Fib.adnxs.com%2Fgetuid%3Fhttps%253A%252F%252Fet-c-ash.33across.com%252Fmatch%253Fliv%253Dh%2526us_privacy%253D%24%7BUS_PRIVACY%7D%2526bidder_id%253D90%2526external_user_id%253D%2524UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.869Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537072968&val=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr=&gdpr_consent=&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.872Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=amx_com&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=569365c6-5a8a-4366-9429-5e841bb84b7f",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.888Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id5-sync.com/c/122/1919/2/2.gif?puid=472c9da4-4a8b-42d2-a068-913cc613efa2&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.895Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ads.pubmatic.com/AdServer/js/user_sync.html?&p=156423&us_privacy=&predirect=https%3A%2F%2Fet-c-ash.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D25%26external_user_id%3D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.895Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40043&id=213547401726050",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.896Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3A%2F%2Fet-c-ash.33across.com%2Fmatch%3Fliv%3Dh%26us_privacy%3D%26bidder_id%3D90%26external_user_id%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.905Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=bidswitch_dbm&google_cm&google_sc&ssp=the33across&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&google_hm=OTkzMGY1YzAtN2RkYi00MGVhLWFhMWMtY2MxNjIyYjVjYzE2&gdpr_consent=&gdpr=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.932Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://np1-cs.amx1.net/setuid/nplus1?uid=rx-762fb6c2-ba6e-4fe9-8bdb-6c1930206826&gdpr=0&us_privacy=&gpp_sid=&gpd_consent=&gpp=&gpc=0&dnt=0&lmt=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.krushmedia.com/iframe/6307ddc2d7019ef262eac42d7cbd82f0?redir=https%3A%2F%2Fsync.plusoneads.com%2Fsync%2Fin%3Fpid%3Dkrushmedia%26can_track_cookie%3D1%26can_use_ad_identity%3D1%26gdpr%3D0%26gpc%3D0%26dnt%3D0%26lmt%3D0%26buid%3D%5BUID%5D&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&gpc=0&dnt=0&lmt=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.941Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://et-c-ash.33across.com/match?liv=h&us_privacy=&bidder_id=90&external_user_id=7726102487234853428",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.944Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=16&user_id=CAESEOyG0zf14ADkPYwCi3NuBMQ&google_cver=1&ssp=the33across&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr_consent=&gdpr=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.987Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?xi=10&us_privacy=&xu=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:55.998Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rtb.openx.net/sync/prebid?gdpr=0&us_privacy=1---&r=https%3A%2F%2Fuse3-sync.a-mo.net%2Fcchain%2F6%2F35104%3Fgdpr%3D0%26A%3D90c27403-4dbc-46c8-9243-53fc5911fc55%26bidder%3Dopenx%26cbx%3DaHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%253D%253D%26uid%3D%24%7BUID%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.020Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://et-c-ash.33across.com/match?bidder_id=10&external_user_id=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&ts=1792619396&gdpr_58=&gdpr=0&gdpr_consent=&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.038Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.ipredictive.com/d/sync/cookie/generic?partner=id5&cspid=18&cb=&redirect=https%3A%2F%2Fid5-sync.com%2Fc%2F122%2F796%2F1%2F3.gif%3Fpuid%3D%24%7BADELPHIC_CUID%7D%26gdpr%3D0%26gdpr_consent%3D&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.045Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/cchain/6/35104?gdpr=0&A=90c27403-4dbc-46c8-9243-53fc5911fc55&bidder=openx&cbx=aHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%3D%3D&uid=7d696a47-bb86-4a75-8abd-5b2ba4455241",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.079Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.adform.net/cookie?gdpr=0&us_privacy=1---&redirect_url=https%3A%2F%2Fuse3-sync.a-mo.net%2Fcchain%2F8%2F35104%3Fgdpr%3D0%26A%3D90c27403-4dbc-46c8-9243-53fc5911fc55%26bidder%3Dadform%26cbx%3DaHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%253D%253D%26uid%3D%24UID",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.095Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.html?p=33across&endpoint=us-east&us_privacy=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.133Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://eus.rubiconproject.com/usync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.135Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://token.rubiconproject.com/khaos.json?khaos=MVINA52O-N-G98",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.171Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://pixel-us-east.rubiconproject.com/exchange/sync.php?p=33across&us_privacy=&khaos=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.173Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/setuid?bidder=adform&A=569365c6-5a8a-4366-9429-5e841bb84b7f&uid=6902085579206786579",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.183Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id5-sync.com/c/122/796/1/3.gif?puid=3df05a3a-5891-43cc-b805-0f46faafd11a&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.193Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://use3-sync.a-mo.net/cchain/8/35104?gdpr=0&A=90c27403-4dbc-46c8-9243-53fc5911fc55&bidder=adform&cbx=aHR0cHM6Ly9zeW5jLnBtYm1vbmV0aXplLmxpdmUvcHN5bmM_dD1kJmU9MTc1JnU9JFVJRCZjbHA9YUhSMGNITTZMeTlqY3k1dmNHVnVkMlZpYlhBdVkyOXRMMk56UDJaM2NtUTlNU1poYVdROU5EQXdORGNtYVdROUpWVlRSVkpmU1VRbA%3D%3D&uid=6902085579206786579",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.207Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssc-cms.33across.com/ps/?xi=1&xu=MVINA52O-N-G98",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.227Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.pmbmonetize.live/psync?t=d&e=175&u=90c27403-4dbc-46c8-9243-53fc5911fc55&clp=aHR0cHM6Ly9jcy5vcGVud2VibXAuY29tL2NzP2Z3cmQ9MSZhaWQ9NDAwNDcmaWQ9JVVTRVJfSUQl&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.240Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://et-c-ash.33across.com/match?bidder_id=30&external_user_id=MVINA52O-N-G98&ts=1792619396&gdpr_58=&gdpr=0&gdpr_consent=&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.openwebmp.com/cs?fwrd=1&aid=40047&id=C-eAEFwcsNwkAMBcBe3jmWbK-_KYR7YtgiguidmS9KcMI1r5xsquIg-1xDvS1JnkeyNaSkFQckHSeaR9N4kb3vIYsparVFvvZ4i-xxxwG1xglbHsodS7tCOpn5JYzfH9bhG-g&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.333Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ce.lijit.com/merge?pid=27&3pid=2b71cd69-2f27-4362-8c9c-0e8f650c4add&us_privacy=&gdpr=0&gdpr_consent=&location=https%3A%2F%2Fid5-sync.com%2Fc%2F122%2F1245%2F0%2F4.gif%3Fpuid%3D%5BSOVRNID%5D%26gdpr%3D0%26gdpr_consent%3D&s=id5",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.368Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id5-sync.com/c/122/1245/0/4.gif?puid=8a267ef9a25afe798ad17636&gdpr=0&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.460Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ut.pubmatic.com/geo?pubid=156423",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.504Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image6.pubmatic.com/AdServer/PugMaster?sec=1&async=1&kdntuid=1&rnd=83059679&p=156423&s=0&a=0&ptask=ALL&np=0&fp=0&rp=0&mpc=0&spug=1&coppa=0&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.558Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://t.adx.opera.com/pub/sync?pubid=pub8730968190912&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.564Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.mgid.com/m?cdsp=834174&mode=inverse&gdpr=0&gdpr_consent=&us_privacy=&adu=https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNDImdGw9MTI5NjAw&piggybackCookie={muidn}&gdpr=0&gdpr_consent=&us_privacy=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.569Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://gocm.c.appier.net/pubmatic",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.574Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://core.iprom.net/cookiesync?gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.578Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://exchange.appnerve.net/sync/source/35084087?redir=https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM5ODkmdGw9NDMyMDA=&piggybackCookie={uid}&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.584Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cs.loudecho.ai/sync?id=20",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.590Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync2/pubmatic&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.598Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://um.simpli.fi/pm_match?https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjkzNiZ0bD00MzIwMA==&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.606Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d5p.de17a.com/getuid/pubmatic?https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3NDUmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=$UID&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.614Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://match.adsby.bidtheatre.com/pubmaticmatch?redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNjImdGw9MTI5NjAw&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.622Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://et-c-ash.33across.com/match?liv=h&us_privacy=&bidder_id=25&external_user_id=F006BE4F-9D42-4DB7-B48B-F9AB5C4D288F",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.625Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?ssp=adconductor&user_id=RX-ba20b130-601c-4153-b476-baf0855c4e1d-005&rndcb=2926138906",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.640Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MjkzNiZ0bD00MzIwMA==&piggybackCookie=uid:8FDAA9F52932492082CD19361B90F14E&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.669Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp-2.presage.io/sync?bidswitch_ssp_id=adconductor&bsw_custom_parameter=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr=&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.682Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image8.pubmatic.com/AdServer/ImgSync?sec=1&gdpr=0&gdpr_consent=&us_privacy=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.682Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.temu.com/api/adx/cm/pixel-opera?adx_uid=11991446ed50ee43&gdpr=0&gdpr_consent=&us_privacy=&redir=https%3A%2F%2Ft.oa.opera.com%2Fsync%3Fvendor%3D60369%26pubid%3Dpub8730968190912%26gdpr%3D0%26consent%3D%26us_privacy%3D%26custom_data%3D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.704Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cm.mgid.com/m?adu=https%3A%2F%2Fimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTQwNDImdGw9MTI5NjAw&cdsp=834174&gdpr=0&gdpr=0&gdpr_consent=&gdpr_consent=&mode=inverse&piggybackCookie=%7Bmuidn%7D&us_privacy=&us_privacy=&sct=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.729Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://onetag-sys.com/match/?gdpr=0&gdpr_consent=&int_id=114&uid=F006BE4F-9D42-4DB7-B48B-F9AB5C4D288F",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.729Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://t.oa.opera.com/sync?vendor=60369&pubid=pub8730968190912&gdpr=0&consent=&us_privacy=&custom_data=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.756Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQwNDImdGw9MTI5NjAw",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQxOTImdGw9MTI5NjAw&piggybackCookie=427a160713e98000ee55dc7204e6&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.783Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM5ODkmdGw9NDMyMDA=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.798Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage4.pubmatic.com/AdServer/SPug?partnerID=167120&gdpr=0&gdpr_consent=&us_privacy=1---&gpp=DBABLA~BVQqAAAAAACA.QA&gpp_sid=7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.842Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0ODkmdGw9NDMyMDA=&piggybackCookie=OPU26c0844d2a404b9a9dfac6529af7e6d6&gpdr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.870Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://dsp-2.presage.io/ul_cb/sync?bidswitch_ssp_id=adconductor&bsw_custom_parameter=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&gdpr=&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.921Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=521&ssp=adconductor&bsw_param=9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16&user_id=&gdpr=&gdpr_consent=&gpp_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:56.971Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.1rx.io/usersync/bidswitch/9930f5c0-7ddb-40ea-aa1c-cc1622b5cc16?gdpr=&gdpr_consent=&us_privacy=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:57.003Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://sync.targeting.unrulymedia.com/csync/RX-ba20b130-601c-4153-b476-baf0855c4e1d-005?redir=https%3A%2F%2Fsimage2.pubmatic.com%2FAdServer%2FPug%3Fvcode%3Dbz0yJnR5cGU9MSZjb2RlPTMyMDMmdGw9NDMyMDA%3D%26piggybackCookie%3DRX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:57.038Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://match.adsby.bidtheatre.com/pubmaticmatch?redirected=true&redir=https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMwNjImdGw9MTI5NjAw&piggybackCookie=uid:$UID&gdpr=0&gdpr_consent=&us_privacy=&gpp=&gpp_sid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:57.040Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDMmdGw9NDMyMDA=&piggybackCookie=RX-ba20b130-601c-4153-b476-baf0855c4e1d-005",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:57.210Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=gFI9wEO8A9q7wQGVhTPZag",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:49:57.210Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?gdpr_consent=&gdpr=0&piggybackCookie=uid:1dd366de-55ac-4ad3-8953-20e093bd52c3&vcode=bz0yJnR5cGU9MSZjb2RlPTMwNjImdGw9MTI5NjAw",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-10-21T21:50:51.484Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:58.011Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

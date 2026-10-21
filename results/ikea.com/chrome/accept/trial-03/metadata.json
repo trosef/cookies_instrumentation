@@ -1,0 +1,37 @@
+{
+  "website": "https://ikea.com/en/us",
+  "browser": "Chrome",
+  "condition": "accept",
+  "trial": "03",
+  "startTime": "2026-10-21T21:51:28.745Z",
+  "endTime": "2026-10-21T21:52:13.028Z",
+  "requestCount": 52,
+  "cookieCount": 2,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-21T21:51:41.121Z",
+      "cookieCount": 2,
+      "requestCountSoFar": 52
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-21T21:52:02.756Z",
+      "cookieCount": 2,
+      "requestCountSoFar": 52
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-21T21:52:13.027Z",
+      "cookieCount": 2,
+      "requestCountSoFar": 52
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 1,
+  "errors": []
+}

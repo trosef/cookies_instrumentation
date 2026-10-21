@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://www.booking.com/?chal_t=1792619427716&force_referer=",
+    "storage": {
+      "localStorage": {
+        "cto_rtus_740": "{\"status\":\"OK\",\"userid\":\"0fPIHl9SVWhqdFB2cjVIdG03UTRMVUdzVDlyRVpCNXJlRWVKN2ElMkJHZnhZQXdsZGdyNmg1SmlqTnRKcnZLTFYxMjF5blQ\"}",
+        "aws_waf_token_challenge_attempts": "{\"attempts\":1,\"lastAttemptTimestamp\":1792619427948}",
+        "criteo-id5id-fast-track": "ID5*b9AJ2VtnzIjSNtMfTMQotzXs-cKO4X1JggfUn4xGZoL__2rZM6haAAEBCmrZM6gA8FEivX1R1Vu85NjgDaSGOQ",
+        "pacs_data": "{\"allowed\":[1,2,3],\"timestamp\":1792619430596,\"buidHash\":\"42a805588039a48c8ee354f1d45f05df1de0455b0a4d6f900c50ccdb1ad4807b\"}",
+        "_uetvid_exp": "Mon, 15 Nov 2027 21:50:31 GMT",
+        "cto_bundle": "ForsyF9yZjBNMUZmZERtQlFDWWhReDE0dE5QMWxmbXRSY0JrTGlmaDBoYXhKeHBSYkZyUVZhQVZvSXl0aXRKR1VkUkxsZSUyQlE3ZEJ2TVBhTkpEbE5nb1VGUDBmaktFUzJrUlVPT3FxdXVWUFZBUnFvcWJUSkIwa282SjN3c3hNSG1mR3J3b1JodFdRSWh4WXZGcmxMekg4NzN0USUzRCUzRA",
+        "id5id_v2_signature": "{\"data\":{\"signature\":\"ID5_AiGmPrd8w2moTaB5df5DTcTyLjDociljGdU3n-jTpagPNbHPJ2Vgh0VCG63r9jwcDsEj89Geye6n-3CGShCTVDd6mj4f0W6DGP-SycP0WniMlJjko0GCz5kwbinmnVY-0XfD66T0SMhJvcRLWYnuv-z8DoA6am_-AROm3pc69LbG3xMtA_Y\"},\"expireAt\":1793915432633}",
+        "_ly_su": "1792619431.f812e4f0-ac5c-487d-ab48-0525d5342305",
+        "_yjsu_yjad": "1792619431.f812e4f0-ac5c-487d-ab48-0525d5342305",
+        "awswaf_session_storage": "5c6d4bb2-5716-4557-9b5d-da1c1ba67673:EgoAns+Gr/HZFwAA:J8LT1HQFH1q79XcUA28lhet50Rxq03hREAjybBmIPou7PXX+MrhfIOG5GHsB3g4WnuWQGfkKd7gOzIDYMLQWYmIzIEctjm9yaeBamJvnBA4RnIp7POfKsUqvQaatEAj9HLXSbOlToQhzr8p/ebg97drPeuAKZAJ1Uz/3Iuk8Ep7JB2JdeisCAKzq8/GPQw/cjRItB+5YvtNbqHl2c0RjXDN0NMvBInXtt8bsXq8QwO1y8jH2gvPNZ7rDIQ9rJJddNiAO34efh6lmurlquniImvwEtDTICsAf7EqwdJsMv1qcuz8QN1NjclieyEWzxsDjXoMMle/VukdS5/7goad4xEQDcDdSKxxvxn10ZvRR80hMrTTUvmbOTjQ3cvK7lKN+SHG+lTNoKsTGxuVcUnx73Q0ftsx1PJ3Uwqh/bFMg9cy+eTFEqYWuPOI1A0y6zKvFUq+aI/Bj7Crhpj3SCxkZb3bCH20N4dthUrvZJBzNIZJQQ+5Dm9FqJbLTnXrwE2mZdOziM4nLtFR0+hjGMSekppUpaL/4u/kYtox/NbH1uhLNebyanlqM3PR9KMzZAFfYgVS22XvO6uL4PusiDCz48m0F9XMF7bYhJ71pNrmepR41rDWe42nHUbB6WiXkjQv3EYfyb3fV1u0YIoe7PaaXXqHmO7ztXuXrDcOxP4fdXo6yptp9MFGcKN9/P1SorCyLynkfkGxS+eU+xzx9ldVQT10ZfCDzQ6otosSaFJinpzTP6qPCGGUsg/CFhHZh3BbO2FFWhFMzTbAXJcWW65r06ocm7rfN/9/8WhuOSRvSxI26yKt96XMuJO/dAvJ3nkRmh27gAdPsVsahovUIN3j9YvxzZ0q+ZyVD9uAfgjTkVNwD2FRsbc5sUnL/99JTHWJL0LbJJbjZB5zdopWnJfSVvCreK4ZOJxtqhIv6mLMGhA4WQ8Hx38Baq4wNKPfFjxHXvxLxSs4/otRi04gs2OPct4vrmDWhgtcq/J6+D77MUxGf2QEBODo9N0W4rEghn/ZfRSYBgf4tluLkV3r65ePjXLSu3OqX8dWhPyvmO4z04R9q+WaPB4bbCpL2PI/dFXNgACYZiR4hR/KGm6I7lgHxYR+A2xU/N09Eg3LHMEFXpNcuusgsFOdWYBHLuI9e58ODUvwS+G2PaakSZg6BahLr3a3iw5g8yR7vGATgCihvcgyzRKNFmMbWhO/84aZGhI7HriHHrvI0SIhxSC3SBjkYqhk9xKzCmfoV1jOC9ksxJoR8GxWWe2U=",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1792619430953},\"expires\":1800395430953},\"gsid_dc\":{\"value\":{\"joinId\":\"nH3zW8ozMdI32iZuHbsUSUuf5C6ZULs2kg\",\"lastJoinedTimeMs\":1792619430957},\"expires\":1792619730957}}",
+        "_uetsid": "6fc30d10cd9911f1ab6d3b455e54f75b",
+        "id5id_privacy": "{\"jurisdiction\":\"other\",\"id5_consent\":true}",
+        "aws_waf_referrer": "null",
+        "_uetsid_exp": "Thu, 22 Oct 2026 21:50:31 GMT",
+        "id5id_v2_3856268834750531": "{\"data\":{\"response\":{\"signature\":\"ID5_AiGmPrd8w2moTaB5df5DTcTyLjDociljGdU3n-jTpagPNbHPJ2Vgh0VCG63r9jwcDsEj89Geye6n-3CGShCTVDd6mj4f0W6DGP-SycP0WniMlJjko0GCz5kwbinmnVY-0XfD66T0SMhJvcRLWYnuv-z8DoA6am_-AROm3pc69LbG3xMtA_Y\",\"created_at\":\"2026-10-21T21:50:32.399Z\",\"id5_consent\":true,\"original_uid\":\"ID5*JF50VxFWSItxKP4qYjY81N6xuTVjGAbn0z-zq-kdxln__2rZM6haAAEBCmrZM6gA8FFf99lX_0Fh3gIFz-RmCw\",\"universal_uid\":\"ID5*b9AJ2VtnzIjSNtMfTMQotzXs-cKO4X1JggfUn4xGZoL__2rZM6haAAEBCmrZM6gA8FEivX1R1Vu85NjgDaSGOQ\",\"link_type\":2,\"cascade_needed\":false,\"privacy\":{\"jurisdiction\":\"other\",\"id5_consent\":true},\"ext\":{\"linkType\":2,\"pba\":\"UKZoPiUchGUHUP4w+El6XMCHkK8Hy5xXHBjjkjdfShfyTqZBBmPpODjXtMNyAu1sJvJuatYf6RF0OxWWL7tc+w==\"},\"cache_control\":{\"max_age_sec\":7200},\"ids\":{\"id5id\":{\"eid\":{\"source\":\"id5-sync.com\",\"uids\":[{\"id\":\"ID5*b9AJ2VtnzIjSNtMfTMQotzXs-cKO4X1JggfUn4xGZoL__2rZM6haAAEBCmrZM6gA8FEivX1R1Vu85NjgDaSGOQ\",\"atype\":1,\"ext\":{\"linkType\":2,\"pba\":\"UKZoPiUchGUHUP4w+El6XMCHkK8Hy5xXHBjjkjdfShfyTqZBBmPpODjXtMNyAu1sJvJuatYf6RF0OxWWL7tc+w==\"}}]}}},\"tags\":{\"id\":\"y\"}},\"responseTimestamp\":1792619432632,\"consents\":{\"gdpr\":false}},\"expireAt\":1793915432633}",
+        "awswaf_token_refresh_timestamp": "1792619428553",
+        "_uetvid": "6fc31be0cd9911f189ac65b66ff8c037",
+        "id5id_privacy_exp": "Fri, 20 Nov 2026 21:50:32 GMT",
+        "__rtbhouse.lid": "Sre8Kcyjy6VpPDmBqTww"
+      },
+      "sessionStorage": {
+        "_rdt_cfg": "{\"pixelId\":\"a2_if2f0oi498bi\",\"esc\":{\"page_metadata\":true}}",
+        "booking_product_session": "{\"accommodations\":{\"productName\":\"accommodations\",\"lastPageType\":\"index\",\"pageParameters\":{},\"timestamp\":1792619430352,\"url\":\"https://www.booking.com/\"}}"
+      }
+    }
+  }
+]

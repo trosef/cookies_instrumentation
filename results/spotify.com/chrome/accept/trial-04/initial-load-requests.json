@@ -1,0 +1,3386 @@
+[
+  {
+    "timestamp": "2026-10-21T21:52:33.366Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://spotify.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.549Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.spotify.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.685Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotify.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUI-Regular-76c92fb1a35c462f73429fa8865163eb.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixMono-Regular-134eeb986fc0f94a9f0acb9cedaeb584.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUITitleVariable-08bab3354d40f74e5177917b5ae80894.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUI-Bold-09c45a3a0ce9d2971e62cb26e97760fb.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/web-player.14ddddc4.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/generated-locales/web-player/en.cb135b19.json",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/enterprise.js?render=6LfCVLAUAAAAALFwwRnnCJ12DalriUGbj8FW_J39",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/js/gtm.96d60fd6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/js/retargeting-pixels.02346b5d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/web-player.c808182b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.fe5bb2c7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:33.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/encore~web-player.c7335fd5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.058Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsT8wRTp1lOoMFE/recaptcha__en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.393Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-page-error-template.c2a8cced.css",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.393Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-page-error-template.29e45787.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5455.e6e76257.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1545.4bcb2542.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5539.ea6d4dc7.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5687.cd798ed1.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5066.fbcd74c1.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9611.667e7267.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-search.a0a5ee13.css",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-search.4f3275b1.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/6908.e5b94046.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4729.6fc60d19.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3770.a2fa9922.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.398Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-ads-container.a499c441.css",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-ads-container.133a30a3.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-offline-browse.8cc71998.css",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-offline-browse.2dc5c92c.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-offline-empty-state.a9428dba.css",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-offline-empty-state.bb82c1af.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apresolve.spotify.com/?type=dealer-g2&type=spclient",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotify.com/api/token?reason=init&productType=web-player&totp=015988&totpServer=015988&totpVer=61",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.468Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LfCVLAUAAAAALFwwRnnCJ12DalriUGbj8FW_J39&co=aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tOjQ0Mw..&hl=en&v=4EDjxXf4knsT8wRTp1lOoMFE&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CAB5am5W&cb=zbx0swcrapdv",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.472Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://o22381.ingest.sentry.io/api/114855/envelope/?sentry_version=7&sentry_key=de32132fc06e4b28965ecf25332c3a25&sentry_client=sentry.javascript.react%2F10.70.0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apresolve.spotify.com/?type=dealer-g2&type=spclient",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.609Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsT8wRTp1lOoMFE/styles__ltr.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.609Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsT8wRTp1lOoMFE/recaptcha__en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.739Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/remote-config-resolver/v3/unauth/configuration",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.739Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://clienttoken.spotify.com/v1/clienttoken",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.855Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/enterprise/webworker.js?hl=en&v=4EDjxXf4knsT8wRTp1lOoMFE",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:34.878Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.486Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsT8wRTp1lOoMFE/recaptcha__en.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.648Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/workbox-window.e0b1932c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.669Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotify.com/service-worker.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.678Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.678Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.678Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apresolve.spotify.com/?type=dealer-g2&type=spclient",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.680Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.701Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1186.bca0a3e8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.729Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-feedback-bar.12de9935.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.729Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-feedback-bar.04cd3bec.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.734Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1272.485a4647.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-your-library-x.1621b3c9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-your-library-x.ae956fc8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3834.15e51610.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1186.bca0a3e8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8153.2d5988b7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5424.80185db8.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5424.29f6d997.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9398.eadd622e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5476.f2f0721c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-now-playing-bar.03e78dbb.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.746Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-now-playing-bar.a3ba49b3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1272.fdd2979c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.767Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-top-bar.3bacadd2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.768Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-top-bar.8f565a1f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.823Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1363.40f426a9.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-header.eec2cf26.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-header.ac0481f5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3643.ee5be610.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8934.0dabf7a7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/286.31a3a171.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1545.4bcb2542.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5539.ea6d4dc7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4447.2b10b694.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4447.2a58591f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1366.afe3e4c2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5816.c473ff94.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5816.aac545d9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-chips-row.5c09f041.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-chips-row.73c3453c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-v2.d8c0f54b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.834Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-player.85c381c9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-player.574b534c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4609.43c2e0bc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/6908.e5b94046.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7980.1899614c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3770.a2fa9922.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-panel-section.8d4ef32f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-panel-section.b86ba241.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3601.b876dfcf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2492.8d598933.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4497.03512a73.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-root-dialogs.9b06bce3.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-root-dialogs.b511cc66.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-watch-feed-view-container.0f71bea5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-watch-feed-view-container.92b1985b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUI-Regular-cc3b1de388efa4cbca6c75cebc24585e.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.835Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUI-Bold-4264b799009b1db5c491778b1bc8e5b7.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.852Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1366.afe3e4c2.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1545.4bcb2542.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/1675.1a7dd959.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.871Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.873Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.gstatic.com/eureka/clank/155/cast_sender.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.888Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2148.12269cf1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.901Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/images/ylx-row-placeholder.ea7b0f5d.webp",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.901Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://spclient.wg.spotify.com/library-import/v1/eligible",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.909Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2364.64ed53b3.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.998Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://encore.scdn.co/fonts/SpotifyMixUITitleVariable-8769ccfde3379b7ebcadd9529b49d0cc.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.998Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api-partner.spotify.com/pathfinder/v2/query",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:36.998Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api-partner.spotify.com/pathfinder/v2/query",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.012Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2492.8d598933.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.014Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.017Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2527.a102e9fe.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.044Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/50da44be-0564-43df-b139-329aedcf267b/50da44be-0564-43df-b139-329aedcf267b.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.044Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PZHN3VD",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.064Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2759.70442d78.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/listening-stats-modal.29fe6689.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.066Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/listening-stats-modal.a17292cd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.066Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-user-comments.e1afff43.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.066Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-user-comments.358c5c9b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.087Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.089Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/2759.8e07617d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.114Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/286.31a3a171.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.118Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3079.8482f0a0.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.145Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3079.b686945e.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.163Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.166Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.175Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3197.d25d4b96.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.198Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3210.2cda470d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.219Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3210.93361d53.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.247Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3565.65db2e6c.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.295Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3565.86ddf26f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3601.b876dfcf.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.330Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3643.ee5be610.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.333Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3770.a2fa9922.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.336Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/3834.15e51610.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.338Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4062.7dff1918.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.356Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.357Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4062.c59da185.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.416Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4195.0718af00.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.443Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4195.516900ee.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.458Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/50da44be-0564-43df-b139-329aedcf267b/019df341-54d8-70a0-989d-eced0feae4a3/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.468Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4340.3f31fe41.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.494Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4340.5ba8cfda.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.526Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4364.c36a477c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.542Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e027c6236a76fbcee4f1b8ace08",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e026c6962d2073c0378348cac37",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e023dd1c8af6ed2b0affa7cf4c0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e02706ab55cf3e8cb64efb0ccba",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e024c4af9f49f2c276dca687ced",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e029d2d24f97d9b4c05a1d39448",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e02efe09b635b15763133198101",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e02deb35ec4f121e2bbad0b1367",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616d00001e02df2964174667079956122484",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab676161000051744293385d324db8558179afd9",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616100005174c1719ac9e6a75c1c25835018",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab6761610000517498a9ee5f9cac5e3efa057f30",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616100005174e17c0aa1714a03d62b5ce4e0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616100005174cb565a8e684e3be458d329ac",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.544Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.scdn.co/image/ab6761610000517412184bdd29403de54cb9d9c7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.549Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4447.2a58591f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.555Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4447.2b10b694.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.557Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4497.03512a73.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.561Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4609.43c2e0bc.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4706.e18dc30e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.573Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-ZWG1NSHWD8&cx=c&gtm=4e6ak1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.573Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google-analytics.com/analytics.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.574Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.fastly-insights.com/insights.js?k=040e3997-282c-4275-ba9b-a406ce78b133&dnt=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.574Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/assets/v2/otPcPanel.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.574Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202601.2.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.574Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sb.scorecardresearch.com/b?c1=2&c2=15654041&ns__t=1792619557566&ns_c=UTF-8&c8=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&c7=https%3A%2F%2Fopen.spotify.com%2F&c9=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.574Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sb.scorecardresearch.com/c2/15654041/cs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.618Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4729.6fc60d19.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.622Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.627Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.627Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.682Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4956.21ff8f40.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.699Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZWG1NSHWD8&gtm=45je6ak1v878806346za20ozb813409576zd813409576xf1&_p=1792619557043&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=692479661.1792619558&frm=0&pscdl=noapi&rcb=3&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792619557&sct=1&seg=0&dl=https%3A%2F%2Fopen.spotify.com%2F&dt=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&_tu=CA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.country=US&ep.user_country=&ep.page_path_custom=%2F&ep.logged_in=false&ep.sp_t_correlation_id=6eb955eb-9fc4-48bd-97b1-517b48c929f1&ep.is_premium=&ep.viewport_size=1280x720&ep.cs_matching_key=0.46514795753015403_1792619557558&tfd=4336",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/4956.cb7c8394.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sb.scorecardresearch.com/b2?c1=2&c2=15654041&ns__t=1792619557566&ns_c=UTF-8&c8=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&c7=https%3A%2F%2Fopen.spotify.com%2F&c9=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.710Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sb.scorecardresearch.com/internal-c2/default/cs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.742Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5066.fbcd74c1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5424.29f6d997.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.749Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5424.80185db8.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.750Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5455.e6e76257.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.753Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5476.f2f0721c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.755Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5539.ea6d4dc7.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.757Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5687.cd798ed1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5695.ff52972d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.771Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1649768186&t=pageview&_s=1&dl=https%3A%2F%2Fopen.spotify.com%2F&dp=%2F&ul=en-us&dt=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&sr=1280x720&vp=1280x720&_u=4GDAAEABAAAAACAEKk~&jid=1650551229&gjid=140516748&cid=692479661.1792619558&tid=UA-5784146-31&_gid=1173140738.1792619558&_r=1&_slc=1&gtm=45He6ak1n81PZHN3VDv813409576za200zd813409576xf1&cd1=us&cd8=web_player_prototype&cd9=0&cd26=6eb955eb-9fc4-48bd-97b1-517b48c929f1&cd29=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&cd31=&cd51=https%3A%2F%2Fopen.spotify.com%2F&cd68=0.46514795753015403_1792619557558&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385423~120469145~120469153~121246026~121246034&gcu=1&sst.gcut=2&z=874785379",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.800Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5720.702fc947.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.809Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-BMC5VGR8YS&cx=c&_slc=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.850Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5775.37f03164.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.878Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5816.aac545d9.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.889Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5816.c473ff94.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.891Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5825.bf4fea7e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.910Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/5885.de1b8df3.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en&countryHub=true&lyricsHub=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.937Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/6357.cf8dc40c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.958Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/6908.e5b94046.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.960Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7279.0b206b37.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:37.984Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7414.04dcb8e8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.015Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-BMC5VGR8YS&gtm=45je6ak1v9188847928za20gxf1&_p=1792619557043&_gaz=1&gcs=G111&gcd=13r3r3r3r7l1&npa=1&dma=0&_eu=EBAIAGA&cid=1757738298.1792619558&frm=0&ir=1&pscdl=noapi&rcb=2&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fopen.spotify.com%2F&dp=%2F&dt=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&sid=1792619558&sct=1&seg=0&_tu=CA&en=page_view&_fv=1&_ss=1&_ee=1&ep.ua_dimension_1=us&ep.ua_dimension_8=web_player_prototype&ep.ua_dimension_9=0&ep.ua_dimension_26=6eb955eb-9fc4-48bd-97b1-517b48c929f1&ep.ua_dimension_29=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.ua_dimension_51=https%3A%2F%2Fopen.spotify.com%2F&ep.ua_dimension_68=0.46514795753015403_1792619557558&tfd=4649",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.015Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-BMC5VGR8YS&cid=1757738298.1792619558&gtm=45je6ak1v9188847928za20gxf1&rcb=2&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r7l1&npa=1&frm=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.027Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.spotify.com/api/masthead/v1/masthead?market=us&language=en",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.060Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7476.16fc36cc.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.088Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7539.95393bcb.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7559.2e456caa.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.135Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/762.7b173030.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.156Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api-partner.spotify.com/pathfinder/v2/query",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.167Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7730.927b1275.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7870.73c39364.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.207Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7941.d9074f5b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.226Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/7980.1899614c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.230Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8153.2d5988b7.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.236Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8231.1b0a860a.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.256Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8546.041cab7b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.277Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8576.b34b51b9.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.294Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8736.561cd259.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.315Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8736.853bb1e0.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.335Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8783.048b650e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.353Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8869.3616f679.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.371Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8869.5eab3311.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.389Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8914.1d9e9d90.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.410Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8934.0dabf7a7.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.413Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/8948.9c229de0.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.436Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/934.16485020.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.459Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9398.eadd622e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.463Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9493.38dd7adc.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.482Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9493.8c3f616b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.511Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9611.667e7267.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.518Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.519Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9886.469dc2c8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.542Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9886.f048465f.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.565Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/9907.43511b42.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.590Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/browse-v2.a1f81340.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.594Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.610Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/browse-v2.cc198e5a.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.635Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/concerts-on-tour-playlist-card.88333d71.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.671Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/concerts-on-tour-playlist-card.b69ace5f.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.690Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/desktop-update-notification.851c0b96.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.712Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/desktop-update-notification.ee935bed.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.737Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dev-playground.78c90a08.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-error-page.353b349b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.785Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-error-page.447247a5.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.806Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-feedback-bar.04cd3bec.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.808Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-feedback-bar.12de9935.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.810Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-chips-row.5c09f041.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.811Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-chips-row.73c3453c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.816Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-header.ac0481f5.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.818Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-home-header.eec2cf26.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.819Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-leaderboard-component.2b97e941.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-leaderboard-component.f3293fc8.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.854Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-now-playing-bar.03e78dbb.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.855Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-now-playing-bar.a3ba49b3.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-offline-empty-state.a9428dba.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.862Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-offline-empty-state.bb82c1af.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-page-error-template.29e45787.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.865Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-page-error-template.c2a8cced.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.866Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-panel-section.8d4ef32f.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.867Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-panel-section.b86ba241.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.893Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-premium-page.d6a3b66b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.909Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-premium-upsell-page.2db2b510.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.926Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-premium-upsell-page.50546e8e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.944Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-promptedPlaylists.3529b73e.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.961Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-promptedPlaylists.4576eb33.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:38.991Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-socialPrompting.33e1d0e7.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.012Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-socialPrompting.5a4fbd46.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.031Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-top-bar.3bacadd2.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.032Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-top-bar.8f565a1f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-tuna.9afc5e94.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.051Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-tuna.f2f3a46c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.071Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-user-comments.358c5c9b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.077Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-user-comments.e1afff43.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.080Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-player.574b534c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.085Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-player.85c381c9.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.087Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-takeover.2017eecf.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.107Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-video-takeover.4458c633.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.133Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-watch-feed-view-container.0f71bea5.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.135Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-watch-feed-view-container.92b1985b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.141Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-whats-new-feed.32a36db4.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.163Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/dwp-whats-new-feed.f8e04627.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.185Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/encore~web-player.c7335fd5.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.225Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-ads-container.133a30a3.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.229Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-ads-container.a499c441.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.230Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-subfeed.665e8a84.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.250Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-subfeed.a8bce2ff.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.276Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-v2-section.164b0ab8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.342Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/home-v2.d8c0f54b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.345Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/listening-stats-modal.29fe6689.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.346Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/listening-stats-modal.a17292cd.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.347Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/lottie-animation.f72a1411.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.371Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/pip-mini-player.7dbeddad.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.440Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/pip-mini-player.f7249e3c.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.460Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/playlist-leavebehinds.3142ad62.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.482Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/playlist-leavebehinds.7c888179.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.500Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/podcast-charts-hub.8ed17685.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.518Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/podcast-charts-hub.90cea109.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.537Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/podcast-charts.afb26f2b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.555Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/podcast-charts.f850ba23.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.577Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/this-is-playlist-concerts-carousel.a928f58b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.596Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/this-is-playlist-concerts-carousel.b6be24c8.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.620Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/trending-near-you-toolbar.3b4cd4aa.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.641Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/trending-near-you-toolbar.b17d536e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.661Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/ubi-highlighting.9a17e2bf.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.680Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/ubi-highlighting.b67ebbd9.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.697Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/ubi-showcase-test.dbc3d9f8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.715Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/vendor~web-player.fe5bb2c7.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.818Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/web-player.14ddddc4.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:39.822Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/web-player.c808182b.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.203Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/workbox-window.e0b1932c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.205Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-debug-window-contents.97bf7498.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.236Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-debug-window-contents.fd91d474.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.255Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-desktop-modals.cc8b4376.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.277Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-desktop-routes-settings.3bbe64c4.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.301Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-pip-mini-player.83510b8b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.320Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-pip-mini-player.a30c2325.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.338Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api-partner.spotify.com/pathfinder/v2/query",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.350Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-playlist-format-redirect-with-params.961924fe.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.370Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-root-dialogs.9b06bce3.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.371Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-root-dialogs.b511cc66.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-album-prerelease.9d640a77.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.409Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-album-prerelease.bfdee8eb.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.427Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-album.1a7493cb.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.445Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-album.2bd7e25f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.467Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-all-show-ads.437b29c2.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.492Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-all-show-ads.9fa9e707.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.510Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-artist.837b90db.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.527Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-artist.efb06445.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.556Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-blend.2afa752f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.578Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-blend.d9ebab93.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.631Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-buddy-feed.4ef977e1.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.650Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-buddy-feed.ca469861.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.670Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-concert-gallery.3a0dc862.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.679Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/public/v3/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.680Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://gue1-spclient.spotify.com/gabo-receiver-service/v3/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.698Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-concert-gallery.76398795.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.716Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-concerts.73c9cbcb.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.748Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-concerts.ab27243f.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.798Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-episodes.7c88a979.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.825Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-episodes.b6563b04.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.845Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-local-files.8ec2d9d5.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.866Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-local-files.b9373c94.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.893Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-songs.619622eb.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.913Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-collection-songs.b4bc784f.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.948Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-concert-campaign.3470555b.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.970Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-concert-campaign.4e29c3fd.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:40.993Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-concert.1a5fb10a.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.022Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-concert.dfb2a6f4.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.046Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-country-hub-section.169834cc.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.069Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-country-hub-section.1d90477a.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.089Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-country-hub.30d16fdf.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.108Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-country-hub.c61faa6c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.132Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-create-playlist.f8f57675.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.156Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-cultural-moment-hub.0b71ebe7.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.178Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-cultural-moment-hub.7e192d44.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.200Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-download-page.5ea0af2e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.223Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-episode-more-like-this.1f14cbfb.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.245Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-episode-more-like-this.f386fa7e.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.326Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-episode.38724eb7.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.352Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-episode.8d9293f4.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.382Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-health-check.3f4fc09d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-kallax.0bd329d5.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.427Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-label-artists.7d459bd8.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.449Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-label-artists.fa3d1e56.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.471Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-label.9383b0c5.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.495Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-label.d530c159.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.518Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-lyrics.a2887bf8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-music-video-prerelease.0f5c2164.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.567Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-music-video-prerelease.f5b35f33.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.593Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-offline-browse.2dc5c92c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.599Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-offline-browse.8cc71998.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.601Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-playlist.93ae43f0.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.619Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-playlist.c1b329df.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.653Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-podcast-chapter.4657a820.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.674Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-podcast-chapter.b2a0b499.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.676Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://o22381.ingest.sentry.io/api/114855/envelope/?sentry_version=7&sentry_key=de32132fc06e4b28965ecf25332c3a25&sentry_client=sentry.javascript.react%2F10.70.0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.699Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-premium-page.3d3b673e.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.720Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-premium-page.e0eeaefb.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.739Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-profile.3224f223.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.769Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-profile.72480c98.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.788Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recent-searches.20cf1a47.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.813Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recent-searches.bd494476.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.838Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recently-played.456ca8a2.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.860Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recently-played.85c17c46.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.882Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recents.822ce862.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.962Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-recents.ec4d2869.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-search.4f3275b1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.994Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-search.a0a5ee13.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:41.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-see-all-playlist-leavebehinds.3b382ffd.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.015Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-see-all-playlist-leavebehinds.57e990a0.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.033Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-show-more-like-this.7eaaa04c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.053Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-show-more-like-this.9befa47c.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.072Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-show.596d82b8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.103Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-show.e71afd02.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.123Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-stage-page.0e43bb2c.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.153Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-stage-page.89809139.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.172Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-taste-profile.0826dec1.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.192Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-taste-profile.62620208.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.215Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-track-v2.36f290d9.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.236Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-track-v2.a56b9f92.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.269Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-track.d434e2de.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.288Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-venues.24297801.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.307Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-venues.91b3f1df.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.333Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-web-settings.1de830af.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.360Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-web-settings.526f90a6.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.380Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-your-library-x.1621b3c9.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.382Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/xpui-routes-your-library-x.ae956fc8.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.399Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/your-sound-capsule-modal.af75f7ab.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.416Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://open.spotifycdn.com/cdn/build/web-player/your-sound-capsule-modal.f5598f1c.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:42.709Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-ZWG1NSHWD8&gtm=45je6ak1v878806346za20gzb813409576zd813409576xf1&_p=1792619557043&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=692479661.1792619558&frm=0&pscdl=noapi&rcb=3&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792619557&sct=1&seg=0&dl=https%3A%2F%2Fopen.spotify.com%2F&dt=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&_tu=CA&en=scroll&ep.country=US&ep.user_country=&ep.page_path_custom=%2F&ep.logged_in=false&ep.sp_t_correlation_id=6eb955eb-9fc4-48bd-97b1-517b48c929f1&ep.is_premium=&ep.viewport_size=1280x720&ep.cs_matching_key=0.46514795753015403_1792619557558&epn.percent_scrolled=90&_et=7&tfd=9346",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:43.019Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-BMC5VGR8YS&gtm=45je6ak1v9188847928za20gxf1&_p=1792619557043&gcs=G111&gcd=13r3r3r3r6l1&npa=0&dma=0&_eu=EBAIAGQ&cid=692479661.1792619558&frm=0&ir=1&pscdl=noapi&rcb=2&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fopen.spotify.com%2F&dp=%2F&dt=Spotify%20-%20Web%20Player%3A%20Listen%20to%20Music%2C%20Podcasts%2C%20and%20Audiobooks%20Online&sid=1792619558&sct=1&seg=1&_tu=CA&en=page_view&_ee=1&ep.ua_dimension_1=us&ep.ua_dimension_8=web_player_prototype&ep.ua_dimension_9=0&ep.ua_dimension_26=6eb955eb-9fc4-48bd-97b1-517b48c929f1&ep.ua_dimension_29=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.ua_dimension_51=https%3A%2F%2Fopen.spotify.com%2F&ep.ua_dimension_68=0.46514795753015403_1792619557558&_et=4&tfd=9656",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:52:44.406Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api-partner.spotify.com/pathfinder/v2/query",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  }
+]

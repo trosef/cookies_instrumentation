@@ -1,0 +1,2346 @@
+[
+  {
+    "timestamp": "2026-10-21T21:50:27.270Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://booking.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:27.522Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:27.790Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/__challenge_h78IRKX3kpQxScCExxShBNwRUlb/d8c14d4960ca/a18a4859af9c/challenge.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:27.951Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/__challenge_h78IRKX3kpQxScCExxShBNwRUlb/d8c14d4960ca/a18a4859af9c/inputs?client=browser",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:28.371Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/__challenge_h78IRKX3kpQxScCExxShBNwRUlb/d8c14d4960ca/a18a4859af9c/mp_verify",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:28.491Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/__challenge_h78IRKX3kpQxScCExxShBNwRUlb/d8c14d4960ca/a18a4859af9c/mp_verify",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:28.608Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/?chal_t=1792619427716&force_referer=",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:28.974Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/__challenge_h78IRKX3kpQxScCExxShBNwRUlb/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/client.af8eaa37.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/c43f530f.6e7898b2.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/12888182.5788d408.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/ba07265b.a6efccda.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/31b24ea7.7433a648.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/95c8ee1c.912ef45b.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/782ad794.13510197.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/38055147.31a228bc.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/e72beea3.a6caa550.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/cc979468.dce4ef53.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/c2edf532.af5698b6.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/2a004d52.f7fef7c5.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/4bd23c76.6d12f251.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/2bda684b.54012f8e.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/88a7e062.f7fef7c5.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/eb9a4926.358f04c8.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/dc32f6b7.3229d300.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/2d35db29.d17e16e6.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/b9a82cb8.cbadee0e.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/81da5f32.c746afc9.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/2ab355fc.6cc431cc.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/72736a66.bd0863ec.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/d06482ef.bd0863ec.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/3c74eed1.ca6ee8f4.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/09fb2abd.3d9b4949.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.388Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/1d87ea19.a23fe1e0.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.389Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/0fdff3cd.b6347f20.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.389Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/0d919837.b07a6af1.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.389Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/27bbaa9c.2a6197d0.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/7e8161ba.181f1b40.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/31e40d2f.cf288cd8.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/2c7ad93f.360c7f80.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/8f1f9b37.da868ea5.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/576b4e35.aecaa8a0.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/4a89d2db.5245783d.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/client.4b84af48.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/0a098284.7bf3c6d0.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/3ea94870-d4b1-483a-b1d2-faf1d982bb31/OtAutoBlock.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://r-xx.bstatic.com/xdata/images/xphoto/1440x434/751587767.jpeg?k=25c9e2f1c1be1717f5976d24c3c400bd16e45ebe7ff42823a60603970588f5d1&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.395Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.20ea7f7f.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.395Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/dc32f6b7.eb7b5b7b.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.395Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2d35db29.8a131f54.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/b9a82cb8.ae124b72.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/81da5f32.a3ec53c6.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/15334676.eb1c69b5.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/cfaf9a2b.e068ffc7.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/82cf6828.8d01240e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2ab355fc.12437034.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.b3ca5156.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/72736a66.01b1b02e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/d06482ef.c94e71e2.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/3c74eed1.7d0796f2.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.7b84053d.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/09fb2abd.a671e8c5.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.cd92e895.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.231fe4bf.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/1d87ea19.b8a4831e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/0fdff3cd.badfd118.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.0274bc07.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/0d919837.569da6d6.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.ccd9ee2b.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/27bbaa9c.34f2e07e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.7458a737.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/7e8161ba.0c0d0cd7.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.08d1a194.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.e235109f.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.d277ec0f.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/31e40d2f.ff4621cd.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/ebe49056.5faaf08b.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.e199795d.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2c7ad93f.ced62294.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/8f1f9b37.5331a0f2.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.9a704416.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/d0a06113.c68876c1.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.29253d22.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.fcd9e33d.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.474cf528.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/576b4e35.bdb5acfa.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.e9acff66.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/remoteEntry.6b3b85a6.client.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/c43f530f.19df99c7.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/86f961ac.94ae9279.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/12888182.26481ea9.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/ba07265b.278775d4.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/d453fd14.f746397a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/f278ba2b.26eb2ce6.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/31b24ea7.85dd086a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/95c8ee1c.7a38b441.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/782ad794.db115e89.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/38055147.467efb7f.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/e72beea3.c2f46749.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/cc979468.ab5f1a2c.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/c2edf532.b364b7a4.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2a004d52.d07ebab6.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/58c58ec7.3583200e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/4bd23c76.a8776c42.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2bda684b.af0f5e5a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/88a7e062.f93d272a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/eb9a4926.ba5c81f0.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2aa64dbf.1f09af99.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/5115337f.ed71eaa8.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/79628b93.471815c3.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/92b51b75.d91c8ab3.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/68dc9f6c.848e486a.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.613Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t-cf.bstatic.com/design-assets/assets/v3.202.0/images-flags/Us@3x.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.613Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t-cf.bstatic.com/design-assets/assets/v3.202.0/illustrations-traveller/FreeCancellation.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.613Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t-cf.bstatic.com/design-assets/assets/v3.202.0/illustrations-traveller/Reviews.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t-cf.bstatic.com/design-assets/assets/v3.202.0/illustrations-traveller/TripsGlobe.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t-cf.bstatic.com/design-assets/assets/v3.202.0/illustrations-traveller/CustomerSupport.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://r-xx.bstatic.com/xdata/images/xphoto/248x248/731980617.jpeg?k=7c198172889c28d292d18e147d9cd827d4a909b3ebcd13ba1dacc4880489be14&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://q-xx.bstatic.com/xdata/images/xphoto/248x248/724373946.jpeg?k=bbafa681a42077cba60100c332d198e01b810d69c85dae01e4812e8a58cfcd4c&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.655Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.656Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://account.booking.com/privacy-consents/implicit",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/page/v0/chunk-metadata?chunk=35325389&mfe=b-index-lp-web-mfe&lang=en-us&namespace=EQLBZeMH",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/35325389.782e3158.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/35325389.f0b0422e.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/4a8c16ee.7cdd31a7.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/3a472aae.7e2a534c.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.840Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/3ea94870-d4b1-483a-b1d2-faf1d982bb31/3ea94870-d4b1-483a-b1d2-faf1d982bb31.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.896Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf2.bstatic.com/static/img/favicon/9ca83ba2a5a3293ff07452cb24949a5843af4592.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.958Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:29.966Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.168Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/5d8f0e2d.34b5e742.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.170Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202501.2.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.428Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.429Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.429Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.429Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.429Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/cn/hook/hasChinesePhoneNumber",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.430Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.448Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.459Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/c360/v1/track",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.480Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/3ea94870-d4b1-483a-b1d2-faf1d982bb31/01971113-1449-7d95-a048-a052802d94fc/en-us.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.482Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/challenge.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.482Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bstatic.com/libs/google-one-tap/0.8.0/google-one-tap.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.545Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202501.2.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.607Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-5Q664QZ",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.613Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.683Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://accounts.google.com/gsi/client",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.723Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/c360/v1/track",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://q-xx.bstatic.com/xdata/images/hotel/263x210/595550862.jpeg?k=3514aa4abb76a6d19df104cb307b78b841ac0676967f24f4b860d289d55d3964&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://r-xx.bstatic.com/xdata/images/hotel/263x210/595548591.jpeg?k=01741bc3aef1a5233dd33794dda397083092c0215b153915f27ea489468e57a2&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://r-xx.bstatic.com/xdata/images/hotel/263x210/595551044.jpeg?k=262826efe8e21a0868105c01bf7113ed94de28492ee370f4225f00d1de0c6c44&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.745Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://r-xx.bstatic.com/xdata/images/hotel/263x210/620168315.jpeg?k=300d8d8059c8c5426ea81f65a30a7f93af09d377d4d8570bda1bd1f0c8f0767f&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/600x300/976884.jpg?k=00a3546794e9e8cbb86b98371056949ee731002b76358467601e85a0b09dd6db&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/600x300/976861.jpg?k=16d2ae8c0dfb3a2fa26b763677f321f1381be233e5dceaca916c520802b840ad&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/300x300/977437.jpg?k=0e8e510a113c319717b54edcbd3df2b5e2cf190e403973548745a10a2c19e660&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/300x300/976877.jpg?k=2aab28217f0fb039e0f35ea2b2c3976141b5860b074f74220edf998115935cda&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/300x300/1014082.jpg?k=c1b0f01c66a13d23c8b9335207e20d2656c14830ef592b222fb4ad8337445f5a&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/xdata/images/city/300x300/1013312.jpg?k=4b3826a5d49af3c039a052bbe404706ec05138415780e3e761f4cd83c670ec79&o=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.811Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.837Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/page/v0/chunk-metadata?chunk=5aeeadf2&mfe=b-index-lp-web-mfe&lang=en-us&namespace=aWCWZYTC",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.837Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/css/5aeeadf2.75f5b865.chunk.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.837Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/5aeeadf2.b9b31d5f.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.882Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.985Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-A12345&cx=c&gtm=4e6ak1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.986Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.yimg.jp/images/listing/tool/cv/ytag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.986Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/sync?c=740&a=1&r=2&j=sgumid",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.986Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_if2f0oi498bi",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.986Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dynamic.criteo.com/js/ld/ld.js?an=web-booking.com&cn=us&ln=en&fpid=006ad933a38ada0bae3e6493c98cdf6e81_1792618200",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.987Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://us.creativecdn.com/tags/v1-booking?type=iframe&id=pr_ge2NGk4y4ajZVQiF8Qch_home&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_type_Stays&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_lang_en&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_country_us&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_genius_0&id=pr_ge2NGk4y4ajZVQiF8Qch_uid_006ad933a38ada0bae3e6493c98cdf6e81_1792618200&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_aid_304142&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_destid_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_desttype_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_rtbhc_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_lid_Sre8Kcyjy6VpPDmBqTww&su=https%3A%2F%2Fwww.booking.com%2F&sr=&ts=1792619430984",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag.flvcdn.net/lytag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=1&ae=g&auid=1332305179.1792619431&dt=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&en=page_view&dl=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&scrsrc=www.googletagmanager.com&rnd=1406947185.1792619431&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6ak1v79615461za200zd79615461xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120385422~120469145~120469153~121049589~121246026~121246034&tft=1792619430995&tfd=2390&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1332305179.1792619431&gtm=45He6ak1v79615461za200zd79615461xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:30.998Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=0&ae=g&auid=1332305179.1792619431&dt=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&en=page_view&dl=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&scrsrc=www.googletagmanager.com&rnd=1406947185.1792619431&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dYWJhMj&gtm=45He6ak1v79615461za200zd79615461xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~120385422~120469145~120469153~121049589~121246026~121246034&tft=1792619430997&tfd=2391&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.012Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_ue?action=index&dest_ufi=undefined&user_location=us&ttv_uc=undefined&date_in=undefined&date_out=undefined&rooms=undefined&nights=undefined&hr=undefined&rid=undefined&p1=undefined&adults=undefined&children=undefined&city_name=undefined&country_name=undefined&dest_name=undefined&region_name=undefined&dest_cc=undefined&dest_id=undefined&dest_type=undefined&lang=en-us&ai=304142&preferred_neighborhoods=undefined&preferred_star_ratings=undefined&seed=006ad933a38ada0bae3e6493c98cdf6e81&site=bookings2&sid=6d6b1b527e804bca669f30fdd67a1412&channel_id=3&exp_andy=undefined&stid=1&exp_rmkt_test=global_on&famem=&famfn=&fampn=&logged_in=0&genis=0&gwcur=0&gwcuc=0&bem=0&bip=0&book_window=undefined&travel_type=unknown&currency=USD&em_sent=0&fn_sent=0&pn_sent=0&cv=-1&sage=undefined&atnm=undefined&atnm_en=undefined&pt_en=undefined&cul=undefined&mnns=undefined&zz_val_eur=EUR&zz_look_action2id=undefined&zz_generic_id=%5B%5D&zz_generic_id2=undefined&cip=72.15.117.228&cua=Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F155.0.0.0%20Safari%2F537.36&tms=gtm&sid_dyna=006ad933a38ada0bae3e6493c98cdf6e81_1792618200&rmk_var=&euuid=d226e028-1892-45c8-a544-d8afdfef735c&gcem=&gcpn=&pguai=undefined&ttv=undefined&iamlt=undefined&fbc=undefined&fbp=-1&msclid=undefined&pcid=3&bizp=undefined&istnb=0&genisb=1&as=0&genaspb=1&p=https%3A%2F%2Fwww.booking.com%2F&r=&label=gen173nr-10CAEoggI46AdIM1gEaIYCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKk5-TWBsACAdICJDUyZDA2ZWYxLWUyZTItNGY4NS05YmFiLTk4YjE2Yzk1MTE4M9gCAeACAQ&rbda=undefined&tcl=undefined&ttoclid=undefined&cto_pld=undefined&cgumid=undefined&ScCid=undefined&scid=undefined&pclid=undefined&ppc_ordv=52.10&gtmcb=508375552",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.013Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=RTB%20House&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22ai%22%3A%22304142%22%2C%22currency%22%3A%22USD%22%2C%22lang%22%3A%22en-us%22%2C%22language_2digit%22%3A%22en%22%2C%22rtb_dc%22%3A%22us.%22%2C%22rtb_glev%22%3A%220%22%2C%22rtb_tagging_hash%22%3A%22ge2NGk4y4ajZVQiF8Qch%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22sid_dyna%22%3A%22006ad933a38ada0bae3e6493c98cdf6e81_1792618200%22%2C%22site%22%3A%22bookings2%22%2C%22user_location%22%3A%22us%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.013Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=Amazon%20Ad%20Tag&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22lang%22%3A%22en-us%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22user_location%22%3A%22us%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.013Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.023Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://google.com/.well-known/web-identity",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.024Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://accounts.google.com/gsi/fedcm.json",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.024Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://accounts.google.com/gsi/style",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.090Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=DC-4228414&cx=c&gtm=4e6ak1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.090Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-988382855&cx=c&gtm=4e6ak1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.090Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gtp-mktg.booking.com/g/collect?v=2&tid=G-A12345&gtm=45je6ak1z89_G-A12345za20ozb79615461zd79615461xf1&_p=1792619430375&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&ecid=1814767812&_fplc=0&cid=344083088.1792619431&frm=0&pscdl=noapi&rcb=14&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1406947185.1792619431&sst.gch=0&sst.tft=1792619430375&sst.lpc=60485438&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=115938466~115938469~118897920~118897930~119793973~120385422~120420416~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3Dredacted%26force_referer%3D&sid=1792619431&sct=1&seg=0&dt=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&_tu=BA&en=page_view&_fv=1&_nsi=1&_ss=1&gap.sstd=5&ep.conversion_type=abu-ppc-web&tfd=2476&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.090Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gtp-mktg.booking.com/g/collect?v=2&tid=G-A12345&gtm=45je6ak1z89_G-A12345za20ozb79615461zd79615461xf1&_p=1792619430375&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&ecid=1814767812&_eu=AAACAAQ&_fplc=0&cid=344083088.1792619431&frm=0&pscdl=noapi&rcb=14&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1406947185.1792619431&sst.gch=0&sst.tft=1792619430375&sst.lpc=60485438&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=2&tag_exp=115938466~115938469~118897920~118897930~119793973~120385422~120420416~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3Dredacted%26force_referer%3D&sid=1792619431&sct=1&seg=1&dt=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&_tu=BA&en=page_view&gap.sstd=5&ep.cd_action=index&ep.hashed_email=&ep.partner_channel_id=3&ep.conversion_type=abu-ppc-web&ep.sid=6d6b1b527e804bca669f30fdd67a1412&_et=6&tfd=2483&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.095Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gtp-mktg.booking.com/_/service_worker/6a60/sw_iframe.html?origin=https%3A%2F%2Fwww.booking.com&1p=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.159Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://us.creativecdn.com/tags/v1-booking?type=iframe&id=pr_ge2NGk4y4ajZVQiF8Qch_home&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_type_Stays&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_lang_en&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_country_us&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_genius_0&id=pr_ge2NGk4y4ajZVQiF8Qch_uid_006ad933a38ada0bae3e6493c98cdf6e81_1792618200&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_aid_304142&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_destid_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_desttype_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_custom_rtbhc_undefined&id=pr_ge2NGk4y4ajZVQiF8Qch_lid_Sre8Kcyjy6VpPDmBqTww&su=https%3A%2F%2Fwww.booking.com%2F&sr=&ts=1792619430984&tc=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.175Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.176Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/sync?s=1&c=740&a=1&r=2&j=sgumid",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.183Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.186Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=iswcy2p&cookie_sync=1&upv=3.0.0&upid=skt925a&ref=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.200Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://alb.reddit.com/rp?id=a2_if2f0oi498bi&event=PageVisit",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.203Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/setuid?entity=315&code=LfnNb8kbaBMkSGTdIc8Ry9todnRbZGRCxY3ezgyMjzY&consent=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.203Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ash46.creativecdn.com/info?tk=AgtfTvcJ4r9ETXQiyOytH-Ae1vLPlBnwk6zBiKKp5vaDRx6igvV7LbWH8GqCJaS-TO6npsl-rtQ8LsSSUSJjpAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.203Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=Reddit%20tag&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22lang%22%3A%22en-us%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22user_location%22%3A%22us%22%2C%22famem%22%3A%22%22%2C%22fampn_e164%22%3A%22%22%2C%22currency%22%3A%22USD%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.215Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.id5-sync.com/api/1.0/id5-api.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.218Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/iu3?pid=edbdcf00-01fa-4d16-bf5c-25f2059153f2&event=PageView&ts=1792619430986&eventSource=amzn.js&uuid=1d8ad228-2e29-4b4f-ba9e-75311622bd58",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.218Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/allowlist/allowlist.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.221Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/syncframe?topUrl=www.booking.com&origin=onetag&ceid=37969520-b1a9-4c68-9f4b-9898af0495b7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.221Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=Criteo%20OneTag&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22ai%22%3A%22304142%22%2C%22booker_segmentation_type%22%3A%22unknownbooker%22%2C%22channel_id%22%3A%223%22%2C%22criteo_is_weekday%22%3A1%2C%22criteo_partner_dedupe%22%3A%220%22%2C%22criteo_site_type_js%22%3A%22d%22%2C%22criteo_user_segment%22%3A2%2C%22currency%22%3A%22USD%22%2C%22genis%22%3A%220%22%2C%22glev%22%3A%220%22%2C%22hotel_id_function%22%3A%5B%5D%2C%22lang%22%3A%22en-us%22%2C%22language_2digit%22%3A%22en%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22sid_dyna%22%3A%22006ad933a38ada0bae3e6493c98cdf6e81_1792618200%22%2C%22user_location%22%3A%22us%22%2C%22visitor_segmentation_type%22%3A%22unknownvisitor%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.224Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=Booking%20Pixel&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22ai%22%3A%22304142%22%2C%22channel_id%22%3A%223%22%2C%22cip%22%3A%2272.15.117.228%22%2C%22cua%22%3A%22Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36%22%2C%22currency%22%3A%22USD%22%2C%22exp_rmkt_test%22%3A%22global_on%22%2C%22famem%22%3A%22%22%2C%22famfn%22%3A%22%22%2C%22fampn%22%3A%22%22%2C%22fbp_cookie%22%3A%22-1%22%2C%22gcem%22%3A%22%22%2C%22gcpn%22%3A%22%22%2C%22genasp_bing%22%3A1%2C%22genis%22%3A%220%22%2C%22genis_bing%22%3A1%2C%22glev%22%3A%220%22%2C%22is_subscribed_to_newsletter_bing%22%3A0%2C%22label%22%3A%22gen173nr-10CAEoggI46AdIM1gEaIYCiAEBmAEzuAEHyAEM2AED6AEB-AEBiAIBqAIBuAKk5-TWBsACAdICJDUyZDA2ZWYxLWUyZTItNGY4NS05YmFiLTk4YjE2Yzk1MTE4M9gCAeACAQ%22%2C%22lang%22%3A%22en-us%22%2C%22logged_in%22%3A%220%22%2C%22p%22%3A%22https%3A%2F%2Fwww.booking.com%2F%22%2C%22partner_channel_id%22%3A%223%22%2C%22seed%22%3A%22006ad933a38ada0bae3e6493c98cdf6e81%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22sid_dyna%22%3A%22006ad933a38ada0bae3e6493c98cdf6e81_1792618200%22%2C%22travel_type%22%3A%22unknown%22%2C%22user_location%22%3A%22us%22%2C%22zz_generic_id%22%3A%22%5B%5D%22%2C%22zz_val_eur%22%3A%22EUR%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.230Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gtp-mktg.booking.com/_/service_worker/6a60/sw.js?origin=https%3A%2F%2Fwww.booking.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.234Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/syncframe?origin=rtus&topUrl=www.booking.com",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.284Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=4228414;type=views;cat=views;rcb=9;ord=6549575169316;npa=0;auiddc=1332305179.1792619431;u1=undefined;u2=undefined;u3=3;u4=304142;u5=USD;u6=undefined;u7=undefined;u9=undefined;u10=undefined;u11=undefined;u12=undefined;u13=undefined;u14=undefined;u15=en-us;u16=undefined;u17=006ad933a38ada0bae3e6493c98cdf6e81;u18=undefined;u19=0;u20=index;u21=undefined;u23=0;u24=undefined;u25=undefined;u26=undefined;u27=undefined;u28=undefined;u34=global_on;u35=0;u36=0;u42=006ad933a38ada0bae3e6493c98cdf6e81_1792618200;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak1v9181466989z879615461za20gzb79615461zd79615461xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=6;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;dc_random=1792619431_53x6vNYyuGBe5zC2TD1E2kSOGx52lGg0dA;epver=2?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.285Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.314Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://accounts.google.com/gsi/fedcm/listaccounts",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.338Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/988382855/?random=1792619431325&cv=11&fst=1792619431325&bg=ffffff&guid=ON&async=1&gtm=45be6ak1v875529256z879615461za20gzb79615461zd79615461xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&rcb=19&label=qxb_CKLbrYADEIeNptcD&frm=0&tiba=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1332305179.1792619431&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=13.0.0&uaw=0&_tu=CA&data=yt_remarketing_event__trace_flag%3D1%3Byt_remarketing__trace_flag%3D1&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.339Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/988382855/?random=1792619431325&cv=11&fst=1792619431325&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6ak1v875529256z879615461za20gzb79615461zd79615461xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&rcb=19&label=qxb_CKLbrYADEIeNptcD&frm=0&tiba=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1332305179.1792619431&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=13.0.0&uaw=0&_tu=CA&data=yt_remarketing_event__trace_flag%3D1%3Byt_remarketing__trace_flag%3D1&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.339Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=19&frm=0&apvc=0&ae=g&auid=1332305179.1792619431&dt=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&tid=AW-988382855&dl=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&scrsrc=www.googletagmanager.com&rnd=1406947185.1792619431&navt=n&npa=0&ep.yt_remarketing_event__trace_flag=1&ep.yt_remarketing__trace_flag=1&_tu=CA&gtm=45be6ak1v875529256z879615461za20gzb79615461zd79615461xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792619431337&tfd=2732&tids=AW-988382855&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.349Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/15005356.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.352Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.354Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=iswcy2p&cookie_sync=1&upv=3.0.0&upid=skt925a&ref=https%3a%2f%2fwww.booking.com&redirect=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.354Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://c360.booking.com/v1/c360/multitrack/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.364Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://c360.booking.com/v1/c360/multitrack/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.378Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.389Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fsetuid%3Fentity%3D315%26code%3DLfnNb8kbaBMkSGTdIc8Ry9todnRbZGRCxY3ezgyMjzY%26consent%3D1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/conversions/t/15005356",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.396Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=15005356&tm=gtm002&Ver=2&mid=cd92c2bb-b199-4b59-b30a-e35c1f89bf14&bo=1&evt=consent&src=update&cdb=AQET&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.396Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=15005356&tm=gtm002&Ver=2&mid=cd92c2bb-b199-4b59-b30a-e35c1f89bf14&bo=2&evt=consent&src=update&cdb=AQET&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.396Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=15005356&tm=gtm002&Ver=2&mid=cd92c2bb-b199-4b59-b30a-e35c1f89bf14&bo=3&sid=6fc30d10cd9911f1ab6d3b455e54f75b&vid=6fc31be0cd9911f189ac65b66ff8c037&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels,%20flights,%20car%20rentals%20%26%20accommodations&p=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&r=&lt=1287&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=903829",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.407Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/sid/json?origin=onetag&domain=booking.com&sn=ChromeSyncframe&so=undefined&topUrl=www.booking.com&ceid=37969520-b1a9-4c68-9f4b-9898af0495b7",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.413Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/sid/json?origin=rtus&domain=booking.com&sn=ChromeSyncframe&so=0&topUrl=www.booking.com&rtusCallerId=740",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.422Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://c360.booking.com/v1/c360/multitrack/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.440Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/iu3?pid=edbdcf00-01fa-4d16-bf5c-25f2059153f2&event=PageView&ts=1792619430986&eventSource=amzn.js&uuid=1d8ad228-2e29-4b4f-ba9e-75311622bd58&dcc=t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.444Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.447Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=NGNlZWE5NTAtNmU1OC00NTBiLTgyYjYtODI1ODQzZjY3ZmQ1&gdpr=0&gdpr_consent=&ttd_tdid=4ceea950-6e58-450b-82b6-825843f67fd5",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.448Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=4ceea950-6e58-450b-82b6-825843f67fd5&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.452Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=4ceea950-6e58-450b-82b6-825843f67fd5",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.452Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sslwidget.criteo.com/event?a=an%3Dweb-booking.com%26cn%3Dus%26ln%3Den&rt=gif&v=5.51.0&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26ci%3D006ad933a38ada0bae3e6493c98cdf6e81_1792618200%26site_type%3Dd&p2=e%3Dvh%26hotel_search%3D1%26si%3D1&p3=e%3Dvs%26ui_channel%3D3%26ui_cc%3DUSD%26nbrn%3Dundefined%26ui_xe%3Dundefined%26ui_ip%3Dus%26ui_gn%3D0%26ui_glev%3D0%26ui_ct%3Dundefined%26ui_rg%3Dundefined%26ui_ln%3Den-us%26ui_cn%3Dus%26ui_ev%3Dprod%26aid%3D304142%26sid%3D6d6b1b527e804bca669f30fdd67a1412%26tms%3Dgtm%26ui_hr%3Dundefined%26sid_dyna%3D006ad933a38ada0bae3e6493c98cdf6e81_1792618200%26vst%3Dunknownvisitor%26ui_adjusted_comission%3Dundefined%26hotel_search%3D1&p4=e%3Ddis&fpid=006ad933a38ada0bae3e6493c98cdf6e81&bundle=ForsyF9yZjBNMUZmZERtQlFDWWhReDE0dE5QMWxmbXRSY0JrTGlmaDBoYXhKeHBSYkZyUVZhQVZvSXl0aXRKR1VkUkxsZSUyQlE3ZEJ2TVBhTkpEbE5nb1VGUDBmaktFUzJrUlVPT3FxdXVWUFZBUnFvcWJUSkIwa282SjN3c3hNSG1mR3J3b1JodFdRSWh4WXZGcmxMekg4NzN0USUzRCUzRA&tld=booking.com&dy=1&fu=https%253A%252F%252Fwww.booking.com%252F%253Fchal_t%253D1792619427716%2526force_referer%253D&ceid=37969520-b1a9-4c68-9f4b-9898af0495b7",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.452Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://gum.criteo.com/sync?c=740&a=1&r=2&j=sgumid",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.492Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=8646318573591474880&ttd_tdid=4ceea950-6e58-450b-82b6-825843f67fd5",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.505Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.508Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/988382855/?random=1792619431325&cv=11&fst=1792616400000&bg=ffffff&guid=ON&async=1&gtm=45be6ak1v875529256z879615461za20gzb79615461zd79615461xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&rcb=19&label=qxb_CKLbrYADEIeNptcD&frm=0&tiba=Booking.com%20%7C%20Official%20site%20%7C%20The%20best%20hotels%2C%20flights%2C%20car%20rentals%20%26%20accommodations&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1332305179.1792619431&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=13.0.0&uaw=0&_tu=CA&data=yt_remarketing_event__trace_flag%3D1%3Byt_remarketing__trace_flag%3D1&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3CwaBksbB-UUl3zdbw36KxO6PE7Lj2__Ktwkpb3gvxf_hqUYHDrgOAiPLTQZMvhz-1u1z-4uQLrmc9ffYSn5wN5vRR4UNi3M0-O0aSnU4__WQk4yOGDvk06CBJcx1__aJkjOvn-4Yu8uzgRVVk-bJ0cJ4IutcbFIffItIM0h_of50yYNDSGE08dldLhE73KzZNxzKKz5X83tmgFo_w3rfH4yYtqdJIngJnaVcwTZ0G0m05ETl-FGymXdc8QFD2l9nOfXtaSM5STKLNsrDL1hbA&random=1570658022&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.528Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=COv7ruOLzJcDFUSN0QQd_N0Jpg;src=4228414;type=views;cat=views;rcb=9;ord=6549575169316;npa=0;auiddc=1332305179.1792619431;u1=undefined;u2=undefined;u3=3;u4=304142;u5=USD;u6=undefined;u7=undefined;u9=undefined;u10=undefined;u11=undefined;u12=undefined;u13=undefined;u14=undefined;u15=en-us;u16=undefined;u17=006ad933a38ada0bae3e6493c98cdf6e81;u18=undefined;u19=0;u20=index;u21=undefined;u23=0;u24=undefined;u25=undefined;u26=undefined;u27=undefined;u28=undefined;u34=global_on;u35=0;u36=0;u42=006ad933a38ada0bae3e6493c98cdf6e81_1792618200;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak1v9181466989z879615461za20gzb79615461zd79615461xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=6;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;dc_random=1792619431_53x6vNYyuGBe5zC2TD1E2kSOGx52lGg0dA;epver=2?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.529Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=3009595290134006670;_dc_ptd=ChAI8MXh1gYQqa2QpNPq6psyEh8A_AFB_2G-m4BPjSfrAKRba6oomgUgmQGG3QhO44Fb;_dc_time=1792619431;dc_pre=COv7ruOLzJcDFUSN0QQd_N0Jpg;src=4228414;type=views;cat=views;rcb=9;ord=6549575169316;npa=0;auiddc=1332305179.1792619431;u1=undefined;u2=undefined;u3=3;u4=304142;u5=USD;u6=undefined;u7=undefined;u9=undefined;u10=undefined;u11=undefined;u12=undefined;u13=undefined;u14=undefined;u15=en-us;u16=undefined;u17=006ad933a38ada0bae3e6493c98cdf6e81;u18=undefined;u19=0;u20=index;u21=undefined;u23=0;u24=undefined;u25=undefined;u26=undefined;u27=undefined;u28=undefined;u34=global_on;u35=0;u36=0;u42=006ad933a38ada0bae3e6493c98cdf6e81_1792618200;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak1v9181466989z879615461za20gzb79615461zd79615461xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=6;tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;dc_random=1792619431_53x6vNYyuGBe5zC2TD1E2kSOGx52lGg0dA;epver=2?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.625Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.627Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://client-side-metrics.us5.us.criteo.net/iev?entry=c~Idfs.Rtus.Origin.FromSyncframeBundle~1&entry=c~Idfs.Rtus.Origin.FromStorageBundle~1&entry=h~Idfs.Rtus.Duration.BeforeRtusFetchFromNewSyncframe~222&entry=c~Idfs.Rtus.Headers.Bundle~1&entry=c~Idfs.Rtus.Events.InitiateFetch~1&entry=c~Idfs.Rtus.Events.SaveResponseOnLocalStorage~1",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.627Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.628Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=4ceea950-6e58-450b-82b6-825843f67fd5&google_gid=CAESEAFUEVjS9LQKaSArniKgv8k&google_cver=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.631Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/sync?dsp_id=46&user_id=k-jc1g11K_2W_PJHiiiR9CnTyNmKXQTTiwIDXg3A&expires=30",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.725Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/c360/v1/track",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.813Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/ul_cb/sync?dsp_id=46&user_id=k-jc1g11K_2W_PJHiiiR9CnTyNmKXQTTiwIDXg3A&expires=30",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.883Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.940Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.955Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://id5-sync.com/bounce",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.955Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://lbs.eu-1-id5-sync.com/lbs/v1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.955Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://lb.eu-1-id5-sync.com/lb/v1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.booking.com/pr_tm?tag_name=Yahoo%20tag&page_url=www.booking.com%2F&dl=%7B%22action%22%3A%22index%22%2C%22lang%22%3A%22en-us%22%2C%22sid%22%3A%226d6b1b527e804bca669f30fdd67a1412%22%2C%22user_location%22%3A%22us%22%7D&v=1.1.0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:31.989Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://apm.yahoo.co.jp/tags/5b97a066-e822-44b9-a1b4-ae646fbee371/events/page_view?lysu=f812e4f0-ac5c-487d-ab48-0525d5342305&brands=%22Google+Chrome%22%3B+v%3D%22155.0.8059.85%22%2C+%22Chromium%22%3B+v%3D%22155.0.8059.85%22%2C+%22Not%28A%3ABrand%22%3B+v%3D%2224.0.0.0%22&platform=%22macOS%22&platform_version=%2213.0.0%22&ref=https%3A%2F%2Fwww.booking.com%2F%3Fchal_t%3D1792619427716%26force_referer%3D&rref=&impl=lytag&pvid=p4wqu38tq2mvinbq5k&sosu=c&r=1792619432.0929163&v=1.1.38&is_ext_tx=1&hc=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:32.075Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:32.194Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:32.460Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:32.476Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://id5-sync.com/gm/v3",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:32.632Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dm.slim02.jp/tppa/v2/vs?adv_id=5000000244218781&cnropq=eyJ0YWdfaWQiOiI1Yjk3YTA2Ni1lODIyLTQ0YjktYTFiNC1hZTY0NmZiZWUzNzEiLCJsYWJlbCI6IiIsImV2ZW50IjoicGFnZV92aWV3IiwicmVmIjoiaHR0cHM6Ly93d3cuYm9va2luZy5jb20vIiwicmVxX3R5cGUiOiJseXRhZyJ9&evt=5&pid=5000000244218780&xci=f812e4f0-ac5c-487d-ab48-0525d5342305",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.251Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/13292332.2eebc5ff.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.284Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/efced7e5.990ab181.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.306Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/55b44b05.debe746b.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.326Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/2389e88d.37a1ca84.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.348Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cf.bstatic.com/psb/capla/static/js/631463c5.b4d57360.chunk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.391Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.453Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:33.453Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/dml/graphql?chal_t=1792619427716&force_referer=&lang=en-us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:35.104Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:35.260Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.booking.com/js_errors",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:38.385Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://otel-gw.booking.com/v1/traces",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:38.425Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:44.949Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:46.762Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:47.611Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.booking.com/c360/v1/track",
+    "resourceType": "ping",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:47.766Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://sink.gw.booking.com/v1/sink",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-21T21:50:51.484Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:50:58.011Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-21T21:51:04.533Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://d8c14d4960ca.edge.sdk.awswaf.com/d8c14d4960ca/a18a4859af9c/telemetry",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]
