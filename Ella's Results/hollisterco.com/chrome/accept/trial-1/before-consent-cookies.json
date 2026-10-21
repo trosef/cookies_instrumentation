@@ -1,0 +1,824 @@
+[
+  {
+    "name": "X-AB",
+    "value": "45f88fd0fc5b4dacbc63b79a43517f43",
+    "domain": "sc-static.net",
+    "path": "/scevent.min.js",
+    "expires": 1792434988.43602,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TVT",
+    "value": "Sun+Oct+18+18%3A36%3A29+2026~3131bf10-595e-4e7c-9830-b21851a646d7~~~~~~~~~|",
+    "domain": ".tealiumiq.com",
+    "path": "/tealium_ttd",
+    "expires": 1826908593.169754,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dtCookie",
+    "value": "v_4_srv_22_sn_6958388F12863F10A26EB90B3239EA78_perc_100000_ol_0_mul_1_app-3A6a6cb8d196c43976_1_app-3Aea7c4b59f27d43eb_1",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ANF_AUTHENTICATION",
+    "value": "1792348585532",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "WC_PERSISTENT",
+    "value": "UCcQNDSer5e%2BtURdPIlvzuDZMTo1GU3lCL1aaXMup%2Bs%3D%3B2026-10-18+14%3A36%3A25.533_1792348585533-447002_0",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": 1797532585.680021,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "geoLocation",
+    "value": "US:AL:36830",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": 1794940585.68019,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ANFSession",
+    "value": "102511792348585534",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ANF_TARGET",
+    "value": "4d318d02-8948-4676-bd89-8e9e8e41e36d.34_0_0.63",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884585.680362,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "xSeg",
+    "value": "b1=GN&b=GC&sq=c-3&p1=HW&g1=GK&p2=FS&g2=GV&c1=HU&c=FZ&co=FN",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792434985.680475,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rxVisitor",
+    "value": "1792348585865PDF7LSIERFHPIG9E6BNKPQQ0T49ARJGJ",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "at_check",
+    "value": "true",
+    "domain": ".www.hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "demdex",
+    "value": "78890434908353904402789459419800838994",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1807900586.518043,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCVS_92D21C8B532954A90A490D4D%40AdobeOrg",
+    "value": "1",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fs_cd_cp_pRdRgnTnF68pCV2F",
+    "value": "AXmghNDNugEfk_9rdlqdhXdUe4tUY4N3PfDU3fIWKwydNZtf9RSbyul-GO8fyd8cnQMfH04xQKgwim64ZDFBtXlg2cWCo2FxCktiSis-6u7p9FvWBGiJJca4pUKsKIFVAIdIg3Gw-d62anUI3yqceYhleIteClwPk-alLFiGPh4lVEaMd04N4xKkXj0IXlR6KPolq1XciplNwfFlEXuR8vipkYemJkp4ysKZHu9DszgV",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792352186.335856,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "everest_g_v2",
+    "value": "g_surferid~atURqgAAABwv3xOe",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "expires": 1823884586.465172,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uPref",
+    "value": "{%22cur%22:%22USD%22%2C%22sf%22:%22US%22%2C%22shipTo%22:%22US%22%2C%22brnd%22:%22hol%22}",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": 1823884586,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_ecid",
+    "value": "MCMID%7C69615416370763945113121549717012930229",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826908586.492286,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mbox",
+    "value": "session#029b966b5c0640bbaa3cfbadd35cce2c#1792350447|PC#029b966b5c0640bbaa3cfbadd35cce2c.34_0#1855593387",
+    "domain": ".www.hollisterco.com",
+    "path": "/",
+    "expires": 1826908586.51624,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mboxEdgeCluster",
+    "value": "34",
+    "domain": ".www.hollisterco.com",
+    "path": "/",
+    "expires": 1792350446,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dpm",
+    "value": "78890434908353904402789459419800838994",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "expires": 1807900586.518061,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_92D21C8B532954A90A490D4D%40AdobeOrg",
+    "value": "179643557%7CMCIDTS%7C20745%7CMCMID%7C69615416370763945113121549717012930229%7CMCAAMLH-1792953386%7C7%7CMCAAMB-1792953386%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1792355786s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20752%7CvVersion%7C5.5.0",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826908586.531973,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_s",
+    "value": "Lqavv0HOjx%2BIyPh4PyZci%2BrMSlPIhqVPw6GPInHjbuqD1WU7iGqDTmL7EYC2Or1U",
+    "domain": ".app.link",
+    "path": "/",
+    "expires": 1823884586.713241,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "utag_main__sn",
+    "value": "1",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_ses_id",
+    "value": "1792348587394%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__pn",
+    "value": "1%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_v_mcid",
+    "value": "69615416370763945113121549717012930229",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "thx_guid",
+    "value": "2b9b364478c87977402145dd1383fdf2",
+    "domain": "imgs.signifyd.com",
+    "path": "/",
+    "expires": 1826044587.472835,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tmx_guid",
+    "value": "AAw54AHa0gt1pbN5KoB1P4m-8CLwaVfzNxKELHighmeAJzkzJVWHiuJaSlksRbBKUmU1A_dYcGOMMo0FnEVunpdT6GJCjw",
+    "domain": "imgs.signifyd.com",
+    "path": "/",
+    "expires": 1826044587.472876,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "rcs",
+    "value": "eF4VyrkNAjEQBdDEEb18aS7P0QFt2HtIKy0ZUD8medFr7bM9p9imRAQ6hsNyMKwOxUme3VjFdT5e3_e131yR4ChRy57htCoBjGDutSx1hIv_NbJlF_kB5CoXOQ",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": 1826908587.901216,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "eventdb_testgroup",
+    "value": "a",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826908588.120689,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "adobe_page_type",
+    "value": "homepage",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_vapi_domain",
+    "value": "hollisterco.com",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "adobe_page_name_persist",
+    "value": "hol:hol:homepage::::::",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_v_id",
+    "value": "01a1504d086a00196628de9144fe05075002306d007ee",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_dc_visit",
+    "value": "1",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884595,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_dc_event",
+    "value": "1%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_cc",
+    "value": "true",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid",
+    "value": "O_TMHV11pJsSF_qfpnmFjlUJiKa68PCf",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826476588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid_r",
+    "value": "O_TMHV11pJsSF_qfpnmFjlUJiKa68PCf",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826476588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "3KsaAtguOQNBTii8GH6aZ6IyRKP.1792348588450",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1826044588.473061,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TAPID",
+    "value": "abercrombie-hco/main>01a1504d086a00196628de9144fe05075002306d007ee|",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884588.481151,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1792348588566.268723916279374793",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1800124594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "3131bf10-595e-4e7c-9830-b21851a646d7",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1823884589.122427,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826044588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01M584T2MYP8QFF84F0F2SXV9N_.tt.1.1792348588702",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826044588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "0HbkColv8VTtk67qd..Bq1RGs...1.0.Bq1RGs.AWdiH5pXieEqEIw375S2MUjzgp8",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800124588.738184,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.309748608.1792348589",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1800124588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tst",
+    "value": "AYhfqX_6kU-A1sEAmyeXf4PDRMkWoASCE-z_lohm9ywXcwDYhQGNCx9YWPUIi9NIi9RwoiRjcuebbFTgeQ829Gzk-lvz8hOIMAI2N3U_r-UZv0Z0mFEFNb0BxbZaSHBqjQVFHltZ-MjN_NxzqbGAvZ8",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "expires": 1792521388.941944,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pin_unauth",
+    "value": "dWlkPVpHVmlOakl6TWpZdFlqTTJZeTAwTkRZM0xUazVOVGd0TVRrelpEYzNNRGMwT1RCag",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fs_lua",
+    "value": "1.1792348588624",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350388,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "fs_uid",
+    "value": "#o-234GET-na1#32a47c09-68f2-47ff-ad21-88977bb90465:f42f2ae7-58a9-4de0-ae1a-6c70e2364365:1792348588624::1####/1823884590",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1823884590,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "XANDR_PANID",
+    "value": "o2SM1IGrOxEJ4Q2Tl0CHhh0kFeFjD5F0qWXmtHHeKdH3wFvhSBEmSCy0yNtMp1ARSuSAtGzNooCDX3et1YL74U5RgXaf7tc3_2_uT2x6aRo.",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800124589.16017,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://hollisterco.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "uuid2",
+    "value": "3111475480905799878",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800124589.160221,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__spdt",
+    "value": "01b13d628d9e40ffb162276740efaad7",
+    "domain": "www.hollisterco.com",
+    "path": "/",
+    "expires": 1823884589,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "tfpsi",
+    "value": "cdf173ff-5cc8-4c28-b149-a4df85d74d73",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350389.16946,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pinterest_ct_ua",
+    "value": "TWc9PSYwOENGM216MDdlR1ROeWhINE5heG9zbGhGUFE4em00ZzBGK3BsMEoxVUErdEJhbnJQbHR2a0tEV2RldVhRUFhNKzJpU0p0M2Q4Um9md2RNSjhwaU1FOHhnQllQRW5aZk1kSFprd3FtT0tDUT0mNEpOd0VubHFWYlRPZDB4anhUOFlBVGl2T1FNPQ==",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "expires": 1823884589.051969,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sc_at",
+    "value": "v2|H4sIAAAAAAAA/0XHwRHAIAgEwIqY8YRELt0ghios3vzy26VmzjWmsPIVC7gEOqU0bkC1Krhh7cFgV/PLv/5sB+YhvqJAAAAA",
+    "domain": ".snapchat.com",
+    "path": "/",
+    "expires": 1826044589.316129,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFwoIYXBwbmV4dXMSCwj28-KamNTWPxAFGAUgAigCMgsIsMKuw67U1j8QBTgB",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1823884589.12247,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "anj",
+    "value": "dTM7k!M4.FEVNsVF']wIg2E?hkW`+P!]tbPl@/ir%+@d.Uaw(E_!lT!Xs3EKZ1qx7<_M)E^/0n[NWu]8XsXMWY:%oDQVlSZeI37M<QG=%9sk@3@'s>TbCvFs",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800124589.16021,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_TS",
+    "value": "1792348589176",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797532589.25102,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_DID",
+    "value": "cd95cfcf-bfac-4180-8d5b-51e66d617a81",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797532589.25107,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_3WAY_SYNCS",
+    "value": "",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797532589.251089,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_sctr",
+    "value": "1%7C1792299600000",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826476589,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "A3",
+    "value": "d=AQABBK0R1WoCEOnfargTVMz79pr75SWxRUsFEgEBAQFj1mreatwn0iMA_eMDAA&S=AQAAAqPliApePr0VR04taFWl_KI",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "expires": 1823906195.146174,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "utag_main_ttd_uuid",
+    "value": "3131bf10-595e-4e7c-9830-b21851a646d7%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_cms_874",
+    "value": "1%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tcs.domain",
+    "value": "eyJhYmVyY3JvbWJpZS1oY28vbWFpbiI6Ind3dy5ob2xsaXN0ZXJjby5jb218MTc5MjM0ODU5MzE5MSJ9",
+    "domain": ".tealiumiq.com",
+    "path": "/",
+    "expires": 1808073393.204845,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TAPID",
+    "value": "abercrombie-hco/main>undefined|tealium_ttd/main>01a1504d0bd5749a8f872a0019dec370|",
+    "domain": ".tealiumiq.com",
+    "path": "/",
+    "expires": 1823884593.20492,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tcs.gdpr",
+    "value": "eyJhYmVyY3JvbWJpZS1oY28vbWFpbiI6IjB8MTc5MjM0ODU5MzE5MSJ9",
+    "domain": ".tealiumiq.com",
+    "path": "/",
+    "expires": 1808073393.204962,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tcs.ttd_uuid",
+    "value": "eyJhYmVyY3JvbWJpZS1oY28vbWFpbiI6IjMxMzFiZjEwLTU5NWUtNGU3Yy05ODMwLWIyMTg1MWE2NDZkN3wxNzkyMzQ4NTkzMTkxIn0=",
+    "domain": ".tealiumiq.com",
+    "path": "/",
+    "expires": 1808073393.204988,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1792348588709::dVv5mPoTfZxKiY72RvkO.1.1792348594724.0::1.-3594.0::6008.2.146.868::5086.5.213",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826044594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_C0V7TT95A0R73RNS6V40",
+    "value": "1792348588709::wh2cvYe2_cRlUSsY5QmF.1.1792348594724.0",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1826044594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2026-10-18T18:36:34.776Z",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1807900594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rxvt",
+    "value": "1792350394785|1792348585865",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Sun+Oct+18+2026+13%3A36%3A34+GMT-0500+(Central+Daylight+Time)&version=202511.1.0&browserGpcFlag=0&isIABGlobal=false&identifierType=Cookie+Unique+Id&hosts=&consentId=5abc6c96-0a17-417a-b449-995451515fac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&iType=6&intType=6",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1807900594,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__se",
+    "value": "2%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__ss",
+    "value": "0%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__st",
+    "value": "1792350395061%3Bexp-session",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792350395,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__prevpage",
+    "value": "hol:hol:homepage::::::%3Bexp-1792352195065",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": 1792352195,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_sq",
+    "value": "%5B%5BB%5D%5D",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dtPC",
+    "value": "22$148585863_111h-vFDUNRVMUJHKCHATCCKCSQFVFPOKRLOQK-0e0",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dtCookie",
+    "value": "v_4_srv_22_sn_6958388F12863F10A26EB90B3239EA78_app-3Aea7c4b59f27d43eb_1_app-3A6a6cb8d196c43976_1_ol_0_perc_100000_mul_1",
+    "domain": ".hollisterco.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

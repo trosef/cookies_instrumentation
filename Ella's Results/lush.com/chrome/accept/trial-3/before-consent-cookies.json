@@ -1,0 +1,76 @@
+[
+  {
+    "name": "preferred-market",
+    "value": "us",
+    "domain": "www.lush.com",
+    "path": "/",
+    "expires": 1824076609.359287,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "preferred-language",
+    "value": "en_us",
+    "domain": "www.lush.com",
+    "path": "/",
+    "expires": 1824076609.359323,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cf_clearance",
+    "value": "oVmY6NpwG1CzTelqVfpvqDVC9DLWVlMEvR7AEafNd1A-1792540609-1.2.1.1-eVHV0hvrYKdiLAu7HAsVtJdSzbFrUvrsF8GLpDqUTikbSzYUoEQ3oGIuYVcQW5iFXfS9E4P5l99DUB3lVLyIQuK.rFuCSpt_lyETF.NpBvx0G.t5CyOHrAkGymkrI.nMXgg89EqyA3NGcbqljszoBV7ILflA5p0YcZbFfvIzm_IcfyAPNaTJRQ1b.PAmILyEMThqLF1DVuxtdnJEPhEoRy0VqPOKfzgzisYRWGkY7DlcVi9ur.Rwva3PTC9o.0NFWkXaY5MOYUhjq0rsLzH16N62Nu_80xwxQl7yKasIoFjYkVo0Cee3l1jNZjUI6ZOwaqu_urKbP6vwNC1HrxcOr36aOaq1DGV98KYYG.blTZg",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1824076609.229928,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://lush.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "BVBRANDID",
+    "value": "6e5b1734-81f1-4ded-8950-8d2883880972",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1824076609,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "BVBRANDSID",
+    "value": "2b9ba9f4-1525-48b2-babe-ea6f8e54c671",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1792542409,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "Sr7fGZkYnjjvQjH9x4SoSvt5rubFCJs9N4mL5jBMf34-1792540610.1789293-1.0.1.1-oeiH1Z9gv.AZjRb5rAcd1GlNvNImktlxw7WjL6Wo4h5BgcRxNvn9cAcnldON9PRC4G316V4l1RvhWllLmahyuymwdQ0O32HJrJyn.rDWTt5DxC8S9MsZueI_zPYX0q3c",
+    "domain": ".lush.com",
+    "path": "/",
+    "expires": 1792542410.555534,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cfwaitingroom",
+    "value": "ChhNVStQQXFZQ004QzlXUUt0TUxSYVpnPT0SgAJtM21heHlaSTYxUld3UXlPY1k2Z05uMkhvelNob00ySzFpTnh6ME1xbEZOYUFwVEVlRmhRYklkWkZybndYV0ltOVV4ejd5UlRpd09udWt6TVV3ODVnRlZiMXdqS1ZkbFNvU3Uxa2dpbTFPN0NaSGJVRDFnNXFFcjArUGRSTFd5clJhV0lwYVY3dXpNMGQzZlNJVjRnMm5VSWZLOXpVbW1aVHhvbUFIQkdmYlBYRnV6eTdmRmJsWTNhdDYxQ3c5TGwrSDNaSURjMW5lRFpaRlpmRWZwVCtQOUd4azN2eVN1OTVucU92Vzdvd1VkaTZ4OG9nZmpMZkErMnFpa2RYMGYw",
+    "domain": ".www.lush.com",
+    "path": "/",
+    "expires": 1792541210.55562,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://lush.com",
+    "_crHasCrossSiteAncestor": false
+  }
+]
