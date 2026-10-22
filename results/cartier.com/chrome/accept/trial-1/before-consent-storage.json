@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://www.cartier.com/en-us/home",
+    "storage": {
+      "localStorage": {
+        "ak_a": "3FA04E2546B0DCA5093ACF8F7859C96C",
+        "ak_ax": "-1",
+        "uw-icon-locales": "{\"version\":\"2026-09-29-10-33-22\",\"en-US\":{\"widget\":{\"html_lst_title\":\"Translations Menu\",\"html_title\":\"Accessibility Menu\",\"text_icon_small\":\"Accessibility\",\"text_icon_large\":\"Accessibility</br>Menu\",\"new_tab\":\"opens in a new tab\",\"new_tab_substring\":\"new tab\",\"new_window_substring\":\"new window\",\"broken_links\":{\"target_site_not_available\":\"target website may not be available\"}},\"skip_links\":{\"open_accessibility_nav\":\"Open the Accessible Navigation Menu\",\"open_accessibility_menu\":\"Open the accessibility menu\",\"skip\":\"Skip to main content\",\"enable_visually_impaired\":\"Enable accessibility for low vision\",\"disable_visually_impaired\":\"Disable accessibility for low vision\",\"title\":\"Quick Accessibility Options\"}}}",
+        "uw-uid": "ecb719c5-0b1f-4019-b5bf-c2cbbd1a6071",
+        "uw-tunings-checksum": "cf43a5c0f4ab160c184b019bcee6361835f6af853aa32bfae7d6e70fe6727a8d",
+        "ABTastyData": "{\"VisitedPages\":[{\"url\":\"https://www.cartier.com/en-us/home\",\"visite\":1,\"time\":1792536809907,\"title\":\"Cartier® Official Website - Jeweler and Watchmaker since 1847\"}]}",
+        "uw-tunings": "{\"tunings\":{\"widget_language\":null,\"widget_icon_type\":null,\"widget_color\":\"#060606\",\"widget_position\":\"2\",\"widget_icon_size\":\"mini\",\"widget_custom_trigger_enabled\":true,\"widget_custom_trigger\":\"main-userway\",\"widget_hidden_for_site\":\"off\",\"widget_is_airbrake_enabled\":true,\"widget_paid_ai\":true,\"screenReaderVersion\":\"v2\",\"site_name\":\"cartier.com\",\"isLAUser\":false,\"widget_no_report\":true,\"new_art_pages_widget_manage\":true,\"dynamic_alpine_images_processing\":true,\"new_login\":true,\"new_manage\":true},\"services\":{\"siteId\":3573523,\"userId\":387696,\"noManage\":false,\"noLogo\":false,\"MODIFY_MENU\":{\"is_enabled\":true,\"is_renewable\":true,\"features_pattern\":\"s9|s3|s18|s6|s4|s14|s13|s25|s7|s2|s12|s11|s17|s19|s21|s23\",\"color_mode\":\"default\",\"dictionary\":true,\"profiles\":true,\"two_columns_layout\":false,\"oversized\":true},\"LIVE_TRANSLATIONS\":{\"is_enabled\":true,\"is_renewable\":true,\"auto_translation\":true,\"autoTranslation\":true,\"overrides\":{},\"noTranslates\":[],\"ignoreWords\":null,\"remainingChars\":50570,\"translationAllowed\":true},\"paidAi\":true},\"remediation\":{},\"remediationV2\":{\"strategy\":\"AUTO\",\"consolidated\":\"https://cdn.userway.org/remediations/consolidated/3573523/WcP6t9MbFw9LwJe2.json\",\"version\":0,\"customFocus\":{\"enabled\":true,\"config\":{\"style\":\"{\\\"width\\\":\\\"2px\\\",\\\"color\\\":\\\"#D40000\\\",\\\"style\\\":\\\"solid\\\"}\"}},\"contrast\":{\"enabled\":true,\"config\":{\"autofix\":false}}},\"imageAlt\":{\"version\":\"ALTS_V2\",\"resourceHash\":\"cPDaQVEzAx4inhDv\",\"tier\":\"PAID_QUOTA_TIER\",\"quota\":5000,\"usage\":5000,\"state\":\"ALTS_ON\",\"missingAlts\":[]},\"widgetCustomLanguages\":[],\"invalidAccountId\":false,\"existingWidgetType\":\"free\"}"
+      },
+      "sessionStorage": {
+        "ABTastyGeoloc": "{\"country_name\":\"United States\",\"country_iso_code\":\"US\",\"state\":\"Alabama\",\"state_iso_code\":\"AL\",\"city\":\"Auburn\",\"city_id\":4830796,\"city_confidence\":-1,\"postal_code\":\"36830\",\"latitude\":32.5484,\"longitude\":-85.4682,\"accuracy_radius\":10,\"time_zone\":\"America/Chicago\",\"least_specific_subdivision\":{\"name\":\"Alabama\",\"iso_code\":\"AL\"},\"most_specific_subdivision\":{\"name\":\"Alabama\",\"iso_code\":\"AL\"},\"ip_address\":\"131.204.254.102\"}",
+        "ABT_IS_TRANS_DATALAYER_CHECKED": "false",
+        "ABTastyUA": "{\"type\":\"Desktop\",\"os\":{\"name\":\"OS X\",\"version\":\">=10.15.7\"},\"browser\":{\"name\":\"Chrome\",\"version\":\"155\"}}",
+        "ABT_IS_DATALAYER_CHECKED": "false",
+        "_dd_tab_id": "081a3f17-2be7-4d8c-8709-5d82fc82c4d7"
+      }
+    }
+  }
+]

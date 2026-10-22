@@ -1,0 +1,72 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "oscGIuQ3VpmSarxVfJ09H.CgEDEBfRWMroRGWh0gYq8-1792537587.7552578-1.0.1.1-nVp9toRvIr7E9HdZEzHs5R454dvoKvtFfdyAX.wNVgDiJpUGp42F2Q16aOj7PyNwZBLVw7EdL_a0mpneF5SoAf1dmm0cx1FGsXMLHefj6Aaa2.YVzi2QZIBUqXEXL6PW",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1792539387.821766,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TiPMix",
+    "value": "49.10382791544955",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541188.504077,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x-ms-routing-name",
+    "value": "self",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541188.50412,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "globalliveweb#lang",
+    "value": "en",
+    "domain": "www.cbre.com",
+    "path": "/",
+    "expires": 1827097588.504135,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ARRAffinitySameSite",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Tue+Oct+20+2026+18%3A06%3A28+GMT-0500+(Central+Daylight+Time)&version=202609.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.cbre.com%2F&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1824073588,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

@@ -1,0 +1,448 @@
+[
+  {
+    "name": "osano_consentmanager_uuid",
+    "value": "7728fb07-95b8-42a9-b664-b4fe8c5918e8",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1824073961.29179,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "osano_consentmanager",
+    "value": "PUG45FTo4Y-vGCgiZbubW7ohsVUkQVyhWDZFXLn3A3u-MsYJM6vfGkTE8OqGkg6CDM_P8K-RZuFm5wdltiWmHjJzp0E01ZC78PSaY1gCQsTpJI5kJwm6icFLORCrK05RYRY3Th1U_hUvL7uxRHNdBvsDAX1JkDZ1gcFb0RdUFJeHZwZ2C_vWfhIMrCI34EctVRgF7KXtH8p3cFZSrjqt4v_PHOkFrcMFlHadWrMpWO1VaucZds9I3QNu5IWgmyAUgJhKbxDr6YpERsopYa_C1-O6-yJNI0CuKC0_qA3ezgT7ZC8Z5veP01Y0gqgdEzqYu98Mpv20g6k=",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1824073961.292778,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_fid",
+    "value": "591A4B7356FA8405-159F4DAD110E5564",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1827097961.376446,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_cc",
+    "value": "true",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nmstat",
+    "value": "8e813e7f-19f0-6a30-d959-628173c9a651",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1827097961.491616,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_vi_yywxxyqfwqfwx7Byzqcdfx7Bp",
+    "value": "[CS]v4|356BFAB4C755DCB5-40001AACC3917834|6AD7F569[CE]",
+    "domain": ".omtrdc.net",
+    "path": "/",
+    "expires": 1827097969.336344,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AWSALB",
+    "value": "+lpviNN95L7YJ+wzQxBavnK/7lLuDxyzWojU9hmic53bfKnOReOmJpcYQK+91ZjCecaRUbLoKALfD2EvGYyjpprn5fLHwk5vv9/vOGHdrVqnvHENdfC4QERsL7Sz",
+    "domain": "www.mercer.com",
+    "path": "/",
+    "expires": 1793142761.697009,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "+lpviNN95L7YJ+wzQxBavnK/7lLuDxyzWojU9hmic53bfKnOReOmJpcYQK+91ZjCecaRUbLoKALfD2EvGYyjpprn5fLHwk5vv9/vOGHdrVqnvHENdfC4QERsL7Sz",
+    "domain": "www.mercer.com",
+    "path": "/",
+    "expires": 1793142761.697059,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "demdex",
+    "value": "08864770422643750147142954545086329862",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1808089961.9931,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCVS_7205F0F5559E57A87F000101%40AdobeOrg",
+    "value": "1",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1965599412.1792537962",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1800313962,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "everest_g_v2",
+    "value": "g_surferid~atf1aQAAABy0gA2t",
+    "domain": ".everesttech.net",
+    "path": "/",
+    "expires": 1824073961.961405,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "li_sugr",
+    "value": "ead34b5f-3530-46c8-ad08-4e3ef24505f7",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1800313962.479692,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dpm",
+    "value": "08864770422643750147142954545086329862",
+    "domain": ".dpm.demdex.net",
+    "path": "/",
+    "expires": 1808089961.993137,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid",
+    "value": "409ab13e-0798-4988-967b-16a63100475c",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1826752362.034231,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid_lu",
+    "value": "1792537961|ix:0|mctv:0|pm:0|rp:0",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1826752362.03426,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "rlas3",
+    "value": "hmti1TT59VdSjsf5XRpnS+H9Ysh5N2GjLi+kW2QWXiY=",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1824073962.130823,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&19d8dc28-d6e1-412e-8561-ff4952640d94\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1824073962.479724,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=OGST03:s=O:r=O:a=O:p=O:g=3857:u=1:x=1:i=1792537961:t=1792624361:v=2:sig=AQGArogUVjhl157arM9Nzg1WNdAIImb0\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792624361.057735,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "soY7gdJxaUfSSDWvHRiFgPT_UH8MYo_YVVbVCQfJyxU-1792537961.9106565-1.0.1.1-z9JItmLo1pN8JEkXdDgYdGurFzW6GXwA_4l6g9bpVIzshcEJlXZzpP0VwRnXNm5wHwZmLmQ_qu8zPLHS6bn_JDGPF3N.w_7Wf2rLJ6fbvxKP0_1nICRwoi.XK.jO2AK3",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792539762.057753,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_7205F0F5559E57A87F000101%40AdobeOrg",
+    "value": "1585540135%7CMCIDTS%7C20747%7CMCMID%7C08836927312718077857146711950424541641%7CMCAAMLH-1793142761%7C7%7CMCAAMB-1793142761%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1792545162s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-20754%7CvVersion%7C4.4.0",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1827097962.104466,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxrc",
+    "value": "COrq39YGEgUI6AcQABIGCMrdKhAA",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1797721962.130861,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "KRTBCOOKIE_1571",
+    "value": "24048-409ab13e-0798-4988-967b-16a63100475c&KRTB&24062-409ab13e-0798-4988-967b-16a63100475c&KRTB&24063-409ab13e-0798-4988-967b-16a63100475c&KRTB&24070-409ab13e-0798-4988-967b-16a63100475c",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795129962.131013,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "PugT",
+    "value": "1792537962",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795129962.131034,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tvid",
+    "value": "0bf304a35e74484c89db030d0ee42ffd",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "expires": 1824094862.131308,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tv_UIDM",
+    "value": "409ab13e-0798-4988-967b-16a63100475c",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "expires": 1827097962.13133,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMID",
+    "value": "atf1asAoJYIAJyKCABYOaAAA",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1824073962.181923,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPS",
+    "value": "2869",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800313962.13799,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPRO",
+    "value": "2869",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800313962.181942,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|sjvp5UKNRSBnnF3zIJqcfkfBtLDfsJQRDNsH7sD9LNXwZT71y0sa8fJsFuiiezFDtexN38a/uCkwHTRO1/p4iA59h2Rwxmgjlp8cC0c/MLZDCSCRGmh07a+Sic1ZSyPFHmOPltd8rIM3rAQyPLJf6/jA+QQ3zGbQJ4yOI4IhXm+WvEnWSmTsitzpQ7vzkXQ/",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073962.145222,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://mercer.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVHATJLF-1U-B4SV",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073962.145261,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVHATJLF-1U-B4SV",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073962.14527,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://mercer.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|sjvp5UKNRSBnnF3zIJqcfkfBtLDfsJQRDNsH7sD9LNXwZT71y0sa8fJsFuiiezFDtexN38a/uCkwHTRO1/p4iA59h2Rwxmgjlp8cC0c/MLZDCSCRGmh07a+Sic1ZSyPFHmOPltd8rIM3rAQyPLJf6/jA+QQ3zGbQJ4yOI4IhXm+WvEnWSmTsitzpQ7vzkXQ/",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073962.14528,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1800313962.145287,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://mercer.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUnyvFMkAqGmsbymaezLb0TEdxTN79ZDru8vcwTq6f19DdqwvfTth-D_9Giwr3w",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827097962.179929,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".bat.bing.com",
+    "path": "/",
+    "expires": 1793142763.212253,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UserMatchHistory",
+    "value": "AQLAn88wm8msHgAAAaFblqaIJUJyHXz4TYs1CMZCUxAFI8rO8koU6323B-v4iakjQwaojBNIikGRNg",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795129962.203774,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AnalyticsSyncHistory",
+    "value": "AQKqoDh58ST1hgAAAaFblqaIhKsCktTWF4l8k3WHs7HBlTnDnJ1-3qHPnod3Yh0udky0ycBsH_nCMa-aFgr-Ww",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795129962.203793,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "05B7CAD0EE1E6BB127AADD28EF426A9B",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826233963.212171,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&2026102023124220bd2dbf-47e4-49b8-8990-a35a4a440189AQGwzuaSPyoj9MNwICaaCcoOzV6L-Cwl\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1824073962.360899,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "utag_main",
+    "value": "v_id:01a15b96a342002101d0a99e917005075001d06d007ee$_sn:1$_se:3$_ss:0$_st:1792539769273$ses_id:1792537961284%3Bexp-session$_pn:1%3Bexp-session$vapi_domain:mercer.com",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1824073969,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_nr",
+    "value": "1792537969284-New",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1824073969,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "c0506610ccdb11f1999d35c27512cf85|1kijh16|2|gag|0|2484",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1792624369,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "c0508cc0ccdb11f1b10b579c0231a7d8|bifn5o|1792537962514|1|1|bat.bing.com/p/conversions/c/k",
+    "domain": ".mercer.com",
+    "path": "/",
+    "expires": 1826233969,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

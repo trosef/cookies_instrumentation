@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.bigcommerce.com/",
+    "storage": {
+      "localStorage": {
+        "hb_actions": "[]",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1792537278133},\"expires\":1800313278133},\"gsid_dc\":{\"value\":{\"joinId\":\"MLPrXZsElb3L-kJsPgKQYgbInRps0qpGYQ\",\"lastJoinedTimeMs\":1792537278136},\"expires\":1792537578136}}",
+        "analytics_session_id": "1792537211070",
+        "ajs_anonymous_id": "\"256dc6d4-e369-4939-92fb-47324ea3f3d2\"",
+        "ajs_user_id": "null",
+        "li_adsId": "f76c5d55-86b5-4e79-a0dd-88ae3f6a44b5",
+        "analytics_session_id.last_access": "1792537278122"
+      },
+      "sessionStorage": {
+        "_cfPre_tabId": "8597a739-e181-4292-91c3-6dee6b27c25f",
+        "sentryReplaySession": "{\"id\":\"f0730bab26c84402b054134ac5a67a2a\",\"started\":1792537275497,\"lastActivity\":1792537290559,\"segmentId\":0,\"sampled\":\"buffer\"}"
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "s9rdCOmpk5iDcY.hnEoX45HXdVixC13ImGNxrXIzzTA-1792537476.9714224-1.0.1.1-jSvZDP1jNbbrfkwuvUVhfFGt6TSV.zdeR.cGWbxUtjZ2e8j42zaO2K2zwV66vfSHGuVrZTYdGN0mCB60WlCkzN6jyeI776q..GVdLkOvZciApblY.jLAQQi36BiSXVyz",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1792539277.015455,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TiPMix",
+    "value": "29.865472338431985",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541077.609993,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x-ms-routing-name",
+    "value": "self",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541077.610024,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "globalliveweb#lang",
+    "value": "en",
+    "domain": "www.cbre.com",
+    "path": "/",
+    "expires": 1827097477.610034,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ARRAffinitySameSite",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Tue+Oct+20+2026+18%3A04%3A37+GMT-0500+(Central+Daylight+Time)&version=202609.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.cbre.com%2F&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0%2CC0003%3A0",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1824073477,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "timestamp": "2026-10-20T23:17:23.978Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.463Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.536Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.661Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/assets/5745ef1b49167f794e266452faa1fa11422373f0727",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.661Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/fonts/plus-jakarta-sans-normal-latin.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.661Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/aem.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.662Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/scripts.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.663Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/fonts.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.663Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/styles.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.663Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/akam/13/1746a55e",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:24.663Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/P-O3mdMC8MkK/UeCE-4OX5Z/MO/3kYibS6cLSmmVfYG/Ji1MAQ/QlETP/FwGNFY",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/assets/5745ef1b49167f794e266452faa1fa11422373f0727/e/65319_1825142910.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/assets/5745ef1b49167f794e266452faa1fa11422373f0727/e/65257_1825202430.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/assets/5745ef1b49167f794e266452faa1fa11422373f0727/e/64885_1825202492.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/assets/5745ef1b49167f794e266452faa1fa11422373f0727/e/65226_747628124.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.046Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/master-tokens.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.046Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/typography.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.046Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/themes.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.046Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/link.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.047Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/button.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.047Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/onetrust-eager.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.048Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/gtm-eager.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.048Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/scope-data-eager.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.048Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/vwo-eager.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.048Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/auth.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.048Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/schema-ld.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.113Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/config.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.114Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/env.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.114Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/session-init.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/sign-in.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/logout.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/user-menu.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/user-info.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/auth/progressive-profile.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.286Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.go-mpulse.net/boomerang/XCNNJ-G8PCV-U855W-LP259-ULUSU",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.383Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.pearson.com/P-O3mdMC8MkK/UeCE-4OX5Z/MO/3kYibS6cLSmmVfYG/Ji1MAQ/QlETP/FwGNFY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.427Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/vendor/onetrust/onetrust.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.428Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/0d545d30-0e52-4bd4-bbe4-db2d55525649/otSDKStub.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.428Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NNXFX2KN",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.429Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NNXFX2KN",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.433Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/region-mappings.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/global-message/global-message.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/global-message/global-message.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login.pearson.com/v1/piapi/login/js/v2/session.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/header.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.434Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/header.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.479Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://c.go-mpulse.net/api/config.json?key=XCNNJ-G8PCV-U855W-LP259-ULUSU&d=www.pearson.com&t=5975127&v=1.792.70&sl=0&si=7124e7ed-c362-4af6-b5e0-9eb8c84a1411-tn8bd0&plugins=AK,ConfigOverride,Continuity,PageParams,RT,PaintTiming,NavigationTiming,ResourceTiming,Memory,Errors,Akamai,EventTiming,BFCache,LOGN&acao=&ak.ai=503985",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.536Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/search.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/fragment/fragment.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/geo-utils.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/geo-popup/geo-popup.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/region-selector/region-selector.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/cart.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/search.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header-nav/header-nav.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/link-utility.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.546Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/block-config.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.546Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/analytics-events.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.546Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/dompurify.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.573Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NHB4G8HF&ancestors=GTM-NNXFX2KN&restrictions=abtGeneric-ac360-adm-aev-analytics_storage-asp-automl-awc-awcc-awct-awec-awj-awud-baut-bb-bsa-bzi-c-cegg-cid-cl-cloud_retail-crto-csm-cts-ctv-d-dbg-dstag-e-ela-ev-evl-f-flc-fls-fsl-fxm-gas-gclidw-gcs-gfct-gfpa-googtag-gtcs-gtes-hjtc-hl-html-img-infinity-initcfg-j-jel-jsm-k-k50Init-lcl-lia_wsri-ljs-ll-m6d-messagemate-mf-mpm-mpr-ms-ndcr-nudge-okt-omc-opt-pa-pc-pijs-placedPixel-pntr-qca-qcm-qpx-r-remm-sandboxedScripts-scjs-scp-sdl-sfc-sfl-sfr-shareaholic-smm-sp-svw-ta-tc-tdc-tdlc-tdsc-tg-tl-tpdpx-ts-twitter_website_tag-u-uslt-uspt-uv-v-vdc-vei-veip-vis-xpsh-yieldify-ytl&gtm.url=https%3A%2F%2Fwww.pearson.com%2F",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.609Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-K8MHCWK5EH&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.610Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-8L16BW4JYK&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.616Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://unpkg.com/web-vitals@5.0.1/dist/web-vitals.attribution.iife.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.616Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NHB4G8HF&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.624Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html?v=4.13.1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.632Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/component-models.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.632Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/component-definition.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.632Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/component-filters.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.634Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/0d545d30-0e52-4bd4-bbe4-db2d55525649/0d545d30-0e52-4bd4-bbe4-db2d55525649.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.692Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ims.pearson.com/g/collect?v=2&tid=G-8L16BW4JYK&gtm=45je6aj1v9250340938z89250328016za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&ecid=471609603&_fplc=0&cid=148712410.1792538246&frm=0&gtm_up=1&ngs=1&pscdl=denied&rcb=9&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1157961776.1792538246&sst.gch=0&sst.adr=1&sst.tft=1792538245426&sst.lpc=23244347&sst.navt=n&sst.ude=0&_s=1&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792538245&sct=1&seg=0&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=DA&en=page_view&_fv=1&_nsi=1&_ss=1&gap.sstd=5&epn.event_timestamp=1792538245612&tfd=1715&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.695Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login.pearson.com/v1/piapi/login/js/piStorage.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.696Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/cart-merge.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.696Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/cart-utils.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.696Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/algolia-search.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.746Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K8MHCWK5EH&gtm=45je6aj1v873843660z89250328016za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&cid=148712410.1792538246&frm=0&gtm_up=1&ibt=1&ngs=1&pscdl=denied&rcb=4&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dr=&sid=1792538245&sct=1&seg=0&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=CA&uid=&en=page_view&_fv=1&_ss=1&ep.page_category=marketing&ep.site_locale=-&ep.site_label=&ep.gtm_container=GTM-NNXFX2KN&ep.gtm_version=65&ep.site_name=platinum&ep.anchor_tag=&ep.section_label=&ep.tag_identifier=GA4%20-%20page_view%20-%20P.com%20Global&tfd=1770",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.751Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.759Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/global-message.plain.html",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-1.324.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.764Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://login.pearson.com/v1/piapi/login/webtoken",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.794Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=14&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&scrsrc=www.googletagmanager.com&rnd=1157961776.1792538246&navt=n&npa=1&ep.ads_data_redaction=1&_tu=CA&gtm=45He6aj1v9260351688za20gzb9250328016zd9250328016xeaxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385423~120469145~120469153~121246026~121246034&tft=1792538245792&tfd=1818&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.796Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://zn1jwsrbinmjwj0da-pearsonvue.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_1JWsrbiNMjwj0da",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.806Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K8MHCWK5EH&gtm=45je6aj1v873843660za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AEAAACAC&ae=a&cid=148712410.1792538246&frm=0&gtm_up=1&ibt=1&ngs=1&pscdl=denied&rcb=4&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dr=&sid=1792538245&sct=1&seg=0&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=CA&en=scroll&ep.page_category=marketing&ep.site_locale=en-us&ep.site_label=country%20site%20(us)&ep.gtm_container=GTM-NNXFX2KN&ep.gtm_version=65&ep.site_name=platinum&epn.percent_scrolled=90&_et=9&tfd=1831",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.814Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/favicons/favicon-light.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.841Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/header.plain.html",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.846Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.883Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/25fdf476ee?a=774664011&v=1.324.0&to=NVFSZkoAChJSWkFeDAwbY0JKCAoGcFZbQxENWFxXSk4IDlRQWxgLFllcHU5TSwJbXFZcMAdHQ1tXDyITUlRQGQsWWVwSECYhNRo%3D&rst=258&s=6fd22c87c15c9ef0&ref=https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html&ptid=34a52c44585173b9&af=err,spa,xhr,stn,ins&ap=1&be=63&fe=73&dc=72&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792538245623,%22n%22:0,%22f%22:0,%22dn%22:0,%22dne%22:0,%22c%22:0,%22s%22:0,%22ce%22:0,%22rq%22:1,%22rp%22:63,%22rpe%22:65,%22di%22:136,%22ds%22:136,%22de%22:136,%22dc%22:136,%22l%22:136,%22le%22:137%7D,%22navigation%22:%7B%7D%7D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:25.931Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/0d545d30-0e52-4bd4-bbe4-db2d55525649/019567c3-402a-75a8-91ac-6b209f79736e/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.033Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/geo-popup/geo-popup.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.033Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/region-selector/region-selector.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/algoliasearch@5/dist/lite/builds/browser.umd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/media_1d45b8724117a2b58a389118017d1e2899473cf19.svg?width=750&format=svg&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/media_110238772f4ba58c3236a1340b617934f02803242.svg?width=750&format=svg&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/media_181a1a0f2ebbfb27a7d3ff711d5372e87c5c10bb5.svg?width=750&format=svg&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/media_17506a392956ad2cdb2f96f26be6fc5660b5e3f8e.svg?width=750&format=svg&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/media_102d58808a278e935f1482f3180deabbc8cbb526b.png?width=750&format=png&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/hero-promotions/hero-promotions.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.034Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/hero-promotions/hero-promotions.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.041Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.pearson.com/akam/13/pixel_1746a55e",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.073Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/881.e7b78d19e4a0f9ce1d5e.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=www.pearson.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.074Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/626.7b8f501279be7593f59f.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=www.pearson.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.109Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ims.pearson.com/g/collect?v=2&tid=G-8L16BW4JYK&gtm=45je6aj1v9250340938z89250328016za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&npa=0&dma=0&ecid=471609603&_fplc=0&cid=148712410.1792538246&frm=0&gtm_up=1&ngs=1&pscdl=denied&rcb=9&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1157961776.1792538246&sst.gch=0&sst.adr=1&sst.tft=1792538245426&sst.lpc=23244347&sst.navt=n&sst.ude=0&sst.gcut=1.3.4&_s=2&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792538245&sct=1&seg=0&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=DA&en=page_view&_fv=1&_nsi=1&_ss=1&gap.sstd=5&epn.event_timestamp=1792538245612&tfd=2119&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.109Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ims.pearson.com/g/collect?v=2&tid=G-8L16BW4JYK&gtm=45je6aj1v9250340938za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&npa=0&dma=0&gdid=dYWJhMj&ecid=471609603&_eu=AAAAAAQ&_fplc=0&cid=148712410.1792538246&frm=0&gcut=3&ngs=1&pscdl=noapi&rcb=9&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&ur=US-AL&sst.rnd=1157961776.1792538246&sst.gch=0&sst.adr=1&sst.tft=1792538245426&sst.gcut=3&sst.syn=1&sst.lpc=23244347&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=3&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792538245&sct=1&seg=0&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=DA&en=user_engagement&gap.sstd=5&epn.event_timestamp=1792538245606&ep.ga_temp_client_id=148712410.1792538246&ep.ga_temp_ecid=471609603&_et=410&tfd=2126&richsstsse",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K8MHCWK5EH&gtm=45je6aj1v873843660z89250328016za20gzb9250328016zd9250328016xf1&_p=1792538245426&gcs=G100&gcd=13p3p3p3p5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&cid=148712410.1792538246&frm=0&gtm_up=1&ibt=1&ngs=1&pscdl=denied&rcb=4&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dr=&sid=1792538245&sct=1&seg=0&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=CA&_s=3&tfd=2129",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-K8MHCWK5EH&gtm=45je6aj1v873843660za20gzb9250328016zd9250328016xf1&_p=1792538245426&_gaz=1&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAACQC&cid=148712410.1792538246&frm=0&gcut=3&ibt=1&ngs=1&pscdl=noapi&rcb=4&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=4&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&dr=&sid=1792538245&sct=1&seg=0&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&_tu=CA&en=user_engagement&ep.page_category=marketing&ep.site_locale=en-us&ep.site_label=country%20site%20(us)&ep.gtm_container=GTM-NNXFX2KN&ep.gtm_version=65&ep.site_name=platinum&ep.ga_temp_client_id=148712410.1792538246&_et=24&tfd=2130",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-K8MHCWK5EH&cid=148712410.1792538246&gtm=45je6aj1v873843660za20gzb9250328016zd9250328016xf1&rcb=4&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.110Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag.rmp.rakuten.com/53453.ct.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.111Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.112Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.3.0.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.112Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D2146K3C77UE57DU4VFG&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.113Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.pdst.fm/ping.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.114Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://b-code.liadm.com/a-06n1.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.117Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag.demandbase.com/d8537f29c5ddfd23.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.118Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=D9B1D8JC77UDPAPRMN80&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.118Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag.rmp.rakuten.com/123568.ct.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.121Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/search-insights@2.17.3",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.123Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/0d545d30-0e52-4bd4-bbe4-db2d55525649/019567c3-402a-75a8-91ac-6b209f79736e/bLayout-en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.123Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/assets/v2/otPcCenter.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.124Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202608.1.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.124Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=1&ae=g&auid=178104752.1792538246&dt=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&en=consent_update&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us&scrsrc=www.googletagmanager.com&rnd=1157961776.1792538246&navt=n&npa=0&ep.ads_data_redaction=1&_tu=CA&gcu=1&gdid=dYWJhMj&gtm=45He6aj1v9260351688za20gzb9250328016zd9250328016xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118131808~118897920~118897930~120385423~120469145~120469153~121246026~121246034&tft=1792538246122&tfd=2148&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.125Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=178104752.1792538246&gtm=45He6aj1v9260351688za20gzb9250328016zd9250328016xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.125Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.liadm.com/s/54741?bidder_id=191160&bidder_uuid=GA1.1.148712410.1792538246",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.125Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect/?pid=994340&conversionId=11667700&fmt=gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.133Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ims.pearson.com/_/service_worker/6a60/sw_iframe.html?origin=https%3A%2F%2Fwww.pearson.com&1p=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.137Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-recorder-1.324.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.145Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_1JWsrbiNMjwj0da&Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.164Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=ah30h5a&cookie_sync=1&upv=3.0.0&upid=ixiq1pw&ref=https%3A%2F%2Fwww.pearson.com%2Fen-us",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.170Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/media-resolution.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.170Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/button-utility.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.178Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-compressor-1.324.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.194Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.201Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/0d555ebd-3f0a-478d-9caa-67540b18e205/0197a170-b64c-74b9-bf41-c49747d01037/db32cca0-ac28-4afb-8534-1c88b945c77d/logo-full-purple-4x.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.201Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.208Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=pearsonvue",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.221Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.234Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/25fdf476ee?a=774664011&v=1.324.0&to=NVFSZkoAChJSWkFeDAwbY0JKCAoGcFZbQxENWFxXSk4IDlRQWxgLFllcHU5TSwJbXFZcMAdHQ1tXDyITUlRQGQsWWVwSECYhNRo%3D&rst=608&s=6fd22c87c15c9ef0&ref=https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html&ptid=34a52c44585173b9",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.234Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/jserrors/1/25fdf476ee?a=774664011&v=1.324.0&to=NVFSZkoAChJSWkFeDAwbY0JKCAoGcFZbQxENWFxXSk4IDlRQWxgLFllcHU5TSwJbXFZcMAdHQ1tXDyITUlRQGQsWWVwSECYhNRo%3D&rst=609&s=6fd22c87c15c9ef0&ref=https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html&ptid=34a52c44585173b9",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.234Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/25fdf476ee?a=774664011&v=1.324.0&to=NVFSZkoAChJSWkFeDAwbY0JKCAoGcFZbQxENWFxXSk4IDlRQWxgLFllcHU5TSwJbXFZcMAdHQ1tXDyITUlRQGQsWWVwSECYhNRo%3D&rst=609&s=6fd22c87c15c9ef0&ref=https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html&ptid=34a52c44585173b9",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.234Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/25fdf476ee?a=774664011&v=1.324.0&to=NVFSZkoAChJSWkFeDAwbY0JKCAoGcFZbQxENWFxXSk4IDlRQWxgLFllcHU5TSwJbXFZcMAdHQ1tXDyITUlRQGQsWWVwSECYhNRo%3D&rst=610&s=6fd22c87c15c9ef0&ref=https://login.pearson.com/v1/piapi/login/html/v2/checkSessionFrame.html&ptid=34a52c44585173b9",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.238Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7464362%2C8616420%2C4410858&time=1792538246237&li_adsId=eb6eca04-19b8-4c3b-8bd6-a2ba2afde081&pageLoadId=93908979-9001-4c18-a54d-8f5df3f27704&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tm=gtmv2",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.252Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=ah30h5a&cookie_sync=1&upv=3.0.0&upid=ixiq1pw&ref=https%3a%2f%2fwww.pearson.com&redirect=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.263Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/1917932288914046?v=2.9.426&r=stable&domain=www.pearson.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.266Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.liadm.com/s/54741?bidder_id=191160&bidder_uuid=GA1.1.148712410.1792538246&_li_chk=true&previous_uuid=e821c84d50004590ac688059ad0774e4",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.302Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.304Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=a9f582c2-313f-4f7a-8d1c-c3e06566e200",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.304Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=YTlmNTgyYzItMzEzZi00ZjdhLThkMWMtYzNlMDY1NjZlMjAw&gdpr=0&gdpr_consent=&ttd_tdid=a9f582c2-313f-4f7a-8d1c-c3e06566e200",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=a9f582c2-313f-4f7a-8d1c-c3e06566e200&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/media_11f626a45563a855db4c129c4851356069ff52ec8.png?width=2000&format=webp&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/media_11f626a45563a855db4c129c4851356069ff52ec8.png?width=2000&format=webply&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i6.liadm.com/s/54741?bidder_id=191160&bidder_uuid=GA1.1.148712410.1792538246&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.307Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/homepage-assets/pearson-video-hero-v3.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.309Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/header/credentials.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.320Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixels.spotify.com/v1/config/49c53e6b0b7a490996a1f7f4c14bc120",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.322Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixels.spotify.com/v1/ingest",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect/?pid=994340&conversionId=11667700&fmt=gif&cookiesTest=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0MA.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.327Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0MQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.331Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/26034139.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.357Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm=&google_sc=&google_hm=YTlmNTgyYzItMzEzZi00ZjdhLThkMWMtYzNlMDY1NjZlMjAw&gdpr=0&gdpr_consent=&ttd_tdid=a9f582c2-313f-4f7a-8d1c-c3e06566e200&google_tc=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.381Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=a9f582c2-313f-4f7a-8d1c-c3e06566e200&google_gid=CAESEPGV4Wps8xjpgxqlWjQdAww&google_cver=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.386Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/homepage-assets/media_16a47516efd0b63f3ef54ba297d3acb638ab7c6ab.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.387Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%2F%3Fpid%3D994340%26conversionId%3D11667700%26fmt%3Dgif%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.395Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/147.a8487fc457fb7b055b41.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=pearsonvue",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.395Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://siteintercept.qualtrics.com/dxjsmodule/463.b4041796801017c38dbb.chunk.js?Q_CLIENTVERSION=2.59.0&Q_CLIENTTYPE=web&Q_BRANDID=pearsonvue",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.413Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.432Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3Da9f582c2-313f-4f7a-8d1c-c3e06566e200",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.547Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=2867634966565394997&ttd_tdid=a9f582c2-313f-4f7a-8d1c-c3e06566e200",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.582Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=7464362%2C8616420%2C4410858&time=1792538246237&li_adsId=eb6eca04-19b8-4c3b-8bd6-a2ba2afde081&pageLoadId=93908979-9001-4c18-a54d-8f5df3f27704&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tm=gtmv2&cookiesTest=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.584Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect/?pid=994340&conversionId=11667700&fmt=gif&cookiesTest=true&liSync=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.585Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/basic-content/basic-content.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.585Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/basic-content/basic-content.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.589Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://rp.liadm.com/j?dtstmp=1792538246588&aid=a-06n1&se=e30&duid=4cf529a2beb2--01m5dsnz4a6geecgz8wzb8vtem&tv=v3.19.0&pu=https%3A%2F%2Fwww.pearson.com%2Fen-us&ext__ga=GA1.1.148712410.1792538246&wpn=lc-bundle&wpv=v3.19.0&cd=.pearson.com&cl=aHR0cHM6Ly93d3cucGVhcnNvbi5jb20vZW4tdXM&pv=20c7b64c-5d16-498d-8a47-5dd9620b6898",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.593Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i.liadm.com/sync-container?duid=4cf529a2beb2--01m5dsnz4a6geecgz8wzb8vtem&appId=a-06n1&euns=0&s=&version=v3.19.0&cd=.pearson.com&pv=20c7b64c-5d16-498d-8a47-5dd9620b6898",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.602Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/970927995/?random=1778016105&fst=1792538246254&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.609Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/778053962/?random=1852460458&fst=1792538246255&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.609Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/17858161082/?random=252972078&fst=1792538246256&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.611Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/970927995/?random=1778016105&fst=1792538246254&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.611Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/778053962/?random=1852460458&fst=1792538246255&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.611Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;src=15344178;type=pears0;cat=unive0;ord=1985298403;gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1;dc_pre=1;rcb=9;dma=0;npa=0;gcs=G111;gcu=1;gcd=13r3r3r3r5l1;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=denied;auiddc=1389676270.1792538246;tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034;_tu=DA;gap.sstd=5;s3p=1;~oref=https%3A%2F%2Fwww.pearson.com%2Fen-us?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.611Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17858161082/?random=252972078&fst=1792538246256&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.618Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ims.pearson.com/_/service_worker/6a60/sw.js?origin=https%3A%2F%2Fwww.pearson.com",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.672Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "blob:https://www.pearson.com/e51a2ea9-d183-4d12-9061-4d0a4df1db0f",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.672Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=13173946579698928001;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOsdkzUUUub5rGJTfQtRRr4VmMTYYblMnHUYB;_dc_time=1792538246;cid=CAQS4gEAQM4h3IXXBV1Qe_toRf5Y2usAM0odcSz5mgonwADU69603DqA6Pvkx-L-Aj1jd2iX4hgtK0kHxf5wJ4l376dsj47eD1_QuPCWFLSRQ-isz-RfQKqGMm4AsnGXETmOmXc2HBlgUw4Bc3sn9u8y-YPPHWDG7HCV9o26chXlA_cHoHWLojt4iJ-VVU47XV9m2_PSPe9daMbj-eBBsZfFcWWvcQ1J8Gf9PkxT_Q7wzJj3Ak6uEk36GV9RAD0usUxAZuhtaVgU-UqcsPtdJkYZzVuIUY9dRebXEj6F5zmqKIDbAMSn;eps=AHas8cDVlDfR13GN7hC9jUTu5lQOwCWTqxIp7DW43ujlePnCjMnvrHhGHh3b77iVf_z2Rv22E6ijj_gDwRhxlywV_cd4ReSZoOEv8jSh4Gxt06k8Tw;src=15344178;type=pears0;cat=unive0;ord=1985298403;gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1;dc_pre=1;rcb=9;dma=0;npa=0;gcs=G111;gcu=1;gcd=13r3r3r3r5l1;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=denied;auiddc=1389676270.1792538246;tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034;_tu=DA;gap.sstd=5;s3p=1;~oref=https%3A%2F%2Fwww.pearson.com%2Fen-us?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.703Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.company-target.com/s/sync?exc=lr",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.703Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/464526.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.704Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api.company-target.com/api/v3/ip.json?referrer=&page=https%3A%2F%2Fwww.pearson.com%2Fen-us&page_title=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.736Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/537092121249675?v=2.9.426&r=stable&domain=www.pearson.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C355%2C200%2C202%2C203%2C207%2C206%2C208%2C204%2C205%2C201%2C199%2C198%2C230%2C225%2C228%2C229%2C223%2C390%2C226%2C227%2C251%2C224%2C222%2C278%2C242%2C215%2C216%2C212%2C213%2C214%2C211%2C209%2C220%2C221%2C219%2C327%2C383%2C348%2C349%2C351%2C352%2C350%2C347%2C346%2C231%2C281%2C288%2C289%2C282%2C284%2C287%2C285%2C286%2C283%2C280%2C299%2C293%2C296%2C292%2C300%2C297%2C291%2C295%2C298%2C294%2C290%2C342%2C359",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.739Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/778053962/?random=1852460458&fst=1792537200000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&is_vtc=1&cid=CAQS4gEAQM4h3BFPpNRqRu-a7nygMzql9eIyZCVFC0fzro-Pg6qz785eshiYXXiJHeKU6iTd8H3RDuQpPD4iV3vYgIVHZEJG0ScbECBwgDjdDd-p1kQGOibSIWXunPJvFu0JeWkhfB8bxHaJ1cEc6SgvfddSr65lyiH437l6WZLWEKdlNtDxue9s6jod1dsUT3DboKS0BMJ2t6Ro0-UgDeAKR_WC-BG4BvX6urRUB5XU-csHMYOGSSmXcSiJOBhHneyt28bbDiEyyHbyGeCYFT9nGXFQdLBABTawO95XqfSYWYT2vduI&random=3168469940",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.739Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/970927995/?random=1778016105&fst=1792537200000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&is_vtc=1&cid=CAQS4gEAQM4h3LQawF7_p4-LYbcIjRctSxmRXuRJvbL97jRknnyfdH_T9QhcYUGZyv90htddF8DK7X9RA5OseOF4bjRVV7K3sCGdVfUy7AvN1ex-N9hdew63XHFjiFtPXpNhkdzSHblFnYYikkrqZ419dmqNsae5j2hmSeEjUEnjv6uW4yeVaQH4FkHK_mJYr8QqLcyHJlVI9ZfQlikDWp6h8zkD4WFBhOpvGetBcXHyIqh4PBnC80poVThCfZSnEW_BEFLMRnVyxW4vso46mIodGvM44jURKQW2u8vwobhbI0gFQv9k&random=661156232",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.741Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/17858161082/?random=252972078&fst=1792537200000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=720&gtm=45j91e6aj1v9250340938z89250328016z99252234748za20gzb9250328016zd9250328016xf1&url=https%3A%2F%2Fwww.pearson.com%2Fen-us&tiba=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&auid=1389676270.1792538246&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=9&dma=0&npa=0&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&pscdl=denied&tag_exp=115616986~115938466~115938469~118897920~118897930~119404697~120213116~120385423~120469145~120469153~121246026~121246034&_tu=DA&gap.sstd=5&is_vtc=1&cid=CAQS4gEAQM4h3C4RYb8wsEbl9Er5kdln0UQE5EpDQ44L0OzWr_rNE0ljOmOkgTrax9rg1F51EC5-B2T9FLfjCyrm_iF8h2dTEvQYNpFAP5JR7N_4HaJIb1n_7gN6htnvlILaMy4XODa8o7loTWIu6t4A70zdy5wd3sCg4a97uUC3ISvJ_2pMNYlVkmsnUVc94HxdSgw1P3GUfRNtlcHsUhyQSklc-T4YHw9ob0Vx0YptMM8Pvbjf1X9qNemw2uBEiwBNq2FmT1arI5Ho__wUuU9ApkX3TJJ_5svRoE6f5BgnpQyQN9jL&random=2938200941",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.750Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/promo-highlight/promo-highlight.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.750Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/promo-highlight/promo-highlight.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.751Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.net/actionp/0?ti=26034139&tm=gtm002&Ver=2&mid=3ba45378-c5cb-4912-853a-5cbf95345b4c&bo=1&evt=consent&src=default&cdb=AQET&asc=D",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.751Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=26034139&tm=gtm002&Ver=2&mid=3ba45378-c5cb-4912-853a-5cbf95345b4c&bo=2&sid=69efb4c0ccdc11f19b3975562985b443&vid=69f01e90ccdc11f192d00d5ba82ef762&vids=1&msclkid=N&evt=consent&src=update&cdb=AQET&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.751Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=26034139&tm=gtm002&Ver=2&mid=3ba45378-c5cb-4912-853a-5cbf95345b4c&bo=3&sid=69efb4c0ccdc11f19b3975562985b443&vid=69f01e90ccdc11f192d00d5ba82ef762&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&p=https%3A%2F%2Fwww.pearson.com%2Fen-us&r=&lt=1822&evt=pageLoad&sv=2&asc=G&cdb=AQET&rn=478509",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.784Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://i6.liadm.com/sync-container?duid=4cf529a2beb2--01m5dsnz4a6geecgz8wzb8vtem&cd=.pearson.com&appId=a-06n1&s=&euns=0&pv=20c7b64c-5d16-498d-8a47-5dd9620b6898&version=v3.19.0&gdpr=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.801Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.801Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.802Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.802Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.802Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.802Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.841Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/animation-utils.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.878Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/989673196478947?v=2.9.426&r=stable&domain=www.pearson.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C355%2C200%2C202%2C203%2C207%2C206%2C208%2C204%2C205%2C201%2C199%2C198%2C230%2C225%2C228%2C229%2C223%2C390%2C226%2C227%2C251%2C224%2C222%2C278%2C242%2C215%2C216%2C212%2C213%2C214%2C211%2C209%2C220%2C221%2C219%2C327%2C383%2C348%2C349%2C351%2C352%2C350%2C347%2C346%2C231%2C281%2C288%2C289%2C282%2C284%2C287%2C285%2C286%2C283%2C280%2C299%2C293%2C296%2C292%2C300%2C297%2C291%2C295%2C298%2C294%2C290%2C342%2C359%2C276%2C246",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.891Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.pearson.com/P-O3mdMC8MkK/UeCE-4OX5Z/MO/3kYibS6cLSmmVfYG/Ji1MAQ/QlETP/FwGNFY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.897Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.897Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.903Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag-logger.demandbase.com/bg9s?x-amz-cf-id=pbBz5b4Gu3IbBFl9LWvWmBYJ7vcjt3UFJNf64pZhAu2dLU_fQwsAcw==&api-version=v3",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.919Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/cards-routing/cards-routing.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.920Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/cards-routing/cards-routing.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.922Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/homepage-assets/thelearningjourney-tier3.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.963Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=18&expiry=1808263046&external_user_id=04ecb6a3-1c55-4580-bde4-34cdd8f4016c",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.963Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://partners.tremorhub.com/sync?UIDM=04ecb6a3-1c55-4580-bde4-34cdd8f4016c",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.963Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQyODQmdGw9NDMyMDA=&piggybackCookie=04ecb6a3-1c55-4580-bde4-34cdd8f4016c",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.963Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=1181926&nid=5578&put=04ecb6a3-1c55-4580-bde4-34cdd8f4016c",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.972Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://mpc2-prod-29-is5qnl632q-uc.a.run.app/events?cee=no",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.975Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/293363071018546?v=2.9.426&r=stable&domain=www.pearson.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C355%2C200%2C202%2C203%2C207%2C206%2C208%2C204%2C205%2C201%2C199%2C198%2C230%2C225%2C228%2C229%2C223%2C390%2C226%2C227%2C251%2C224%2C222%2C278%2C242%2C215%2C216%2C212%2C213%2C214%2C211%2C209%2C220%2C221%2C219%2C327%2C383%2C348%2C349%2C351%2C352%2C350%2C347%2C346%2C231%2C281%2C288%2C289%2C282%2C284%2C287%2C285%2C286%2C283%2C280%2C299%2C293%2C296%2C292%2C300%2C297%2C291%2C295%2C298%2C294%2C290%2C342%2C359%2C276%2C246%2C304%2C308%2C312%2C313%2C314%2C309%2C315%2C307%2C302%2C317%2C318%2C306%2C316%2C320%2C310%2C305%2C311%2C319%2C321%2C303%2C240%2C301",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:26.978Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.105Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/1000.gif?memo=CI6tHBoNCIft39YGEgUI6AcQAEIASgA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.107Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.108Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.111Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/carousel-utility.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.120Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/homepage-assets/media_188a2c123fef877eea568eedff002295802c7b486.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.149Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://segments.company-target.com/log?vendor=liveramp&user_id=Xc1297xttcNUzwpteV6vgtElolmW5YUvmvHMLgp96pYP7DyMU",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.168Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=18&expiry=1808263046&external_user_id=04ecb6a3-1c55-4580-bde4-34cdd8f4016c&C=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.218Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/promo-related/promo-related.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.218Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/promo-related/promo-related.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.327Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.327Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/media_1234ba8735386c3bc1014ad7ced02122356cf03a4.png?width=750&format=png&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.356Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://173bf10b.akstat.io/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.459Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/animations/unlockingHumanPotential_Tier3.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.789Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/cards-bento/cards-bento.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.789Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/cards-bento/cards-bento.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:27.968Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/animations/talentSolutions_Tier3.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.180Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/animations/professionalAssessments_Tier3.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.450Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/animations/clinical_Tier3.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.712Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/full-bleed-asset/full-bleed-asset.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.712Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/full-bleed-asset/full-bleed-asset.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.784Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/comp-5.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.826Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/infographics/infographics.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.826Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/infographics/infographics.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.836Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/content/dam/pearson-sites/shared/media_11a0f454d7e26ea3368daaee754e79199bcc06b8b.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.947Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/vertical-tabs/vertical-tabs.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:28.947Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/vertical-tabs/vertical-tabs.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.040Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/placeholders.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/media_1c40cae8cf87f6d840c1ff5e007f5080704f5f2df.png?width=750&format=webply&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/video/video.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/video/video.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.277Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/runtime-env.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.340Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/placeholders.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.356Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.youtube.com/iframe_api",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.401Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/footer-wrapper/footer-wrapper.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.401Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/footer-wrapper/footer-wrapper.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.401Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/lazy-styles.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.408Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/newrelic-delayed.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.408Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/pdf-metadata.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.415Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.youtube.com/s/player/67288f35/www-widgetapi.vflset/www-widgetapi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.471Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/blocks/footer-group-links/footer-group-links.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.480Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/newrelic-prod.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.480Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/utilities.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.480Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/tabs.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.516Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/styles/pdf-metadata.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.571Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-1.317.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.600Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/fragments/footer.plain.html",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.743Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5766&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb&af=err,spa,xhr,stn,ins&be=0&fe=0&dc=0&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792538243975,%22n%22:0,%22r%22:1,%22re%22:558,%22f%22:558,%22dn%22:558,%22dne%22:558,%22c%22:558,%22s%22:558,%22ce%22:558,%22rq%22:560,%22rp%22:666,%22rpe%22:670,%22di%22:1449,%22ds%22:1483,%22de%22:1486,%22dc%22:1821,%22l%22:1821,%22le%22:1821%7D,%22navigation%22:%7B%22rc%22:2%7D%7D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.746Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5770&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb&af=err,spa,xhr,stn,ins&be=665&fe=1156&dc=821&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792538243975,%22n%22:0,%22r%22:1,%22re%22:558,%22f%22:558,%22dn%22:558,%22dne%22:558,%22c%22:558,%22s%22:558,%22ce%22:558,%22rq%22:560,%22rp%22:666,%22rpe%22:670,%22di%22:1449,%22ds%22:1483,%22de%22:1486,%22dc%22:1821,%22l%22:1821,%22le%22:1821%7D,%22navigation%22:%7B%22rc%22:2%7D%7D&fp=2100&fcp=2100",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.788Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://173bf10b.akstat.io/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.811Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-recorder-1.317.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.858Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-compressor-1.317.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.967Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5991&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.968Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/jserrors/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5992&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.969Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5993&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:29.970Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/068b3faa02?a=1120544415&sa=1&v=1.317.0&t=Unnamed%20Transaction&rst=5994&ck=0&s=f37cd4a40f86d99b&ref=https://www.pearson.com/en-us&ptid=07ce3497d5ca41bb",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:30.404Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/sift-integration.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:17:30.538Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.sift.com/s.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:30.660Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://hexagon-analytics.com/images/363862.gif?bk=25bd44c182&r=727501368&v=121&cs=UTF-8&h=www.pearson.com&l=en-US&S=a10e025d139c3e3c43bcae1f62b74953&uu=09072ebb-86a6-47c3-aa1f-2d2ed9ee44ff&t=Create%20new%20possibilities%20with%20Pearson.%20Start%20learning%20today.&u=https%3A%2F%2Fwww.pearson.com%2Fen-us&ua=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&nm=2&mh=63196a00446a1e285d1992cfe444aa55&np=5&ph=332b72bdb211e34e6e3c24f88d7c393b&sh=720&sw=1280&cd=30&p=MacIntel&to=300&d=60&ce=true&tp=0&ol=true&pr=Gecko&ps=20030107&vd=Google%20Inc.&hc=8&je=false&ss=true&ls=true&in=true&db=false&tl=false&tr=false&ts=false&tb=false&ab=false&cf=c44c712e8e8b94a7caf56d3ca04ef9a7&sri=0&pf=49&inc=false&bn=Chrome&ow=1282&oh=787&wd=true&npe=default&fph=c0f48806e2dc75d6fcbd91de7957bb6f&fsh=1280&fsw=720&fcd=30&fp=MacIntel&ftp=0&fhc=8&fss=true&fls=true&fin=true&fvch=656d3f63b176789a502bd6973d95d3b1&fad=124.0434748024636&fdm=8&fvf=chrome&fcg=srgb&ffc=false&fm=0&fc=0&frm=false&fhdr=false&fmf=70d5293b39f33c702acb3eef83e768dd&fa=127&fte=false&fts=false&fce=true&fpdf=true&fl=cce16c45e622d9ceae4b626c9353ecec&ft=America/Chicago&pfe=7&z=z",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:17:32.404Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/delayed.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  }
+]

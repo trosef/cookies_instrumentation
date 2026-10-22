@@ -1,0 +1,37 @@
+{
+  "website": "https://www.pearson.com",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "1",
+  "startTime": "2026-10-20T23:18:47.176Z",
+  "endTime": "2026-10-20T23:20:00.573Z",
+  "requestCount": 611,
+  "cookieCount": 86,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-20T23:19:00.552Z",
+      "cookieCount": 72,
+      "requestCountSoFar": 276
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-20T23:19:41.366Z",
+      "cookieCount": 73,
+      "requestCountSoFar": 469
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-20T23:20:00.570Z",
+      "cookieCount": 86,
+      "requestCountSoFar": 611
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 301,
+  "errors": []
+}

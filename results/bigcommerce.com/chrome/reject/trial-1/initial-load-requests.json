@@ -1,0 +1,1474 @@
+[
+  {
+    "timestamp": "2026-10-20T23:02:44.500Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.978Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css?family=Big+Shoulders+Display:800|Didact+Gothic:regular|DM+Sans:700|IBM+Plex+Mono:600,600italic,italic,regular|Inter:600,regular|Space+Mono:700,regular&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.978Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/170e4895a9f3f4e9-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.978Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/6fee6290adcce8b5-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.979Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/e7b0a9df14c3ada0-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.979Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/4f11357dfbf1285b-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.979Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/f597cd59c1ffa374-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.979Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/4261f91ea7100e2e-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/7ab938503e4547a1-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/13971731025ec697-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/2b5b02fc7e511755-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/media/7d4881bb7e1bf84d-s.p.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/css/119f73d48717ee2d.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/webpack-a0298c3c2f5f5f62.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.981Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/framework-ecd07b9608c7a162.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/main-7dd890d5b9587660.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/_app-0f407d60a5eb0b22.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/%5B%5B...path%5D%5D-8837c327097224b7.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/c46be9b/_buildManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/c46be9b/_ssgManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/m/179d5d0a14041025/original/BC_Wordmark_Black.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:44.982Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/m/780d051412681442/original/BigCommerce-B-Mark-Black.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.152Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.201Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/6838d733-91c6-4b38-9f17-5a16732ee2e7/Dashboard-Circle-Streamline-Core.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/94d4fe13-00dc-4829-890f-71508d41cae8/Multiple-Stars-Streamline-Core.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/efd3824e-ed81-4e77-b9b7-dae93d7b629a/ai-nav-badge.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/bd4387a1-3e25-4fc0-b831-910f4b174a9b/Drag-And-Drop-Streamline-Core.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/1fe25256-cfb8-4982-9b06-52165412aed1/Connection-Integration-Plugin-Streamline-Core.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/d60cefff-9ce8-4ac4-a479-825a05678e05/Cash-Outgoing-Streamline-Core.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fm%2F214af7c980ec3989%2Foriginal%2Fcard-thumbnail-professional-services-blog-series.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.202Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fm%2F297981bf74354c29%2Foriginal%2FGlobal-B2B-Buyer-Thumbnail.png&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.203Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F2fb5758a-6b6f-48b2-a6ef-81734ca3b6bf%2Fbackground-dark-gradient-lemon-mauve.png&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fdbdc750d-34ce-4b0a-8ef2-4a9451db3d83%2Fbigcommerce-dashboard-ai-search-channels-agentic-b2b-orders.png&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F25994bc0-594a-4d62-920f-6e8210efaee5%2Fwebsite-comp-hero-uplift-desk.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F4dcfd0c8-025e-42f6-b2ee-b6d34e1237c8%2Fwebsite-comp-hero-therealreal.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F5a16ba02-d5d8-4239-ba6a-172740f8b1aa%2Fwebsite-comp-hero-bmw.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fa4b4fb38-4e92-4409-8997-ddfae53ff0f1%2Fwebsite-comp-hero-sellars.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F70f21462-09ff-4274-b295-fe5109c494d3%2Fwebsite-comp-hero-hanna-instrument.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2F9daea243-0013-4622-990b-393fae0092d2%2Fwebsite-comp-hero-toolden.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fa9ab7bfe-63cb-4091-83b2-b9d58351c808%2Fwebsite-comp-hero-music-direct.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.219Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/cdn-cgi/challenge-platform/h/b/scripts/precursor/d2d3316b729e/main.js?",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.285Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.bigcommerce.com/api/monitoring/?o=17124&p=4507297354809344&r=us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/6915.9e854a549846d828.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.355Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.bigcommerce.com/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.5900987199729263:1792533622:bJVCFv0zqT-y4yFNM9nDwVbKst774sbX-m_Cg0ez6BM/a4dba6e12fa0180d",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.361Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5939.1e085ff9253315ff.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.361Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8272.867d0606568a58e6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.361Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/9506.1a8ba32283f2021e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7743.d5f2cd43d7e8bb6f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/1494.736b182388953fa0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.397Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/2407.0726f38c7b7ed328.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.440Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/4122.f2af2c577a5da496.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.551Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/4461.3b14dc540e9546db.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.551Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8144.915b628e98bc575e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.551Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/6524.b43e353833aa2b32.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3688.a52ce01b66983e6c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7349.3f680e7398544e51.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/1825.bff290022f71f2e0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/9560.47fbaf141715e8db.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3214-b76537ebf8de5018.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7638.06cb9ff1adffa907.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8511.dc26d9496c43ea8a.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.552Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/1038.825fdf07afca6400.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.553Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/4106.5277979ea39af57d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.553Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7695.50f8baf207b6b656.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.553Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5548.aa6623e28db3064d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.564Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://storage.googleapis.com/s.mkswft.com/RmlsZTozYTVlNmQwZi00OWUzLTRlY2YtOTVhZC0zZTVmNTAwMDJkNmY=/BigCommerce-logomark-whitebg.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.608Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/1991.2dfb8ef57ac1bab5.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.656Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Faa9b6fc3-d184-4d74-b6e7-519789a9b5ab%2Fwebsite-comp-hero-ascolour.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.656Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fce878bb6-6405-4186-9c91-8eaa67dc499e%2Fwebsite-comp-hero-mizuno.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.656Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fe095ed16-52be-464b-818c-04d4890eca27%2Fwebsite-comp-hero-offroad-alliance.jpg&w=1920&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.656Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/m/179d5d0a14041025/original/BC_Wordmark_Black.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.656Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/m/780d051412681442/original/BigCommerce-B-Mark-Black.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.703Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8132.b4307251cfba7fb3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.847Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8594.f68f450245ef4e12.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.847Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/9656.db73459f5259f714.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/6838d733-91c6-4b38-9f17-5a16732ee2e7/Dashboard-Circle-Streamline-Core.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/94d4fe13-00dc-4829-890f-71508d41cae8/Multiple-Stars-Streamline-Core.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/efd3824e-ed81-4e77-b9b7-dae93d7b629a/ai-nav-badge.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/bd4387a1-3e25-4fc0-b831-910f4b174a9b/Drag-And-Drop-Streamline-Core.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/1fe25256-cfb8-4982-9b06-52165412aed1/Connection-Integration-Plugin-Streamline-Core.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:45.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dam.bigcommerce.com/asset/d60cefff-9ce8-4ac4-a479-825a05678e05/Cash-Outgoing-Streamline-Core.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/pricing.json?path=pricing",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/request-a-demo.json?path=request-a-demo",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.292Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/free-trial.json?path=free-trial",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.292Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/store-design.json?path=product&path=store-design",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.292Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/apps.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.292Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/migration.json?path=migration",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.292Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/solutions/headless-commerce.json?path=solutions&path=headless-commerce",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/solutions/international.json?path=solutions&path=international",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/solutions/big-open-data-solutions.json?path=solutions&path=big-open-data-solutions",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/promos-and-coupons.json?path=product&path=promos-and-coupons",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/staging-pro.json?path=product&path=staging-pro",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/services/launch.json?path=services&path=launch",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/services/success.json?path=services&path=success",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/reports.json?path=resources&path=reports",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/events.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/blog.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/company/awards.json?path=company&path=awards",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/partners/powered-by.json?path=partners&path=powered-by",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.293Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/agentic-commerce.json?path=product&path=agentic-commerce",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.296Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/image/?url=https%3A%2F%2Fdam.bigcommerce.com%2Fasset%2Fbefecfd9-73aa-4827-afea-74fe8afb4414%2Fforma-storefront-makeswift-build-left-control-panel-purple-gradient.jpg&w=1080&q=75",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/feedonomics-surface.json?path=product&path=feedonomics-surface",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/solutions/multi-store.json?path=solutions&path=multi-store",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/inventory-management.json?path=product&path=inventory-management",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/shipping.json?path=product&path=shipping",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.324Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/companion.json?path=product&path=companion",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.324Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/product/secure-web-hosting.json?path=product&path=secure-web-hosting",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.324Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/university/business.json?path=resources&path=university&path=business",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.324Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/university/technical.json?path=resources&path=university&path=technical",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.324Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/blog/category/professional-services.json?slug=professional-services",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/guides.json?path=resources&path=guides",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/webinars.json?path=resources&path=webinars",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.325Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/make-it-big/podcast.json?path=make-it-big&path=podcast",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.326Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/showcase.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.326Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/partners/become-a-partner.json?path=partners&path=become-a-partner",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.326Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/resources/reports/global-b2b-buyer-report-cdl-report.json?slug=global-b2b-buyer-report-cdl-report",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.347Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/privacy.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.347Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/data/c46be9b/en-US/cookies.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.386Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5001.d41529fe43c0af8c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/1150.37fd5f4fd3ee741f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/8546.c476d9721a058586.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.390Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5250.d215d00db35d7bc1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.427Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/v1/projects/qsEGfUAVBUIKacaF61IezQNMY41XZizu/settings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.430Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_vercel/speed-insights/script.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.441Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://munchkin.marketo.net/munchkin.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.476Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3214-b76537ebf8de5018.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.476Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7075-35a334a06b7b5262.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.476Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/events-83ada21166efdb2f.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.485Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3357-e2cadbd3f4d4277c.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.485Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/apps-a12db15a3f46d798.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.500Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5017-351f207c33c65152.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.500Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/resources/reports/%5Bslug%5D-cca32f7375894ec6.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.505Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3238-e40f55df1eb22745.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.505Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/blog/category/%5Bslug%5D-d68520e409655fea.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.525Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/blog-22d5e47596320a94.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.532Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/ajs-destination.b81b09bcaf760a2c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.546Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://munchkin.marketo.net/165/munchkin.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.553Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3357-e2cadbd3f4d4277c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.553Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/apps-a12db15a3f46d798.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.554Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3214-b76537ebf8de5018.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.554Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7075-35a334a06b7b5262.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.554Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/events-83ada21166efdb2f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.554Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/5017-351f207c33c65152.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.554Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/resources/reports/%5Bslug%5D-cca32f7375894ec6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.555Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/3238-e40f55df1eb22745.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.556Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/blog/category/%5Bslug%5D-d68520e409655fea.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.560Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://904-gsb-901.mktoresp.com/webevents/visitWebPage?_mchNc=1792537366559&_mchRu=%2F&_mchId=904-GSB-901&_mchTk=_mch-bigcommerce.com-59d3c82384160e852930946a79a71caf&_mchHo=www.bigcommerce.com&_mchPo=&_mchPc=https%3A&_mchVr=165&_mchEcid=&_mchRe=",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.572Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/blog-22d5e47596320a94.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.580Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/schemaFilter.1e9834afe7b45c52.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.605Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/9214-6162a0cd65883d20.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.605Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/showcase/%5B%5B...slug%5D%5D-f797130cadba9b54.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.620Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/next-integrations/actions/amplitude-plugins/f12a4347e1080fb88155.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.723Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/9214-6162a0cd65883d20.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.723Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/pages/showcase/%5B%5B...slug%5D%5D-f797130cadba9b54.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.743Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/next-integrations/actions/3962/1faa179dfb20d0a3f5a0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/next-integrations/integrations/adwords/2.5.3/adwords.dynamic.js.gz",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.760Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/next-integrations/integrations/google-tag-manager/2.5.3/google-tag-manager.dynamic.js.gz",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.770Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api.cdp.bigcommerce.com/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.774Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api.cdp.bigcommerce.com/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.775Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://evs.cdp.bigcommerce.com/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.792Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-D9S9&l=dataLayer",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.792Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-1014875375&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=DC-12796060&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.924Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.bigcommerce.com%2F&scrsrc=www.googletagmanager.com&rnd=561998902.1792537367&navt=n&npa=1&ep.ads_data_redaction=0&_tu=CA&gtm=45He6aj1h1v532445za200zd532445xeaxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938465~115938469~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792537366922&tfd=2424&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.939Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api.cdp.bigcommerce.com/v1/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:46.989Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ade.googlesyndication.com/ddm/activity/src=12796060;type=allpa0;cat=2023-0;rcb=7;ord=9574541048359;npa=1;u1=%2F;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=denied;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6aj1h1v9190205424z8532445za20gzb532445zd532445xeaxf1;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;~oref=https%3A%2F%2Fwww.bigcommerce.com%2F?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.012Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=5&frm=0&apvc=0&ae=g&tid=AW-1014875375&dl=https%3A%2F%2Fwww.bigcommerce.com%2F&scrsrc=www.googletagmanager.com&rnd=561998902.1792537367&navt=n&npa=1&ep.ads_data_redaction=0&_tu=CA&gtm=45be6aj1h1v896729583z8532445za20gzb532445zd532445xeaxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537367011&tfd=2513&tids=AW-1014875375&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ade.googlesyndication.com/ddm/activity/src=12796060;dc_pre=CICrh4jayZcDFf8YigMd550MvQ;type=allpa0;cat=2023-0;rcb=7;ord=9574541048359;npa=1;u1=%2F;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=denied;frm=0;user_data_mode=a;_tu=KFA;gtm=45fe6aj1h1v9190205424z8532445za20gzb532445zd532445xeaxf1;gcs=G100;gcd=13p3p3p3p5l1;dma_cps=-;dma=0;dc_fmt=8;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;~oref=https%3A%2F%2Fwww.bigcommerce.com%2F?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/1014875375/?random=1792537367042&cv=9&fst=1792537367042&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=466465926&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.bigcommerce.com%2F&tiba=Commerce%20built%20for%20momentum.%20%7C%20BigCommerce&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&async=1&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/7386.44794eab95722bbf.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.045Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/6528.e6b337f352aead86.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.070Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1014875375/?random=1808468147&cv=9&fst=1792537367042&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=466465926&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.bigcommerce.com%2F&tiba=Commerce%20built%20for%20momentum.%20%7C%20BigCommerce&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&async=1&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgyCsL4tueu-Lbn-vi0&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil0lQ1xc2YVQo-SPWq-pP5OdlnouJb2zG84XRHxcp1V4ANsRRIGZRnBoCVnU&pscrd=IhMI3JKKiNrJlwMV1VKdBh3wRS_9OhxodHRwczovL3d3dy5iaWdjb21tZXJjZS5jb20vegwICWIICAAQABgAIAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.099Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sr-client-cfg.amplitude.com/config?api_key=93ad68ffd528efc4498daa6e6ad71f7f&config_keys=sessionReplay&session_id=1792537366766",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:47.124Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/1014875375/?random=1808468147&cv=9&fst=1792537367042&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=466465926&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.bigcommerce.com%2F&tiba=Commerce%20built%20for%20momentum.%20%7C%20BigCommerce&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&async=1&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgyCsL4tueu-Lbn-vi0&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil0lQ1xc2YVQo-SPWq-pP5OdlnouJb2zG84XRHxcp1V4ANsRRIGZRnBoCVnU&pscrd=IhMI3JKKiNrJlwMV1VKdBh3wRS_9OhxodHRwczovL3d3dy5iaWdjb21tZXJjZS5jb20vegwICWIICAAQABgAIAA&is_vtc=1&cid=CAQS1AEAQM4h3O3DbOWRt-gu9oQCeW1C4ziEN_yqx36L5YJ7dXfkJc0MccB-as4XokGxmfQKIYizE8WodzhlBWik_HvuKfU39Bol8nR4sfxuNHfsYeFjcReJKQUHAEATIxpkaV3uIpR6J9WA3DR6YWx7wsTDubTwV8rzqtJcLFI4zH8zjcu02jmV8LfTsKV7nC5Oj5z5ketxnPWCdAZbY7BD-9olyoB_udWki1CWPMNr93VU1bo50r8otygM2p4GKLlTJ0bHOIxNSlmsTS9Eb_P1q5nh8xSIJw&random=3633087951&resp=GooglemKTybQhCsO",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.157Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.adoberesources.net/loader.js?orgId=9E6711256140D8350A495E40%40AdobeOrg&instanceId=bigcommerce1&env=prod&geo=va7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.236Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/bd963489.739116b5eb3a8e37.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.236Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.bigcommerce.com/_next/static/chunks/6534.aec8546e6f8fe7b1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.432Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "blob:https://www.bigcommerce.com/dc04f9fe-47dd-4708-8de1-43ad839df580",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.488Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.adoberesources.net/builds/ad6e11260ed50a791365df9cac09a69873dabd3b/dist/core/src/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.488Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.adoberesources.net/builds/ad6e11260ed50a791365df9cac09a69873dabd3b/dist/core-ui/src/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.550Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://project-hummingbird-hummingbird-websocket-nodejs-de-112831.cloud.adobe.io/activation",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:02:50.768Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://api.cdp.bigcommerce.com/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

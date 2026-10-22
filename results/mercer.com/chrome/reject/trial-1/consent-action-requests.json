@@ -1,0 +1,234 @@
+[
+  {
+    "timestamp": "2026-10-20T23:14:33.164Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=1daf58f4ee2e3efa29ef8761&player_mode=media&account=4710676951001&destination=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&platform_version=7.53.0&player=players.brightcove.com%2F4710676951001%2Fdefault_default&player_name=Brightcove%20Default%20Player%20(title%2Fdesc%2Fsocial)&source=&autoplay=false&ads_enabled=false&delivery_type=ondemand&media_type=video&time=1792538073161&usage=qualityLevels!4.1.0%2Cvariant%253Aen-us%2Cvhs-demuxed%2Cvhs-fmp4%2Cviewable%2Cviewable-0.99&event=video_engagement&video=6403822524112&video_name=Mercer%20to%20Marsh%20ambient&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=&video_duration=60.84&media_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Fclear%2Favc1_mp4a%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNmFkODM5M2NfZmVkNjE2M2M2NzkzMDlhMmUyYTUyMmJhYjI2MzE2ZTkyMmMwMTUxNmEyN2M2YWNkZTFmMTFiODM3Zjg4MjAyYw%253D%253D&qos.bitrates=%7B%22bitrates%22%3A%5B%5B1792538063563%2C1600000%5D%2C%5B1792538063667%2C1600000%5D%2C%5B1792538064228%2C1600000%5D%2C%5B1792538069370%2C1600000%5D%5D%2C%22playlists%22%3A%5B%5D%2C%22rendered%22%3A%5B%5B1792538063688%2C623700%5D%5D%2C%22throughput%22%3A%5B%5B1792538063563%2C1052164500%5D%2C%5B1792538063667%2C1103789667%5D%2C%5B1792538064228%2C970411250%5D%2C%5B1792538069370%2C938915400%5D%5D%7D&qos.events.content.volumechange=1792538062913&qos.events.content.durationchange=%5B1792538063153%2C1792538063221%5D&qos.events.content.loadstart=1792538063153&qos.events.content.play=1792538063155&qos.events.content.waiting=1792538063156&qos.events.content.resize=1792538063424&qos.events.content.loadedmetadata=1792538063424&qos.events.content.loadeddata=1792538063689&qos.events.content.canplay=1792538063689&qos.events.content.playing=1792538063690&qos.events.content.canplaythrough=1792538063690&qos.player.dimensions=%5B%5B1792538063424%2C%22960x540%22%2C%22640x538%22%5D%2C%5B1792538063424%2C%22960x540%22%2C%22640x538%22%5D%5D&qos.player.pixelratio=%5B%5B1792538063424%2C1%5D%2C%5B1792538063424%2C1%5D%5D&qos.player.screendimensions=%5B%5B1792538063424%2C%221280x720%22%5D%2C%5B1792538063424%2C%221280x720%22%5D%5D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=238&seq=7_0&player_height=538&player_width=640&rendition_width=768&rendition_height=540&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Ffmp4%2Fclear%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2Fee7968e7-9bb5-4887-ab59-7bcbc32bbbb7%2F10s%2Frendition.m3u8%3Ffastly_token%3DNmFkODQwMzJfZjRkMjQ0YmU4Y2MzNzQyNjFkZDc3MWUzN2ZhNzMxYmM2N2Y0OThkM2ViNmQ3MTkwMDIyYWVmM2YyYzA2MGM4NA%253D%253D&rendition_indicated_bps=623700&rendition_mime_type=application%2Fx-mpegurl&media_requests=10&media_transfer_duration=1093&media_bytes_transferred=3438679&measured_bps=1600000&media_seconds_loaded=99.6&forward_buffer_seconds=40.340351999999996&qos.derived_range=0..8&range=0..8",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:33.865Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v7/clear/4710676951001/84813c72-41d8-4174-a9e5-97ac0a5fc933/2352c95d-ff16-485c-a891-71a16702ef6d/5x/segment5.m4f?fastly_token=NmFkODNlMjNfZmExOGY4NjM4ZDlmODdjYTA4MDIxYjkwNTQ0Y2UwMDJmZGRkMGFkMDE0NWFkNTc4M2NlYmY2OTE0ZmMwNDViZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvaGxzL3Y3L2NsZWFyLzQ3MTA2NzY5NTEwMDEvODQ4MTNjNzItNDFkOC00MTc0LWE5ZTUtOTdhYzBhNWZjOTMzLzIzNTJjOTVkLWZmMTYtNDg1Yy1hODkxLTcxYTE2NzAyZWY2ZC8%3D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:33.895Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v7/clear/4710676951001/84813c72-41d8-4174-a9e5-97ac0a5fc933/ee7968e7-9bb5-4887-ab59-7bcbc32bbbb7/5x/segment5.m4f?fastly_token=NmFkODQ1ZThfZTYzMDY1NzMwNGIwNzQ0ZGFjYjgyMmM2MDk5YjcwMDc3MzRkMTFkNjRiOTg1NDZmNWJhMmQ3MWM0NDgzZGQ5NF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvaGxzL3Y3L2NsZWFyLzQ3MTA2NzY5NTEwMDEvODQ4MTNjNzItNDFkOC00MTc0LWE5ZTUtOTdhYzBhNWZjOTMzL2VlNzk2OGU3LTliYjUtNDg4Ny1hYjU5LTdiY2JjMzJiYmJiNy8%3D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:35.933Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s53263613747123?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A14%3A35%202%20300&sdid=4CB7AF71490E1652-4E5E2F85498E6033&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=57&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:35.933Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=3&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=20&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=572160",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:38.935Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v7/clear/4710676951001/84813c72-41d8-4174-a9e5-97ac0a5fc933/2352c95d-ff16-485c-a891-71a16702ef6d/5x/segment6.m4f?fastly_token=NmFkODNlMjNfZmExOGY4NjM4ZDlmODdjYTA4MDIxYjkwNTQ0Y2UwMDJmZGRkMGFkMDE0NWFkNTc4M2NlYmY2OTE0ZmMwNDViZF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvaGxzL3Y3L2NsZWFyLzQ3MTA2NzY5NTEwMDEvODQ4MTNjNzItNDFkOC00MTc0LWE5ZTUtOTdhYzBhNWZjOTMzLzIzNTJjOTVkLWZmMTYtNDg1Yy1hODkxLTcxYTE2NzAyZWY2ZC8%3D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:38.976Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://fastly-signed-us-east-1-prod.brightcovecdn.com/media/v1/hls/v7/clear/4710676951001/84813c72-41d8-4174-a9e5-97ac0a5fc933/ee7968e7-9bb5-4887-ab59-7bcbc32bbbb7/5x/segment6.m4f?fastly_token=NmFkODQ1ZThfZTYzMDY1NzMwNGIwNzQ0ZGFjYjgyMmM2MDk5YjcwMDc3MzRkMTFkNjRiOTg1NDZmNWJhMmQ3MWM0NDgzZGQ5NF8vL2Zhc3RseS1zaWduZWQtdXMtZWFzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vbWVkaWEvdjEvaGxzL3Y3L2NsZWFyLzQ3MTA2NzY5NTEwMDEvODQ4MTNjNzItNDFkOC00MTc0LWE5ZTUtOTdhYzBhNWZjOTMzL2VlNzk2OGU3LTliYjUtNDg4Ny1hYjU5LTdiY2JjMzJiYmJiNy8%3D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:42.033Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s56469073238607?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A14%3A42%202%20300&sdid=2D211C985C6152C4-13A59378EE09BA7E&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=59&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:42.033Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=4&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=30&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=131090",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:43.168Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=1daf58f4ee2e3efa29ef8761&player_mode=media&account=4710676951001&destination=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&platform_version=7.53.0&player=players.brightcove.com%2F4710676951001%2Fdefault_default&player_name=Brightcove%20Default%20Player%20(title%2Fdesc%2Fsocial)&source=&autoplay=false&ads_enabled=false&delivery_type=ondemand&media_type=video&time=1792538083165&event=video_engagement&video=6403822524112&video_name=Mercer%20to%20Marsh%20ambient&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=&video_duration=60.92&media_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Fclear%2Favc1_mp4a%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNmFkODM5M2NfZmVkNjE2M2M2NzkzMDlhMmUyYTUyMmJhYjI2MzE2ZTkyMmMwMTUxNmEyN2M2YWNkZTFmMTFiODM3Zjg4MjAyYw%253D%253D&qos.bitrates=%7B%22bitrates%22%3A%5B%5B1792538073945%2C1600000%5D%2C%5B1792538079006%2C1600000%5D%5D%2C%22playlists%22%3A%5B%5D%2C%22rendered%22%3A%5B%5D%2C%22throughput%22%3A%5B%5B1792538073945%2C964580433%5D%2C%5B1792538079006%2C867485324%5D%5D%7D&qos.events.content.durationchange=%5B1792538078963%2C1792538079006%5D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=488&seq=8_0&player_height=538&player_width=640&rendition_width=768&rendition_height=540&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Ffmp4%2Fclear%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2Fee7968e7-9bb5-4887-ab59-7bcbc32bbbb7%2F10s%2Frendition.m3u8%3Ffastly_token%3DNmFkODQwMzJfZjRkMjQ0YmU4Y2MzNzQyNjFkZDc3MWUzN2ZhNzMxYmM2N2Y0OThkM2ViNmQ3MTkwMDIyYWVmM2YyYzA2MGM4NA%253D%253D&rendition_indicated_bps=623700&rendition_mime_type=application%2Fx-mpegurl&media_requests=14&media_transfer_duration=1227&media_bytes_transferred=4364741&measured_bps=1600000&media_seconds_loaded=121.72500000000001&forward_buffer_seconds=41.573872&qos.derived_range=9..18&range=9..18",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:44.360Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:45.356Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/conversions/c/i",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:47.443Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:48.163Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s52731092479445?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A14%3A48%202%20300&sdid=7FD553F0E757A222-186695713381BE75&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&c.&a.&activitymap.&page=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&link=Manage%20Cookies&region=d54bc502-eade-4e2c-88ef-90b9d1a01938&pageIDType=1&.activitymap&.a&.c&pid=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&pidt=1&oid=Manage%20Cookies&oidt=3&ot=SUBMIT&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=109&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:48.163Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=5&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=40&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=344429",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:49.951Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/conversions/c/i",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:52.282Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s51248300283745?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A14%3A52%202%20300&sdid=655AECFEF9540567-1F0ECF40621804A5&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v30=30&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=80&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:53.174Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=1daf58f4ee2e3efa29ef8761&player_mode=media&account=4710676951001&destination=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&platform_version=7.53.0&player=players.brightcove.com%2F4710676951001%2Fdefault_default&player_name=Brightcove%20Default%20Player%20(title%2Fdesc%2Fsocial)&source=&autoplay=false&ads_enabled=false&delivery_type=ondemand&media_type=video&time=1792538093168&event=video_engagement&video=6403822524112&video_name=Mercer%20to%20Marsh%20ambient&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=&video_duration=60.92&media_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Fclear%2Favc1_mp4a%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNmFkODM5M2NfZmVkNjE2M2M2NzkzMDlhMmUyYTUyMmJhYjI2MzE2ZTkyMmMwMTUxNmEyN2M2YWNkZTFmMTFiODM3Zjg4MjAyYw%253D%253D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=738&seq=9_0&player_height=538&player_width=640&rendition_width=768&rendition_height=540&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Ffmp4%2Fclear%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2Fee7968e7-9bb5-4887-ab59-7bcbc32bbbb7%2F10s%2Frendition.m3u8%3Ffastly_token%3DNmFkODQwMzJfZjRkMjQ0YmU4Y2MzNzQyNjFkZDc3MWUzN2ZhNzMxYmM2N2Y0OThkM2ViNmQ3MTkwMDIyYWVmM2YyYzA2MGM4NA%253D%253D&rendition_indicated_bps=623700&rendition_mime_type=application%2Fx-mpegurl&media_requests=14&media_transfer_duration=1227&media_bytes_transferred=4364741&measured_bps=1600000&media_seconds_loaded=121.72500000000001&forward_buffer_seconds=31.74311&qos.derived_range=19..28&range=19..28",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:54.268Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s51335569141861?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A14%3A54%202%20300&sdid=169E5AD5BB5D73E4-27D24CE659DF6912&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=145&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:54.268Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=6&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=50&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=402448",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:55.926Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:14:57.261Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:00.026Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/conversions/c/i",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:00.386Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s56887267053655?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A15%3A0%202%20300&sdid=592CFBDAF086C581-04A689CA6BF6E837&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=305&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:00.386Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=7&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=60&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=515455",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:02.761Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:02.834Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cmp.osano.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:02.841Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://consent.api.osano.com/record",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:03.179Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=1daf58f4ee2e3efa29ef8761&player_mode=media&account=4710676951001&destination=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&platform_version=7.53.0&player=players.brightcove.com%2F4710676951001%2Fdefault_default&player_name=Brightcove%20Default%20Player%20(title%2Fdesc%2Fsocial)&source=&autoplay=false&ads_enabled=false&delivery_type=ondemand&media_type=video&time=1792538103173&event=video_engagement&video=6403822524112&video_name=Mercer%20to%20Marsh%20ambient&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=&video_duration=60.92&media_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Fclear%2Favc1_mp4a%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNmFkODM5M2NfZmVkNjE2M2M2NzkzMDlhMmUyYTUyMmJhYjI2MzE2ZTkyMmMwMTUxNmEyN2M2YWNkZTFmMTFiODM3Zjg4MjAyYw%253D%253D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=988&seq=10_0&player_height=538&player_width=640&rendition_width=768&rendition_height=540&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Ffmp4%2Fclear%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2Fee7968e7-9bb5-4887-ab59-7bcbc32bbbb7%2F10s%2Frendition.m3u8%3Ffastly_token%3DNmFkODQwMzJfZjRkMjQ0YmU4Y2MzNzQyNjFkZDc3MWUzN2ZhNzMxYmM2N2Y0OThkM2ViNmQ3MTkwMDIyYWVmM2YyYzA2MGM4NA%253D%253D&rendition_indicated_bps=623700&rendition_mime_type=application%2Fx-mpegurl&media_requests=14&media_transfer_duration=1227&media_bytes_transferred=4364741&measured_bps=1600000&media_seconds_loaded=121.72500000000001&forward_buffer_seconds=21.654877&qos.derived_range=29..38&range=29..38",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  }
+]

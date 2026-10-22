@@ -1,0 +1,136 @@
+[
+  {
+    "name": "__cf_ob",
+    "value": "%7B%22cb%22%3A%7B%22cC%22%3A0%2C%22xC%22%3A0%2C%22pC%22%3A0%2C%22sC%22%3A0%2C%22cL%22%3A%5B%5D%7D%2C%22f%22%3A%7B%22t%22%3A%5B%7B%22e%22%3A0%2C%22el%22%3A%22a.group%2Flink.block%22%2C%22ts%22%3A52323.299999952316%7D%5D%7D%2C%22k%22%3A%7B%22t%22%3A%5B%5D%7D%2C%22n%22%3A%7B%22t%22%3A%5B%7B%22p%22%3A%22%2Fproduct%2Ffeedonomics-surface%2F%22%2C%22t%22%3A%22b0068997400d8d2efc15416d8ab3c4fc%22%2C%22nT%22%3A%22navigate%22%2C%22r%22%3A%22%22%2C%22ts%22%3A52086.799999952316%2C%22dw%22%3A412%7D%2C%7B%22p%22%3A%22%2Fproduct%2Ffeedonomics-surface%2F%22%2C%22t%22%3A%22310fd91f7772c1935043868b4a0f47d6%22%2C%22nT%22%3A%22navigate%22%2C%22r%22%3A%22%22%2C%22ts%22%3A52498.69999998808%2C%22dw%22%3A3410.099999964237%7D%5D%7D%2C%22ptr%22%3A%7B%22pt%22%3A0%2C%22l%22%3A%5B%5B4%2C0%2C98%2C55654.69999998808%2C0%5D%2C%5B5%2C0%2C1584%2C55654.89999997616%5D%2C%5B4%2C0%2C90%2C55671.299999952316%2C0%5D%2C%5B5%2C0%2C1629%2C55671.39999997616%5D%2C%5B4%2C0%2C86%2C55687.799999952316%2C0%5D%2C%5B5%2C0%2C1672%2C55688%5D%2C%5B4%2C0%2C78%2C55704.39999997616%2C0%5D%2C%5B5%2C0%2C1711%2C55704.59999996424%5D%2C%5B4%2C0%2C72%2C55721.5%2C0%5D%2C%5B5%2C0%2C1747%2C55721.69999998808%5D%2C%5B4%2C0%2C66%2C55738.09999996424%2C0%5D%2C%5B5%2C0%2C1780%2C55738.299999952316%5D%5D%2C%22tr%22%3Afalse%7D%2C%22v%22%3A%7B%22vH%22%3A0%2C%22vV%22%3A55081.09999996424%2C%22vC%22%3A0%2C%22fO%22%3A0%2C%22fI%22%3A0%7D%2C%22_to%22%3A1792537364498.2%2C%22_ti%22%3A%22ecbab731-dbfc-48fc-9925-939b1c79e579%22%2C%22_tsrc%22%3A%22new%22%7D",
+    "domain": "www.bigcommerce.com",
+    "path": "/cdn-cgi/challenge-platform",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://bigcommerce.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "originUrl",
+    "value": "www.bigcommerce.com",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073364.946056,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mkto_opt_out",
+    "value": "true",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1827097408.60935,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=false&datestamp=Tue+Oct+20+2026+18:03:28+GMT-0500+(Central+Daylight+Time)&version=&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001:1%2CC0003:0%2CC0002:0%2CC0004:0&AwaitingReconsent=false&geolocation=United%20States%20of%20America%3BVirginia",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073408,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "analytics_session_id",
+    "value": "1792537366766",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073422,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c_consent",
+    "value": "%7B%22anonymousId%22%3A%227e1b4baa-9c0a-40ed-a709-ebee7ee48056%22%2C%22traits%22%3A%7B%22consent_preferences_strictly_necessary%22%3Atrue%2C%22consent_preferences_functional%22%3Afalse%2C%22consent_preferences_performance%22%3Afalse%2C%22consent_preferences_targeting%22%3Afalse%7D%2C%22geo%22%3A%7B%22country%22%3A%22United%20States%20of%20America%22%2C%22region%22%3A%22Virginia%22%7D%2C%22gpc%22%3Afalse%7D",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073417.313068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cf_clearance",
+    "value": "SMHrRayG7zhirxTcszGQpTK44LtyE8S9d968optpoV4-1792537416-1.2.1.1-S9_3j5tp.I5qiLXEbITr9eiqF2VTvlIokRybKQcwM1CwijojBFbxjkIWyJuqBcuDABSC2OejJN6g5Da4z.XxeMFbOuI3obKxA.aeoVqlJjzCFNVfHgdNYj.0smF67R0izXXss35qDrRsFsoDKzNPO3cMDYHff_mYx3.U4IDkrbhJQF6ALTmptBgLwOlCCrnhpcXyX6iSiqfhBEnRFTYhB6qY_JcnltJhUsEzrODs4WAs.5CVoh.pKeq2lcZnQIcI9hZZX8CMwA0eZyld2I6q.bWltCcdOXXtUX3pVdVsZ61YVlr0BrMQlYF1I69NGW8QoNxQBIoHORmDWjYWvX_ArCjN4QcftONTO8Yze.zopx_wLUghOez1g0MxkCAYQGljiZeUyP5QCCZnzNksZNlo_Fhe7VDIMzv40H0GeVS9kO4",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073416.58209,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://bigcommerce.com",
+    "_crHasCrossSiteAncestor": false
+  },
+  {
+    "name": "__cf_bm",
+    "value": "4Rt4mzkjCCxBq2m6qMLCKVCtfi_mXBcWcnVrlfz_0qI-1792537416.5644321-1.0.1.1-U4cIMTlEcHZHy5.CH1pBmil10BawhZSLxzcB1gV8zdvq7A7Uo4igcIpW13RU0rNoSaC8F1rhnkvXBAQ2D3g1AOZVc7YhBqykpv7Et4M3YwY9kjEa8YZmryUyyqz.Pi9s",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1792539216.582151,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bc_analytics",
+    "value": "{%22source%22:%22(direct)%22%2C%22medium%22:%22(none)%22%2C%22campaign%22:%22(none)%22%2C%22keyword%22:%22(none)%22%2C%22adgroup%22:%22(none)%22%2C%22id%22:%22(none)%22}",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1827097416.874771,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bc_analytics_session",
+    "value": "{%22source%22:%22(direct)%22%2C%22medium%22:%22(none)%22%2C%22campaign%22:%22(none)%22%2C%22keyword%22:%22(none)%22%2C%22adgroup%22:%22(none)%22%2C%22id%22:%22(none)%22}",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "7e1b4baa-9c0a-40ed-a709-ebee7ee48056",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073422,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUm02mXgKRL2dK9b16smok3_fYbCi-tAD9iZJL1xw-p2E7rlT7vR5WIVb4Py",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827097417.573797,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "analytics_session_id.last_access",
+    "value": "1792537422826",
+    "domain": ".bigcommerce.com",
+    "path": "/",
+    "expires": 1824073422,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

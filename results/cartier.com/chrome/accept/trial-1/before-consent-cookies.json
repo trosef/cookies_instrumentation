@@ -1,0 +1,272 @@
+[
+  {
+    "name": "geolocation-popin-displayed",
+    "value": "true",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_dd_s",
+    "value": "aid=f8cc3e0a-1863-4c21-9a35-909f33fb3132&rum=0&expire=1792537709705",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": 1824072809,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "ABTastySession",
+    "value": "mrasn=&lp=https%253A%252F%252Fwww.cartier.com%252Fen-us%252Fhome",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1792538609,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ABTasty",
+    "value": "uid=a3hp0sxxhyedasck&fst=1792536809907&pst=-1&cst=1792536809907&ns=1&pvt=1&pvis=1&th=",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1826754809,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cquid",
+    "value": "||",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cq_dnt",
+    "value": "0",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dw_dnt",
+    "value": "0",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-YNID",
+    "value": "CuYBCAUSmAEB8QZuZixQnwDsTYi9Q_-4YS4vsoGgzDq5H4QsKbiGOt9csTTtWbdGEA-fH3OebRjOM_iVkkmlT8Y5VyheclG3WYAhZaVbXYqRg58exIVetU00TSwCZMGmkxozbkoqIw4wUov0JWJhmlEep4cYHwHBZ4Ic1qxWwqRAXA6kjVSFryWwM_zi3UFamSx_AvO2-jId8MvvxbXqgCgFMkUB3qmdTyzBaRq4qIEDxG_QwrvM3ggv_MoQTkckDYDSXKtl2JFRM1jtff6Wx-MixMSrwdUtlgkNZIdqHj_HE2v98KJ9ygs",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1808088810.654333,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cartier.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "YSC",
+    "value": "5MOgsA6NaVE",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cartier.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "VISITOR_INFO1_LIVE",
+    "value": "NVcPVa-MsCg",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1808088810.654786,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cartier.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "VISITOR_PRIVACY_METADATA",
+    "value": "CgJVUxIEGgAgPA%3D%3D",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1808088810.654821,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cartier.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "__Secure-ROLLOUT_TOKEN",
+    "value": "CMyJ_cHrreS4qQEQhoji_tfJlwMYhoji_tfJlwM%3D",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1808088810.654858,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://cartier.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "TCPID",
+    "value": "1261021753301277563049",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1826492010,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "0483ABC89102A3F28460F8B98BDAEB13~000000000000000000000000000000~YAAQMVUXAvblgUOhAQAAtRSFWwFe6o1agAyz1lWogi8LIxjtSrIf6jpNu3UQlGXdqHpMMVOE4d/LHOpqfIj0Q3TVYkKbAGNXKmysE4sKkFwe9McUR2b54dFc1qwEN70MYOtQWXuY9cC+XKAfufLp8QJ2g43si8L4IET7lzYibFplM6go+3FYJq7g27TfPDYs+8JRciMFKdiluwRhdyWvsvkfvyhMXfeTWlx3q3ZDYb0sODLNWl+3Nb0AyUpPEVWwQXppEujXaSNkhJvScV8CsDwWd18dzExhPHxjL4cKZ9qXlk+hT0KfKqiPxov9Yl1KEd+m/wYuV4Yz8w7ShEkUHxo26viG5X6A3A1qaPqQSMAuFUCaiOsRxQoJiYNgfyJn6xegAFd8EqWOa+NXMgRurVd6/+QfvqHPfjZO62Tts1HC0XLMlypVvrV9w0enkuAQKfY8ZlfkM5C6OqKRkGxiU7XsLXy4XVib3JoAAIeGNzs8spqah2kDBXv4AtquNisYudulavXKcv1EgQpCGA==",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1792544009.711926,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dwac_7df8b4c397fc8337ee325e115c",
+    "value": "oXtYeHbreihyTVLm5JROB-BIimlx_xUdtRQ%3D|dw-only|||USD|false|US%2FCentral|true",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cqcid",
+    "value": "acuwqKn2DnL6aZ4ww8Ewpquh2G",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "oXtYeHbreihyTVLm5JROB-BIimlx_xUdtRQ",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dwanonymous_a4934b446d68e1eafe38fa7e6283003c",
+    "value": "acuwqKn2DnL6aZ4ww8Ewpquh2G",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": 1808088811.133432,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dwsid",
+    "value": "Y39XiKXoNFUYq6PcFjR77CJMhZmi_Ftg3_IeRfiAJ6MOmZhNFWUKtEb6c3la0l9rq9edzkMaG3oRlGjtSJt1cw==",
+    "domain": "www.cartier.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bm_sv",
+    "value": "55F3A0100F7544F65683501C49AABAAC~YAAQMVUXAl7mgUOhAQAALxaFWwHCbHskmmUcrDetkWmsGCCSPoVSFKA7/+lwGc9l03GE7CMKyX2B8E/9iNm6j3A5dxkj14fs2up32Bc0PWvSp+3rQq5M7JxiNps5xNjdlA9eifvyZ7M+0LcGrydBK718B56RddQcOJpjjfVIvtQizfHkArClVTJ/CPgDQ2t6nCa8BEuGeulwP4qUVt/E/vZpK8YRNymDfTcoDymJ44ZXgXDef1CN7qWg/rx/Iab+kVBx16gkzSGi~1",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1792544011.134131,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bm_sz",
+    "value": "AC591A2184C6B8BBD4C902C48EA1871A~YAAQMVUXAl/mgUOhAQAALxaFWwF1DYXh6ppwClrsZJwjYxbiHwbF9FcUroNyy+AGYC4CSBtlKGBiYq+LKj6s2OpttVLN8gjq6jUbovv3K9nhmn7kgprGDo9/p/41apdlle3hhgVO9RMlU9hI9IPyazN8A93ltY21on1QygsTc9vZXa9fqL/NPxtUtQY7HkljGcrCKqWNiHL7kAnEOZYWQjWf4aRGl6nH6DDrjTdqVtRsbwYV7Fz2QEbbcFcs2MyFOdCN05UznMdfzyyd2c+29fpga4xf2ovoBzQBd/va00vsbqdCafXgZyDV8EQPuOFArNJBJnelhbR9HlRbP9zF7PASqckOREi9WXXZt99pzcIAeIYrqPiRIqKZ5VWb+I5VNYwVzLBEWcU+QZ23IBQXKq4NIW9Y9ropXOTDtv8Bwsffj5vFrRPx/rM=~3355205~3225907",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1792551209.134229,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uuid",
+    "value": "acuwqKn2DnL6aZ4ww8Ewpquh2G",
+    "domain": ".cquotient.com",
+    "path": "/",
+    "expires": 1826664811.54244,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cq_uuid",
+    "value": "acuwqKn2DnL6aZ4ww8Ewpquh2G",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1826664811.543406,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cq_seg",
+    "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1795128811.54345,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_abck",
+    "value": "3FA04E2546B0DCA5093ACF8F7859C96C~-1~YAAQMVUXArfmgUOhAQAAaBiFWxDwFxbBZmgeKHp9RWgNCqwIBqBnx8MWAv61nz6/stOfAcXqIhntwUXFOUZ0BdV+RuOULZqfiYnTUGulTQHNkU4Q/Qhl7dhw3tF/7AB8GmaXSckRzBAaUYF88XpjzqrdgZ351Y8MUbKR8n4S4HnWlWRbYUtCeIFfQ5NKgvZHuYCeb0CpFrBjJT4PAyi0q1yB6pAKQ8LnMAlPMJQoooIfUeY/aciacEWyM8dNOQ+JGCiYHAfn5Jf4L73duEXzpIoyWekP/yLVYmpqkD7RIMB2Pu2iKEEd0aVAmJxniBI4arjjFETmeNOM0qWE1HKa7mbrkwBAvlIeuqwdNfPg8om1ay9iJYh+MqVrlZ6m8y6GU2CXHAXZoro+G0YBWVdRXcBj9DmciwBuOtskaf+EmFtN7NcELfcfZ5cTOrdNKiXC8fjcSmLjYC6aLklCyyC7ktdH7DzKDHLKBAp1vGWfNfP505JnanLkZq9kbKatTmpjuu3fILBPMi+HdxmTXM6LoGlPv2JJJGIrNmQ/R0UrwUxGhPDI+tKHAuC94o7b2UV6HO6dRnQBKMTMQ+capb+oOMXKO1FLvl/kUsswa3IWgunRzgqPSQz0tp8bE4vfHfAnRHzvaBZzvhH182gn7JQU7bENv4SEpVBEvLyfNSPmp0tNifMJ39henXUndXVwivMWDSwDHCvOcpa5oSK5IeeC3rZV5/Dy7PPDmY080BFR4ltx3N83rxGBLoQetpQBd1PjhCBwMK1fDcRWf5snt4Q0lJjmtt9yjR00Q0mGEx4Dh2O/Qer4O91xatv2v2WY14L0LPbTS/yTeSvpFR29G6qJWXg024/YLSBC1S+IqsGco9BTj4F8xWOrkY7EMI78w9PJ7geDozcwI18hAG5qB2r23+GXGUCgnePzSBZDljW6ZQDYd/Nr11DUk4fHnWZZXycZ69nDaS9tmpDz0pPJG2tggiffEhO9tecp/HO5kngGbtMr450FOQyDl5yCJFmDEdmxWNxr~-1~-1~-1~AAQAAAAG%2f%2f%2f%2f%2f48RjVWsYIP2GTG1I8GC5ZkP9I%2fv02JqShvI8VBruFRyOfiKz3lKGrMqsQayKvv0u7hMDax6Yr0CtkBY+xhww1tEifOM%2fi0L6bA7~-1",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1824072811.651287,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "RT",
+    "value": "\"z=1&dm=cartier.com&si=6bbf4acd-3c6f-46d2-8547-5de9fb99ce2a&ss=mvha4u0c&sl=1&tt=2yo&bcn=%2F%2F173bf110.akstat.io%2F&ld=3qz\"",
+    "domain": ".cartier.com",
+    "path": "/",
+    "expires": 1793141614,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

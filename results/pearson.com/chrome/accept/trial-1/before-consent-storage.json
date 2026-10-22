@@ -1,0 +1,36 @@
+[
+  {
+    "url": "https://www.pearson.com/en-us",
+    "storage": {
+      "localStorage": {
+        "dceStored_utm_medium": "(none)",
+        "alias_id": "GA1.1.148712410.1792538246",
+        "_uetvid_exp": "Sun, 14 Nov 2027 23:17:26 GMT",
+        "NRBA_SESSION::f9bfee45": "{\"value\":\"f37cd4a40f86d99b\",\"inactiveAt\":1792540049735,\"expiresAt\":1792552649735,\"updatedAt\":1792538249946,\"sessionReplayMode\":2,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":2,\"traceHarvestStarted\":false,\"loggingMode\":2,\"logApiMode\":2,\"serverTimeDiff\":47,\"custom\":{},\"numOfResets\":0,\"consent\":true}",
+        "dceStored_landing_page_url": "https://www.pearson.com/en-us",
+        "dceStored_utm_campaign": "(not set)",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1792538246096},\"expires\":1800314246096},\"gsid_dc\":{\"value\":{\"joinId\":\"nvJvGeaeONw8FNRmfmAi1XDd7w3pQr8iBg\",\"lastJoinedTimeMs\":1792538246097},\"expires\":1792538546097}}",
+        "__rmid": "40200b69-1d5c-4177-9bed-a3ddb68a60d5:1800314246311",
+        "_uetsid": "69efb4c0ccdc11f19b3975562985b443",
+        "__rmco": "{\"channelIds\":{\"attr_sid\":\"123568\",\"aff_mid\":\"53453\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"www.pearson.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"354ad80c-57fa-4bbf-b7f0-ba244316e13c\",\"scnt\":0,\"maxAge\":1792540046309}",
+        "lastExternalReferrerTime": "1792538246707",
+        "_li_duid": "4cf529a2beb2--01m5dsnz4a6geecgz8wzb8vtem",
+        "_uetsid_exp": "Wed, 21 Oct 2026 23:17:26 GMT",
+        "_uetvid": "69f01e90ccdc11f192d00d5ba82ef762",
+        "lastExternalReferrer": "empty",
+        "GULP_SC2": "ZXlJbVlteG5KQ0k2TUM0eU5EQXpNelV6TmpjM05qWTVNelk1T0gwPQ==",
+        "dceStored_utm_source": "(direct)",
+        "li_adsId": "eb6eca04-19b8-4c3b-8bd6-a2ba2afde081",
+        "_li_ss": "CgsKCQj_____BxD4Hg"
+      },
+      "sessionStorage": {
+        "GULP_TH2": "1",
+        "tt_sessionId": "\"6994c563-ccdc-11f1-8e0a-aa8d83fc5a29::mAZDRSMapiBFTffX4_bT\"",
+        "tt_pixel_session_index": "{\"index\":0,\"main\":0}",
+        "__pdst": "a6a2b700ea16417ea4f8f5fa1c0f6ab0",
+        "tt_appInfo": "{\"platform\":\"pc\"}",
+        "PIM-SESSION-ID": "n2p1pRmGSOOQq4ZV"
+      }
+    }
+  }
+]

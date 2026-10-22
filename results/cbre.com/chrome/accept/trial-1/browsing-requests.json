@@ -1,0 +1,850 @@
+[
+  {
+    "timestamp": "2026-10-20T23:06:05.787Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-7LRS43KFTK&gtm=45je6aj1v878350032za20ozb841154692zd841154692xf1&_p=1792537560407&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAACQC&cid=375184024.1792537478&frm=1&ibt=1&ngs=1&pscdl=noapi&rcb=13&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=3&tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792537478&sct=1&seg=1&dl=https%3A%2F%2Fwww.cbre.com%2Finsights%2Fsearch-market-results&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&dt=Insights%20Marketview%20Results%20%7C%20CBRE&_tu=CA&en=page_view&ep.page_template=Dynamic%20List%20Page&ep.content_title=Insights%20Marketview%20Results&ep.canonical_url=https%3A%2F%2Fwww.cbre.com%2Finsights%2Fsearch-market-results&ep.asset_id=search-market-results&ep.asset_source=Sitecore&ep.content_region=&ep.content_country=&ep.related_business_area=&ep.related_industry=&ep.related_capability=&ep.content_audience=&ep.content_journey_stage=&ep.content_theme=&ep.content_topic=&ep.page_level=L2&ep.is_a_report=true&ep.content_hidden_topic=&ep.created_date=2025-12-07&tfd=6392",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:05.903Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-7LRS43KFTK&gtm=45je6aj1v878350032za20ozb841154692zd841154692xf1&_p=1792537559386&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAACQC&cid=375184024.1792537478&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=2&tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792537478&sct=1&seg=1&dl=https%3A%2F%2Fwww.cbre.com%2Finsights&dr=https%3A%2F%2Fwww.cbre.com%2F&dt=Insights%20%26%20Research%20%7C%20CBRE&_tu=CA&en=page_view&ep.page_template=Landing%20Page&ep.content_title=Insights%20%26%20Research&ep.canonical_url=https%3A%2F%2Fwww.cbre.com%2Finsights&ep.asset_id=insights&ep.asset_source=Sitecore&ep.content_region=Global&ep.content_country=&ep.related_business_area=&ep.related_industry=&ep.related_capability=&ep.content_audience=&ep.content_journey_stage=&ep.content_theme=&ep.content_topic=&ep.page_level=L1&ep.is_a_report=true&ep.content_hidden_topic=&ep.created_date=2022-07-23&_et=933&tfd=7064",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:07.653Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:07.667Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.547Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.548Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.639Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/en/insights/insights-research-results",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.640Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.640Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.640Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/-/media/project/cbre/dotcom/global/unsorted/favicon_lg.png?rev=f6bed35a1dfb4fac9ede077cef213618",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.642Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.681Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:12.682Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.082Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/insights/insights-research-results",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.315Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/-/media/feature/experience%20accelerator/bootstrap%204/bootstrap%204/styles/bootstrap-grid.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.316Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/themes/cbre/cbredotcom/styles/pre-optimized-min.css?rev=5234adacf71e4feea5b117540d1404b2&t=20260922T114720Z&hash=16A2B86B2AAD7EAA60D073818C21052F",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.317Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/ef58c0cf-87e0-47c0-92fd-170395e49902/otSDKStub.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.318Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/@segment/analytics-consent-wrapper-onetrust@latest/dist/umd/analytics-onetrust.umd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.319Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/css/CoveoFullSearch.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.319Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/css/CoveoForSitecore.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.320Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoJsSearch.Lazy.min.js?t=921",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.320Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecore.Lazy.min.js?t=921",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.320Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js/cultures/en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.321Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/-/media/themes/cbre/cbredotcom/scripts/Coveo-min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.321Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/-/media/themes/cbre/cbredotcom/utility-styles/utility.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.322Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/themes/cbre/cbredotcom/scripts/pre-optimized-min.js?rev=04ef5b29f4324954bd80e790b3a22c8b&t=20260929T144012Z&hash=E85866AD0B8461B844C9598661278F86",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.330Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/ef58c0cf-87e0-47c0-92fd-170395e49902/ef58c0cf-87e0-47c0-92fd-170395e49902.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.330Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PJQXT7T",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.332Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202609.1.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.341Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/Themes/CBRE/CbreDotCom/fonts/financier-display-web-regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.342Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/Themes/CBRE/CbreDotCom/fonts/calibre-web-regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.342Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/Themes/CBRE/CbreDotCom/fonts/calibre-web-medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.366Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/coveo/rest/token?t=1792537573342",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.366Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-11042988807&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.367Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=7&frm=1&apvc=1&ae=g&auid=916093666.1792537553&dt=Insights%20Research%20Results%20%7C%20CBRE&en=page_view&dl=https%3A%2F%2Fwww.cbre.com%2Finsights&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&scrsrc=www.googletagmanager.com&rnd=1075578281.1792537573&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gtm=45He6aj1v841154692za200zd841154692xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117776796~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792537573364&tfd=13972&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.368Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/consent/ef58c0cf-87e0-47c0-92fd-170395e49902/01a0d8f6-6f61-7c97-99a4-97768187c1c1/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.382Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=G-7LRS43KFTK&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.382Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11042988807/?random=1792537573375&cv=11&fst=1792537573375&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=3&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.382Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11042988807/?random=1792537573375&cv=11&fst=1792537573375&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=3&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.382Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=3&frm=1&apvc=0&auid=916093666.1792537553&dt=Insights%20Research%20Results%20%7C%20CBRE&tid=AW-11042988807&en=page_view&dl=https%3A%2F%2Fwww.cbre.com%2Finsights&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&scrsrc=www.googletagmanager.com&rnd=1075578281.1792537573&navt=n&npa=0&_tu=CA&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121246026~121246034&tft=1792537573381&tfd=13989&tids=AW-11042988807&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.402Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/scripttemplates/202609.1.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.474Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/FacetsMobileMode.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.475Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/Breadcrumb.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.475Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CategoryFacet.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.475Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/HiddenQuery.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.475Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/Pager.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.476Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/ResultList.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.476Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/ResultsPerPage.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.476Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/Sort.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.476Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/Triggers.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.476Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreAnalytics.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/ValidateAnalyticsIncluded.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreBindWithUserContext.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreExpressions.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreSyntax.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreRankingExpression.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreFilterExpression.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.477Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/CoveoForSitecoreLocalExpression.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.508Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.cbre.com/coveo/rest/search/v2?sitecoreItemUri=sitecore%3A%2F%2Fweb%2F%7B9206B26F-C4EE-41A1-BAA7-93EDC509383F%7D%3Flang%3Den%26amp%3Bver%3D3&siteName=GlobalLIVEWeb",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.509Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11042988807/?random=1792537573375&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938469~117776796~118897920~118897930~120213116~120385423~120420416~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=3&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3HxcylpnNjeZ170u4NF2Ayk47or73lTRH1WH2Nu2czAdAXa-rYrHRkx0lUoIF2xUAoEPJ3PnAFivVRGZQW9t9WhVPEj5dTl2vct746-NNJYl-kp5tNdGaMqIZGIdy2TgTHfzTp-WU4RIVP4qbeF9oy-afvIkCieSC_bkyB20MaULLW137W5Ar6HqEH2eubELZUFNQAoJvAPq3HfvXGg9b-OtZ26IpUdZyGzg12NELwiD1PsnFZ4Urzq1AK8RC5hYAYb-8u66TdpT4fWFZL3cwIQ3Ld7XmbwfO0JKaAvU&random=279838470&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.560Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=DC-13294661&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.560Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.mouseflow.com/projects/7816a9ba-5930-480b-bb86-ce3c2986b211.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.561Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/measurement/conversion?random=1792537573394&cv=11&tid=G-7LRS43KFTK&fst=1792537573394&fmt=8&en=scroll&gtm=45je6aj1v878350032za20gzb841154692zd841154692xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&gacid=375184024.1792537478&ibt=1&hn=www.googleadservices.com&ae=a&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&gdid=dYWJhMj&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&rcb=14",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.561Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-7LRS43KFTK&gtm=45je6aj1v878350032z8841154692za20gzb841154692zd841154692xf1&_p=1792537573319&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&_eu=AAAAACQC&cid=375184024.1792537478&frm=1&ibt=1&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792537478&sct=1&seg=1&dl=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&dt=Insights%20Research%20Results%20%7C%20CBRE&_tu=CA&en=report_viewed&ep.page_template=Dynamic%20List%20Page&ep.content_title=Insights%20Research%20Results&ep.canonical_url=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results&ep.asset_id=insights-research-results&ep.asset_source=Sitecore&ep.content_region=&ep.page_content_country=&ep.related_business_area=&ep.related_industry=&ep.related_capability=&ep.content_audience=&ep.content_journey_stage=&ep.content_theme=&ep.content_topic=&ep.page_level=L2&ep.is_a_report=true&ep.content_hidden_topic=&ep.created_date=2025-12-07&ep.related_property_type=&tfd=14163",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.561Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-7LRS43KFTK&gtm=45je6aj1v878350032za20gzb841154692zd841154692xf1&_p=1792537573319&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AEAEACQC&_prs=ok&ae=a&cid=375184024.1792537478&frm=1&ibt=1&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=2&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792537478&sct=1&seg=1&dl=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&dt=Insights%20Research%20Results%20%7C%20CBRE&_tu=CA&en=scroll&_c=1&ep.page_template=Dynamic%20List%20Page&ep.content_title=Insights%20Research%20Results&ep.canonical_url=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results&ep.asset_id=insights-research-results&ep.asset_source=Sitecore&ep.content_region=&ep.content_country=&ep.related_business_area=&ep.related_industry=&ep.related_capability=&ep.content_audience=&ep.content_journey_stage=&ep.content_theme=&ep.content_topic=&ep.page_level=L2&ep.is_a_report=true&ep.content_hidden_topic=&ep.created_date=2025-12-07&epn.percent_scrolled=90&tfd=14163",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.561Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-MGB92T9R",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.571Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=916093666.1792537553;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.572Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://13294661.fls.doubleclick.net/activityi;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=916093666.1792537553;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.582Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.583Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-10991179743&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.584Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.clarity.ms/tag/w0w948mnja",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.584Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.zi-scripts.com/zi-tag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.587Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=5140906&time=1792537573587&li_adsId=9a70fb6f-f824-4573-a8cc-48924f783f82&pageLoadId=1797a423-09ab-4c63-974e-4a72511b496e&url=https%3A%2F%2Fwww.cbre.com%2Finsights",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.594Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://13294661.fls.doubleclick.net/activityi;dc_pre=COPXxurayZcDFQ7f0gQdhxEkKQ;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=916093666.1792537553;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.596Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10991179743/?random=1792537573592&cv=11&fst=1792537573592&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=11&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.596Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/10991179743/?random=1792537573592&cv=11&fst=1792537573592&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=11&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.597Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=11&frm=1&apvc=0&ae=g&auid=916093666.1792537553&dt=Insights%20Research%20Results%20%7C%20CBRE&tid=AW-10991179743&dl=https%3A%2F%2Fwww.cbre.com%2Finsights&dr=https%3A%2F%2Fwww.cbre.com%2Finsights&scrsrc=www.googletagmanager.com&rnd=1075578281.1792537573&navt=n&npa=0&ep.ads_data_redaction=0&did=dYWJhMj&gdid=dYWJhMj&_tu=CA&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537573595&tfd=14203&tids=AW-10991179743&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.597Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.zi-scripts.com/unified/v1/master/getSubscriptions",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.648Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/measurement/1p-conversion/?random=122186824&cv=11&tid=G-7LRS43KFTK&fst=1792537573394&fmt=8&en=scroll&gtm=45je6aj1v878350032za20gzb841154692zd841154692xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938466~115938469~117776796~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&gacid=375184024.1792537478&ibt=1&hn=www.googleadservices.com&ae=a&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&gdid=dYWJhMj&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&rcb=14&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgS5674t&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil51XSLTQxvusw_Bl9226Nz_T6bamKXgiJNIupa-lZZevpJEwHuoGTxoCpGw&pscrd=IhMIgdvG6trJlwMVR1VCBx1-_S1mOhVodHRwczovL3d3dy5jYnJlLmNvbS9CV0NoRUk4S0xjMWdZUXY5UzZ1WUNlOHJTVkFSSXNBQXNIbHRuVXFlQ0FHbFM5cEZvanlyV2hBTzMzYkNZbVFoZE4ycHBfQkpmZ0tmR1pfNFRvak5qYUxxUXoMCAliCAgAEAAYACAA",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.649Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COPXxurayZcDFQ7f0gQdhxEkKQ;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=*;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.651Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/10991179743/?random=1792537573592&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616986~115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cbre.com%2Finsights&ref=https%3A%2F%2Fwww.cbre.com%2Finsights&rcb=11&frm=1&tiba=Insights%20Research%20Results%20%7C%20CBRE&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3EZDtY-pJ63F-vhnFck6ngNbPq1ZPNF2pqoUtKyoC-4aCQXRzR7IJ-9b_EWpIUHXIC7yJBsJZNAcL-R-D-JukCa7d1q48ok6j0rXx5HCQtJ9pQDHSE9PR6Jvpwjg87qoRDyncc38zRN6-8ssb76vBrKVLC6Pq6iILsrbkyLlVQuqc5iKTPjQPUb2ASfGDVgu2aMYl9JGCBDoe7hFY8iQO_CyHDda2H9xQi-zEjNNiYyaRIFAmf1wBI_zakKgPE8RZ5YLVdcQpmMCbJPQ5rFWQBe45B-RaHSY5soKOo59&random=2838431270&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.653Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.702Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://scripts.clarity.ms/0.8.72/clarity.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.813Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.821Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics.js/v1/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/analytics.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.822Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.segment.com/v1/projects/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/settings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.830Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.830Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CKLQxurayZcDFd4fBwMdom0kWw;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=916093666.1792537553;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.832Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.833Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=12703545307146434931;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOhwSZ_EkI2-JWdIjlyeMNdb_YJEuAJSxrT2m;_dc_time=1792537573;cid=CAQS4gEAQM4h3EGJPqwUif1vlSPbE_xQMlePX-fGRHCCzKaQGly3Ck0P0hjYjsFMMnekezu61BqjbzgIJyV9XSgHI8wdH1PB8sEjKlU11qQt1Ypx-Y8erLmxxON1Ugxh1CpUYhF29TPi5Z8_NOb0ZhsmmrQUWsGUkntVmiEtJ8wnrO6xvWS0D2v_JADfn5I5oVm1LwAOk3-P8rs8b4jLKD-W8q9ahFplYTfVC64IoWP3PZuKfsBI2o2qgCN-QG1iRnzGXedOXKXfiTE5QRVhivhT_M1NcnLPRCf5RE0Bn0Mbt8JArL-o;eps=AHas8cCXfXmh2FkTTNgSbzXxyZFjqhTSi-qrF97Mw5AKoMiXE2IgbWpMO4bTiM2N-CDn0ljlI1J13WYTJKxNvgchKHd93NgC_QQPqOn72hfFTjDiqQ;dc_pre=CKLQxurayZcDFd4fBwMdom0kWw;src=13294661;type=aware0;cat=cbrec0;rcb=1;ord=7583647796007;npa=0;auiddc=916093666.1792537553;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=1;_tu=KFA;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13v3v3v3v5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;ref=https%3A%2F%2Fwww.cbre.com%2Finsights;dc_random=1792537573_bu3bxVvGV4D4ofy4otuDdPWwHZaWoEAaCA;~oref=https%3A%2F%2Fwww.cbre.com%2Finsights%2Finsights-research-results?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.834Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ws.zoominfo.com/pixel/66f563861c71ff6b14eb1793/?iszitag=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.846Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.cbre.com/Coveo/Hive/js-v2/ResultLink.min__68495910d636fb25ab11.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.847Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/73268F0A495C43DA926837EA87D00356.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/FB91027B69CE478E9693CBAB207071E6.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/1DB37ED8C06C44F09B344F92EB171A9F.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/294530AF0CC946989067AF93C3F203B1.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/3E8C7EB0C5F14961B39C40BFFC1B1329.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/960D70AA2C204B7B93392139950D7795.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/14461C47C5D8413F97BFA3BA424F1F84.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/2766E43962BE4750AB64FF99C4FE8677.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.859Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://mediaassets.cbre.com/-/media/656A6ABA23B14ADFBA1F1500386DE186.ashx?w=152&h=152&sc=.50",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:13.944Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.cbre.com/coveo/rest/ua/v15/analytics/searches?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:06:14.021Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.cbre.com/df22368d-cfd9-4cc9-851e-56a0e5e3bd0d",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:14.548Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:14.873Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://f.clarity.ms/collect",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

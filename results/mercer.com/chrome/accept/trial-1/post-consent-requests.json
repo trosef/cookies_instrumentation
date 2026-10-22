@@ -1,0 +1,2882 @@
+[
+  {
+    "timestamp": "2026-10-20T23:13:31.818Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s53724813969269?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A13%3A31%202%20300&sdid=6F987C1C7A56A368-0C14F96F86455F6E&mid=08836927312718077857146711950424541641&aamlh=7&fid=591A4B7356FA8405-159F4DAD110E5564&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=08836927312718077857146711950424541641&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=08836927312718077857146711950424541641&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&c.&a.&activitymap.&page=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&link=Save&region=c8d90242-bdfe-479c-a4a0-7c0647157ee7&pageIDType=1&.activitymap&.a&.c&pid=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&pidt=1&oid=Save&oidt=3&ot=SUBMIT&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=170&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.819Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=a4bb1c13-2d00-4404-a4df-a971ccba9c77&bo=10&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=80&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=629118",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.827Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://6033284.global.siteimproveanalytics.io/image.aspx?accountid=6033284&ourl=https%3A%2F%2Fshop.mercer.com%2Fen-us%2Fcatalog&ref=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&autoonclick=1&prev=8e813e7f-19f0-6a30-d959-628173c9a651&rnd=94257",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.833Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.896Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s52027728246890?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A13%3A31%202%20300&sdid=6AF874B2024530C1-15F01277ABE0C288&mid=08836927312718077857146711950424541641&aamlh=7&fid=591A4B7356FA8405-159F4DAD110E5564&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=08836927312718077857146711950424541641&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=08836927312718077857146711950424541641&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_e&pev1=https%3A%2F%2Fshop.mercer.com%2Fen-us%2Fcatalog&c.&a.&activitymap.&page=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&link=Shop&region=navigation-bar-05693c9818&pageIDType=1&.activitymap&.a&.c&pid=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&pidt=1&oid=https%3A%2F%2Fshop.mercer.com%2Fen-us%2Fcatalog&ot=A&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=56&AQE=1",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.903Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.66.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.903Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.83.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.903Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s51625574837267?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A13%3A31%202%20300&sdid=0B34F00E46FAA1AD-58705304346A4ED0&mid=08836927312718077857146711950424541641&aamlh=7&fid=591A4B7356FA8405-159F4DAD110E5564&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&events=event10&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=08836927312718077857146711950424541641&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=08836927312718077857146711950424541641&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=Navigation%20Component%3A%20Primary%20Link%2C%20Nav%20Tab%20Name%3A%20Shop&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=1&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.53.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.54.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.56.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.68.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.910Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.87.js?utv=ut4.49.202609091452",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.914Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/catalog",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.924Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/10794116548/?random=1792538011915&cv=11&fst=1792538011915&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=JtV0CI_InK0aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&oid=0193722425439280&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.924Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/ccm/conversion/10794116548/?random=1792538011915&cv=11&fst=1792538011915&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=JtV0CI_InK0aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&oid=0193722425439280&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.926Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=97089072&Ver=2&mid=a4bb1c13-2d00-4404-a4df-a971ccba9c77&bo=11&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&evt=consent&src=default&cdb=AQwR&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.943Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/conversions/t/97239769",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.943Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97239769&Ver=2&mid=241e5cc1-f9ab-4158-9d22-f0ebc07d334b&bo=1&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&event_id=fb9df30635d7b6000c1c4b56bf4230fd&ea=pageLoad&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=951982",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.943Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97239769&Ver=2&mid=241e5cc1-f9ab-4158-9d22-f0ebc07d334b&bo=2&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&ec=CTA&event_id=fafb377cd8001965ef3d3d935b93f4b8&ea=Click&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=401451",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.944Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s58940937555345?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A13%3A31%202%20300&sdid=127EB76DE401ECFF-0CF35577392B2FD2&mid=08836927312718077857146711950424541641&aamlh=7&fid=591A4B7356FA8405-159F4DAD110E5564&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=08836927312718077857146711950424541641&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=08836927312718077857146711950424541641&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.990Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/708268194/?random=1792538011981&cv=11&fst=1792538011981&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9179972953za208zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=2&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.990Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/708268194/?random=1792538011981&cv=11&fst=1792538011981&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9179972953za208zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=2&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:31.990Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=2&frm=0&apvc=0&auid=1965599412.1792537962&dt=Marsh%20%7C%20People%20and%20Investments&tid=AW-708268194&en=page_view&dl=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&scrsrc=www.googletagmanager.com&rnd=1779594105.1792537962&navt=n&npa=0&us_privacy=1-N-&did=dYmQxMT&gdid=dYmQxMT&gtm=45be6aj1h1v9179972953za208zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792538011989&tfd=52048&tids=AW-708268194&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.001Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/conversions/t/97089072?insights=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.002Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=3522646c-a5fe-452d-b637-6cba6423b2cf&bo=1&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Marsh%20%7C%20People%20and%20Investments&kw=Article,English,Global%20All&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&r=&lt=1736&evt=pageLoad&sv=2&cdb=AQwR&rn=550730",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.002Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=3522646c-a5fe-452d-b637-6cba6423b2cf&bo=2&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&ec=click&el=https%3A%2F%2Fshop.mercer.com%2Fen-us%2Fcatalog&ea=outbound&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=439377",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.007Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/10794116548/?random=1792538012002&cv=11&fst=1792538012002&fmt=7&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=in72CMnmm60aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&oid=3808417949141888&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=2~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.007Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/ccm/conversion/10794116548/?random=1792538012002&cv=11&fst=1792538012002&fmt=3&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=in72CMnmm60aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&oid=3808417949141888&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=2~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.012Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10794116548/?random=46625166&cv=11&fst=1792538011915&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=JtV0CI_InK0aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkAKEQjwotzWBhDcwYWv66-88vYBEisAEnMFlqE4ZZ6pwfzicRDesGlvrz4mjkeF17qAoSgzHNNzxHft_mBdyGqQ8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgiCsL4tyOy-LQ&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil5Mv9uiG8Bh-YHIxVGPNb9Hcvws9g2c8A7MQzs3miv8Jldchak9j9RoC1xQ&pscrd=IhMI9o_Ku9zJlwMVbfbSBB3QFiOBOhdodHRwczovL3d3dy5tZXJjZXIuY29tL0JYQ2hFSThLTGMxZ1lRdjlTNnVZQ2U4clNWQVJJdEFBc0hsdG1qLWNNWkF4cnkxaDJ3WTJqOW1KWTQweWQ5M3NuN0IwRW91ekw2RlllcWE1UHo1dFhFNDZuN3oMCAliCAgAEAAYACAA",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.025Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=97089072&Ver=2&mid=3522646c-a5fe-452d-b637-6cba6423b2cf&bo=3&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&evt=consent&src=default&cdb=AQwR&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/conversions/t/97239769",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97239769&Ver=2&mid=144d5be7-14b2-4a5f-85aa-49de12624fb6&bo=1&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&event_id=35b16a6c4bc641b24b6333f1e93a8191&ea=pageLoad&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=897492",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97239769&Ver=2&mid=144d5be7-14b2-4a5f-85aa-49de12624fb6&bo=2&sid=c0506610ccdb11f1999d35c27512cf85&vid=c0508cc0ccdb11f1b10b579c0231a7d8&vids=0&msclkid=N&ec=Outbound&el=shop.mercer.com&event_id=abd95035c5dc5bc541ec42f9696acd9a&ea=Click&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=21568",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.035Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/708268194/?random=1792538011981&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9179972953za208zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=2&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3PHQ1GYpFCa905EgCgN86PQ2B77RNqnFsh4jiQfcTlNCAAIC9ch4hN-aXr3G7ywTtFhzi-ev9vn01_QlgHe5xbFcGfXh1z12vAxlfbx3a55umLbUWD4K6ZXfS4cFT5H34UJnhcWD8-BWrzee0yvbw0VEuNMDLsT4wsj0-VR4vlJlt_IONgDJrhdNk6mTkWCtLJW02dJDYl_-BQZAFJrRb2xtp-rKhJeJD9VqiFS8lp2C5yBSS9LfbqG6Oz-mQTOJFC955g6w595FRrZFS3wv0-FIUnrI0VG-dkfpAtBj&random=1379858372&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.057Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10794116548/?random=237985299&cv=11&fst=1792538012002&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=in72CMnmm60aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=2~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkAKEQjwotzWBhDcwYWv66-88vYBEisAEnMFlmMg1PBlVwLBSVQBcO5rZO32JowbA5EchGwxqCcqr9V9foaVrQf_8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgTI7L4t&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil6aQfyFM0lgqxSm4HbG-LtiQuahwe7gQ3rVsAN6A93z9aoIdBfS7HhoCOMw&pscrd=IhMIjIXNu9zJlwMVftfSBB1dNDxQOhdodHRwczovL3d3dy5tZXJjZXIuY29tL0JYQ2hFSThLTGMxZ1lRdjlTNnVZQ2U4clNWQVJJdEFBc0hsdGtQaUI1VFk5eWQ0XzVPY05xNnFqbFlDcVNiMUJBYjFic3JBaHdDZmxtQ3VKLWJqZ2tXbHIzeXoMCAliCAgAEAAYACAA",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.172Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/10794116548/?random=46625166&cv=11&fst=1792538011915&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=JtV0CI_InK0aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=1~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkAKEQjwotzWBhDcwYWv66-88vYBEisAEnMFlqE4ZZ6pwfzicRDesGlvrz4mjkeF17qAoSgzHNNzxHft_mBdyGqQ8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgiCsL4tyOy-LQ&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil5Mv9uiG8Bh-YHIxVGPNb9Hcvws9g2c8A7MQzs3miv8Jldchak9j9RoC1xQ&pscrd=IhMI9o_Ku9zJlwMVbfbSBB3QFiOBOhdodHRwczovL3d3dy5tZXJjZXIuY29tL0JYQ2hFSThLTGMxZ1lRdjlTNnVZQ2U4clNWQVJJdEFBc0hsdG1qLWNNWkF4cnkxaDJ3WTJqOW1KWTQweWQ5M3NuN0IwRW91ekw2RlllcWE1UHo1dFhFNDZuN3oMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4gEAQM4h3OmgM4BAkFj5L3LG6F1EJ8Rd6mkLINfyKRrd8adJ68NoQ6HXG8cm2P1_FmQcn0PEoXNsr7LMAtnFFk4Gb2tXruyNK3MUA7Mfmrh_CGAYEipFrILLJ3So49tuBO_SmES251tRdAhBfo8b_XixX9EXUW40RB4dNIICmlflw9K0aHE2U9BoFW_Jdoeu3OCh5x3DKxn5Cf8WlmNfza65IhGpiv7bWMRJObZnp4cVy7tyBrq09Ys0ZUnwYIRxsmAxGB8mDG9EI1ELM50CtkZOO2wLYQuU9JH9idQQxyUyEoCO&random=3378747959",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.223Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/10794116548/?random=237985299&cv=11&fst=1792538012002&fmt=8&bg=ffffff&guid=ON&async=1&en=conversion&gtm=45be6aj1h1v9214141909za200zb9179972953zd9179972953xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&rcb=11&label=in72CMnmm60aEMTLhJso&gtm_ee=1&frm=0&tiba=Marsh%20%7C%20People%20and%20Investments&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&us_privacy=1-N-&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&ec_mode=a&oidsrc=1&ecsid2=1032177807.1792538012&gcl_ctr=2~0~0~0&data=event%3Dconversion&category=acrcp_v1_512&em=tv.1&emd=tvd.1&ept=5&ct_cookie_present=false&eoid=CkAKEQjwotzWBhDcwYWv66-88vYBEisAEnMFlmMg1PBlVwLBSVQBcO5rZO32JowbA5EchGwxqCcqr9V9foaVrQf_8P8HAQ&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgTI7L4t&fsk=ChAI8KLc1gYQ6a2jm6Cjm-QqEiwAk3lil6aQfyFM0lgqxSm4HbG-LtiQuahwe7gQ3rVsAN6A93z9aoIdBfS7HhoCOMw&pscrd=IhMIjIXNu9zJlwMVftfSBB1dNDxQOhdodHRwczovL3d3dy5tZXJjZXIuY29tL0JYQ2hFSThLTGMxZ1lRdjlTNnVZQ2U4clNWQVJJdEFBc0hsdGtQaUI1VFk5eWQ0XzVPY05xNnFqbFlDcVNiMUJBYjFic3JBaHdDZmxtQ3VKLWJqZ2tXbHIzeXoMCAliCAgAEAAYACAA&is_vtc=1&cid=CAQS4gEAQM4h3KmHJigalhb8SwrnsoQvgF5HFuodnKqxB2ZtsHjwoU0rJhbnj6VgwkbEptiSM-XGYkrWSSkF72EJI5u8oQap8dIA475yKSQqOOoNHC3-odtHQFhp2E7oXO6M1Yn0Z75RZ1XWEr6S44iOXknRvuMLR8A5Wp9M-MzfFh1zHsOExy7hvXGbdQHV8mukfoRl9FRaWcLmrQXOHvDum7EdWvNP8awd9YUD8RsZSGIzBIojE22rqfEHzp9QldoOa8FZYI89_5hZBfkcy_0w_EQfTFOtvJ6qn1DKf5ywwKlL1LlO&random=2029397537",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.283Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=6a85407a53b8861d2ba8938d&player_mode=media&account=4710676951001&destination=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&platform_version=7.53.0&player=players.brightcove.com%2F4710676951001%2Fdefault_default&player_name=Brightcove%20Default%20Player%20(title%2Fdesc%2Fsocial)&source=&autoplay=false&ads_enabled=false&delivery_type=ondemand&media_type=video&time=1792538012278&event=video_engagement&video=6403822524112&video_name=Mercer%20to%20Marsh%20ambient&custom_fields=%5Bobject%20Object%5D&video_data=%5Bobject%20Object%5D&video_ads_supported=true&tags=&video_duration=60.92&media_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Fclear%2Favc1_mp4a%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNmFkODM5M2NfZmVkNjE2M2M2NzkzMDlhMmUyYTUyMmJhYjI2MzE2ZTkyMmMwMTUxNmEyN2M2YWNkZTFmMTFiODM3Zjg4MjAyYw%253D%253D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=1236&seq=11_0&player_height=586&player_width=640&rendition_width=768&rendition_height=540&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv2%2Fhls%2Fv7%2Ffmp4%2Fclear%2F4710676951001%2F84813c72-41d8-4174-a9e5-97ac0a5fc933%2Fee7968e7-9bb5-4887-ab59-7bcbc32bbbb7%2F10s%2Frendition.m3u8%3Ffastly_token%3DNmFkODQwMzJfZjRkMjQ0YmU4Y2MzNzQyNjFkZDc3MWUzN2ZhNzMxYmM2N2Y0OThkM2ViNmQ3MTkwMDIyYWVmM2YyYzA2MGM4NA%253D%253D&rendition_indicated_bps=623700&rendition_mime_type=application%2Fx-mpegurl&media_requests=14&media_transfer_duration=775&media_bytes_transferred=4364741&measured_bps=1600000&media_seconds_loaded=121.72500000000001&forward_buffer_seconds=11.783334000000004&qos.derived_range=39..48&range=39..48",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.455Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.609Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/_cache/merged/6391e21e3b14049b0c8b972667ad2743.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.609Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/css/styles-l.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.609Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/_cache/merged/9a94a0cb116d3cbe88c372e00c5e07ea.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.610Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/fonts/Luma-Icons.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.610Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/fonts/mute/Mute-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.sync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://analytics.ahrefs.com/analytics.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/logo/default/marsh-logo-rgb-midnight.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/marsh-search-icon.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/shop-globe-locator.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/shop-mini-cart.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/wysiwyg/herobanners/shop-hero-image_1.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/wysiwyg/needhelp/shop-need-help-image_1.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/wysiwyg/Footer/Logo.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.611Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/tracking.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.614Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/css/print.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.789Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KKG27TMD",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Regular.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Bold.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.810Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.810Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/common.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.810Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/dataPost.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.810Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/bootstrap.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.811Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/core/app.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.811Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageCache/js/form-key-provider.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.811Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Translation/js/mage-translation-dictionary.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.811Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/theme.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.812Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://unpkg.com/@adobe/magento-storefront-events-sdk@%5E1/dist/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.813Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/modal/modal.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.813Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://livesearch-metrics.magento-ds.com/v0/liveSearchMetrics.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.817Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/matchMedia.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.827Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/marsh_rebrand_right_arrow.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.827Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/fonts/marshserif/MarshSerif-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.935Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://acds-events.adobe.io/v7/ds.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.976Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/requirejs/domReady.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.976Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/requirejs/text.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.980Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/template.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.980Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/modal/confirm.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.981Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widget.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.982Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaWebapiUi/js/jquery-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.982Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/apply/main.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bootstrap.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/smart-keyboard-handler.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/mage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/core/renderer/types.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/core/renderer/layout.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/underscore.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/key-codes.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.983Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/core.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.984Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/translate.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.984Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/z-index.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.996Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/moment.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:32.996Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/cookies.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.000Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/customer-data.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.000Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Persistent/js/view/customer-data-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.016Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/wrapper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.019Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/main.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.019Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/registry/registry.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.020Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/js-translation.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.021Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/modal/modal-popup.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.021Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/modal/modal-slide.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.021Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/modal/modal-custom.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/knockoutjs/knockout.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.023Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/knockoutjs/knockout-es5.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.024Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://unpkg.com/@adobe/magento-storefront-events-sdk@1.18.0/dist/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.024Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/console-logger.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.026Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/apply/scripts.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.026Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/data.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.026Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/disable-selection.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.026Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/focusable.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.027Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/form.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.027Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/ie.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.027Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/keycode.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/labels.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/jquery-patch.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/plugin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/safe-active-element.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/safe-blur.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.029Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/scroll-parent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.029Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/tabbable.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/unique-id.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/version.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/template/engine.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/bootstrap.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/extender/observable_array.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/extender/bound-nodes.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.030Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/js-cookie/cookie-wrapper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.032Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/section-config.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.032Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/url.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.032Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/js-storage/storage-wrapper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/storage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Mageplaza_CustomerAttributes/js/storage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.056Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/storage/local.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.061Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/arrays.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.061Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/compare.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.062Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/misc.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.062Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/objects.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.063Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/strings.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.063Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/utils/template.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.065Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/logger.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.065Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/entry-factory.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.065Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/console-output-handler.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/formatter.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/message-pool.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/levels-pool.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/logger-utils.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.068Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/knockoutjs/knockout-repeat.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.068Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/knockoutjs/knockout-fast-foreach.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.070Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/js-cookie/js.cookie.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.072Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/events.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.074Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/js-storage/js.storage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.075Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/template/renderer.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.075Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/resizable.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.075Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/i18n.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.075Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/scope.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.075Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/range.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/mage-init.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/keyboard.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/optgroup.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/after-render.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/autoselect.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/datepicker.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.076Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/outer_click.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/fadeVisible.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/dimVisible.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/collapsible.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/staticChecked.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/simple-checked.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/bind-html.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/tooltip.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.077Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/bindings/color-picker.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.078Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/template/observable_source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.108Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/view/utils/async.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.111Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/jquery.cookie.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.111Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/logger/entry.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.111Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/knockout/template/loader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.112Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/class.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.112Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/spectrum/spectrum.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.113Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/spectrum/tinycolor.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.113Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/tooltip/tooltip.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.222Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/view/utils/dom-observer.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.222Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/view/utils/bindings.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-rum-1.324.0.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.267Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/favicon/default/Favicon_Favicon-Marsh-Sky-Blue-128px.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.270Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/loader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.270Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageCache/js/page-cache.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.270Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_Theme/js/homepage/browserBackButtonClickEvent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.271Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_MiniCart/js/view/minicart_open.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.271Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/dropdown.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.271Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_LiveSearch/js/homepage/liveSearch.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://unpkg.com/@adobe/magento-storefront-event-collector@%5E1/dist/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.272Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Csp/js/nonce-injector.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/widget-initializer.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/cookie-status.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.273Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_GeoTarget/js/homepage/locator.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/checkCustomerLogin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/block-loader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/customer-global-session-loader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/invalidation-processor.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Banner/js/model/banner.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.274Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_LiveSearch/js/quickSearch.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.276Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/adobeStickyHeader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.276Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/commonScript.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.283Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Checkout/js/view/minicart.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/collection.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Tax/js/view/checkout/minicart/subtotal/totals.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Msrp/js/view/checkout/minicart/subtotal/totals.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Checkout/js/view/checkout/minicart/subtotal/totals.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Checkout/js/view/cart-item-renderer.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/view/image.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.284Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/view/authentication-popup.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.285Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Captcha/js/view/checkout/loginCaptcha.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.285Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaFrontendUi/js/reCaptcha.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.286Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_Theme/js/view/messages-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.286Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/storage-manager.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.288Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/view/messages.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.288Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaFrontendUi/js/ui-messages-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.310Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/media/favicon/default/Favicon_Favicon-Marsh-Sky-Blue-128px.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.310Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/dialog.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.311Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/element/element.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.313Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/banner/ajax/load/?requesting_page_url=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&sections=&_=1792538012988",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.314Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/js/view/purify.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.315Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/content-type/row/appearance/default/widget.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.318Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaFrontendUi/js/registry.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.318Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaFrontendUi/js/reCaptchaScriptLoader.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.318Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_ReCaptchaFrontendUi/js/nonInlineReCaptchaRenderer.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.319Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/form/form.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.319Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/action/login.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.319Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/modal/alert.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.320Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/block-loader.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.320Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Checkout/js/sidebar.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.320Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_Checkout/js/sidebar.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.322Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Security/js/escaper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.323Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/product/storage/storage-service.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.323Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/model/authentication-popup.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.323Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/model/authentication-popup-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/validation.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Bundle/js/validation.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_Customer/js/validation/custom-rule.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Adobe_Catalog/js/validation/bundle-options-qty-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/CyberSource_SecureAcceptance/js/lib/mage/validation-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.324Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Mageplaza_AbandonedCart/js/validate/validation-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.325Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/effects/effect-blind.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.328Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/model/messageList.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.422Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://unpkg.com/@adobe/magento-storefront-event-collector@1.18.0/dist/index.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.423Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/widget/video-background.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.423Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/resource/jarallax/jarallax.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.424Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/accordion.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.425Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://shop.mercer.com/en-us/checkcustomer/index/getcustomer/",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/button.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/draggable.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/mouse.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/resizable.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/position.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/core/element/links.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.444Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/lib/spinner.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.445Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/requirejs/resolver.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.446Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/decorate.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.447Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/collapsible.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.447Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/effects/effect-fade.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.451Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/form/adapter.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.453Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/jquery.validate.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.454Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/product/storage/ids-storage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.454Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/product/storage/data-storage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.454Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/product/storage/ids-storage-compare.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.454Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/effect.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.454Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/model/messages.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.457Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/vimeo/vimeo-wrapper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.460Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/mage/tabs.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.467Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/NRJS-aaa60b77c3fa6350956?a=848984482&v=1.324.0&to=MVZSYxMAWUpYBkYIXggccVQVCFhXFgZfEh4PXVRSGU5eV10ASg%3D%3D&rst=1555&s=1f91f4d2ccd84781&ref=https://shop.mercer.com/en-us/&ptid=a7e8408c6f63e699&ap=254&be=652&fe=703&dc=331&at=HRFRFVsaSkQ%3D&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1792538011911,%22n%22:0,%22r%22:3,%22re%22:542,%22f%22:542,%22dn%22:542,%22dne%22:542,%22c%22:542,%22s%22:542,%22ce%22:542,%22rq%22:544,%22rp%22:652,%22rpe%22:667,%22di%22:982,%22ds%22:983,%22de%22:983,%22dc%22:1354,%22l%22:1354,%22le%22:1355%7D,%22navigation%22:%7B%22rc%22:1%7D%7D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.467Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/resource/jarallax/jarallax-wrapper.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.472Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api.js?onload=globalOnRecaptchaOnLoadCallback&render=explicit",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.473Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/controlgroup.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.473Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/checkboxradio.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.474Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/js/invalidation-rules/website-rule.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.506Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.511Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/js/form/adapter/buttons.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.511Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/jquery.metadata.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.511Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Catalog/js/product/query-builder.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.511Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/widgets/tabs.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.513Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsT8wRTp1lOoMFE/recaptcha__en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.513Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/loader-1.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.515Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/jquery-var-for-color.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.515Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/vendor/jquery-color/jquery.color.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.515Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/vimeo/player.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.516Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/jquery/ui-modules/form-reset-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.554Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://shop.mercer.com/en-us/livesearchquery/index/homepageproductlisting/",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.554Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/loader-2.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.556Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PageBuilder/js/resource/jarallax/jarallax-video.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.559Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.562Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/customer/section/load/?sections=cart&force_new_section_timestamp=true&_=1792538012989",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.580Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Checkout/template/minicart/content.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.581Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Customer/template/authentication-popup.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.653Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/templates/collection.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.754Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/NRJS-aaa60b77c3fa6350956?a=848984482&v=1.324.0&to=MVZSYxMAWUpYBkYIXggccVQVCFhXFgZfEh4PXVRSGU5eV10ASg%3D%3D&rst=1842&s=1f91f4d2ccd84781&ref=https://shop.mercer.com/en-us/&ptid=a7e8408c6f63e699",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.756Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Ui/template/messages.html",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.769Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/notice/4z0ule&locale=en",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.844Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/customer/section/load/?sections=messages&force_new_section_timestamp=true&_=1792538012990",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:33.844Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/shop-logged-out.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.025Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/en-us/customer/section/load/?sections=messages&force_new_section_timestamp=true&_=1792538012991",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.036Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/down-arrow-new.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.038Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/images/pagination-left-arrow.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.042Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.042Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.042Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Captcha/js/model/captchaList.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.046Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Captcha/js/view/checkout/defaultCaptcha.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.047Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PaypalCaptcha/js/view/checkout/defaultCaptcha-mixin.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.092Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/analytics?action=0&domain=4z0ule&implied=1&session=69eb75ecc0e54138a6455107e2ce8c3a&new=1&referer=https://shop.mercer.com",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.092Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/consentcategories/getnonemptyindexes?cmId=4z0ule&referer=https://shop.mercer.com/&fullURL=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&category=",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.095Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.188Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://scripts.demandbase.com/adobeanalytics/muGZc1pV.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.188Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://mercer.tt.omtrdc.net/rest/v1/delivery?client=mercer&sessionId=58351fb58bba4869baeff87d4916cd75&version=2.11.0",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.119.js?utv=ut4.48.202305311244",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.133.js?utv=ut4.48.202209190847",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.2.js?utv=ut4.48.202601291025",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.154.js?utv=ut4.48.202209281351",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.167.js?utv=ut4.48.202404021458",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.191.js?utv=ut4.48.202404221343",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/mercer-magento/prod/utag.195.js?utv=ut4.48.202405211408",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://api.demandbase.com/api/v3/ip.json?key=uYu0lsdOpAtNQR881gEhOjImw6ekjE7f0CTW3IwB&callback=Dmdbase_CDC.callback",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/cm/4z0ule/seed-url?referer=https://shop.mercer.com/&locale=en&fullUrl=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/asset/latin.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/analytics?action=1&domain=4z0ule&implied=1&session=69eb75ecc0e54138a6455107e2ce8c3a&new=1&referer=https://shop.mercer.com",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/asset/ic-error.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/asset/ic-close-white.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/asset/ic-close.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.308Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://consent.trustarc.com/v2/asset/trustarc-logo-xs.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.312Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.326Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ssl.luckyorange.com/w.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.329Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=4835612&time=1792538014328&li_adsId=1f544e77-09db-41d3-90d7-0041f84bf33c&pageLoadId=6f169b36-42d4-40a4-a386-6259f3442cd6&url=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.330Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://scripts.demandbase.com/muGZc1pV.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.334Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.company-target.com/s/sync?exc=lr",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.335Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/464526.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.335Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://api.company-target.com/api/v3/ip.json?referrer=https%3A%2F%2Fwww.mercer.com%2F&page=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&page_title=Product%20catalog%20%7C%20Mercer",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.338Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.346Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-10883793749&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.346Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-10883793749",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomprod/1/JS-2.17.0/s5662766630602?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A13%3A34%202%20300&sdid=19C5925032240B71-60677A1C5A0CAC9E&mid=08836927312718077857146711950424541641&aamlh=7&ce=UTF-8&cdp=2&pageName=Global%7CEcommerce%20Page%7CProduct%20catalog&g=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&r=https%3A%2F%2Fwww.mercer.com%2F&cc=USD&server=shop.mercer.com&events=event1%2Cevent177%3D%2Cevent119%3D20&aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&c1=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&v1=Global%7CEcommerce%20Page%7CProduct%20catalog&v2=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&v4=shop.mercer.com&v5=Global&v6=en&c7=shop.mercer.com&c8=Global&v8=D%3Dc13&c9=en&c11=Global%7CEcommerce%20Page%7CProduct%20catalog&c12=https%3A%2F%2Fwww.mercer.com%2F&c13=6%3A13%20PM%7CTuesday&v15=Global&v16=New&c19=20&v19=Anonymous&c23=Anonymous&c34=%2Fen-us%2F&v40=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&c42=Global&v44=Global&c60=Global%7CEcommerce%20Page%7CProduct%20catalog&c62=08836927312718077857146711950424541641&v107=08836927312718077857146711950424541641&v112=Product%20catalog&v149=Global&v150=https%3A%2F%2Fwww.mercer.com%2F&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.462Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tag-logger.demandbase.com/bg9s?x-amz-cf-id=35zSZWB4qwf9zE9NNxghEWJ1wNxev3YJqtfai5D8X1YRT8e6GyVX8A==&api-version=v3",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.540Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10883793749/?random=1792538014526&cv=11&fst=1792538014526&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9102589327za208zb9217537950zd9217537950xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&ref=https%3A%2F%2Fwww.mercer.com%2F&rcb=3&frm=0&tiba=Product%20catalog%20%7C%20Mercer&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.540Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/10883793749/?random=1792538014526&cv=11&fst=1792538014526&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9102589327za208zb9217537950zd9217537950xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&ref=https%3A%2F%2Fwww.mercer.com%2F&rcb=3&frm=0&tiba=Product%20catalog%20%7C%20Mercer&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.540Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=3&frm=0&apvc=1&auid=1965599412.1792537962&dt=Product%20catalog%20%7C%20Mercer&tid=AW-10883793749&en=page_view&dl=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&dr=https%3A%2F%2Fwww.mercer.com%2F&scrsrc=www.googletagmanager.com&rnd=1648877631.1792538015&navt=n&npa=0&did=dYmQxMT&gdid=dYmQxMT&gtm=45be6aj1v9102589327za208zb9217537950zd9217537950xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792538014539&tfd=2628&tids=AW-10883793749&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.541Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1965599412.1792537962&gtm=45be6aj1v9102589327za208zb9217537950zd9217537950xecxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.559Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://settings.luckyorange.net/?u=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&s=324593",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.574Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/10883793749/?random=1792538014526&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9102589327za208zb9217537950zd9217537950xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~118131809~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fshop.mercer.com%2Fen-us%2F&ref=https%3A%2F%2Fwww.mercer.com%2F&rcb=3&frm=0&tiba=Product%20catalog%20%7C%20Mercer&did=dYmQxMT&gdid=dYmQxMT&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1965599412.1792537962&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Eh36Ajzr4i1jiFqblSumfX4qQdbQ-SObPS2FPuyLung2Ogv9lrEXVsE2pmpNE7Ipc_m5qWP5lx8xWuY08IDgsDSAdv4u_XzfkPBvUdhlr68AKhJ348ZZ-sshZvDuuUSIwmUyM7yRDAazuw2KOpG81k0jG9N206owYJGb6xk_aZondP6C2UwkxtP-IOjZfdEKKJ2bBiXB4Hy6s6LEU7j3eZAsDN4fPKWV067R4hBfnBk4PyMnI5ho2H6XdQ21Bt_C8nwg_fUhcaZIY9avbgp979_h19Ev3g2GHfWTIhC&random=3916423050&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.805Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Captcha/js/model/captcha.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.808Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d10lpsik1i8c69.cloudfront.net/js/clickstream.js?v=e5a2acc",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:34.841Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Captcha/js/action/refresh.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.084Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/blink_green.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.084Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/logo-light.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.084Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d10lpsik1i8c69.cloudfront.net/graphics/sound-on-white.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.125Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_PaypalCaptcha/js/model/skipRefreshCaptcha.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.182Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://d10lpsik1i8c69.cloudfront.net/css/reset.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.220Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://shop.mercer.com/348f21b5-1163-4236-a5fd-c2d997585fee",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.221Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://shop.mercer.com/2dcbfcf9-7b1b-4f57-8a73-9f0ae9547054",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:35.427Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://shop.mercer.com/static/version1789717744/frontend/Adobe/Mercer/en_US/Magento_Theme/fonts/Fontawesome/fontawesome-webfont.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:13:38.514Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

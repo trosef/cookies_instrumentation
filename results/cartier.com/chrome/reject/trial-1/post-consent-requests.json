@@ -1,0 +1,1810 @@
+[
+  {
+    "timestamp": "2026-10-20T22:56:35.934Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:35.938Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:35.972Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Gtm-EventViewDataLayer?eventType=eePromoClick&reqPath=Home-Show&eventParams=%7B%22promoName%22%3A%22Endless%20love%22%2C%22promoPosition%22%3A%221%22%2C%22promoCreative%22%3A%22hero%22%7D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:35.973Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Gtm-EventViewDataLayer?eventType=eePromoClick&reqPath=Home-Show&eventParams=%7B%22promoName%22%3A%22Endless%20love%22%2C%22promoPosition%22%3A%221%22%2C%22promoCreative%22%3A%22hero%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.376Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/en-us/love-cartier.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/en-us/love-cartier.html",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.434Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ariane.abtasty.com/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.434Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://ariane.abtasty.com/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.873Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://68794910.akstat.io/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.882Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.882Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/css/global.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.882Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwb2c83ef0/MegaMenu/be-inspired/JWL_BI_Virtual-Try-On.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.882Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwd3def207/MegaMenu/be-inspired/JWL_BI_Engrave-Creation.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/css/global.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/serviceWorkerRegistration.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api.js?render=6LfiiRcqAAAAAO8lFofB4RKDEAHQa_10fmfU11qV",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwb2c83ef0/MegaMenu/be-inspired/JWL_BI_Virtual-Try-On.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.884Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwd3def207/MegaMenu/be-inspired/JWL_BI_Engrave-Creation.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwf1b79675/MegaMenu/be-inspired/JWL_BI_Latest-Creations.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwf3221452/MegaMenu/be-inspired/JWL_BI_Jewelry-Him.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwe2563a33/MegaMenu/be-inspired/WAT_BI_Watches-Her.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw4d0f1055/MegaMenu/be-inspired/WAT_BI_Watches-Him.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw81d95d3a/MegaMenu/be-inspired/WAT_BI_Cartier-Icons.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.885Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwde68321f/MegaMenu/be-inspired/WAT_BI_Mini-Watches.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwd7a386f9/MegaMenu/be-inspired/BAGS_BI_Wishlist_For_Her.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw05151a3a/MegaMenu/be-inspired/BAGS_BI_Precious_Sunglasses.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwdc003692/MegaMenu/be-inspired/CARTIER_EYEWEAR_MEGAMENU_400x400_SET-FOR-YOU_2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw24ff38d9/MegaMenu/be-inspired/HOME.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw476accb4/MegaMenu/be-inspired/FRAG_BI_Fragrances-Her.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw7a864492/MegaMenu/be-inspired/FRAG_BI_Fragrances-Him.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw21b018d7/MegaMenu/be-inspired/FRAG_BI_Little-Luxuries.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw38508567/MegaMenu/be-inspired/AOL_BI_Gifts.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.886Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw70f05145/MegaMenu/be-inspired/AOL_BI_Little-Luxuries.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw8ef6e761/MegaMenu/be-inspired/AOL_BI_Latest-Creations.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwede5abc0/MegaMenu/be-inspired/AOL_BI_Engrave-Creation.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw6a9bb352/clp/2026/love-cartier/04_Double_module_STL/01_DOUBLE_MODULE_LOVE_WORN_DUO__STILL_LIFE_YG_NECKLACE_1080x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwffd24f0f/clp/2026/love-cartier/04_Double_module_STL/01_DOUBLE_MODULE_LOVE_WORN_STILL_LIFE_MULTIPRODUCT_1080x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw5416d9d1/clp/2026/love-cartier/10_slideshow_collection/Rings-Bracelets_slideshow_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw8958cbab/clp/2026/love-cartier/10_slideshow_collection/Necklaces-Earrings_slideshow_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw93d24288/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Unlimited_Paved.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw97248297/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Unlimited.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwe76dcbb8/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Classique.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw7bbaa22b/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Medium.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw4e8203fe/clp/2025/love-cartier/Personalisation-JWL_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw03b81e99/clp/2025/love-cartier/Jewelry-services_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwe5cd290e/clp/2025/love-cartier/Instructions_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwd46064dd/clp/2026/love-cartier/10_slideshow_collection/CLASH-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw72d9d6ba/clp/2026/love-cartier/10_slideshow_collection/JUC-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw6fe46ecf/clp/2026/love-cartier/10_slideshow_collection/TRINITY-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw981aa8f4/images/eA_Icon.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/lib/jquery-3.5.1.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=HTMLElement.prototype.inert",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/main.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.887Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/dwanalytics-22.2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.892Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/dwac-21.7.1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.892Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.cquotient.com/js/v2/gretel.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.900Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwf1b79675/MegaMenu/be-inspired/JWL_BI_Latest-Creations.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.900Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwf3221452/MegaMenu/be-inspired/JWL_BI_Jewelry-Him.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.901Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwe2563a33/MegaMenu/be-inspired/WAT_BI_Watches-Her.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.901Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/serviceWorkerRegistration.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.901Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api.js?render=6LfiiRcqAAAAAO8lFofB4RKDEAHQa_10fmfU11qV",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.901Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw4d0f1055/MegaMenu/be-inspired/WAT_BI_Watches-Him.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw81d95d3a/MegaMenu/be-inspired/WAT_BI_Cartier-Icons.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwde68321f/MegaMenu/be-inspired/WAT_BI_Mini-Watches.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwd7a386f9/MegaMenu/be-inspired/BAGS_BI_Wishlist_For_Her.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw05151a3a/MegaMenu/be-inspired/BAGS_BI_Precious_Sunglasses.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwdc003692/MegaMenu/be-inspired/CARTIER_EYEWEAR_MEGAMENU_400x400_SET-FOR-YOU_2.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw24ff38d9/MegaMenu/be-inspired/HOME.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw476accb4/MegaMenu/be-inspired/FRAG_BI_Fragrances-Her.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.904Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw7a864492/MegaMenu/be-inspired/FRAG_BI_Fragrances-Him.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.905Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw21b018d7/MegaMenu/be-inspired/FRAG_BI_Little-Luxuries.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.907Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw38508567/MegaMenu/be-inspired/AOL_BI_Gifts.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.908Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw70f05145/MegaMenu/be-inspired/AOL_BI_Little-Luxuries.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.909Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.datadoghq-browser-agent.com/eu1/v6/datadog-rum.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.909Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.909Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/css/fontDefinition.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.909Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.go-mpulse.net/boomerang/3U5UD-A3KVH-XWX9Q-ND4WL-URRMD",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.914Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dw8ef6e761/MegaMenu/be-inspired/AOL_BI_Latest-Creations.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.914Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Sites-cartier-storefront-US/default/dwede5abc0/MegaMenu/be-inspired/AOL_BI_Engrave-Creation.jpg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.914Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw6a9bb352/clp/2026/love-cartier/04_Double_module_STL/01_DOUBLE_MODULE_LOVE_WORN_DUO__STILL_LIFE_YG_NECKLACE_1080x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.914Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwffd24f0f/clp/2026/love-cartier/04_Double_module_STL/01_DOUBLE_MODULE_LOVE_WORN_STILL_LIFE_MULTIPRODUCT_1080x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.915Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw5416d9d1/clp/2026/love-cartier/10_slideshow_collection/Rings-Bracelets_slideshow_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw8958cbab/clp/2026/love-cartier/10_slideshow_collection/Necklaces-Earrings_slideshow_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw93d24288/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Unlimited_Paved.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/01_Video_Love_Story_Intro/01_VIDEO_INTRO_MODULE_DESKTOP_LOVE_1920x1080.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw97248297/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Unlimited.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwe76dcbb8/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Classique.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw7bbaa22b/clp/2026/love-cartier/02_Love_%E2%80%94_Comparator/Love_Medium.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw4e8203fe/clp/2025/love-cartier/Personalisation-JWL_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.916Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw03b81e99/clp/2025/love-cartier/Jewelry-services_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.920Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwe5cd290e/clp/2025/love-cartier/Instructions_Triple-Module_1080X1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.920Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dwd46064dd/clp/2026/love-cartier/10_slideshow_collection/CLASH-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.920Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw72d9d6ba/clp/2026/love-cartier/10_slideshow_collection/JUC-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.922Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/dw/image/v2/BGTJ_PRD/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/dw6fe46ecf/clp/2026/love-cartier/10_slideshow_collection/TRINITY-Slideshow_desktop_1920x1080.jpg?sw=40&q=100",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw981aa8f4/images/eA_Icon.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/lib/jquery-3.5.1.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=HTMLElement.prototype.inert",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/main.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/dwanalytics-22.2.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/dwac-21.7.1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.cquotient.com/js/v2/gretel.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.datadoghq-browser-agent.com/eu1/v6/datadog-rum.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.923Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Almarai:wght@400;700&display=swap",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.924Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/css/fontDefinition.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.924Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s.go-mpulse.net/boomerang/3U5UD-A3KVH-XWX9Q-ND4WL-URRMD",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.926Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-577SDR",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.926Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/applepay.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.926Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.926Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.927Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/01_VISUEL%20INTRO%20MODULE%202_DESKTOP_LOVE_W3_1920x1080_new.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.928Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/01_Video_Love_Story_Intro/01_VIDEO_INTRO_MODULE_DESKTOP_LOVE_1920x1080.mp4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.928Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-577SDR",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.928Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/internal/jscript/applepay.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.928Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.929Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.929Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/01_VISUEL%20INTRO%20MODULE%202_DESKTOP_LOVE_W3_1920x1080_new.mp4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw371c9b8c/fonts/BrillianCut/BrilliantCutPro-Medium.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwd741b94b/fonts/BrillianCut/BrilliantCutPro-Regular.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw6882f2af/fonts/FancyCut/FancyCutPro-Regular.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwfa9b3023/fonts/FancyCut/FancyCutPro-Light.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.933Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw184af1c5/fonts/BrillianCut/BrilliantCutPro-Bold.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwe744c656/fonts/FancyCut/FancyCutPro-Medium.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwc4629179/fonts/BrillianCut/BrilliantCutPro-Light.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw371c9b8c/fonts/BrillianCut/BrilliantCutPro-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwd741b94b/fonts/BrillianCut/BrilliantCutPro-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw6882f2af/fonts/FancyCut/FancyCutPro-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwfa9b3023/fonts/FancyCut/FancyCutPro-Light.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dw184af1c5/fonts/BrillianCut/BrilliantCutPro-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.934Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwe744c656/fonts/FancyCut/FancyCutPro-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.935Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwc4629179/fonts/BrillianCut/BrilliantCutPro-Light.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.935Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/06_Video_SF_Unlimited-Diamond_Intro/PUJE12644_SF_Love_Unlimited_Diamond_1920x1080_15s_VI_rf24.00-17-09-2026-14-37.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.936Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/-/Library-Sites-CartierSharedLibrary-BGTJ/default/clp/2026/love-cartier/06_Video_SF_Unlimited-Diamond_Intro/PUJE12644_SF_Love_Unlimited_Diamond_1920x1080_15s_VI_rf24.00-17-09-2026-14-37.mp4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.947Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/fonts/CartierLogos/CartierLogos.woff2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.949Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/fonts/CartierLogos/CartierLogos.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.956Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/commons.785f53cb74869c2a2e22.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.956Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74/main.777e1939c2f6d9b244c1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.956Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/me.6d415e7fc0d46108ea8d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.957Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/commons.785f53cb74869c2a2e22.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.957Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74/main.777e1939c2f6d9b244c1.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.957Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/me.6d415e7fc0d46108ea8d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.965Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/shared/analytics.aba1023fe7a5550024d8.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:36.967Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/cross-domain-iframe.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.024Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.025Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.028Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.032Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/vendors~module-carousels~stacking.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.033Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-carousels.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.033Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-fixit-trigger.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.033Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-modal-trigger.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/vendors~module-address-verification~module-ajax-form~module-input-format~module-product-tile~module-~306e11e6.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-ajax-form.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.036Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile~module-quick-add~module-quick-view~module-saveforlater-trigger~module.personalis~c708f6cb.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.036Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile~module-quick-add~module-quick-view~navTabs~page-cart~page-product.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-quick-add.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-window-scroll.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-wishlist-trigger.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.037Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.040Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module.productQuickshop.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.040Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-video.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.040Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-page-motion.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.040Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-floating-labels.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.041Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-tracking-layer.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.042Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-introNavTab.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.042Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-animation.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/vendors~module-carousels~stacking.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-carousels.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-fixit-trigger.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-modal-trigger.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/vendors~module-address-verification~module-ajax-form~module-input-format~module-product-tile~module-~306e11e6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-ajax-form.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.066Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile~module-quick-add~module-quick-view~module-saveforlater-trigger~module.personalis~c708f6cb.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile~module-quick-add~module-quick-view~navTabs~page-cart~page-product.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-quick-add.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-window-scroll.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-wishlist-trigger.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-product-tile.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module.productQuickshop.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-video.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-page-motion.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-floating-labels.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-tracking-layer.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-introNavTab.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/en_US/v1792472674645/js/module-animation.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Worker-GetAkamaiHash",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.067Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Worker-GetAkamaiHash",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.164Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Wishlist-InList",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.165Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Wishlist-InList",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.189Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Gtm-EventViewDataLayer?eventType=eePromoView&reqPath=Page-Show&qString=cid%3Dlove-cartier&eventParams=%7B%22promotions%22%3A%5B%7B%22promoName%22%3A%22Endless%20Love%22%2C%22promoPosition%22%3A%221%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22An%20eternal%20light%22%2C%22promoPosition%22%3A%222%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3Anull%2C%22promoPosition%22%3Anull%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%224%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%2210%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%2215%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%2221%22%7D%2C%7B%22pid%22%3A%22CRB6094114%22%2C%22pos%22%3A%2227%22%7D%2C%7B%22pid%22%3A%22CRB4250100%22%2C%22pos%22%3A%2232%22%7D%2C%7B%22pid%22%3A%22CRB7225072%22%2C%22pos%22%3A%2238%22%7D%2C%7B%22pid%22%3A%22CRB4249900%22%2C%22pos%22%3A%2244%22%7D%2C%7B%22pid%22%3A%22CRB6094314%22%2C%22pos%22%3A%2250%22%7D%2C%7B%22pid%22%3A%22CRB7225067%22%2C%22pos%22%3A%2255%22%7D%2C%7B%22pid%22%3A%22CRB4247600%22%2C%22pos%22%3A%2261%22%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%2267%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%2273%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%2278%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%2284%22%7D%2C%7B%22pid%22%3A%22CRB6094114%22%2C%22pos%22%3A%2290%22%7D%2C%7B%22pid%22%3A%22CRB4250100%22%2C%22pos%22%3A%2295%22%7D%2C%7B%22pid%22%3A%22CRB7225072%22%2C%22pos%22%3A%22101%22%7D%2C%7B%22pid%22%3A%22CRB4249900%22%2C%22pos%22%3A%22107%22%7D%2C%7B%22pid%22%3A%22CRB6094314%22%2C%22pos%22%3A%22113%22%7D%2C%7B%22pid%22%3A%22CRB7225067%22%2C%22pos%22%3A%22118%22%7D%2C%7B%22pid%22%3A%22CRB4247600%22%2C%22pos%22%3A%22124%22%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%22130%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%22136%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%22141%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%22147%22%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22153%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22154%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22155%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22156%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22157%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Explore%20love%20creations%22%2C%22promoPosition%22%3A%22158%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22The%20LOVE%20Collection%22%2C%22promoPosition%22%3A%22159%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Love%20Unlimited%2C%20diamonds%22%2C%22promoPosition%22%3A%22160%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20UNLIMITED%22%2C%22promoPosition%22%3A%22161%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20Classic%22%2C%22promoPosition%22%3A%22162%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20Medium%22%2C%22promoPosition%22%3A%22163%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Personalization%22%2C%22promoPosition%22%3A%22164%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Our%20jewelry%20services%22%2C%22promoPosition%22%3A%22165%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Instructions%22%2C%22promoPosition%22%3A%22166%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Cartier%20Jewellery%20Collections%22%2C%22promoPosition%22%3A%22167%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22168%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22CLASH%20DE%20CARTIER%22%2C%22promoPosition%22%3A%22169%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22JUSTE%20UN%20CLOU%22%2C%22promoPosition%22%3A%22170%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22171%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22CLASH%20DE%20CARTIER%22%2C%22promoPosition%22%3A%22172%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22JUSTE%20UN%20CLOU%22%2C%22promoPosition%22%3A%22173%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22174%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%5D%2C%22promoCreative%22%3A%22content-grid%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.189Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/Gtm-EventViewDataLayer?eventType=eePromoView&reqPath=Page-Show&qString=cid%3Dlove-cartier&eventParams=%7B%22promotions%22%3A%5B%7B%22promoName%22%3A%22Endless%20Love%22%2C%22promoPosition%22%3A%221%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22An%20eternal%20light%22%2C%22promoPosition%22%3A%222%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3Anull%2C%22promoPosition%22%3Anull%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%224%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%2210%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%2215%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%2221%22%7D%2C%7B%22pid%22%3A%22CRB6094114%22%2C%22pos%22%3A%2227%22%7D%2C%7B%22pid%22%3A%22CRB4250100%22%2C%22pos%22%3A%2232%22%7D%2C%7B%22pid%22%3A%22CRB7225072%22%2C%22pos%22%3A%2238%22%7D%2C%7B%22pid%22%3A%22CRB4249900%22%2C%22pos%22%3A%2244%22%7D%2C%7B%22pid%22%3A%22CRB6094314%22%2C%22pos%22%3A%2250%22%7D%2C%7B%22pid%22%3A%22CRB7225067%22%2C%22pos%22%3A%2255%22%7D%2C%7B%22pid%22%3A%22CRB4247600%22%2C%22pos%22%3A%2261%22%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%2267%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%2273%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%2278%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%2284%22%7D%2C%7B%22pid%22%3A%22CRB6094114%22%2C%22pos%22%3A%2290%22%7D%2C%7B%22pid%22%3A%22CRB4250100%22%2C%22pos%22%3A%2295%22%7D%2C%7B%22pid%22%3A%22CRB7225072%22%2C%22pos%22%3A%22101%22%7D%2C%7B%22pid%22%3A%22CRB4249900%22%2C%22pos%22%3A%22107%22%7D%2C%7B%22pid%22%3A%22CRB6094314%22%2C%22pos%22%3A%22113%22%7D%2C%7B%22pid%22%3A%22CRB7225067%22%2C%22pos%22%3A%22118%22%7D%2C%7B%22pid%22%3A%22CRB4247600%22%2C%22pos%22%3A%22124%22%7D%2C%7B%22pid%22%3A%22CRB4250000%22%2C%22pos%22%3A%22130%22%7D%2C%7B%22pid%22%3A%22CRB6094214%22%2C%22pos%22%3A%22136%22%7D%2C%7B%22pid%22%3A%22CRB7225077%22%2C%22pos%22%3A%22141%22%7D%2C%7B%22pid%22%3A%22CRB4247700%22%2C%22pos%22%3A%22147%22%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22153%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22154%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22155%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22156%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%2C%20LOVE%2C%20LOVE%22%2C%22promoPosition%22%3A%22157%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Explore%20love%20creations%22%2C%22promoPosition%22%3A%22158%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22The%20LOVE%20Collection%22%2C%22promoPosition%22%3A%22159%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Love%20Unlimited%2C%20diamonds%22%2C%22promoPosition%22%3A%22160%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20UNLIMITED%22%2C%22promoPosition%22%3A%22161%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20Classic%22%2C%22promoPosition%22%3A%22162%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22LOVE%20Medium%22%2C%22promoPosition%22%3A%22163%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Personalization%22%2C%22promoPosition%22%3A%22164%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Our%20jewelry%20services%22%2C%22promoPosition%22%3A%22165%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Instructions%22%2C%22promoPosition%22%3A%22166%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22Cartier%20Jewellery%20Collections%22%2C%22promoPosition%22%3A%22167%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22168%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22CLASH%20DE%20CARTIER%22%2C%22promoPosition%22%3A%22169%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22JUSTE%20UN%20CLOU%22%2C%22promoPosition%22%3A%22170%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22171%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22CLASH%20DE%20CARTIER%22%2C%22promoPosition%22%3A%22172%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22JUSTE%20UN%20CLOU%22%2C%22promoPosition%22%3A%22173%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%2C%7B%22promoName%22%3A%22TRINITY%22%2C%22promoPosition%22%3A%22174%22%2C%22trackingObject%22%3Anull%2C%22isCustomEvent%22%3Afalse%7D%5D%2C%22promoCreative%22%3A%22content-grid%22%7D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.193Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.youtube.com/iframe_api",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.194Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.youtube.com/iframe_api",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.298Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TTN4KLZ&gtm=4e6aj1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.309Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-TTN4KLZ&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.329Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.trustcommander.net/privacy/6977/privacy_v2_1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.416Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfiiRcqAAAAAO8lFofB4RKDEAHQa_10fmfU11qV&co=aHR0cHM6Ly93d3cuY2FydGllci5jb206NDQz&hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8&size=invisible&anchor-ms=20000&execute-ms=30000&cb=5wskmtjw7ck",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.417Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.youtube.com/s/player/ec2cfa4d/www-widgetapi.vflset/www-widgetapi.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.470Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://c.go-mpulse.net/api/config.json?key=3U5UD-A3KVH-XWX9Q-ND4WL-URRMD&d=www.cartier.com&t=5975123&v=1.792.0&sl=1&si=feff20c1-f296-4f9e-a706-5b294a578eab-tn8abl&bcn=%2F%2F68794910.akstat.io%2F&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,BFCache,LOGN&acao=&ak.ai=202616",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.470Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://c.go-mpulse.net/api/config.json?key=3U5UD-A3KVH-XWX9Q-ND4WL-URRMD&d=www.cartier.com&t=5975123&v=1.792.0&sl=1&si=feff20c1-f296-4f9e-a706-5b294a578eab-tn8abl&bcn=%2F%2F68794910.akstat.io%2F&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,BFCache,LOGN&acao=&ak.ai=202616",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.482Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/styles__ltr.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.482Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.538Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.544Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=4EDjxXf4knsx6UBM1L2V6cv8",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.552Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.553Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.gstatic.com/recaptcha/releases/4EDjxXf4knsx6UBM1L2V6cv8/recaptcha__en.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.818Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/__Analytics-Start?url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html&res=1280x720&cookie=1&ref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&title=Cartier%20Love%20luxury%20jewellery%20collection%20-%20Cartier&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&dwac=0.3348911868439274&cmpn=&tz=US/Central&pcc=USD&pct=&pcat=&dw_dnt=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.819Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.store/Sites-CartierUS-Site/en_US/__Analytics-Start?url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html&res=1280x720&cookie=1&ref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&title=Cartier%20Love%20luxury%20jewellery%20collection%20-%20Cartier&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&dwac=0.3348911868439274&cmpn=&tz=US/Central&pcc=USD&pct=&pcat=&dw_dnt=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.892Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.906Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.959Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://p.cquotient.com/pebble?tla=bgtj-CartierUS&activityType=viewPage&callback=CQuotient._act_callback0&cookieId=abD0B5WVjLtUAv71FakiqouWou&realm=BGTJ&siteId=CartierUS&instanceType=prd&referrer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&currentLocation=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html&__cq_uuid=abfFpS2QkRPiWUJQKXPLhNhK0o&__cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00&ls=true&_=1792536997958&v=v3.1.3&fbPixelId=__UNKNOWN__&json=%7B%22cookieId%22%3A%22abD0B5WVjLtUAv71FakiqouWou%22%2C%22realm%22%3A%22BGTJ%22%2C%22siteId%22%3A%22CartierUS%22%2C%22instanceType%22%3A%22prd%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html%22%2C%22__cq_uuid%22%3A%22abfFpS2QkRPiWUJQKXPLhNhK0o%22%2C%22__cq_seg%22%3A%220~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00%22%2C%22ls%22%3Atrue%2C%22_%22%3A1792536997958%2C%22v%22%3A%22v3.1.3%22%2C%22fbPixelId%22%3A%22__UNKNOWN__%22%7D",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:37.959Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://p.cquotient.com/pebble?tla=bgtj-CartierUS&activityType=viewPage&callback=CQuotient._act_callback0&cookieId=abD0B5WVjLtUAv71FakiqouWou&realm=BGTJ&siteId=CartierUS&instanceType=prd&referrer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&currentLocation=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html&__cq_uuid=abfFpS2QkRPiWUJQKXPLhNhK0o&__cq_seg=0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00&ls=true&_=1792536997958&v=v3.1.3&fbPixelId=__UNKNOWN__&json=%7B%22cookieId%22%3A%22abD0B5WVjLtUAv71FakiqouWou%22%2C%22realm%22%3A%22BGTJ%22%2C%22siteId%22%3A%22CartierUS%22%2C%22instanceType%22%3A%22prd%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22currentLocation%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Flove-cartier.html%22%2C%22__cq_uuid%22%3A%22abfFpS2QkRPiWUJQKXPLhNhK0o%22%2C%22__cq_seg%22%3A%220~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00%22%2C%22ls%22%3Atrue%2C%22_%22%3A1792536997958%2C%22v%22%3A%22v3.1.3%22%2C%22fbPixelId%22%3A%22__UNKNOWN__%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.033Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74/1509857.1881079.json?fe17e314fd62193daa7eaea64d1f9513",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.034Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://try.abtasty.com/37f198455b5ec3230e2b8696964edf74/1509857.1881079.json?fe17e314fd62193daa7eaea64d1f9513",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.100Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.cartier.com/94cc0872-9f6b-4e0a-8e86-4d424f0584c9",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.104Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.106Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.129Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/cdn-cgi/rum?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.130Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.cartier.com/cdn-cgi/rum?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.152Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.userway.org/widget.js?account=sBVtsSwDfC",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.156Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.userway.org/widget.js?account=sBVtsSwDfC",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.158Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwcf1c60e9/images/favicons/favicon-32x32.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.158Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.cartier.com/on/demandware.static/Sites-CartierUS-Site/-/default/dwcf1c60e9/images/favicons/favicon-32x32.png",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.219Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdn.userway.org/widgetapp/2026-09-29-10-33-22/widget_app_base_1790678002737.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.219Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://api.userway.org/api/v1/tunings/sBVtsSwDfC",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:56:38.220Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://api.userway.org/api/v1/tunings/sBVtsSwDfC",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

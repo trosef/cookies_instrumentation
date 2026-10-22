@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-10-20T23:06:46.220Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics.js/v1/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/analytics.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:46.386Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/v1/projects/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/settings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:46.432Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:46.445Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:46.477Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:06:46.478Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

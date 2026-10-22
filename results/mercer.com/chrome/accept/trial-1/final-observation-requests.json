@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-10-20T23:13:48.518Z",
+    "stage": "final-observation",
+    "method": "POST",
+    "url": "https://commerce.adobedc.net/collector/tp2",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

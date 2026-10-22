@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2026-10-20T23:05:52.967Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11042988807/?random=1792537552953&cv=11&fst=1792537552953&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=0&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.967Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11042988807/?random=1792537552953&cv=11&fst=1792537552953&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=0&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.968Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=916093666.1792537553;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;~oref=https%3A%2F%2Fwww.cbre.com%2F?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.970Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://13294661.fls.doubleclick.net/activityi;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=916093666.1792537553;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2F?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10991179743/?random=1792537552966&cv=11&fst=1792537552966&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=5&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/10991179743/?random=1792537552966&cv=11&fst=1792537552966&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=5&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-7LRS43KFTK&gtm=45je6aj1v878350032za20gzb841154692zd841154692xf1&_p=1792537477249&_gaz=1&gcs=G111&gcu=1&gcd=13r3r3r3r5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAACQC&cid=375184024.1792537478&frm=0&gcut=3&ibt=1&ngs=1&pscdl=noapi&rcb=12&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=2&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792537478&sct=1&seg=1&dl=https%3A%2F%2Fwww.cbre.com%2F&dt=Global%20Commercial%20Real%20Estate%20Services%20%7C%20CBRE&_tu=CA&en=user_engagement&ep.page_template=Home&ep.canonical_url=https%3A%2F%2Fwww.cbre.com%2F&ep.ga_temp_client_id=375184024.1792537478&_et=74949&tfd=76101",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-7LRS43KFTK&cid=375184024.1792537478&gtm=45je6aj1v878350032za20gzb841154692zd841154692xf1&rcb=12&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&apvc=1&ae=g&auid=916093666.1792537553&dt=Global%20Commercial%20Real%20Estate%20Services%20%7C%20CBRE&en=consent_update&dl=https%3A%2F%2Fwww.cbre.com%2F&scrsrc=www.googletagmanager.com&rnd=779182660.1792537478&navt=n&npa=0&ep.ads_data_redaction=0&_tu=CA&gcu=1&gdid=dYWJhMj&gtm=45He6aj1v841154692za200zd841154692xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938465~115938468~117776796~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792537552984&tfd=76110&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.986Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=916093666.1792537553&gtm=45He6aj1v841154692za200zd841154692xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:52.994Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics.js/v1/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/analytics.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.006Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/10991179743/?random=1792537552966&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1v9179327291z89242836633za20gzb9242836633zd9242836633xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616986~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=5&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3AGKj7LJwy8nWjcYr7BNYqQx1Fw76O5Q986E1e3NtC-GBqESz3Paz9zk1yaJcfe_gX3nUydBwtSkT3mVvIf_iapJK_eCyoK2IdOU7-Nt-mCWrjJYqcHRPbwQhPJU_DHBA6rz89zA9A4wt9O5fj42U5gc9WzgkZjyGWuEOJtjjSpc9qkE_2OfTbTOuHYGK23NsIOdOiYBUDjrgURKnGQWp6THXA1QApBQ64r5mQV1A-X5vMhzsg6JJpQyNiIP0fAVRoNuJrh7qcgfw-ej7kkBnQ&random=1082915524&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.062Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11042988807/?random=1792537552953&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1v9136657576za20ozb841154692zd841154692xecxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&rcb=0&frm=0&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=916093666.1792537553&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3N28tD1SfCkezg11EqXRNmLKw1r0zlAj4KBYGDpTyD2lTa9FszfL-vSP9SMjJPfAWodHZKA7TOZXnXyi4FaFm1QUUpbXbsZ8Gl69LT8mnupWu_WBsG0C14YTY6lQfq2k-fU_pu013X6bxSI418AEpIrDjJ_YP4ReEu6t-R2bWoOJTIIv1gsxWaQ-9dTB4T1b2J7X8TtZuPmuOPdrDbqnoNF0H0IvAJRs_qvUxQZ1hgY4962pLohtW7grtwvfm6U6KjMyEyS6mA5Bqx-dN6Shww&random=72069200&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.081Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://13294661.fls.doubleclick.net/activityi;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOsCi1yGDs4jKF12jlAXrGcNJacOo5BprkW20;dc_pre=CKjN4uDayZcDFT8dyQIdgss6Cg;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=916093666.1792537553;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2F?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.122Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOsCi1yGDs4jKF12jlAXrGcNJacOo5BprkW20;dc_pre=CKjN4uDayZcDFT8dyQIdgss6Cg;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=*;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cbre.com%2F",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.131Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/v1/projects/ffQdT5qGrTWLRYGrVRclef4okSIMp9OX/settings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.145Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CNer3-DayZcDFeIGigMd1QI0EA;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=916093666.1792537553;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;~oref=https%3A%2F%2Fwww.cbre.com%2F?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.145Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=16173612648191070964;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOv1CPZdQIvSHU8FbsEsVuolM5fTpl7P20JKG;_dc_time=1792537553;cid=CAQS4gEAQM4h3E1pvOBWLNRNPwy2nomWefJ4MGZQt1oHVygh5wTF1xLc7sOOd1A_6AQqhu7HWTNWLyM2ha3S1_WmDXMYpNNGwMqHh2Qa_x722TparJJaG07i_stJFDl8qlHruhASt5fyVivGrOZzGOP2-KTiNECE3v4wZVVH38Z_LbfcCp97Yp_lY76O3KuMZW5ITRa3Ysgz-CE9ZfjAdAo6EYgoZFFtSSXu_MI5M7ap0hirOoDOP-EMnJbP8q7K4dWCH9EA2wfP8elLFLH9Adf4ApTa01RF6P_jcz4zyCsCT7FDTSYK;eps=AHas8cAOGj2YBxXswaXfJMiJ0LR6HJ6fciiVnKIdooXiJaQVjz_hFw3E7orjtBOg7PX9TNmXPs9bi6XwGTNaRhiTIm61ptUU9yZ7uD2gV0za_PKTTw;dc_pre=CNer3-DayZcDFeIGigMd1QI0EA;src=13294661;type=aware0;cat=cbrec0;rcb=11;ord=6104859766370;npa=0;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=CFA;gcu=1;auiddc=916093666.1792537553;gdid=dYWJhMj;gtm=45fe6aj1v9135953740z8841154692za20gzb841154692zd841154692xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938465~115938469~117776796~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537552_dL-iAXKpngWeT6Sn-LcHP0RosW9_vmreQQ;~oref=https%3A%2F%2Fwww.cbre.com%2F?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.169Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.185Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.segment.com/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.209Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:05:53.209Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://api.segment.io/v1/t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

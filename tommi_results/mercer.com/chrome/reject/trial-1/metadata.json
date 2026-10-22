@@ -1,0 +1,37 @@
+{
+  "website": "https://www.mercer.com",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "1",
+  "startTime": "2026-10-20T23:14:20.346Z",
+  "endTime": "2026-10-20T23:15:24.537Z",
+  "requestCount": 331,
+  "cookieCount": 51,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-20T23:14:32.094Z",
+      "cookieCount": 44,
+      "requestCountSoFar": 158
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-20T23:15:15.315Z",
+      "cookieCount": 45,
+      "requestCountSoFar": 312
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-20T23:15:24.534Z",
+      "cookieCount": 51,
+      "requestCountSoFar": 331
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 227,
+  "errors": []
+}

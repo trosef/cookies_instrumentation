@@ -1,0 +1,37 @@
+{
+  "website": "https://www.bigcommerce.com",
+  "browser": "Chrome",
+  "condition": "accept",
+  "trial": "1",
+  "startTime": "2026-10-20T23:00:08.504Z",
+  "endTime": "2026-10-20T23:02:29.280Z",
+  "requestCount": 370,
+  "cookieCount": 27,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-20T23:00:20.268Z",
+      "cookieCount": 14,
+      "requestCountSoFar": 201
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-20T23:01:30.663Z",
+      "cookieCount": 27,
+      "requestCountSoFar": 237
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-20T23:02:29.277Z",
+      "cookieCount": 27,
+      "requestCountSoFar": 370
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 174,
+  "errors": []
+}

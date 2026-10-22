@@ -1,0 +1,37 @@
+{
+  "website": "https://www.cartier.com",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "1",
+  "startTime": "2026-10-20T22:54:55.521Z",
+  "endTime": "2026-10-20T22:56:54.670Z",
+  "requestCount": 839,
+  "cookieCount": 29,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-20T22:55:07.333Z",
+      "cookieCount": 26,
+      "requestCountSoFar": 251
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-20T22:56:38.225Z",
+      "cookieCount": 28,
+      "requestCountSoFar": 531
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-20T22:56:54.666Z",
+      "cookieCount": 29,
+      "requestCountSoFar": 839
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 342,
+  "errors": []
+}

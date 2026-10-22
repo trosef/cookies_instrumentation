@@ -1,0 +1,342 @@
+[
+  {
+    "name": "coveo_visitorId",
+    "value": "a4a23aa1-b209-47d7-b4f0-fe5b16c5f454",
+    "domain": ".cbre.com",
+    "path": "/insights",
+    "expires": 1824094486,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "s9rdCOmpk5iDcY.hnEoX45HXdVixC13ImGNxrXIzzTA-1792537476.9714224-1.0.1.1-jSvZDP1jNbbrfkwuvUVhfFGt6TSV.zdeR.cGWbxUtjZ2e8j42zaO2K2zwV66vfSHGuVrZTYdGN0mCB60WlCkzN6jyeI776q..GVdLkOvZciApblY.jLAQQi36BiSXVyz",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1792539277.015455,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TiPMix",
+    "value": "29.865472338431985",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541077.609993,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x-ms-routing-name",
+    "value": "self",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1792541077.610024,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "globalliveweb#lang",
+    "value": "en",
+    "domain": "www.cbre.com",
+    "path": "/",
+    "expires": 1827097561.254824,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ARRAffinitySameSite",
+    "value": "24f5aa362a4533b802631f737e31b3b0c579139f0b717eb555846d34c69abad3",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2026-10-20T23:05:52.930Z",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1824073552,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.916093666.1792537553",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1800313553,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.375184024.1792537478",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1827097560.483254,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUnuhTlsRiB6nQQciYpGk6jT_lhntrJFfbmxfnJap0bqG45TlMWDO73N9C0nzso",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827097553.03855,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "79ea8afb-f783-42e1-9c81-9ecea0f02a7a",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1824073564,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Tue+Oct+20+2026+18%3A06%3A00+GMT-0500+(Central+Daylight+Time)&version=202609.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1&geolocation=US%3BGA&AwaitingReconsent=false",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1824073560,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_7LRS43KFTK",
+    "value": "GS2.1.s1792537478$o1$g1$t1792537560$j52$l0$h0",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1827097560.896935,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "CLID",
+    "value": "2d918e277f00465dbf41d92fe9bc6287.20261020.20271020",
+    "domain": "www.clarity.ms",
+    "path": "/",
+    "expires": 1824073560.918042,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=VGST03:s=V:r=V:a=V:p=V:g=3800:u=1:x=1:i=1792537561:t=1792623961:v=2:sig=AQEa4xhf59L-C4rKkSAG2_U9f_pzr4Ug\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792623961.106296,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "li_sugr",
+    "value": "e3e98ecc-69c7-4ef8-8397-4dd8e071bffb",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1800313561.492631,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&bd6d353a-17be-41ae-8343-65fb8e11dda3\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1824073561.492649,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "kbHflRVb6I20nyEgZOf538koqzp7S80MwfSECg8N2x0-1792537561.0677526-1.0.1.1-5j3feA26cV93cwh5Xm8O3p_E.F5CwPQlawe6OnuooTslhM6b2G9UDOJe4lDSTLQSiDlR5BO0ekiHeE6BAdOKjUon3hRfquIzCohVOMkZRO70N938kTWtwnb_mq8axNYY",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792539361.106314,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UserMatchHistory",
+    "value": "AQJa4mWFfITyUAAAAaFbkIg_9nMoytLlSKQ9gsaJzVOkjP9TO6ypKGhGC-rCUWRVcuGOfo1FKcezqg",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795129561.245482,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AnalyticsSyncHistory",
+    "value": "AQJTjdi50xD6gQAAAaFbkIg_aYlq5Sa780bVHX4-c0ypjlsDL9QQ7lEb-ZUn6GIMZsv9LVqBH-02LZEOEnOrTQ",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795129561.245514,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_clck",
+    "value": "ztqbf7%5E2%5Egag%5E0%5E2484",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1824073561,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&202610202306019660369a-1b47-481a-8111-3c05304a186cAQGZ6ODIa1Ym7qCTFpcWoXbpd5GZrYw4\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1824073561.330614,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "expires": 1793142362.440412,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "3DB02755F03C6ADE175430ADF1A86B4E",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826233562.440387,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SRM_B",
+    "value": "3DB02755F03C6ADE175430ADF1A86B4E",
+    "domain": ".c.bing.com",
+    "path": "/",
+    "expires": 1826233562.440443,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_zitok",
+    "value": "9976035882b717593d6a1792537561",
+    "domain": ".www.cbre.com",
+    "path": "/",
+    "expires": 1824073561,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "SM",
+    "value": "C",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "expires": 1793142361.502524,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ANONCHK",
+    "value": "0",
+    "domain": ".c.clarity.ms",
+    "path": "/",
+    "expires": 1792538161.502541,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "34EE5F4E3ADB6F5B380448B63B4F6E12",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "expires": 1826233561.502496,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_clsk",
+    "value": "zz6gkz%5E1792537561552%5E1%5E1%5Ef.clarity.ms%2Fcollect",
+    "domain": ".cbre.com",
+    "path": "/",
+    "expires": 1792623961,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "HtmJGSkWggG_YLKVOwNkkpoLus54.JsvG0UhH4V3UTQ-1792537561.7733257-1.0.1.1-JErUg.dwIhg0ABQjvVm.hsJ31Zgshn3cYlmoIxkzF0wwYBCF0sGgKj4etBsNLxmFvkeAMK7OdV6Ml754m52PMI2vwLXfT9zfOWZLgdKLmNKHurWWIU7ufeXrta0ENFJ5",
+    "domain": ".zoominfo.com",
+    "path": "/",
+    "expires": 1792539361.963427,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "Jl4FoAgGrumK9ze4Bz_evQYMBbhxoEYiDIurzohVea4-1792537561.7733257-1.0.1.1-ZMKaAaQICaPXpgE0igu8iCi7oGTz_5I4LP22JUkmck0",
+    "domain": ".zoominfo.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

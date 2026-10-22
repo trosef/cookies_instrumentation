@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.mercer.com/en-us/",
+    "storage": {
+      "localStorage": {
+        "osano_consentmanager_uuid": "32ffbce6-a1bc-4d3d-820e-55ae9b51bf11",
+        "_uetvid_exp": "Sun, 14 Nov 2027 23:14:30 GMT",
+        "_uetsid_exp": "Wed, 21 Oct 2026 23:14:30 GMT",
+        "osano_consentmanager_tattles": "{\"109\":{\"queue\":{},\"ignore\":{\"localStorage\":[\"_gcl_ls\",\"li_adsId\",\"_uetsid\",\"_uetsid_exp\",\"_uetvid\",\"_uetvid_exp\"]}}}",
+        "_uetvid": "fc707c80ccdb11f19bd6d9197fea900a|1y6z7a6|1792538063261|1|1|bat.bing.com/p/conversions/c/i",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1792538062776},\"expires\":1800314062776},\"gsid_dc\":{\"value\":{\"joinId\":\"c6Waeb5h0jTOrCLLFf04h1F2rj2UvE5KIA\",\"lastJoinedTimeMs\":1792538062780},\"expires\":1792538362780}}",
+        "_uetsid": "fc7056a0ccdb11f1bd79afc344da69a0|1ybcqmz|2|gag|0|2484",
+        "osano_consentmanager": "pAi1uSWJMUAKWcyafN19zmWnJg_7UhAPJvB0p4CSRU3nTQky2XTIrlYb61_AaOeQ2ac4anOMiZPrIMu2D1ANeViCsfvGNZ6Gv8nwMaJC15bv7oSYUV6qOQ8plvhJHUKMfkdZ96uLcxDOnS0cZajVFcc7lVOYSkvK5EVWEbMp-DUfxUAQsTyihXHaAZNKj7oseFebgi7cpR_61slDNMRTjP8yKxuD5zihy4ovjY1_G8GTcKD5H9yqw32-crtHvsWWJe4NwnRodEicmC5FIRTkNJnPuBBr6XqST2SZe5SMn42A5aRCTsr_5zaZjqQ9FHF3gKshKfGHNAE=",
+        "li_adsId": "878c0b00-2c54-4a72-aba9-b104148c8fce"
+      },
+      "sessionStorage": {
+        "_cltk": "1h5qalg"
+      }
+    }
+  }
+]

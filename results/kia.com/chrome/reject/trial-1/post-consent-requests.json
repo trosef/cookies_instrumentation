@@ -1,0 +1,1306 @@
+[
+  {
+    "timestamp": "2026-10-20T23:09:12.954Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:12.960Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=interaction&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=0329f7e9-61df-4267-a065-b7e9967d60e0&sdid=kxd0zq&sc=T1&id0=1itpcufa6ew8s&id1=d973beae7ea29227706d659f94b9ab75&id2=y2myanax8izg&cb=67s0ga&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537752959&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&it=click&ix=8.1&iy=5.4&ixp=%2F%2Fdiv%5B%40id%3D%22js-page-content-container%22%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fsection%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fpicture%5B1%5D%2Fimg%5B1%5D&iox=8.7&ioy=38.6&pc=GTM!2467!1FB!23679",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.123Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.130Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr/?id=357795334408363&ev=SubscribedButtonClick&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rl=&if=false&ts=1792537754097&iw=false&cd[buttonFeatures]=%7B%22classList%22%3A%22%22%2C%22destination%22%3A%22%22%2C%22id%22%3A%22%22%2C%22imageUrl%22%3A%22%22%2C%22innerText%22%3A%22Vehicles%20%22%2C%22numChildButtons%22%3A0%2C%22tag%22%3A%22a%22%2C%22type%22%3Anull%2C%22name%22%3A%22%22%7D&cd[buttonText]=Vehicles%20&cd[formFeatures]=%5B%5D&cd[pageFeatures]=%7B%22title%22%3A%22Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia%22%7D&sw=1280&sh=720&v=2.9.426&r=stable&a=tmSimo-GTM-WebTemplate&ec=1&o=12318&aems=0%3B0&fbp=fb.1.1792537737175.19350056572838670&eid=ob3_plugin-set_dd4b19865751163a02338f7680ca1273b7bc878a9b437978f1aba1078c1ccb9c&cs_est=true&ler=empty&cdl=API_unavailable&pmd[locale]=en&pmd[description]=Kia%20America%2C%20Inc.%20provides%20a%20wide%20range%20of%20cars%20that%20meet%20your%20lifestyle.%20Browse%20our%20luxury%20or%20sports%20sedans%2C%20hybrids%2C%20electric%20cars%2C%20SUVs%20%26%20hatchbacks.%20&plt=992.7999999523163&imft=1&tz=-300&it=1792537736786&coo=false&es=automatic&est_fired=&tm=3&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&expv2[7]=pt0&expv2[8]=sd1&expv2[9]=sp1&expv2[10]=ek1&expv2[11]=pc1&expv2[12]=gs1&expv2[13]=zs1&expv2[14]=cp1&expv2[15]=es1&expv2[16]=ac1&expv2[17]=so1&expv2[18]=wc1&expv2[19]=la1&expv2[20]=sf1&expv2[21]=da1&expv2[22]=io1&expv2[23]=ae1&expv2[24]=sx1&expv2[25]=if1&expv2[26]=fd1&expv2[27]=bg1&expv2[28]=mg1&expv2[29]=kl1&expv2[30]=sg1&expv2[31]=mk1&expv2[32]=sn1&expv2[33]=ec1&expv2[34]=mp1&expv2[35]=ps1&expv2[36]=fx1&expv2[37]=vt1&expv2[38]=dp3&expv2[39]=fw3&expv2[40]=cn1&expv2[41]=tz1&expv2[42]=pe1&expv2[43]=ee1&expv2[44]=bu1&expv2[45]=ta1&expv2[46]=ot1&expv2[47]=hv1&expv2[48]=ep3&expv2[49]=rh0&expv2[50]=ah0&expv2[51]=nv1&rqm=GET",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.150Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.159Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=interaction&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=45e27b54-ee67-4c0a-ad9c-eac2d2e14a00&sdid=kxd0zq&sc=T1&id0=1itpcufa6ew8s&id1=d973beae7ea29227706d659f94b9ab75&id2=y2myanax8izg&cb=swd0f3&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537754153&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&it=click&ix=12.7&iy=2.5&ixp=%2F%2Fheader%5B%40id%3D%22global-header%22%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fnav%5B1%5D%2Ful%5B1%5D%2Fli%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fa%5B1%5D&iox=83.3&ioy=50&iib=true&ibt=Vehicles&ibms=a%5Brole%3D%22button%22%5D&pc=GTM!2467!1FB!23679",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.540Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/inter",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:14.956Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/u",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.202Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.218Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/en/telluride",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.219Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.221Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=interaction&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=157dd435-a179-4717-840d-95e75a078e8e&sdid=kxd0zq&sc=T1&id0=1itpcufa6ew8s&id1=d973beae7ea29227706d659f94b9ab75&id2=y2myanax8izg&cb=onxy84&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537757219&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&it=click&ix=13.8&iy=11.4&ixp=%2F%2Fheader%5B%40id%3D%22global-header%22%5D%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Ful%5B1%5D%2Fli%5B5%5D%2Fa%5B1%5D%2Fdiv%5B1%5D%2Fimg%5B2%5D&iox=61.1&ioy=50&pc=GTM!2467!1FB!23679",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.376Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-google-analytics-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.377Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.377Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://assets.sitescdn.net/answers-search-bar/v1.0/answerstemplates.compiled.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://assets.sitescdn.net/answers-search-bar/v1.0/answers-modern.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-mep-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-mep-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ebusiness.dealertrack.com/Suite/suite.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.380Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.382Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://suite.dtdrs.dealertrack.com/suite.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.432Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KT9VDSV",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.434Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/index.module.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.440Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureBold.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.441Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureLight.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.441Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureRegular.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.442Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/kia-icons.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.442Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/settings/xHjfc02vgIM4Xf/latest/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.448Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-sdk/4.65.1/cross-domain-bridge.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.723Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/common/kia_logo_white.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/common/icons/heart-icon_17x17.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/mep/hero/1024-hero.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-lx.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-s.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-ex.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-x-line-ex-awd.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-sx.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-x-line-sx-awd.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-x-pro-sx.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-sxp-awd.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.724Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-x-line-sxp-awd.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/trims/trim-cards/kia-trim-jellies-my27-telluride-ice-x-pro-sxp-awd.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/mep/cross-sell/column-control-2-img-1.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/mep/cross-sell/column-control-2-img-2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-1.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/my27-telluride-ice-mep-gallery-ext2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-3.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-4.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-ext-carousel-5.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/my27-telluride-ice-mep-gallery-ext5.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-ext-carousel-6.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-7.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-8.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-9.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/my27-telluride-ice-mep-gallery-int4.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-int-carousel-9_5.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-10.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-11.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/my27-telluride-ice-mep-gallery-int8.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-12.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.725Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-13.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-14.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-15.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-16.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/my27-telluride-ice-mep-gallery-ext12.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-17.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-18.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-19.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-20.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-21.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-int-carousel-22.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-ext-carousel-23.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-int-carousel-27.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-video-carousel-22.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.726Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/gallery/l2q-telluride-ice-gallery-carousel-25.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/ka4/2026/mep/flexible-logo-banner/warranty/1440-flexible-logo-bg.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/ka4/2026/mep/flexible-logo-banner/warranty/flexible-banner-logo.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/en/vehicles/telluride/2027/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1781797359708/l2q-telluride-ice-5050-accessories-v2.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/shared-vehicles/adas/thumbs/thumb_Kia_Safety_FCA2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/01.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/02.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/03.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/04.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/05.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/06.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/07.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/indoor/08.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s7d9.scene7.com/is/image/kiamotors/lq2-ice-mep-5050-trims-x-line-sx-prestige-exclusive-wheels:L?dpr=on%2C1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s7d9.scene7.com/is/image/kiamotors/my27-telluride-ice-mep-capability-1:L?dpr=on%2C1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.727Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s7d9.scene7.com/is/image/kiamotors/lq2-ice-mep-5050-interior-generous-passenger-room:L?dpr=on%2C1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.728Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://s7d9.scene7.com/is/image/kiamotors/telluride-ice-5050-tech-bsvm-1:L?dpr=on%2C1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.728Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-static-v3.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.729Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-hover-v3.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.730Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.730Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/my27-sorento-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/my27-sorento-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-static-2027.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-hover-2027.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev3-mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev3-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sportage-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sportage-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.732Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/my26-ev6-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.733Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/my26-ev6-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.733Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/sorento-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.733Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/sorento-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.733Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-carnival-hybrid-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-carnival-hybrid-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.734Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.735Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.736Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.736Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.737Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/mm-large-static-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.737Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.738Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-upcoming.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.739Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-upcoming-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.740Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/session/1px.png?settingsId=xHjfc02vgIM4Xf",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.740Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultData-4a70ee32-4e73dd41.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.740Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/hero/my27-telli-ice-hero-desktop_moov.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.740Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/shared-vehicles/adas/Kia_Safety_FCA2.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.740Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/vehicles/telluride/2027/mep/timeless-video/MY27_Telluride_ICE_Flyby_R8_1920.mp4",
+    "resourceType": "media",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.741Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/translations/translations-en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.773Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultUI-f5ca15c4-ca816d55.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.777Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/FirstLayerCustomization-e7c04bdf-93d3e621.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.777Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/ButtonsCustomization-e2593b87-f53cb39e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.777Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/SecondLayerUI-2281d766-2e260c33.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.825Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:17.825Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=G-5PCDXE2SGQ&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.210Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsmcdn.audioeye.com/aem.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.214Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://www.kia.com/cdn-cgi/rum?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.215Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/bootstrap.js?h=246d5bc1481f5e35b67eaaa744eb89f0",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.256Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=246d5bc1481f5e35b67eaaa744eb89f0&lang=en&cb=2026-10-19b",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.256Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=246d5bc1481f5e35b67eaaa744eb89f0&lang=en&cb=2026-10-19b",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.256Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/startup.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.360Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.audioeye.com/v1/send",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.360Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/sites/246d5bc1481f5e35b67eaaa744eb89f0/active.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.374Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/smartrems.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/launcher.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.378Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.379Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.380Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/fullCSS.bundle.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.381Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/tangoEngine.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:18.381Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/m/audioeye-scanner-esm/v11.2.44/audioeye-scanner-esm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  }
+]

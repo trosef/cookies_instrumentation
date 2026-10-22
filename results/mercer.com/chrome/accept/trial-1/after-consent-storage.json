@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://shop.mercer.com/en-us/",
+    "storage": {
+      "localStorage": {
+        "mage-cache-storage": "{\"cart\":{\"summary_count\":0,\"subtotalAmount\":null,\"subtotal\":\"<span class=\\\"price\\\">0.00</span>\",\"possible_onepage_checkout\":true,\"items\":[],\"extra_actions\":\"\",\"isGuestCheckoutAllowed\":false,\"website_id\":\"128\",\"storeId\":\"131\",\"masked_quote_id\":null,\"subtotal_incl_tax\":\"<span class=\\\"price\\\">0.00</span>\",\"subtotal_excl_tax\":\"<span class=\\\"price\\\">0.00</span>\",\"cart_empty_message\":\"\",\"currency_code\":\"USD\",\"isCountrySanctioned\":false,\"geo\":{\"city\":\"Auburn\",\"continent\":\"North America\",\"country\":\"United States\",\"country_code\":\"US\",\"registered_country\":\"United States\",\"registered_country_code\":\"US\",\"subdivisions\":\"Alabama\",\"subdivisions_code\":\"AL\"},\"data_id\":1792538013}}",
+        "snowplowOutQueue_sp_post2.expires": "1855610018512",
+        "product_data_storage": "{}",
+        "mage-banners-cache-timeout": "\"2026-10-20T23:14:03.309Z\"",
+        "recently_compared_product_previous": "{}",
+        "mage-banners-storeId": "default",
+        "mgid.56fa.expires": "1855610018510",
+        "tgt:tlm:upper": "0",
+        "lo_session": "{\"stats\":{\"totalPages\":1,\"totalActivity\":0,\"totalTime\":0},\"_lo_tags\":[\"Shop visits\"]}",
+        "tgt:tlm:0": "{\"execution\":276.5,\"parsing\":0,\"telemetryServerToken\":\"vafxssJySgO1TJkaPAkBaki9dqlkzx0+iDaKjHjJ+Xo=\",\"mode\":\"edge\",\"features\":{\"executePageLoad\":true,\"prefetchViewCount\":1,\"decisioningMethod\":\"server-side\"},\"requestId\":\"adcb32ce4e52401e8aa9c628bb39a7cd\",\"timestamp\":1792538014464}",
+        "mgses.56fa": "*",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1792538014528},\"expires\":1800314014528},\"gsid_dc\":{\"value\":{\"joinId\":\"pnlwpfzBb3pNQbPW9vR2mU7KFGNBFbMfsQ\",\"lastJoinedTimeMs\":1792538014531},\"expires\":1792538314531}}",
+        "mage-banners-cache-storage": "{\"data\":{\"items\":{\"salesrule\":[],\"catalogrule\":[],\"fixed\":{\"2\":{\"id\":\"2\",\"content\":\"<div data-content-type=\\\"html\\\" data-appearance=\\\"default\\\" data-element=\\\"main\\\" data-decoded=\\\"true\\\"><script type=\\\"text/javascript\\\" src=\\\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js\\\"></script>\\r\\n    <script type=\\\"text/javascript\\\">\\r\\n        $(document).ready(function() {\\r\\n            var option = 'trs-membership-contact-form';\\r\\n            option = window.location.pathname.split('/')[2];\\r\\n            showDiv(option);\\r\\n        });\\r\\n        function showDiv(option) {\\r\\n            $('.boxes').hide();\\r\\n            $('#' + option).show();\\r\\n        }\\r\\n    </script>\\r\\n    <style type=\\\"text/css\\\">\\r\\n        .boxes {\\r\\n            display: none;\\r\\n        }\\r\\n    </style>\\r\\n\\r\\n    <div class=\\\"boxes\\\" id=\\\"trs-membership-contact-form\\\">TRS Membership Contact Form</div>\\r\\n    <div class=\\\"boxes\\\" id=\\\"mls-membership-contact-form\\\">Bubble tea is da bomb!</div></div>\",\"types\":[]}}},\"store_id\":\"131\"}}",
+        "lo::behaviorTags": "[\"Shop visits\"]",
+        "mgses.56fa.expires": "1792539818510",
+        "mgid.56fa": "18a3c870-4064-4441-908d-d1c0dc2b55a1.1792538014.1.1792538019..02d2b3fa-4301-4d8d-a41e-4bfe03d270a5..c00388a9-8426-4881-8cfc-0835f32736e1.1792538013502.5",
+        "mage-customer-login": "0",
+        "recently_viewed_product": "{}",
+        "mage-cache-storage-section-invalidation": "{}",
+        "recently_viewed_product_previous": "{}",
+        "ds-cart": "{\"cart\":{\"items\":[]}}",
+        "snowplowOutQueue_sp_post2": "[]",
+        "mage-cache-timeout": "\"2026-10-20T23:43:33.279Z\"",
+        "NRBA_SESSION::8a55b60e": "{\"value\":\"1f91f4d2ccd84781\",\"inactiveAt\":1792539817403,\"expiresAt\":1792552413459,\"updatedAt\":1792538017403,\"sessionReplayMode\":null,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":null,\"traceHarvestStarted\":false,\"loggingMode\":null,\"logApiMode\":null,\"serverTimeDiff\":-54,\"custom\":{},\"numOfResets\":0,\"consent\":false,\"cachedRumResponse\":{\"app\":{\"agents\":[{\"entityGuid\":\"MzA0NTYzNHxCUk9XU0VSfEFQUExJQ0FUSU9OfDg4NjU4MTIxMQ\"}],\"nrServerTime\":1792538013658},\"stn\":0,\"err\":1,\"ins\":1,\"spa\":1,\"sr\":0,\"srs\":0,\"st\":1,\"sts\":0,\"log\":0,\"logapi\":0}}",
+        "recently_compared_product": "{}",
+        "li_adsId": "1f544e77-09db-41d3-90d7-0041f84bf33c"
+      },
+      "sessionStorage": {
+        "recently_viewed_product": "{}",
+        "mage-cache-storage": "{}",
+        "mage-cache-storage-section-invalidation": "{}",
+        "recently_viewed_product_previous": "{}",
+        "product_data_storage": "{}",
+        "s_dmdbase_custom4": "ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor:ISP Visitor",
+        "s_dmdbase": "ISP Visitor:Auburn University:Schools and Education:Colleges and Universities:Enterprise:$500M - $1B:Education:University",
+        "recently_compared_product_previous": "{}",
+        "s_dmdbase_custom1": "ISP Visitor:302 Comer:Auburn:AL:36849-0001:US:ISP Visitor:ISP Visitor",
+        "s_dmdbase_custom3": "Auburn University:US:32.61:-85.48:Not In List:Not In List:Not In List:Not In List",
+        "mage-banners-cache-storage": "{}",
+        "recently_compared_product": "{}",
+        "s_dmdbase_custom2": "Detailed:false:8221:ISP Visitor:ISP Visitor:false:false:auburn.edu"
+      }
+    }
+  }
+]

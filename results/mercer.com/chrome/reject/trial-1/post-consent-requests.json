@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2026-10-20T23:15:06.483Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://mercer.sc.omtrdc.net/b/ss/mmclmercercomnewprod/1/JS-2.17.0/s57446912770441?AQB=1&ndh=1&pf=1&t=20%2F9%2F2026%2018%3A15%3A6%202%20300&sdid=45292334A3B52887-6202E35CACC1466B&mid=06295935717961421421338418242665823758&aamlh=7&fid=1539DFAC607948F4-2759482ED4E9935A&ce=UTF-8&cdp=2&pageName=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&g=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&cc=USD&c1=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v1=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&v2=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c29=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&v40=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&c62=06295935717961421421338418242665823758&c75=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&v107=06295935717961421421338418242665823758&v117=none%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone%2Cnone&pe=lnk_o&pev2=no%20link_name&c.&a.&activitymap.&page=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&link=Save&region=4a47785f-7740-4974-be97-2db3b8287ce6&pageIDType=1&.activitymap&.a&.c&pid=us%7Cen_us%7C%7CHomepage%7Cen_us%7CMarsh%20%7C%20People%20and%20Investments&pidt=1&oid=Save&oidt=3&ot=SUBMIT&s=1280x720&c=30&j=1.6&v=N&k=Y&bw=1280&bh=720&mcorgid=7205F0F5559E57A87F000101%40AdobeOrg&lrt=76&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:06.483Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=97089072&Ver=2&mid=75d7cef7-168a-43de-8f65-a9eb27cbbe56&bo=8&sid=fc7056a0ccdb11f1bd79afc344da69a0&vid=fc707c80ccdb11f19bd6d9197fea900a&vids=0&msclkid=N&ec=progress&el=Mercer%20to%20Marsh%20ambient&ev=70&ea=video&en=Y&p=https%3A%2F%2Fwww.mercer.com%2Fen-us%2F&sw=1280&sh=720&sc=30&nwd=1&evt=custom&cdb=AQwR&rn=156800",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:06.984Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/conversions/c/i",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.228Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.327Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/en-us/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.345Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.346Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-base.min.8e966de7e9a1c6488afb721262f0ce39.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.346Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/clientlibs/granite/clientlibrarymanager.min.4066faea2c14fde8235ed95b86add70c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.346Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/clientlibs/granite/jquery.min.3e24d4d067ac58228b5004abb50344ef.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.347Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/clientlibs/granite/utils.min.899004cc02c33efc1f6694b1aee587fd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.347Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc/cloudsettings.kernel.js/conf/mercer-dotcom/settings/cloudsettings/personalization/contexthub",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.347Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cmp.osano.com/16CFuWSuPfE35eNP/bdbb887a-5b2c-4747-97e3-2d6afebd67c3/osano.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.347Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.sync.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.348Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site.min.28eac83bb92e2448955626bbdef6f3b7.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.348Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/marsh-aemrefresh/components/utility-navigation/clientlibs/site.min.ec3b4d4645a604a91b0316215ebf7638.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.350Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlibs-navigaton-bar.min.0e7b338361ae0a4b2d88771e172b069c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.350Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/global/en/mercer-brand/logos/marsh-logo-mercer%201.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.350Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlibs-navigaton-bar.min.5b647322bdc50fa616ec560514f4776b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.350Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc/designs/cs/brightcove/players/html5-player.min.f16222930e0385729c7161df9a910584.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.350Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/dam/mercer-dotcom/global/en/shared-assets/global/content-images/people-gather-in-a-meeting-room.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.351Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlibs-footer.min.962443b3efc8f7cb6934df994a1a274f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.351Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlibs-footer.min.777548a8342dc8c1bfd82b2a6926af30.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.351Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site.min.4af766775c235c75a5eab5892db3f051.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.352Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.0a6aff292f5cc42142779cde92054524.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.352Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-base.min.364b9df517668a5fd5773d018fafd5f0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.531Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc/cloudsettings.kernel.js/conf/mercer-dotcom/settings/cloudsettings/personalization/contexthub/",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.720Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/error/404/",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.731Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.mercer.com/aae520b4-9ab4-4228-80dc-51be753106a1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.755Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/mercer/main-v2/prod/utag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.755Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/MarshSerif-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.756Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.756Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-site/resources/fonts/NotoSans-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.764Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/shared-assets/global/content-images/editorial-f1-1536x1536-logo.png.transform/mdotcom-promo-cta-xs/image.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.765Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/shared-assets/local/covers/cover-top-considerations-dc-2026-pdf.png.transform/mdotcom-promo-cta-xs/image.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.776Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/libs/granite/csrf/token.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.803Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/6107-183f5122a5a36d8d6f58.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.804Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/5275-4bb4755949d4b0fdf9f9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.804Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/7689-45782dca1023381a3445.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.805Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/2355-d4937f0a6be90aaafe56.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/6247-a4b0fdde9785b27ee934.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/9380-a1a20b8dae9f0bfe3aab.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/7224-b977181b71e5d0b81b20.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/817-ca891a658a814e9c12ad.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.806Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/3881-f2965d5f38ff364feeac.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/9418-7abaf265335225d4d7df.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/1640-54de8ccc4ccdf6a702c0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/etc.clientlibs/mercer-dotcom/clientlibs/clientlib-dynamic-modules/resources/860-c7a7da92344f1d1ab206.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.807Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/experience-fragments/mercer-dotcom/us/en_us/structural/homepage-promo-banner/master/_jcr_content/root/promo_hero_copy_copy/eyebrow-image/image.coreimg.85.320.png/1787305245056/eyebrow-label-left-dash.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.929Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/mercer-dotcom/us/en_us/jcr:content/root/container/container/grid_copy_copy_18303.query..json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.930Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/experience-fragments/mercer-dotcom/us/en_us/about/values/master/jcr:content/root/grid_copy_1334602832.query..json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.930Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/mercer-dotcom/us/en_us/jcr:content/root/container/grid_copy_copy.query..json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.932Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/mercer-dotcom/us/en_us/jcr:content/root/container/container/carousel_594039102_c.query.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.932Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/mercer-dotcom/us/en_us/jcr:content/root/container/container/carousel_1257068503_.query.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.938Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mercer-brand/full-bleed-images/2880x1620/editorial-2168933392-processor-placed-on-circuit-board-in-a-tech-environment-2880x1620.jpeg.transform/mdotcom-promo-xs/image.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.938Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mercer-brand/full-bleed-images/2880x1620/editorial-607731814-global-asset-owner-barometer-2880-1620px.png.transform/mdotcom-promo-xs/image.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.938Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mercer-brand/full-bleed-images/2880x1620/editorial-2224659879-people-gather-in-a-meeting-room-to-discuss-work-in-an-office-2880x1620.jpg.transform/mdotcom-promo-xs/image.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.939Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mmb/full-bleed-images/gettyimages-2204723872-woman-enjoying-time-in-cafe-while-using-smartphone-2280x1620.jpeg.transform/mdotcom-promo-xs/image.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.939Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mercer-brand/full-bleed-images/2880x1620/editorial-941166088v2-global-talent-trends-cover-2880x1620.jpg.transform/mdotcom-promo-xs/image.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.939Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/assets/us/en_us/mercer-brand/full-bleed-images/2880x1620/Meeting_in_a_conference_room_with_team_members_discussing_ideas_-GettyImages-1192884896-2880x1620.jpg.transform/mdotcom-promo-xs/image.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:12.981Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.mercer.com/content/dam/mercer-dotcom/global/en/mercer-brand/favicon/icon-192x192.png",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.005Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://guycarp.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.418Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.532Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.532Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cmp.osano.com/16CFuWSuPfE35eNP/e0e3f3a2-208d-4755-99d6-390deb3f240a/osano.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/utility-navigation/clientlibs/site.min.3fb77959ca434bd033f7c31cb04e129f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/top-banner/clientlib.min.bf072eb87111d7f1fc42990dc220a787.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/stickybanner/v1/stickybanner/clientlibs/sites.min.2a33900d187173bc7f8c276b4f197bba.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base.min.cb071ff1e613fec0be2f70229af57ed2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.533Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/clientlibs/granite/clientlibrarymanager.min.4066faea2c14fde8235ed95b86add70c.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/clientlibs/granite/jquery.min.3e24d4d067ac58228b5004abb50344ef.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/clientlibs/granite/utils.min.899004cc02c33efc1f6694b1aee587fd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.011c0fc0d0cf131bdff879743a353002.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.0a6aff292f5cc42142779cde92054524.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-dependencies.min.565a5fa547e01a426b454e0a8aa7fb80.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-dependencies.min.baa4e646dd007e1092d7bc9af43f7f45.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.534Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-site.min.d41d8cd98f00b204e9800998ecf8427e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/foundation/clientlibs/main.min.9c76330c61392652ee6b9b2b3bea9a15.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/foundation/clientlibs/shared.min.e9d9a3990d7779c2e8e3361187f3d36b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/foundation/clientlibs/main.min.be53d5d2acc50492007c4929cbe3ee9e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-site.min.d41d8cd98f00b204e9800998ecf8427e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/utility-navigation/clientlibs/site.min.3f1e52f0b3dd34a85a2493c0e5af50cd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.536Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/two-up/clientlib.min.18c47f79ffbfef39cd1683074d29d00b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/top-banner/clientlib.min.07072438da8ac92b18803ac575d5b0ec.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/components/stickybanner/v1/stickybanner/clientlibs/sites.min.19b76ecdc886dd17891b5fac1d63caac.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base.min.baf618cc48928140fd76f5645dddd23e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/logos/marsh-gc-sky-blue-172x31-v1.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/logos/marsh-gc-blue-172x31-v1.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/graphics-and-designs/marshre-wave-background.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/insights-images/renewal-hub/square-AdobeStock_263300926.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/insights-images/Catastrophe-02.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/storm",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.537Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/bios/Leadership/Dean_Klisura.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.538Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/logos/Marsh.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.637Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "blob:https://www.guycarp.com/8b74ee7c-5076-4d70-a620-eef6b8d4c6f2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:14.845Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;400;500&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.009Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/libs/granite/csrf/token.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.047Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-WT6537R",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.047Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/notosans/v42/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.047Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/fonts/noto-sans/NotoSans-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.060Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://player.vimeo.com/video/1221496595?h=5cdba44a98&badge=0&autoplay=0&loop=0&muted=0&autopause=1&player_id=0&app_id=58479",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/images/gc-patterns-brand-b.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/insights-images/F1Cover.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/images/gc-patterns-brand-a.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/insights-images/2026/05/GettyImages-2224144272.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/insights-images/globalspecs2026.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/images/quotes.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/adobe-assets/Abstract/Abstract-004-growth-graph-169490845.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/adobe-assets/Business/Business-014-team-collaboration-boardroom-side-view-161884512.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/guycarp-rebrand/adobe-assets/Finance/Finance-005-city-concept-digital-currency-abstract-362052323.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/fonts/noto-sans/NotoSans-SemiBold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/marsh/Design/theme/marshcom/fonts/global/marsh-serif/marshserif-regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.073Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/etc.clientlibs/guycarp-rebrand/clientlibs/clientlib-base/resources/fonts/noto-sans/NotoSans-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.080Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cmp.osano.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.105Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.guycarp.com/bin/guycarp/metariskusers",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.149Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-46GMWWH093&cx=c&gtm=4e6aj1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.149Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://w.soundcloud.com/player/api.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.157Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://cmp.osano.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.157Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://player.vimeo.com/api/player.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.158Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://player.vimeo.com/video/1221496595?h=5cdba44a98&badge=0&autoplay=0&loop=0&muted=0&autopause=1&player_id=0&app_id=58479",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.166Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://consent.api.osano.com/record",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.312Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-46GMWWH093&gtm=45je6aj1v870381107za20ozb831827886zd831827886xf1&_p=1792538115013&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAGAC&cid=1300636449.1792538115&frm=0&pscdl=noapi&rcb=5&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&sid=1792538115&sct=1&seg=0&dl=https%3A%2F%2Fwww.guycarp.com%2F&dr=https%3A%2F%2Fwww.mercer.com%2F&dt=Marsh%20Re&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=1277",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.313Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-46GMWWH093&cid=1300636449.1792538115&gtm=45je6aj1v870381107za20ozb831827886zd831827886xf1&rcb=5&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

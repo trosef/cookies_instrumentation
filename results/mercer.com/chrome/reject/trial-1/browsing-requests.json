@@ -1,0 +1,154 @@
+[
+  {
+    "timestamp": "2026-10-20T23:15:15.735Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://f.vimeocdn.com/p/4.46.129/js/player.module.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.735Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://f.vimeocdn.com/p/4.46.129/js/vendor.module.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.735Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://f.vimeocdn.com/p/4.46.129/css/player.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.735Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://i.vimeocdn.com/video/2194214532-a2a3413e3711f6b4355aa3b0d4c8da6934757da83fbb1f6476c217f4e57f146b-d?mw=80&q=85",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.736Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/scripts/precursor/main.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.765Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/scripts/precursor/d2d3316b729e/main.js?",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.850Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://player.vimeo.com/cdn-cgi/challenge-platform/h/b/precursor/d2d3316b729e/0.5900987199729263:1792533622:bJVCFv0zqT-y4yFNM9nDwVbKst774sbX-m_Cg0ez6BM/a4dbb93398572578",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:15.867Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/enterprise/favicon-marsh-sky-blue-48px.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.109Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://f.vimeocdn.com/js_opt/modules/utils/vuid.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.110Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://i.vimeocdn.com/video/2194214532-a2a3413e3711f6b4355aa3b0d4c8da6934757da83fbb1f6476c217f4e57f146b-d?mw=2400&mh=1350&q=70",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.110Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.110Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=ab496f6491771293d239d691eb1034b8528afc941792538115",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.126Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://vimeo.com/flarepoint/orion/v3/identity/settings",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.127Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://vimeo.com/ablincoln/vuid?pid=ab496f6491771293d239d691eb1034b8528afc941792538115",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.154Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.155Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.gstatic.com/eureka/clank/155/cast_sender.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:16.894Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.guycarp.com/content/dam/enterprise/favicon-marsh-sky-blue-48px.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:17.528Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://vod-adaptive-ak.vimeocdn.com/exp=1792541715~acl=%2Fff8910d4-049f-4be0-ac3c-ad1d42b3fe09%2Fpsid%3Dab496f6491771293d239d691eb1034b8528afc941792538115%2F%2A~hmac=f283d198e8219ee6f685b611bb0b9e8d6f9530fce9e8f08871613e487c284ecd/ff8910d4-049f-4be0-ac3c-ad1d42b3fe09/psid=ab496f6491771293d239d691eb1034b8528afc941792538115/v2/playlist/av/primary/prot/cXNyPTE/playlist.json?omit=av1-hevc&pathsig=8c953e4f~rRqhESjzCgcc-XBPIIDBPBy6xIB5RgxQYmqBDU0fToM&qsr=1&r=dXM%3D&rh=sb4RM",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:15:17.638Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://arclight.vimeo.com/add/player-stats?beacon=1&session-id=ab496f6491771293d239d691eb1034b8528afc941792538115",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

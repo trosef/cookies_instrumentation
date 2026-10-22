@@ -1,0 +1,1450 @@
+[
+  {
+    "name": "lr",
+    "value": "e38e9d5fb06186838d18edf161873d80f4d164f8892ecfb673d39e77378fd9804873a8ac4d227d8d",
+    "domain": ".esm1.net",
+    "path": "/v2/liveramp",
+    "expires": 1795129714.43755,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "TAB6Rx6e4R3PbdhmkJCDBw_X_tl8W9MA0bnbcb2Le_U-1792537685.007417-1.0.1.1-U_LnoQ59vtehlue9L_chL_OxlzI1AY6BLFcPZSAPrcYivEktfQMR_w8IUyQwr7cpt0GfIAhW15fX_TlJ6.481tiE0e81RwvLxCJOW6vErAX4hNeNRgF_duvrs6QDijz9",
+    "domain": ".www.kia.com",
+    "path": "/",
+    "expires": 1792539485.081964,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "4FSdhg6053p_PK6bsWW_Vot87GPzW1CATa6NHrCl2Ks-1792537685.1605299-1.0.1.1-5n.lwBQL3.rVioBtvPociTaly64qgHPRnzmJRRjFeFYMrKze_H1R6LGICKqbbmIVbCgyzRcpuqDb5FajfXaCxa6OAAdqEJJ907RfVYusRqq0z58__WTNCphGjzy5juO7",
+    "domain": ".sitescdn.net",
+    "path": "/",
+    "expires": 1792539485.206594,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_TS",
+    "value": "1792537686120",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797721705.170774,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_DID",
+    "value": "ff5ff068-6a22-451d-9176-3eb86580be01",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797721705.170814,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ttp",
+    "value": "3KylSEvvAY9DSBqoyMG4dO8oPfm.1792537686118",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1826233718.131237,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01M5DS4WC8ZFH7WHHPQAGDEYA1_.tt.1.1792537686408",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_pin_unauth",
+    "value": "dWlkPVl6ZzBaakZpTldFdFl6WXlNaTAwWkdRMUxUazBZVE10TURFME56RXlNVEl4TkdKaw",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1824073718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tst",
+    "value": "AYhfey6UtzF_EGAAWEscGXoA1TTEJzN4kTKxY_vmrLLB2KkcAD7fa8AEbfOWRiMA14fAzpl1wy5coZ71A1cQoeDGm00BViyGfq7iRkM5WNi9cHGPqOrZw3Q1q_OcY1XZXUC5yQVe5oQwdCvfpOckRr8",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "expires": 1792710486.650035,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XANDR_PANID",
+    "value": "Dp5sOcRjnhTwEvK27acbfKBNg6H8HF9G1X9YPMZE7bf4IbAP-45Q5DSTTqN_IVdxpsQBaQ0w852gP2ToJU2FbfDQV8Hd6bCeByz7ozx4TVE.",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800313689.073179,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "uuid2",
+    "value": "2881941094174065349",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800313689.073202,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "anj",
+    "value": "dTM7k!M4/YEVNsVF']wIg2GVMnw9Cz!]tbPl1Mis([?psUadBmN`ut5VE%MRZ61Mc_+SK'Z8d<@*ag/@<QG=%9sk@3@'s>THPR6=",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800313687.078984,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_sfid_bbce",
+    "value": "{%22anonymousId%22:%22028a7708dad3cc39%22%2C%22consents%22:[{%22consent%22:{%22status%22:%22Opt%20In%22%2C%22purpose%22:%22Tracking%22%2C%22provider%22:%22DataCloud%22}%2C%22lastUpdateTime%22:%222026-10-20T23:08:07.713Z%22%2C%22lastSentTime%22:%222026-10-20T23:08:07.714Z%22}]}",
+    "domain": ".www.kia.com",
+    "path": "/",
+    "expires": 1827097719.132578,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.993925857.1792537688",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1800313688,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.570725325.1792537688",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1827097718.169656,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUmAhK0066To2vHQzS-XpTX1sdlQsYeL139RhX4rh0lLpUU0aTiK4PRdZNSP-Bk",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827097688.473549,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_twpid",
+    "value": "tw.1792537688524.568817048785193133",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233704.657502,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1792537688690.158881651895321676",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1800313718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_id",
+    "value": "MLU3Y6bd3nOluAFVYdOlaOHl",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1824073718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cdlPrivacy",
+    "value": "%7B%22targetOptOut%22%3Afalse%2C%22saleOptOut%22%3Afalse%2C%22synced%22%3Atrue%2C%22status%22%3A%7B%22targetOptOut%22%3Afalse%2C%22saleOptOut%22%3Afalse%7D%7D",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1824073718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cl",
+    "value": "k5upylHcvcRY06G7c1rhCfCP",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_at",
+    "value": "true",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1795133288,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "muc_ads",
+    "value": "c9bb9538-a760-40be-8154-1b090888fc74",
+    "domain": ".t.co",
+    "path": "/",
+    "expires": 1827097688.743015,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "_Gu0wYFXEHotAP6rEcxG6Du5QP.m7MAOWvpekb1TZ6M-1792537688.6809957-1.0.1.1-pRdc1MdWDc3yCTJI_xjkldrFrXCsO.hypwvMxT4UhQ0LUQY7aujg0HBG3xgh_hFx95giOoghSITtMyKvUS7d05pnqBbHIDrxEraJpV30xyP4KHAa.4i0pbkCnHDTAuIH",
+    "domain": ".t.co",
+    "path": "/",
+    "expires": 1792539488.743036,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_marketing",
+    "value": "v1%3A179253768869163934",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827097688.74499,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_ads",
+    "value": "v1%3A179253768869163934",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827097688.74501,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "personalization_id",
+    "value": "\"v1_ueGOSYpibimN0oj/fWf4Sw==\"",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827097688.745018,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id",
+    "value": "v1%3A179253768869163934",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827097688.745025,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "ZKX5l3X7ggXxPbMfimTpqyvIIxAPXmDFX27CzXWfkMk-1792537688.676133-1.0.1.1-xnvCXdCMAlLOhHOq8Zie5roNz2rBf7OXvbVX5oqfm6Ll9AHw9SjtP4oTcu1HxuS6xHdogTkdd3LtoDj.Qg0UcIVSI1UjUwbTjr2hKW9F7If8NFui7avK_jEQA_W36ERD",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1792539488.745031,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "fr",
+    "value": "01ARvMKpEcCnR3eAl..Bq1_RY...1.0.Bq1_RY.AWeS-yZfx_VMHe2gPzruC9MD4zQ",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800313688.745422,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DotomiConsent",
+    "value": "UNSPECIFIED",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "expires": 1827097718.259357,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "expires": 1826665718.259416,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "DotomiSession_83396",
+    "value": "2_1792537688719$418608851525420568$354148250$1792537688721",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "12F4A0480AC962FB118BB7B00B6E63A3",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826233688.792796,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".bat.bing.com",
+    "path": "/",
+    "expires": 1793142488.79287,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "abc",
+    "value": "MLU3Y6bd3nOluAFVYdOlaOHl",
+    "domain": ".esm1.net",
+    "path": "/",
+    "expires": 1824073718.308834,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dtm_token",
+    "value": "AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826665718,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dtm_consent",
+    "value": "UNSPECIFIED",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826665718,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_mlcp",
+    "value": "MLCP.1.1792537688879.1983417540",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1827097718.317859,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "68fa3057-0d4f-44ec-a2ca-d1ab3de6189b",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824073718.237187,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_mlcs",
+    "value": "MLCP.1.1792537688884.1",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1827097688.885233,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "i",
+    "value": "3155fd30-d9a9-4330-b435-359b794e9896|1792537688",
+    "domain": ".openx.net",
+    "path": "/",
+    "expires": 1824073718.388311,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "A3",
+    "value": "d=AQABBFj012oCEChggM8fitBDvCifYn8V0MwFEgEBAQFF2Wrhatwn0iMA_eMDAA&S=AQAAAg_6zUFPgiEP3nFkNMffccg",
+    "domain": ".yahoo.com",
+    "path": "/",
+    "expires": 1824095288.947546,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tluid",
+    "value": "3146495180468966700402",
+    "domain": ".3lift.com",
+    "path": "/",
+    "expires": 1800313688.974053,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMID",
+    "value": "atf0WNHM5WkADCn4ADKnFQAA",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1824073712.137007,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPS",
+    "value": "5795",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800313688.986026,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPRO",
+    "value": "5795",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800313712.137043,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDSYNC",
+    "value": "173h~2yvz",
+    "domain": ".analytics.yahoo.com",
+    "path": "/",
+    "expires": 1824073688.947506,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "dax_listenerid",
+    "value": "756C813C6922B191CEBAFCEA5BD0398B",
+    "domain": ".thisisdax.com",
+    "path": "/",
+    "expires": 1823641688.949545,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TEST-COOKIE",
+    "value": "YES",
+    "domain": ".inmobi.com",
+    "path": "/",
+    "expires": 1824073688.976775,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "iid",
+    "value": "ID5-7-d97307c0-b40b-4150-9236-b58fceae4dcc",
+    "domain": ".inmobi.com",
+    "path": "/",
+    "expires": 1824073689.006772,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mlcwc",
+    "value": "eyJ2ZXJzaW9uIjoxLCJwYXlsb2FkIjoiRCtBRWFYWitrZGErbW1xeU1Ia0d2Y0ZIcllHeXFYZWVjVzBOczZ5VnhyVTdOR3FpN2tGVGZ0dnZMYjMvdE9OVUZITUVmbHY2d3k4blhkSVI4Vjk5VFJVNVZURTNKMk03Zk9Hd3MyNE4yUnJDQng0Y29LbEdpMVl3dnV6cnpvM0lmelBCMGZWSmxvbldPT0hGN3h0MW9OcVljNmJWeWxWZkt4bnNMaWdZYmExaXFpQS9zSGJLeDRJQU1ueVgrSHAxY0VsRkFkYW8rZWJjcnVVZFcrdmRlTU51LzNYWUpxUVhrTG5oN0ZxUi80VVJTS3JwMnJjWUt6V1RvbG5yOXRRPSIsIm5vbmNlIjoidFNXUklGbmF6a08wQlYyQiJ9",
+    "domain": ".moloco.com",
+    "path": "/",
+    "expires": 1824073689.071893,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "KRTBCOOKIE_1208",
+    "value": "23454-P5Pd3kyaQjOHg1M0tdoBWA",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1793747289.073309,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|j88p5NwzDn3RVNpVl+HMFY231iQ3JAQrPUqaoXJUElAh0O4EZoEH2mCaWJLRVx5L4Hcr8w1O8tmM1KxoLazIt2xIiXiby+wJ8gji8D/BCN8NEptDTbq17w5C4O4Fxv7f/Wi1XquIvO1I9BhCOBKgGUQTK1y63CI00A+VO7RH1E0=",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073689.080932,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVHANOWQ-9-4XH8",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073689.080966,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVHANOWQ-9-4XH8",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073689.080978,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|j88p5NwzDn3RVNpVl+HMFY231iQ3JAQrPUqaoXJUElAh0O4EZoEH2mCaWJLRVx5L4Hcr8w1O8tmM1KxoLazIt2xIiXiby+wJ8gji8D/BCN8NEptDTbq17w5C4O4Fxv7f/Wi1XquIvO1I9BhCOBKgGUQTK1y63CI00A+VO7RH1E0=",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824073689.080992,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1800313689.081003,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "idx",
+    "value": "dxx|^22e830ca-8be8-4eeb-9003-17168723ceef|$mx|^5f84efd3-b486-4ea4-a58d-6a2f7daa1a20|$rn|^",
+    "domain": ".bluecava.com",
+    "path": "/",
+    "expires": 1797721714.346724,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ssx",
+    "value": "",
+    "domain": ".bluecava.com",
+    "path": "/",
+    "expires": 1792624114,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pxa_bc",
+    "value": "22e830ca-8be8-4eeb-9003-17168723ceef",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1792796889,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_bc",
+    "value": "22e830ca-8be8-4eeb-9003-17168723ceef",
+    "domain": ".esm1.net",
+    "path": "/",
+    "expires": 1792796914.390926,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sda3pc",
+    "value": "211md1wkyctzg",
+    "domain": "tagging.shiftdigitalapps.io",
+    "path": "/",
+    "expires": 1824073689.363793,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_y2",
+    "value": "1%3AeyJjIjp7fX0%3D%3AMTc0OTg2MjMwNA%3D%3D%3A99",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1824073718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "barometric[cuid]",
+    "value": "cuid_6ad7f459-d068-4011-87c9-fb537ec108f4",
+    "domain": ".trkn.us",
+    "path": "/",
+    "expires": 1824073689.487428,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sdts",
+    "value": "2iz3gzc9sqslq",
+    "domain": "tagging.shiftdigitalapps.io",
+    "path": "/",
+    "expires": 1824073718.541766,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "t_gid",
+    "value": "rtbh-a7fb5ba3-6042-4dc4-ba26-4371a707c9c3-tuct11d179d9",
+    "domain": ".taboola.com",
+    "path": "/",
+    "expires": 1824073689.502911,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "t_pt_gid",
+    "value": "rtbh-a7fb5ba3-6042-4dc4-ba26-4371a707c9c3-tuct11d179d9",
+    "domain": ".taboola.com",
+    "path": "/",
+    "expires": 1824073689.502936,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "DSPR",
+    "value": "%7B%22mcr%22%3A%7B%22t%22%3A%2220261021%22%2C%22u%22%3A%22P5Pd3kyaQjOHg1M0tdoBWA%22%7D%2C%22v%22%3A1%7D",
+    "domain": ".ds.kakao.com",
+    "path": "/",
+    "expires": 1800313689.764632,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_lr_geo_location_state",
+    "value": "AL",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1792710490.762559,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_lr_geo_location",
+    "value": "US",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1792710490.762611,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "DSPR",
+    "value": "%7B%22mcr%22%3A%7B%22t%22%3A%2220261021%22%2C%22u%22%3A%22P5Pd3kyaQjOHg1M0tdoBWA%22%7D%2C%22v%22%3A1%7D",
+    "domain": ".ad.daum.net",
+    "path": "/",
+    "expires": 1800313691.038808,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_sda:kia:T1:user",
+    "value": "3aed721f-2129-4a55-9242-ea712d752277%3A4.0%3A1792537689187%3A211md1wkyctzg!d973beae7ea29227706d659f94b9ab75!21re90mdd3hmv!%3A85919!85919!85919!",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1824073718,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "clinch-sid",
+    "value": "3a269a07-c5d9-4c15-aa38-69844c0c6b9c~1792537691",
+    "domain": ".clinch.co",
+    "path": "/",
+    "expires": 1795129691.848123,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_sess",
+    "value": "%20s_cc%3Dtrue%3B",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "KRTBCOOKIE_377",
+    "value": "6810-68fa3057-0d4f-44ec-a2ca-d1ab3de6189b&KRTB&22918-68fa3057-0d4f-44ec-a2ca-d1ab3de6189b&KRTB&22926-68fa3057-0d4f-44ec-a2ca-d1ab3de6189b&KRTB&23031-68fa3057-0d4f-44ec-a2ca-d1ab3de6189b",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1800313705.48368,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "PugT",
+    "value": "1792537705",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795129705.483732,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "st_cs",
+    "value": "1WfPsaJKfvX3ZweDah2E4ICVlPlGhJrwfEHox87Odvjf4bbH97bxKD29mB/przzYyP/F8yqf3WN/zqGw0gDckwWwt2GR2tGJdqgQovs+tU0=",
+    "domain": ".seedtag.com",
+    "path": "/",
+    "expires": 1823641705.658428,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "st_csd",
+    "value": "1792537705626:1792537705626",
+    "domain": ".seedtag.com",
+    "path": "/",
+    "expires": 1823641705.658448,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "st_uid",
+    "value": "01a15b92-bc97-76dc-90d7-f75614c2c4a3",
+    "domain": ".seedtag.com",
+    "path": "/",
+    "expires": 1823641705.658457,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid",
+    "value": "cd7f41fa-704d-4cd8-b0c6-e78871d701b2",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824073705.714675,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "c",
+    "value": "1792537705",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824073705.671727,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid_lu",
+    "value": "1792537705",
+    "domain": ".bidswitch.net",
+    "path": "/",
+    "expires": 1824073705.714714,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SCM",
+    "value": "bd1c406d14",
+    "domain": ".smaato.net",
+    "path": "/",
+    "expires": 1794352105.684628,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SCM1099",
+    "value": "bd1c406d14",
+    "domain": ".smaato.net",
+    "path": "/",
+    "expires": 1794352105.684649,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pid",
+    "value": "6594442437292846303",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "expires": 1800313705.685626,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TestIfCookieP",
+    "value": "ok",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "expires": 1826752105.685658,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "csync",
+    "value": "155:AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak7rP",
+    "domain": ".smartadserver.com",
+    "path": "/",
+    "expires": 1795129705.68567,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "visitor-id",
+    "value": "4355393054255794000V10",
+    "domain": ".media.net",
+    "path": "/",
+    "expires": 1824073705.693643,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "data-co",
+    "value": "AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak7rP~~3",
+    "domain": ".media.net",
+    "path": "/",
+    "expires": 1823987305.693665,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ktcid",
+    "value": "74191e69-776d-0a0b-5269-541e0a52a292",
+    "domain": ".kargo.com",
+    "path": "/",
+    "expires": 1824073705.702817,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "idsync-eps-uid-s",
+    "value": "AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak7rP",
+    "domain": ".live.streamtheworld.com",
+    "path": "/",
+    "expires": 1793142505.732281,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "98ef4fb143edeb370e6413f21de2650a",
+    "value": "febf713fa33bf0d14367ba5195e0bc1e",
+    "domain": "idsync.live.streamtheworld.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "V",
+    "value": "6mHUOfDaHb7y",
+    "domain": ".contextweb.com",
+    "path": "/",
+    "expires": 1823641706.72663,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "VP",
+    "value": "part_6mHUOfDaHb7y",
+    "domain": ".contextweb.com",
+    "path": "/",
+    "expires": 1823641706.726662,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "pb_rtb_ev",
+    "value": "3-27tu|2N.0.AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak7rP",
+    "domain": ".contextweb.com",
+    "path": "/",
+    "expires": 1824073706.726675,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pb_rtb_ev_part",
+    "value": "3-27tu|2N.0.AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak7rP",
+    "domain": ".contextweb.com",
+    "path": "/",
+    "expires": 1824073706.726684,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kia.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "INGRESSCOOKIE",
+    "value": "d32eaefcaaf14aa2",
+    "domain": "bh.contextweb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-id",
+    "value": "A5ALvNwIoETnv0z7IAkbsjM",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1814483311.868255,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ad-privacy",
+    "value": "0",
+    "domain": ".amazon-adsystem.com",
+    "path": "/",
+    "expires": 1827097711.868312,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "Step1URL",
+    "value": "http%3A%2F%2Fldti.syndication.kbb.com%2F%3F_cl%3Dk5upylHcvcRY06G7c1rhCfCP%26ProfileId%3D5B1C6634-DBE8-403F-AB25-32305701ED6B",
+    "domain": "ldti.syndication.kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": ".AspNetCore.Antiforgery.VyLW6ORzMgk",
+    "value": "CfDJ8BXPeUJXE-pMn44d17ngR4N11kfNID9fESkz_c-ihrrQPlKZ71tElcEYPgqmRzeyVrRt4Jw11trhAsXte7lHAefcOBHlu0NGDLLmTjziJm7_Xgg86K-DOiGXSFNZUKMbSNWsPBABRL-xPqok-k_zNuc",
+    "domain": "ldti.syndication.kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1792537712431.69522831900156163",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1800313712,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "x-kbb-aka-data",
+    "value": "US|AL|36830|AL|||0|0|800|1280|Mac OS X|Chrome",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "x-coxauto-aka-data",
+    "value": "US|AL|36830|AL|||0|0|800|1280|Mac OS X|Chrome",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akaalb_prod_default_alb",
+    "value": "1792539512~op=~rv=14~m=~os=~id=759d54e7b0b1b6a771f64b10d7e601f0",
+    "domain": "www.kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_bman",
+    "value": "06b77e3435bcf64a29afbbe2c830ed57",
+    "domain": ".www.kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_id",
+    "value": "Fp6xnP4FLkreqJSwZc8gHPLr",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073712,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cdlPrivacy",
+    "value": "%7B%22targetOptOut%22%3Afalse%2C%22saleOptOut%22%3Afalse%2C%22synced%22%3Atrue%2C%22status%22%3A%7B%22targetOptOut%22%3Afalse%2C%22saleOptOut%22%3Afalse%7D%7D",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073712,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cl",
+    "value": "k5upylHcvcRY06G7c1rhCfCP",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "abc",
+    "value": "MLU3Y6bd3nOluAFVYdOlaOHl",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073714.217577,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "abc_3rd_party",
+    "value": "MLU3Y6bd3nOluAFVYdOlaOHl",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073712.841759,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_ipv4",
+    "value": "131.204.254.102",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073712.841815,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pixall_cookie_sync",
+    "value": "true",
+    "domain": "ldti.syndication.kbb.com",
+    "path": "/",
+    "expires": 1795133312,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxa_at",
+    "value": "true",
+    "domain": "ldti.syndication.kbb.com",
+    "path": "/",
+    "expires": 1795133314,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akaalb_pixall_prod",
+    "value": "1792539514~op=ddc_ana_pixall_prod:eng_ana_pixall_prod-pico-us-east-1|~rv=72~m=eng_ana_pixall_prod-pico-us-east-1:0|~os=6aafa3aac97a52a58cd06655a170720e~id=1bb859bab363fc2f194b12fcf3b62070",
+    "domain": "www.kbb.com",
+    "path": "/",
+    "expires": 1792539514.217674,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_abck",
+    "value": "B19E4077088B9E7DED65790F611A127C~-1~YAAQaFUXAqv3NTqhAQAAA96SWxBMB4CROpb3pwOB7SlINVb1YltsGtLzqRt6vy2Aro3TyU5vk7VjHvZWm6zCnrZi8wQde1KI46+NdBIkCpr/FHf4rgBho97EeOeCzV78iMTWz7H/SB1DBy+1/YL28qYhDvB06ipS2DaadzZiOArotaxiD6AkCdI+RgiRJN622UmpL8ZXD1MLCcSqXCKZ168LlXQ7IeaFw0GFUsMyl1l4hVyOb/P0V/w0Ga/X2e6NpTKGbekNOg9IF+Lz/JHEcZl/WK76mwtYAdXug4EaynixzIDCmmST9VP7Pr2YNU8ENDPVqW04DuJDjONh6EZoDDXyBEyrTJCwjp2NRb6t+QF0lLlhZfXbC0JbRyaTAkx7xysGqRxBnOcdd0R5bnO5gRfFqudt4/fH3j1SCedHlCN3k3xVneRxcKaZw/1xY/mT6gDug9k=~-1~-1~-1~-1~-1",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1824073714.217754,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sz",
+    "value": "0D68CF863E4FCAF0CE6593668AF6D870~YAAQaFUXAqz3NTqhAQAAA96SWwGywSIqVir55R/c57VA+miB45rYylZI6LcE1SRIbSUFwq3DzeSKq0F2Dmxk2ARPmGXACRS8zJM082/RlD8Q0Q3CQUFmh+nZlpxuoKreNj5U1Xxxb+K+WYcBHLKqoeKvb3FlJV1oYnFOeKEIZEk8BgkF80NGxLqCZgX0yMsmIN+DLAjPEB3rjks41reDlb6jSG76gTFb48QjUFYthT71heW2rCMbQD029lr7hQhUKlOdol0os5y1u56y9ACgxFlEl41cylk6tSieAVfS4sGv6dWyEYiFA8m4f/97deZzdno3zhjOaQ0V2TWHxAlwhmcBcoUfhrU3rBdUfjW8fgtpGXXKp4s=~3163442~4605250",
+    "domain": ".kbb.com",
+    "path": "/",
+    "expires": 1792552114.217823,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lv",
+    "value": "2026-10-20 23:08:34Z",
+    "domain": ".bluecava.com",
+    "path": "/",
+    "expires": 1797721714.346435,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "acx",
+    "value": "dhttx|^g8z+Zg==|JmS4Af8u3wg=|$ipatx|^g8z+Zg==|0GS4Af8u3wg=|$pt|^H4sIAHL012oA/w3B0QmAMAwE0F3yH8glV7VO4QqmVhAcQFB31/duCcvYkNQWtivQU5NBpRvWBvuNz3Jc/ZRZhqg+IVhAL0QtJu8H16w2WEMAAAA=|$rx|^2363193928018373097",
+    "domain": ".bluecava.com",
+    "path": "/",
+    "expires": 1797721714.346619,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pxa_bc",
+    "value": "22e830ca-8be8-4eeb-9003-17168723ceef",
+    "domain": "ldti.syndication.kbb.com",
+    "path": "/",
+    "expires": 1792796914,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rlas3",
+    "value": "b5n5H5yXYd6i9sH8BFJU01RI2O8cnLCryWjMEz5gIKs=",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1824073714.394775,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pxrc",
+    "value": "CNjo39YGEgUI6AcQABIGCOLrARAaEgYI7+sBEAA=",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1797721714.39486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_3ci",
+    "value": "2cab6450-ccdb-11f1-9d43-2becafd908a6",
+    "domain": ".alcmpn.com",
+    "path": "/",
+    "expires": 1824073714.49418,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_5PCDXE2SGQ",
+    "value": "GS2.1.s1792537686$o1$g1$t1792537718$j30$l0$h0",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1827097718.177163,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dtm_token_sc",
+    "value": "AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak-yg",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826665718.215854,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFgoHcnViaWNvbhILCJTV8Z6hwtc_EAUSFwoIYXBwbmV4dXMSCwiEqsagocLXPxAFEhUKBmdvb2dsZRILCLz3haChwtc_EAUSFQoGY2FzYWxlEgsIuNS_vKLC1z8QBRIXCghwdWJtYXRpYxILCPKGwLyiwtc_EAUSGAoJYmlkc3dpdGNoEgsI1rvAvKLC1z8QBRgFKAYyCwjMibfjucLXPxAFWgc5MHZ1ZXphYAF6CQoFdGllcjEQAQ..",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824073718.237227,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DotomiSync",
+    "value": "0$20746$20746$9252335-0#57734-0#52136-0#9252325-0#74572-0#96431-0#98193-0#14000-0#26832-0#26481-0#5010-0#9254457-0#79190-0#14200-0#69627-0#15900-0#9252048-0#19998-0#",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "expires": 1793401718.259384,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DotomiUser",
+    "value": "437908851500497159$0$901282216$0$1$0$1792537688506$1792537718229",
+    "domain": ".dotomi.com",
+    "path": "/",
+    "expires": 1826665718.259402,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_rdt_uuid",
+    "value": "1792537688598.16e39238-cfa0-4c23-b3c3-1a3c5151ec1d",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1800313718,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_twsid",
+    "value": "1792537688524-136802781.1.1792537718271",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718.271534,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "akaalb_pixall_prod",
+    "value": "1792539518~op=ddc_ana_pixall_prod:eng_ana_pixall_prod-pico-us-east-1|~rv=90~m=eng_ana_pixall_prod-pico-us-east-1:0|~os=6aafa3aac97a52a58cd06655a170720e~id=6be5e704dd452fd0dc01001fd0b3e8f7",
+    "domain": "pixall.esm1.net",
+    "path": "/",
+    "expires": 1792539518.308869,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_mlss",
+    "value": "W3sicGl4ZWxJZCI6InB4bC1EUUhnTkNJTiIsInNlc3Npb25JZCI6IjE3OTI1Mzc2ODg4NzlfOGE0MzBlNjhjMzkyNDk4YiIsInNlc3Npb25TdGFydFRpbWVzdGFtcCI6MTc5MjUzNzY4ODg3OSwic2Vzc2lvbkxhc3RBY3RpdmVUaW1lc3RhbXAiOjE3OTI1Mzc3MTgzMTh9XQ==",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1827097718.318446,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "1d588090ccdb11f1a8bb6b73dad11da5|93nn5j|2|gag|0|2484",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1792624118,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_sda:kia:T1:session",
+    "value": "182aac7c-cf9c-4fcd-ac8a-944805ff78f6%3AN%3A1792539458436%3A%3A211md1wkyctzg!d973beae7ea29227706d659f94b9ab75!21re90mdd3hmv!%3A1792537689188%3AN%3A%3AKIA%3AKIAT1%3AKIA%3AN%3A",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pinterest_ct_ua",
+    "value": "TWc9PSZGQjlOYUQ1S0t1bEsxRlYxYlgwaWYwNmlKRkxWL1lQLzJrQ21QWHFFdGFoM1RoZXpKN3BEVHZSemphZkh4b0oza28wWUtFWFVFbXlzcnc1Rk93R29Zbm1Ed3ZMZC9EM3RUWDNzVFRQWU9QUT0mS2oramJFVkpabjlndjZKQTNpWk8ySWczTks0PQ==",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "expires": 1824073718.438044,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mc",
+    "value": "eyJpZCI6IjBjNGNjODdkLWJiZjUtNDJkNC05NTY0LTk5YjNkZTZhZDFkMyIsImwiOjE3OTI1Mzc3MTg0MjIsInQiOjF9",
+    "domain": ".thrtle.com",
+    "path": "/",
+    "expires": 1809817718.541218,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ANON_ID",
+    "value": "a9nOvJs2aFepAJsjX1nRYkdnfVDcEKdZarVZbRZdSVd3xibMr5IvQATdS3EfZaTteewP9QwdijI0Ih3bYM4AyqtqXEX2C6LsX1P3Pg1tsV6CREQe5OZdkPp9vsmLVn3oHAZbQ1TA3F3xDaQtiW1oVV7DPZc2RqfmkZakby8SU0b6T86DbMefwCo9",
+    "domain": ".tribalfusion.com",
+    "path": "/",
+    "expires": 1800313718.542662,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_uetvid",
+    "value": "1d586220ccdb11f186e669687be02f34|1jith6z|1792537718580|3|1|bat.bing.com/p/insights/c/i",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1792537686411::66K0Jz9OzM3bLo6bZ5IP.1.1792537718797.0::1.31317.31881::31252.6.756.217::0.0.0",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_C7PI4O39OPOOJ4K3V7P0",
+    "value": "1792537686411::U9D7xSiFohU_MZqVHOoP.1.1792537718797.1",
+    "domain": ".kia.com",
+    "path": "/",
+    "expires": 1826233718,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_yi",
+    "value": "1%3AeyJsaSI6bnVsbCwic2UiOnsiYyI6MSwiZWMiOjksImxhIjoxNzkyNTM3NzI1MzU0LCJwIjozLCJzYyI6MzR9LCJ1Ijp7ImlkIjoiYWRjODM3NGMtYTMwMC01OWMzLTgwNGYtZDQzOTE0MmM1ZDdmIiwiZmwiOiIwIn19%3ALTE0MzE4NDYxMTI%3D%3A99",
+    "domain": "www.kia.com",
+    "path": "/",
+    "expires": 1824073725,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

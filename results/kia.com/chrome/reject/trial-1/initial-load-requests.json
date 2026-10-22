@@ -1,0 +1,2554 @@
+[
+  {
+    "timestamp": "2026-10-20T23:08:53.055Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.229Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/en",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-google-analytics-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/latest/loader.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.sitescdn.net/answers-search-bar/v1.0/answerstemplates.compiled.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.sitescdn.net/answers-search-bar/v1.0/answers-modern.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-home-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.304Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-home-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ebusiness.dealertrack.com/Suite/suite.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.305Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.378Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KT9VDSV",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.382Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/index.module.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.453Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureRegular.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.499Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/settings/xHjfc02vgIM4Xf/latest/languages.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.526Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://suite.dtdrs.dealertrack.com/suite.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.672Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureBold.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.672Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/kia-icons.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.672Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/etc.clientlibs/UI/clientlibs/clientlib-base-stg-rc-20261012220724-f200fb797f419f129e64-1792000437670/resources/fonts/KiaSignatureLight.woff",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.703Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/home-hero/1024-hero-hybrid-v2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/tout-cards/kia-tout-telluride.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/tout-cards/kia-tout-ev3.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/tout-cards/kia-tout-seltos.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/test/consumer-reports-test/kia-hp-consumer-cross-sell-1440-v2.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/mpv/telluride/my27-telluride-ice-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/mpv/seltos/my27-seltos-ice-mtf-large-middle-v2.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/mpv/sportage/my27-sportage-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/mpv/sorento/my27-sorento-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/mpv/carnival/2027/my27-carnival-ice-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/telluride-hybrid/2027/my27-telluride-hev-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/ev6/2026/kia-ev6-2026-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/carnival-hev/2027/my27-carnival-hev-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.705Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/sorento-phev/2026/my26-sorento-phev-mtf.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/ev9/2026/kia_ev9_2026_large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/niro/my27-niro-hev-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/ev3/2027/my27-ev3-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/sportage-hev/2027/my27-sportage-hev-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/sorento-hev/2027/my27-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/niro-ev/2026/my26-niro-ev-mtf.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/hybrid-electric/sportage-phev/2027/my27-sportage-phev-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/sedan/k5/my27-k5-mtf-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/sedan/k4/my26-k4-large-middle.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/mtf-carousel/sedan/k4-hatchback/kia-my26-k4hb-mtf-large-middle-v2.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/en/home/_jcr_content/root/responsivegrid/fiftyfifty.coreimg.jpeg/1786142305124/kia-hp-5050-seltos-hev-v2.jpeg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/scene7/home/shopping-tools/kia-shopping-tools-wildfire.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/feature-highlights/kia_cards_innovation-in-action.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.706Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animation/static/alt-fuel_icon_static.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/feature-highlights/kia-cards-get-connected.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animation/static/connectivity-icon-static-v4.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/home2-0/feature-highlights/kia_cards_level-up-your-ride.jpg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animation/static/level-up-your-ride_icon_static.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/common/kia_logo_white.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/common/icons/heart-icon_17x17.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s7d2.scene7.com/is/image/kiamotors/kia_homepage_meet-the-family_background_suv-cuv-mpv-v8:L",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-static-v3.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-hover-v3.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/my27-sorento-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/my27-sorento-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.707Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-static-2027.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/mm-large-desktop-hover-2027.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/suv-cuv-mpv/kia-tellurice-ice-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev3-mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev3-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sportage-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sportage-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/my26-ev6-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/my26-ev6-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/sorento-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/sorento-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.708Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-niro-ev-mmm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-carnival-hybrid-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/mm-carnival-hybrid-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-telluride-hev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-sorento-phev-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/hybrid-electric/kia-ev9-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-static.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/k4hb-mm-large-desktop-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/mm-large-static-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/sedan-hatchback/mm-large-desktop.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-upcoming.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.709Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/images/global-header/vehicles/mm-large-desktop-upcoming-hover.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.710Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/dealer-locator/dealer-locator_icon.gif?imbypass=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.710Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/offers/offers_icon.gif?imbypass=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.711Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/get-a-quote/get-a-quote_icon.gif?imbypass=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.711Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/cpo/CPO_icon.gif?imbypass=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.756Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/settings/xHjfc02vgIM4Xf/latest/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.888Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/dealer-locator/dealer-locator_icon.gif?imbypass=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.891Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/offers/offers_icon.gif?imbypass=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.891Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/cpo/CPO_icon.gif?imbypass=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.933Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/content/dam/kia/us/en/home2-0/animated-tiles/get-a-quote/get-a-quote_icon.gif?imbypass=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.941Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-sdk/4.65.1/cross-domain-bridge.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/session/1px.png?settingsId=xHjfc02vgIM4Xf",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:53.996Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultData-4a70ee32-4e73dd41.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.011Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/translations/translations-en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.047Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsmcdn.audioeye.com/aem.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.056Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.kia.com/cdn-cgi/rum?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.138Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultUI-f5ca15c4-ca816d55.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.150Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/FirstLayerCustomization-e7c04bdf-93d3e621.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.150Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/ButtonsCustomization-e2593b87-f53cb39e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.150Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/SecondLayerUI-2281d766-2e260c33.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.156Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/bootstrap.js?h=246d5bc1481f5e35b67eaaa744eb89f0",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://consent-api.service.consent.usercentrics.eu/consent/uw/3",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://launchpad-wrapper.privacymanager.io/62599357-43bd-46ce-8605-1d82ebdd3604/launchpad-liveramp.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://snapshot.carfax.com/latest/snapshot.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.c360a.salesforce.com/beacon/c360a/a6d344c6-54ae-4dbb-9486-ae64da71ace7/scripts/c360a.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-5PCDXE2SGQ&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.188Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-974264858&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-975154757&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-4235921&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C7PI4O39OPOOJ4K3V7P0&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/PrivacyButton-eb082ebc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.189Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/index-940ca644.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.196Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/core.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.196Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://a.tribalfusion.com/pixel/tags/Kia%20Motors/679343/pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.196Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tag.tapad.com/accounts/39/tags/Hyum3HF/events?data.Pagename=homepage&response_type=pixel&gtmcb=1109125967",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.204Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://uct.service.usercentrics.eu/uct?v=1&sid=xHjfc02vgIM4Xf&t=1&abv=&r=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&cb=1792537734204",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.283Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/index-b07c2cec.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.302Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://launchpad.privacymanager.io/latest/launchpad.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/VirtualServiceItem-ba442d73.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/SaveButton-7426b294.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.303Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultTabs-c78e1a4b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.451Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-11191334772&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.452Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.tribalfusion.com/displayAd.js?dver=0.8&th=9990335264",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.461Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=246d5bc1481f5e35b67eaaa744eb89f0&lang=en&cb=2026-10-19b",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.462Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0MQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.462Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/lib/main.2fbc2581.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.477Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://geo.privacymanager.io/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.505Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&cb=1792537734503&dep=2%2CPAGE_LOAD",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.505Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=lead&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&cb=1792537734504&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.506Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Atrue%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D&cb=1792537734505",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.539Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.539Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.539Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.540Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.572Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/startup.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.612Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/static/ct/token_create.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/ct.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.614Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=lead&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&cb=1792537734612&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.659Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.tribalfusion.com/visitor?%7B%22tagKey%22%3A%223972262005%22%2C%22th%22%3A9990335264%2C%22version%22%3A%221.1%22%2C%22tKey%22%3A%22aymneMnAQKmGvumWrB3aQhQEiFPBUjhq%22%2C%22url%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22clientName%22%3A%22Kia%2520Motors%22%2C%22clientID%22%3A679343%2C%22eventType%22%3A%22visitor%22%2C%22segmentNumber%22%3A0%2C%22segmentName%22%3A%22Homepage%22%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.777Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.780Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.audioeye.com/v1/send",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.781Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/sites/246d5bc1481f5e35b67eaaa744eb89f0/active.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.801Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuidu?https://a.tribalfusion.com/i.match?p=b26&u=$UID&redirect=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D305%26code%3D%24TF_USER_ID_ENC%24",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.856Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/smartrems.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.898Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fgetuidu%3Fhttps%3A%2F%2Fa.tribalfusion.com%2Fi.match%3Fp%3Db26%26u%3D%24UID%26redirect%3Dhttps%253A%252F%252Fib.adnxs.com%252Fsetuid%253Fentity%253D305%2526code%253D%2524TF_USER_ID_ENC%2524",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/launcher.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.924Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.931Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://a.tribalfusion.com/i.match?p=b26&u=9124266205196287644&redirect=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D305%26code%3D%24TF_USER_ID_ENC%24",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.962Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/fullCSS.bundle.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.988Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/tangoEngine.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:54.999Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:55.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/m/audioeye-scanner-esm/v11.2.44/audioeye-scanner-esm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:55.042Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/setuid?entity=305&code=18072661919217113868",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.227Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/v2/authentication",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.227Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/v2/authentication",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.417Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/events/a6d344c6-54ae-4dbb-9486-ae64da71ace7",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.417Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/events/a6d344c6-54ae-4dbb-9486-ae64da71ace7",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.596Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/974264858/?random=1792537734337&cv=11&fst=1792537734337&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=12&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.597Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/974264858/?random=1792537734337&cv=11&fst=1792537734337&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=12&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.597Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537734385&cv=11&fst=1792537734385&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.597Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537734385&cv=11&fst=1792537734385&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.597Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537734386&cv=11&fst=1792537734386&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.598Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537734386&cv=11&fst=1792537734386&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.598Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=1551836840.1792537737;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.598Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://4235921.fls.doubleclick.net/activityi;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=1551836840.1792537737;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;_dc_test=1;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.607Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11191334772/?random=1792537734566&cv=11&fst=1792537734566&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11191334772/?random=1792537734566&cv=11&fst=1792537734566&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=1&ae=g&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&ep.ads_data_redaction=1&gdid=dOThhZD&_tu=CA&gtm=45He6aj1h1v858305408za200zd858305408xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616986~115938466~115938469~117628654~118897920~118897930~120385423~120469145~120469153~121049589~121246026~121246034&tft=1792537736603&tfd=3552&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1551836840.1792537737&gtm=45He6aj1h1v858305408za200zd858305408xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=0&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-974264858&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537736605&tfd=3553&tids=AW-974264858&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-975154757&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537736605&tfd=3554&tids=AW-975154757&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-975154757&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&ep.ads_data_redaction=1&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537736606&tfd=3554&tids=AW-975154757&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=14&frm=0&apvc=0&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=DC-4235921&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&gdid=dOThhZD&_tu=KA&gtm=45fe6aj1h1v9181630726za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1792537736606&tfd=3555&tids=DC-4235921&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.608Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-11191334772&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&ep.ads_data_redaction=1&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1792537736607&tfd=3555&tids=AW-11191334772&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.617Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-5PCDXE2SGQ&gtm=45je6aj1h1v9104773165z8858305408za20gzb858305408zd858305408xf1&_p=1792537733377&_gaz=1&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dOThhZD&_eu=AAAAAGAC&cid=531793918.1792537737&frm=0&pscdl=noapi&rcb=16&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121246026~121246034&sid=1792537734&sct=1&seg=0&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&_tu=CA&en=uc_view_first_layer&_fv=1&_nsi=1&_ss=1&ep.gtm_id=GTM-KT9VDSV&ep.gtm_container_version=293&ep.user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.site_section=home&ep.ga_client_id=ga&ep.timestamp=2026%7C10%7C20%7C18%7C08%7C54&ep.page_name=home&ep.page_type=home&ep.layout_type=desktop&ep.site_language=english&ep.tier=1&ep.uc_settings=false&ep.uc_visitor_type=implicit&tfd=3565",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.618Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-5PCDXE2SGQ&cid=531793918.1792537737&gtm=45je6aj1h1v9104773165z8858305408za20gzb858305408zd858305408xf1&rcb=16&aip=1&dma=0&gcs=G111&gcd=13t3t3t3t5l1&npa=0&frm=0&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.658Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.658Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.prod.analytics.dealer.com/pixall/pix-kia.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.658Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.658Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.659Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/tag_path/profile/visit/js/1_0?dtm_cid=83396&dtm_fid=7320&dtm_promo_id=201&dtm_cmagic=c565e6&dtmc_loc=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtmc_tms=4&cachebuster=GTM-KT9VDSV-293-1792537736654",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.659Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_g420921pz5yq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.666Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.667Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.667Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.671Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/scripts/sdt1.js?containerId=KIA&dl=sd",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.671Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.moloco.com/p/moloco-pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.679Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://4235921.fls.doubleclick.net/activityi;dc_pre=CIiBqLjbyZcDFS4oyQIddbUR0g;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=1551836840.1792537737;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;_dc_test=1;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.683Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVpXRmxOV0k1WVdVdFlqWTBOQzAwWkRWbUxXRXpNakF0WkRObVlUTmpOalJqTmpSag%22%7D&cb=1792537736683&dep=4%2CTAGS_RECEIVED&stc=true",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.694Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/974264858/?random=1792537734337&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938469~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=12&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3N1P27DPchZ6fbYl8qW2ZMny1Iz1wzS7IEQdX79YZbJmWQ2XDpBwtZV15YCKXoiIUM_fMdfh0X2_foN45jhtK66Mr6JICm3hoQ8Ie7eppdO0UmNmIeWk5Jv-7dTOBjIW_VS6h35CGQ4XLmQyVxvz-9Pb9ksIGvR_qbsVLlXi7UjS7P4T_Mx4yUCeHwn0mZA-1FqP4qQ41q3xuXWWsc1k9sOAY9s-5cka2YJ9k7NIBpuEaX7No1UpW-kEdPJ4r11tP3pStpsFZCSq9pl5KGoVig&random=3525611273&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.695Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11191334772/?random=1792537734566&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3Akr3sHdYxqcD61MnI6xz8SoOtIt2mjGAzP1s6-LOVvw8WwOZhqTcDUBYqvRb2cQ4qD4kGx_J_yelYxAyC0I2xJ08HllUgyGKLYCF5NXIzxGB_YyxYmqU0djH-IdcqXD6etcCXer8S2w2nm5zfhGRmeBaWG-0wGEq7dp87ss_P6tdktdGGvhVPpFHP8lyNAWP-ecI_9zE7uDw6N1ruZRg5wqwnXRHJE26MTSxiEOD21VJSB9Zc8g67bMWu51iTqOXXknmjdQLmDOtcrpiatunw&random=4150449657&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.695Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537734385&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3IZvhpn7wcOJBdnUpF0854zxh5VoasERe3U-0SNmZanL0M4gS9AyTNlMPMutncqqHDQx-soFFxvfo4ljrSIgorqH06Wfpl_4oPmCLbS3Qb67XFcDxY6E1GxpnPj4I8CJlGXVhgbZv3gYJIxLdQi5PLEibKlTblZeIUtq86p-dPVf5JVu6c7LY2i92PMFuf_GA38JOzVhCRsRc9Itm2UxuMPbta-9K8q6p4Jewg-a57oN9Tf_kXSanPRGc_VLPrN24cj8vchlPqWUJ4mY_SB1Zg&random=2115337446&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.695Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVpXRmxOV0k1WVdVdFlqWTBOQzAwWkRWbUxXRXpNakF0WkRObVlUTmpOalJqTmpSag%22%7D&cb=1792537736694&dep=4%2CTAGS_RECEIVED&stc=true&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.695Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537734386&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3ABh-blLgJOJsKoCbgpCvQ51zc_m9iKsCuTykKzFjWJhnTP8FoeuhQoOiGkIB2I0CWxygjEe-Vk3iuFDnkx-PnSMDSKOI2vuoqvzcYWrGblFCSRXzKgNF4uGdXpPxkLGZgQqx1pC_AnrdtZQLj98FjBUS-6tzy0tsRU3z-OOWj9qfO2VAwD7ZvoYUJValiQf6vj51D13xtFVj2GcttQpi0Q3xVpeJyiqXbfxVl7b9Ho9RFycBKTZl2gfXv2N2-CcYuC1Rtr6BjMkoFnbhfktgA&random=1186966733&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.720Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CIiBqLjbyZcDFS4oyQIddbUR0g;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=*;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;_dc_test=1;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.723Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=2ea7c304-4721-418f-8964-2ebd8d73aaba&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=ff135c0c-f043-455d-b8d5-1bcbcc572f66&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=26.5.2&tw_document_href=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792537736719-560577775&tw_session_start=1&twpid=tw.1792537736719.711949822259447751&txn_id=nun13&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.723Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=2ea7c304-4721-418f-8964-2ebd8d73aaba&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=ff135c0c-f043-455d-b8d5-1bcbcc572f66&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=26.5.2&tw_document_href=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tw_engaged_ms=1&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792537736719-560577775&tw_session_start=1&twpid=tw.1792537736719.711949822259447751&txn_id=nun13&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.747Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.graph.bluecava.com/Scripts/BlueCava.Lib.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.748Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixall.esm1.net/v2/attribution/iframe?v=QDjS2VIjuIB85DWpgpM0okxT",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.750Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixall.esm1.net/v2/event",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.765Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login-ds.dotomi.com/profile/visit/final/js?dtm_form_uid=453308851469721110&cachebuster=GTM-KT9VDSV-293-1792537736654&tcflag=true&dtmc_loc=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtm_token_assignment_type=0&dtm_cid=83396&dtm_fid=7320&dtm_yld_site_id=fbe8da35-08b8-4caf-8d3f-150ca72f88cc&dtm_zip_code=36849&dtm_user_dc=iad&dtm_id_assgn_type=0&dtm_state=AL&dccu=true&dtm_user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&dtm_country_code=US&init_wl_code=4&ops_test_camp=false&dtmc_tms=4&dtm_token=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&dtm_dma_code=522&dtm_cmagic=c565e6&init_ts=1792537736687&dtm_client_optout=false&dtm_tag_complete=false&wl_domains_key=%5E(.*%5C.)%3Fkia%5C.com%24-www.kia.com-%2Ftag_path-&dtm_promo_id=201&dtm_cookies_enabled=true&data_object_type_code=0&canonical_url=https%3A%2F%2Fwww.kia.com%2Fus%2F&dtmc_ref=&cli_promo_id=201&cmps_queried=true",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.765Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://td.yieldify.com/yieldify/code.js?w_uuid=fbe8da35-08b8-4caf-8d3f-150ca72f88cc&k=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.789Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/357795334408363?v=2.9.426&r=stable&domain=www.kia.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.790Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CM6hprjbyZcDFVtVnQYd5_0cSQ;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=1551836840.1792537737;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.807Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://alb.reddit.com/rp?id=a2_g420921pz5yq&event=PageVisit",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.807Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=3897038385561845949;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOnvHJtUnOt1c_3_fk6BeXMJZuP8NMhJo7rIk;_dc_time=1792537736;dc_pre=CM6hprjbyZcDFVtVnQYd5_0cSQ;src=4235921;type=kiati927;cat=homep508;rcb=14;ord=8218856206335;npa=0;auiddc=1551836840.1792537737;u7=undefined;u11=desktop;u12=home;u15=english;gdid=dOThhZD;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6aj1h1v9181630726z8858305408za20gzb858305408zd858305408xeaxf1;gcs=G111;gcd=13t3t3t3t5l1;dma=0;dc_fmt=3;tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034;epver=2;dc_random=1792537736_45RqizIZ8lgHgP2URWFtgcvrKMig2R7uLg;~oref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.820Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=90vueza&cookie_sync=1&upv=3.0.0&upid=caiwisu&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.821Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.graph.bluecava.com/i?p=30b3d1b4-c30f-11eb-b434-4201ac100007&segment=f1f355310fc3eb119f7f42010a78800c&uid=QDjS2VIjuIB85DWpgpM0okxT",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.833Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/5202151.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.900Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.moloco.com/p/rc/pxl-DQHgNCIN.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/t/5202151",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.923Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=5202151&tm=gtm002&Ver=2&mid=c9dd3e03-e83f-45b2-b8a8-7b8e286c4278&bo=1&sid=3a0ff9a0ccdb11f1a85267e75d06a511&vid=3a0feb50ccdb11f1851f875390bdf544&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&p=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&r=&lt=995&evt=pageLoad&sv=2&cdb=AQAS&rn=193478",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.955Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/s/0.8.72",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.959Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://idsync.rlcdn.com/461399.gif?partner_uid=QDjS2VIjuIB85DWpgpM0okxT",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.971Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=90vueza&cookie_sync=1&upv=3.0.0&upid=caiwisu&ref=https%3a%2f%2fwww.kia.com&redirect=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:56.994Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://custom.yieldify.com/v1/100690/101172/89073e4b86/bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.010Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.012Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=807a8422-86c2-49c8-a6d2-868184bcd33a&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=ODA3YTg0MjItODZjMi00OWM4LWE2ZDItODY4MTg0YmNkMzNh&gdpr=0&gdpr_consent=&ttd_tdid=807a8422-86c2-49c8-a6d2-868184bcd33a",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=807a8422-86c2-49c8-a6d2-868184bcd33a",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.kia.com/tag_path/profile/set/fpc/px?dtm_cid=83396&dtm_cmagic=c565e6&ver=2&dtm_form_uid=453308851469721110&wl_domains_key=%5E(.*%5C.)%3Fkia%5C.com%24-www.kia.com-%2Ftag_path-&wl_override=&dtm_token=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&dtm_host=login.dotomi.com",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537072954&val=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://idsync.rlcdn.com/449046.gif?partner_uid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=dotomi&google_cm&google_sc&google_ula=17128,0&google_hm=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=65&external_user_id=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://eb2.3lift.com/xuid?mid=6732&dongle=38F&xuid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://us-east.ads.audio.thisisdax.com/sync?tp_id=785&dsp_dax_listenerid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr=false&gdpr_consent=&us_privacy=US_PRIVACY",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ups.analytics.yahoo.com/ups/55853/sync?_origin=1&uid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.026Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/setuid?bidderID=24&dspUserId=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.053Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/KIA/rmeta?providerId=KIAT1&retailerId=KIA&scenario=T1",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.064Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pg",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.064Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/init?source=MOLOCO_PIXEL&mlc_cm",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://idsync.rlcdn.com/1000.gif?memo=CNeUHBIkCiAIARCl9AEaGFFEalMyVklqdUlCODVEV3BncE0wb2t4VBAAGg0Iienf1gYSBQjoBxAAQgBKAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.065Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=807a8422-86c2-49c8-a6d2-868184bcd33a&google_gid=CAESEGtBVxMZvl-OPZ-L1OC3ijc&google_cver=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.066Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixelfnt-v6-us.dsp-api.moloco.com/v1/aal?cid=MLCP.1.1792537737055.186210313&sid=1792537737055_0c5e3f5770174772",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.066Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=pxl-DQHgNCIN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.066Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=pxl-DQHgNCIN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.066Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=pxl-DQHgNCIN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.079Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dclk-match.dotomi.com/match/pixel/current?networkId=14000&version=1&gdpr_consent=&google_gid=CAESEGhStuHl2WiwBFQXdd2_BtQ&google_cver=1&google_ula=17128,0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.080Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.graph.bluecava.com/js/bc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.090Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?cc=1&id=537072954&val=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.092Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ups.analytics.yahoo.com/ups/55853/sync?_origin=1&uid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=&verify=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.096Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sync.graph.bluecava.com/init.bci",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.100Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://idsync.rlcdn.com/1000.gif?memo=CJa0GxI8CjgIARDB0AkaMEFRQUhTM2otcW5lYjZnRm0tQXQ1QVFCRXhRQUJBUUNnV3BJMDdnRUJBS0Jha2pUdRAAGg0Iienf1gYSBQjoBxAAQgBKAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.105Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixall.esm1.net/v2/liveramp/callback?lr=eb16eb3008633500341462afd3abbaf61a4c5e770186025bb2b94fbf1b9cb5d14873a8ac4d227d8d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.115Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://eb2.3lift.com/xuid?ld=1&mid=6732&xuid=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&dongle=38F&gdpr=0&cmp_cs=&us_privacy=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.116Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.120Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=9124266205196287644&ttd_tdid=807a8422-86c2-49c8-a6d2-868184bcd33a",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.121Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/sync?redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dinmobi.com%26id%3D%7BID5UID%7D&gdpr_consent=&gdpr=&us_privacy=&gdpr_pd=&source=7&google_push=&retry=&gpp=&gpp_sid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.122Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=65&external_user_id=AQAHS3j-qneb6gFm-At5AQBExQABAQCgWpI07gEBAKBakjTu&gdpr_consent=&C=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.122Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/u",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=moloco_ads&google_cm&google_hm=0jEwBmjcTGqRLDGiIKEBog",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=19&external_user_id=d2313006-68dc-4c6a-912c-31a220a101a2",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://act.ds.kakao.com/match?d=110&uid=0jEwBmjcTGqRLDGiIKEBog",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=1552048&nid=5676&put=0jEwBmjcTGqRLDGiIKEBog",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM4OTQmdGw9MjAxNjA=&piggybackCookie=0jEwBmjcTGqRLDGiIKEBog",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.146Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.taboola.com/sg/molocortbnative-network/1/rtb-h/?taboola_hm=0jEwBmjcTGqRLDGiIKEBog",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.152Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://dp-sync.dotomi.com/match/pixel/current?networkId=26832&version=1&nuid=618495167614d11f23a0bfe8b683c8a26278356bc4d2293cbe00e0eb8e04a6ebcecafa215448e457",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.167Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/cm/adxcm?google_gid=CAESEHsrawf9Rh00NIQjyy0fflA&google_cver=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.189Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.190Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/1546130715708472?v=2.9.426&r=stable&domain=www.kia.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C276%2C230%2C225%2C228%2C229%2C207%2C223%2C390%2C304%2C308%2C312%2C313%2C314%2C309%2C315%2C307%2C302%2C317%2C318%2C306%2C316%2C320%2C310%2C305%2C311%2C319%2C321%2C303%2C240%2C301%2C206%2C226%2C227%2C251%2C224%2C222%2C246%2C278%2C242%2C215%2C216%2C212%2C213%2C214%2C211%2C209%2C220%2C221%2C219%2C327%2C383%2C231%2C281%2C288%2C289%2C282%2C284%2C287%2C285%2C286%2C283%2C280%2C299%2C293%2C296%2C292%2C300%2C297%2C291%2C295%2C298%2C294%2C290%2C359",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.190Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr/?id=357795334408363&ev=PageView&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rl=&if=false&ts=1792537737182&iw=false&sw=1280&sh=720&v=2.9.426&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1792537737175.19350056572838670&eid=ob3_plugin-set_6611775f41fd42fa340c35054920a360f9aea66012fde2c84422adc6d46ee750&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&pmd[locale]=en&pmd[description]=Kia%20America%2C%20Inc.%20provides%20a%20wide%20range%20of%20cars%20that%20meet%20your%20lifestyle.%20Browse%20our%20luxury%20or%20sports%20sedans%2C%20hybrids%2C%20electric%20cars%2C%20SUVs%20%26%20hatchbacks.%20&plt=992.7999999523163&imft=1&tz=-300&it=1792537736786&coo=false&tm=1&cf=1&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im0&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&rqm=GET",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.190Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://sync.inmobi.com/sync?redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dinmobi.com%26id%3D%7BID5UID%7D&gdpr_consent=&gdpr=&us_privacy=&gdpr_pd=&source=7&google_push=&retry=true&gpp=&gpp_sid=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.214Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/scripts/sdanalytics/sda.js?clientId=KIA&instanceName=sda&scenario=T1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.217Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://sync.graph.bluecava.com/req.bci",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.224Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/ecm3?ex=inmobi.com&id=ID5-7-12592ca9-6c72-46c4-a31e-f210f8e4e68c",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.274Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://p.alcmpn.com/idr/ven/1028/idr.gif?fpid=8708dc20-0e24-456b-b02e-261ea59ac118",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.280Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.280Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://pixall.esm1.net/adstra?pxa_bc=8708dc20-0e24-456b-b02e-261ea59ac118",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.310Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/id/sda_id.js?ns=SDA",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.310Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/scripts/sdanalytics/sda_fp.js?clientId=kia&instanceName=sda",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.323Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/id/3pc?cb=window[%27_SDA%27][%27_cb2wrquq%27]",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.433Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/id/3pc?cb=window%5B%27_SDA%27%5D%5B%27_cb2wrquq%27%5D&r=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.499Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://td.yieldify.com/0.0.1/tag/1.504.1/main-web-worker.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.518Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://trkn.us/pixel/conv/ppt=24212;g=website;gid=59940;ord=6979860311926.839;cv1=KIA;cv2=1c98bb6f-0572-4b98-af07-96b4b53c76f5;cv3=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.518Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=pageview&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=4b546686-01d9-468e-8741-3d2aa6586f3b&sdid=kxd0zq&sc=T1&id2=y2myanax8izg&evars=&props=containerSource!2Production%2FKia%2Fsdt1.js!1containerUrl!2https%3A%2F%2Ftagging.shiftdigitalapps.io%2Fscripts%2Fsdt1.js%3FcontainerId%3DKIA%26dl%3Dsd!1tagSource!2Production%2Fdefault%2Fsda.js!1pagetype!2home&pv=&aid=&cmp=&cmpn=&cmpt=&ch=&daa=&dac=&dak=&dal=&dapl=&dapo=&dap=&kw=&smt=&tgid=&tz=America%2FChicago&tzo=300&cb=wmu8oe&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537737517&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&pc=GTM!2467!1FB!23679&ins=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.582Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://trkn.us/pixel/conv/ppt=24212;g=website;gid=59940;ord=6979860311926.839;cv1=KIA;cv2=1c98bb6f-0572-4b98-af07-96b4b53c76f5;cv3=;ip=131.204.254.102;cuidchk=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.599Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "blob:https://www.kia.com/7f60cf3c-5447-4998-927d-3c54f8d05295",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.628Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://v2.dc.yieldify.com/i?e=ue&tv=2-3.12.0&aid=101172&yuid=5a0a80c8-e550-5f03-8695-822f501a36fc&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtm=1792537737627&sc=1&ec=4&trv=1.504.1&tuuid=df4f037a-8058-4fc7-b881-d646c4bc0a2f&bid=51ea3358-e02b-4579-91bf-da9b07bbe199&hcc=false&bot=false&ue_px=eyJkYXRhIjp7ImRhdGEiOnsiZXQiOiJQYWdlVmlldyIsImRldiI6ImRlc2t0b3AiLCJkd2VsbCI6MCwib2lkIjoxMDA2OTAsIndpZCI6MTAxMTcyLCJkdCI6IkFRQUhTM2otcW5lYjZnRm0tQXQ1QVFCRXhRQUJBUUNnV3BJMDdnRUJBS0Jha2pUdSIsInJlZiI6IiIsInBhZ2V0eXBlIjpbImhvbWUiXSwiYXB0IjpbImhvbWUiXSwiaWgiOmZhbHNlfX19",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.628Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://v2.dc.yieldify.com/i?e=ue&tv=2-3.12.0&aid=101172&yuid=5a0a80c8-e550-5f03-8695-822f501a36fc&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtm=1792537737627&sc=1&ec=4&trv=1.504.1&tuuid=df4f037a-8058-4fc7-b881-d646c4bc0a2f&bid=51ea3358-e02b-4579-91bf-da9b07bbe199&hcc=false&bot=false&ue_px=eyJkYXRhIjp7ImRhdGEiOnsiZXQiOiJEb21haW5FbnRpdHlQcm9wZXJ0eVVwZGF0ZSIsImRldiI6ImRlc2t0b3AiLCJkd2VsbCI6MTIsIm9pZCI6MTAwNjkwLCJ3aWQiOjEwMTE3MiwiZHQiOiJBUUFIUzNqLXFuZWI2Z0ZtLUF0NUFRQkV4UUFCQVFDZ1dwSTA3Z0VCQUtCYWtqVHUiLCJlbnRpdHkiOiJzZWxlY3RlZC1tb2RlbC11c2VyIiwicHJvcGVydHkiOiJmaXJzdC1uYW1lIiwicHJldnZhbCI6bnVsbCwibmV3dmFsIjoiICIsInR5cGUiOiJTdHJpbmcifX19",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:57.801Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.001Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://analytics.ad.daum.net/match2?DSPR=%7B%22mcr%22:%7B%22t%22:%2220261021%22,%22u%22:%220jEwBmjcTGqRLDGiIKEBog%22%7D,%22v%22:1%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.540Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login-ds.dotomi.com/ucm/DMCSuccessLogger?dtmid=453308851504454379&sessionid=1792537736948&comId=83396&dtm_command_op_date=1792537736948&uniqueid=453308851469721110&px_timeout=1500&px_latencies=%5B%7B%22px_id%22%3A%2228069%22%2C%22px_latency%22%3A91%7D%2C%7B%22px_id%22%3A%2229350%22%2C%22px_latency%22%3A255%7D%2C%7B%22px_id%22%3A%2230509%22%2C%22px_latency%22%3A1501%7D%2C%7B%22px_id%22%3A%2230589%22%2C%22px_latency%22%3A178%7D%2C%7B%22px_id%22%3A%2230629%22%2C%22px_latency%22%3A125%7D%2C%7B%22px_id%22%3A%2231741%22%2C%22px_latency%22%3A109%7D%2C%7B%22px_id%22%3A%2231781%22%2C%22px_latency%22%3A1501%7D%2C%7B%22px_id%22%3A%2231831%22%2C%22px_latency%22%3A279%7D%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.630Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://v2.dc.yieldify.com/i?e=ue&tv=2-3.12.0&aid=101172&yuid=5a0a80c8-e550-5f03-8695-822f501a36fc&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtm=1792537738626&sc=1&ec=5&trv=1.504.1&tuuid=df4f037a-8058-4fc7-b881-d646c4bc0a2f&bid=51ea3358-e02b-4579-91bf-da9b07bbe199&hcc=false&bot=false&ue_px=eyJkYXRhIjp7ImRhdGEiOnsiZXQiOiJVc2VyUHJvZmlsZSIsImRldiI6ImRlc2t0b3AiLCJkd2VsbCI6MTAxMSwib2lkIjoxMDA2OTAsIndpZCI6MTAxMTcyLCJkdCI6IkFRQUhTM2otcW5lYjZnRm0tQXQ1QVFCRXhRQUJBUUNnV3BJMDdnRUJBS0Jha2pUdSIsImVwcyI6dHJ1ZSwic3RhdGUiOnsic2UiOnsiYyI6MSwiZWMiOjQsImxhIjoxNzkyNTM3NzM4NjE5LCJwIjoxLCJzYyI6MX0sInUiOnsiaWQiOiI1YTBhODBjOC1lNTUwLTVmMDMtODY5NS04MjJmNTAxYTM2ZmMiLCJmbCI6IjAiLCJwcm9maWxlIjp7ImNhbXBhaWducyI6e319LCJkdG1Ub2tlbk1haW4iOiJBUUFIUzNqLXFuZWI2Z0ZtLUF0NUFRQkV4UUFCQVFDZ1dwSTA3Z0VCQUtCYWtqVHUifSwicyI6eyJjb3VudCI6MSwicmVmZXJyZXIiOiIifSwic2NwIjp7IjE5Nzk3MDU0NjAiOnsic2MiOjEsImR1cmF0aW9uIjoic2Vzc2lvbiIsInZhbHVlIjoiXCIgXCIifX0sInBpIjp7fSwidGQiOnt9fX19fQ%3D%3D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.630Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537736668&cv=11&fst=1792537736668&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537736668&cv=11&fst=1792537736668&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-5PCDXE2SGQ&gtm=45je6aj1h1v9104773165z8858305408za20gzb858305408zd858305408xf1&_p=1792537733377&_gaz=1&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dOThhZD&_eu=AAAAAGQC&cid=531793918.1792537737&frm=0&pscdl=noapi&rcb=16&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=2&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121246026~121246034&dt=kia%20america%20official%20site%3A%20discover%20the%20new%20kia&sid=1792537734&sct=1&seg=1&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&_tu=CA&en=page_view&ep.gtm_id=GTM-KT9VDSV&ep.gtm_container_version=293&ep.user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.site_section=home&ep.ga_client_id=ga531793918.1792537737&ep.timestamp=2026%7C10%7C20%7C18%7C08%7C56&ep.page_name=home&ep.page_type=home&ep.layout_type=desktop&ep.site_language=english&ep.tier=1&ep.uc_settings=false&ep.uc_visitor_type=implicit&_et=2058&up.ga_custom_client_id=ga531793918.1792537737&tfd=5624",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11191334772/?random=1792537736670&cv=11&fst=1792537736670&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11191334772/?random=1792537736670&cv=11&fst=1792537736670&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-975154757&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&ep.ads_data_redaction=1&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537738681&tfd=5629&tids=AW-975154757&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.682Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=1551836840.1792537737&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&tid=AW-11191334772&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=303134132.1792537737&navt=n&npa=0&ep.ads_data_redaction=1&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1792537738681&tfd=5630&tids=AW-11191334772&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.683Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://ats-wrapper.privacymanager.io/ats-modules/c3d94c0d-f9a0-445f-b217-03b31a5db5a5/ats.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.684Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=interaction&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=b93c401d-a3fe-47de-b569-97f2390559bd&sdid=kxd0zq&sc=T1&id0=1itpcufa6ew8s&id2=y2myanax8izg&cb=3ndqdd&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537738684&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&it=click&ix=61.5&iy=6.1&ixp=%2F%2Fdiv%5B%40id%3D%22js-page-content-container%22%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fsection%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fpicture%5B1%5D%2Fimg%5B1%5D&iox=60.6&ioy=43.2&pc=GTM!2467!1FB!23679",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.718Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11191334772/?random=1792537736670&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115938466~115938468~117628654~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=8&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3NF6fuTZzpoRZe_lg9Xn4NZjH4H602e1GMcIqhGZGGl9fgP9g2Yjd1F-sbXFJs0EzRmfVF1-SP5t3JxImPOpWiYWEcVMDyTl6cdPgS5y9GBQPsYnzZ_jjlLeO6l6-1FR3Q3USbSNKsbVHymaL3H4Qa0CVtKWRLPsLHhj-9SJ6AUCdRCA3gBUDvvzSApAs5b0gisobl2L7LZ57Oi0M2J8_oZlOwXIRCSJy8T3QQ03P_KxS9PYrpkHuYJbactSH0A3gVNOCuOMGzrXI5DcWiV9MQZASfcRciRmXem97pw8&random=99855097&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.719Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537736668&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13t3t3t3t5l1&dma=0&tag_exp=115616985~115938466~115938468~117628654~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1551836840.1792537737&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dtrue&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3HC4pfP7x80untZiDZrfZvSAqgHgnlv9jVkH-HPwmi9DSKjPaX7CJ17DuahBqCJMU5zI_4v5CqizU5p4S1a1nB5aINNyY0s2SDwoJMM_7icljKyyp6xxtlhg7dZNyPW2CTG_mobg3-QapVFPTFpDAGSPW0o9yoymNEW66PwYwEO1UobgMaqkQNhB5FuGICYuv_VQ1_S3n4W1VFyhb9oTiy97-Ee451mnZAOCirergT2N4JhRer52T68HmbvPAkjqf45PCLNk-EpQAqn3wNZMUDKoO1evZ1mxPOKN2dkJ&random=392499981&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.748Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://geo.privacymanager.io/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:58.749Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://di.rlcdn.com/api/segment?pid=713404",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:59.190Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=ping&cl=KIA&rid=KIA&prid=KIAT1&uid=ae2e3593-6f0b-496b-b386-dc5fa4d9d69e&sid=1c98bb6f-0572-4b98-af07-96b4b53c76f5&pid=4be59433-8b85-4042-a450-bce9e9e14932&hid=6603d8ed-fd2a-4329-bc3a-ad69333660ec&sdid=kxd0zq&sc=T1&id0=1itpcufa6ew8s&id1=d973beae7ea29227706d659f94b9ab75&id2=y2myanax8izg&cb=lmd36x&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=&rs=1280x720&ts=1792537739189&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=4251&pti=4252&prs=176&pre=246&pdl=992&plc=995&pc=GTM!2467!1FB!23679&fpc=d171da73dffd7d2ea977997178dd8e52%7C1%7Cen-US%7C30%7C8%7C8%7C720%3B1280%7C720%3B1280%7C300%7CAmerica%2FChicago%7C1%7C1%7C1%7C0%7C0%7Cunknown%7CMacIntel%7C1a40b945b383a22aedb98bffaa10dec2%7Cf5be28cb082907fdbdaf3c8f88aa5820%7Cc6f81e02a456b544787b3ece7081be44%7C616fc7e182c5580f0f29e57b17f2419e%7C0%7C0%7C0%7C0%7C0%7C0%3Bfalse%3Bfalse%7C592c83d6ca11d9cec64e19f7bba2324e%7C124.0434748024636%7Cdedf3932a0251249cc72f8801b40eb5a",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:59.628Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/u",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:59.828Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://trkweb.clinch.co/trk?cid=upfcQR&dsid=uhsc6U&type=pageView&product=car&referrer=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&version=26.41.1&a=1792537739820&t=CLQ",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:09:03.684Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-5PCDXE2SGQ&gtm=45je6aj1h1v9104773165z8858305408za20gzb858305408zd858305408xf1&_p=1792537733377&gcs=G111&gcd=13t3t3t3t5l1&npa=0&dma=0&gdid=dOThhZD&_eu=AAAAAGQC&cid=531793918.1792537737&frm=0&pscdl=noapi&rcb=16&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=3&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385423~120412527~120469145~120469153~121246026~121246034&sid=1792537734&sct=1&seg=1&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dt=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&_tu=CA&en=trade_desk_tag&ep.gtm_id=GTM-KT9VDSV&ep.gtm_container_version=293&ep.user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&ep.site_section=home&ep.ga_client_id=ga531793918.1792537737&ep.timestamp=2026%7C10%7C20%7C18%7C08%7C56&ep.page_name=home&ep.page_type=home&ep.layout_type=desktop&ep.site_language=english&ep.tier=1&ep.uc_settings=false&ep.uc_visitor_type=implicit&ep.td_event=gtm.triggerGroup&ep.td_referrer=&_et=1&tfd=10628",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

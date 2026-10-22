@@ -1,0 +1,2698 @@
+[
+  {
+    "timestamp": "2026-10-20T22:53:40.709Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=11907&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:40.711Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=11907&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:41.113Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw4d0f1055%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Him.jpg%22%2C%22alt%22%3A%22Watches%20on%20His%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw81d95d3a%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Cartier-Icons.jpg%22%2C%22alt%22%3A%22The%20Cartier%20Icons%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwde68321f%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Mini-Watches.jpg%22%2C%22alt%22%3A%22Mini%20watches%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwe2563a33%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Her.jpg%22%2C%22alt%22%3A%22Watches%20on%20Her%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:41.114Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw4d0f1055%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Him.jpg%22%2C%22alt%22%3A%22Watches%20on%20His%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw81d95d3a%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Cartier-Icons.jpg%22%2C%22alt%22%3A%22The%20Cartier%20Icons%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwde68321f%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Mini-Watches.jpg%22%2C%22alt%22%3A%22Mini%20watches%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwe2563a33%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Her.jpg%22%2C%22alt%22%3A%22Watches%20on%20Her%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:41.114Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw4d0f1055%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Him.jpg%22%2C%22alt%22%3A%22Watches%20on%20His%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw81d95d3a%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Cartier-Icons.jpg%22%2C%22alt%22%3A%22The%20Cartier%20Icons%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwde68321f%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Mini-Watches.jpg%22%2C%22alt%22%3A%22Mini%20watches%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwe2563a33%2FMegaMenu%2Fbe-inspired%2FWAT_BI_Watches-Her.jpg%22%2C%22alt%22%3A%22Watches%20on%20Her%20Wishlist%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:41.773Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=12502&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:41.774Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=12502&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:43.102Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=13097&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:43.102Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=13097&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:43.717Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw05151a3a%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Precious_Sunglasses.jpg%22%2C%22alt%22%3A%22Precious%20Sunglasses%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw24ff38d9%2FMegaMenu%2Fbe-inspired%2FHOME.jpg%22%2C%22alt%22%3A%22Home%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwd7a386f9%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Wishlist_For_Her.jpg%22%2C%22alt%22%3A%22Wishlist%20for%20her%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwdc003692%2FMegaMenu%2Fbe-inspired%2FCARTIER_EYEWEAR_MEGAMENU_400x400_SET-FOR-YOU_2.jpg%22%2C%22alt%22%3A%22Set%20for%20You%20Eyewear%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:43.718Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw05151a3a%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Precious_Sunglasses.jpg%22%2C%22alt%22%3A%22Precious%20Sunglasses%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw24ff38d9%2FMegaMenu%2Fbe-inspired%2FHOME.jpg%22%2C%22alt%22%3A%22Home%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwd7a386f9%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Wishlist_For_Her.jpg%22%2C%22alt%22%3A%22Wishlist%20for%20her%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwdc003692%2FMegaMenu%2Fbe-inspired%2FCARTIER_EYEWEAR_MEGAMENU_400x400_SET-FOR-YOU_2.jpg%22%2C%22alt%22%3A%22Set%20for%20You%20Eyewear%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:43.718Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw05151a3a%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Precious_Sunglasses.jpg%22%2C%22alt%22%3A%22Precious%20Sunglasses%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw24ff38d9%2FMegaMenu%2Fbe-inspired%2FHOME.jpg%22%2C%22alt%22%3A%22Home%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwd7a386f9%2FMegaMenu%2Fbe-inspired%2FBAGS_BI_Wishlist_For_Her.jpg%22%2C%22alt%22%3A%22Wishlist%20for%20her%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwdc003692%2FMegaMenu%2Fbe-inspired%2FCARTIER_EYEWEAR_MEGAMENU_400x400_SET-FOR-YOU_2.jpg%22%2C%22alt%22%3A%22Set%20for%20You%20Eyewear%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:44.427Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=13692&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:44.428Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=13692&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:45.135Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw21b018d7%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw476accb4%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Her.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HER%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw7a864492%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Him.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HIM%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:45.135Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw21b018d7%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw476accb4%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Her.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HER%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw7a864492%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Him.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HIM%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:45.135Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw21b018d7%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw476accb4%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Her.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HER%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw7a864492%2FMegaMenu%2Fbe-inspired%2FFRAG_BI_Fragrances-Him.jpg%22%2C%22alt%22%3A%22WISHLIST%20FRAGRANCES%20FOR%20HIM%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:45.758Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=14287&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:45.758Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=14287&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:46.470Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw38508567%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Gifts.jpg%22%2C%22alt%22%3A%22Gifts%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw70f05145%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw8ef6e761%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Latest-Creations.jpg%22%2C%22alt%22%3A%22Latest%20creation%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwede5abc0%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Engrave-Creation.jpg%22%2C%22alt%22%3A%22Engrave%20Your%20Creation%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:46.470Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw38508567%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Gifts.jpg%22%2C%22alt%22%3A%22Gifts%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw70f05145%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw8ef6e761%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Latest-Creations.jpg%22%2C%22alt%22%3A%22Latest%20creation%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwede5abc0%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Engrave-Creation.jpg%22%2C%22alt%22%3A%22Engrave%20Your%20Creation%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:46.470Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw38508567%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Gifts.jpg%22%2C%22alt%22%3A%22Gifts%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw70f05145%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Little-Luxuries.jpg%22%2C%22alt%22%3A%22Little%20Luxuries%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdw8ef6e761%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Latest-Creations.jpg%22%2C%22alt%22%3A%22Latest%20creation%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FSites-cartier-storefront-US%2Fdefault%2Fdwede5abc0%2FMegaMenu%2Fbe-inspired%2FAOL_BI_Engrave-Creation.jpg%22%2C%22alt%22%3A%22Engrave%20Your%20Creation%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:46.825Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=14882&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:46.825Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=14882&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:48.149Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=15477&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:48.150Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=15477&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:49.084Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw59c40eb7%2Fimages%2Flarge%2F27ac311d2746579f8fb7318dd9c794d3.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:49.085Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw59c40eb7%2Fimages%2Flarge%2F27ac311d2746579f8fb7318dd9c794d3.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:49.085Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw59c40eb7%2Fimages%2Flarge%2F27ac311d2746579f8fb7318dd9c794d3.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:49.477Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=16072&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:49.477Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=16072&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:50.635Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8b860eee%2Fimages%2Flarge%2F51421df5a0c851c5bfa5054feab35968.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw9c34276a%2Fimages%2Flarge%2F02e10c7b67f255bb904f595a51b83222.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwa2abd338%2Fimages%2Flarge%2F750b5a15480e5b61931b82da1ea8bc86.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwcca0f833%2Fimages%2Flarge%2F2de8d97cab785f3e94bcc4954ac8594e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwebb3228c%2Fimages%2Flarge%2F8e4f2ca5723e5bebb2ebae241d45dcc4.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:50.636Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8b860eee%2Fimages%2Flarge%2F51421df5a0c851c5bfa5054feab35968.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw9c34276a%2Fimages%2Flarge%2F02e10c7b67f255bb904f595a51b83222.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwa2abd338%2Fimages%2Flarge%2F750b5a15480e5b61931b82da1ea8bc86.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwcca0f833%2Fimages%2Flarge%2F2de8d97cab785f3e94bcc4954ac8594e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwebb3228c%2Fimages%2Flarge%2F8e4f2ca5723e5bebb2ebae241d45dcc4.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:50.636Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8b860eee%2Fimages%2Flarge%2F51421df5a0c851c5bfa5054feab35968.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw9c34276a%2Fimages%2Flarge%2F02e10c7b67f255bb904f595a51b83222.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwa2abd338%2Fimages%2Flarge%2F750b5a15480e5b61931b82da1ea8bc86.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwcca0f833%2Fimages%2Flarge%2F2de8d97cab785f3e94bcc4954ac8594e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwebb3228c%2Fimages%2Flarge%2F8e4f2ca5723e5bebb2ebae241d45dcc4.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:50.802Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=16667&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:50.803Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=16667&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:51.881Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=17262&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:51.881Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=17262&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:52.009Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw09c88ef3%2Fimages%2Flarge%2F51e0d71cc09a5e7f84ca177b66095d1e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw15a20de5%2Fimages%2Flarge%2Fef77a38f0f755ad1bcb87bba2f73ce81.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8913a6ea%2Fimages%2Flarge%2F68930a26a2da559fa64674abcc056eed.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw894927db%2Fimages%2Flarge%2F372fcb5abbca5b23b8dc60b7b0fad0bf.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwb06c6ede%2Fimages%2Flarge%2F65659373a5fb50d6b333b9cc4cae1881.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwfc0b5212%2Fimages%2Flarge%2Fa9c6d5174d84529bb9f99c36419c43d9.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:52.009Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw09c88ef3%2Fimages%2Flarge%2F51e0d71cc09a5e7f84ca177b66095d1e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw15a20de5%2Fimages%2Flarge%2Fef77a38f0f755ad1bcb87bba2f73ce81.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8913a6ea%2Fimages%2Flarge%2F68930a26a2da559fa64674abcc056eed.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw894927db%2Fimages%2Flarge%2F372fcb5abbca5b23b8dc60b7b0fad0bf.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwb06c6ede%2Fimages%2Flarge%2F65659373a5fb50d6b333b9cc4cae1881.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwfc0b5212%2Fimages%2Flarge%2Fa9c6d5174d84529bb9f99c36419c43d9.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:52.009Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw09c88ef3%2Fimages%2Flarge%2F51e0d71cc09a5e7f84ca177b66095d1e.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw15a20de5%2Fimages%2Flarge%2Fef77a38f0f755ad1bcb87bba2f73ce81.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw8913a6ea%2Fimages%2Flarge%2F68930a26a2da559fa64674abcc056eed.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdw894927db%2Fimages%2Flarge%2F372fcb5abbca5b23b8dc60b7b0fad0bf.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwb06c6ede%2Fimages%2Flarge%2F65659373a5fb50d6b333b9cc4cae1881.png%22%2C%22alt%22%3A%22%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FSites-cartier-master%2Fdefault%2Fdwfc0b5212%2Fimages%2Flarge%2Fa9c6d5174d84529bb9f99c36419c43d9.png%22%2C%22alt%22%3A%22%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:53.195Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=17857&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:53.196Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=17857&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:53.356Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw6005181a%2Fhomepage%2F2026%2FSeptember%2FW1%2FUS-CA%2FCLash_V2_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw981fc3e6%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FAll-Sunglasses_Hero_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw226033bb%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FTank_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwf1cc3f54%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FRoadster_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:53.357Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw6005181a%2Fhomepage%2F2026%2FSeptember%2FW1%2FUS-CA%2FCLash_V2_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw981fc3e6%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FAll-Sunglasses_Hero_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw226033bb%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FTank_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwf1cc3f54%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FRoadster_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:53.357Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw6005181a%2Fhomepage%2F2026%2FSeptember%2FW1%2FUS-CA%2FCLash_V2_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw981fc3e6%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FAll-Sunglasses_Hero_2048x864.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw226033bb%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FTank_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwf1cc3f54%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FRoadster_Double-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:54.520Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=18452&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:54.521Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=18452&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:54.844Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:54.845Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:55.852Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=19047&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:55.853Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=19047&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:56.927Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=19642&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:56.928Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=19642&u=AgAAAIA&ut=Ag&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.114Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.140Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.cartier.com/1Lmd1X/en2R/L1/9MgU/pXYNPXVD/c3YJGNzQh9hhcfi5pu/VQEiUSU/VF9Qd0/I-IjY",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.264Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://privacy.commander1.com/privacy-consent?site=6977",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.304Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://privacy.commander1.com/privacy-consent?site=6977",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.304Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.cartier.com/gtmnetsrc",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.332Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-XWMVLWF79R&cx=c&gtm=4e6ak0h2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.335Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.tagcommander.com/events/events.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.336Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.cartier.com/external-resource/d1xqz5swk3dyh.cloudfront.net/d3371502.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.337Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.noibu.com/collect.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.337Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.evgnet.com/beacon/richemontintlsa/cartier_prod/scripts/evergage.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.337Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://storage.googleapis.com/al-web-sdk/al.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.375Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.376Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/core.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.378Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.378Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.379Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.381Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.atswsd.com/v1/script.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sc-static.net/scevent.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://p.teads.tv/teads-fellow.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C70ASRVOUAG086PM0NNG&lib=ttq",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.pdst.fm/ping.min.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js.ipredictive.com/viant_universal_pixel.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.385Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://static.sojern.com/utils/sjrn_autocx.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.393Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=6&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dOWVhY2&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792536837392&tfd=28194&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.397Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://di.rlcdn.com/709638.gif?pdata=undefined=undefined&gtmcb=1110951088",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.397Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&ae=g&auid=1374246639.1792536837&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&en=consent_update&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dOWVhY2&gcu=1&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792536837396&tfd=28199&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.397Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1374246639.1792536837&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.413Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-XWMVLWF79R&cx=c&gtm=4e6ak0h2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.413Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.tagcommander.com/events/events.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.414Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.cartier.com/external-resource/d1xqz5swk3dyh.cloudfront.net/d3371502.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.414Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.noibu.com/collect.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.414Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.evgnet.com/beacon/richemontintlsa/cartier_prod/scripts/evergage.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.414Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://storage.googleapis.com/al-web-sdk/al.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.415Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/core.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.atswsd.com/v1/script.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sc-static.net/scevent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://p.teads.tv/teads-fellow.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.416Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C70ASRVOUAG086PM0NNG&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.417Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.pdst.fm/ping.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.418Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.418Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js.ipredictive.com/viant_universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.418Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://static.sojern.com/utils/sjrn_autocx.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.418Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://pagead2.googlesyndication.com/ccm/collect?rcb=6&frm=0&apvc=1&ae=g&en=page_view&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dOWVhY2&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&gcs=G100&gcd=13p3p3p3p5l1&dma_cps=-&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792536837392&tfd=28194&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.419Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://di.rlcdn.com/709638.gif?pdata=undefined=undefined&gtmcb=1110951088",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.419Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=1&ae=g&auid=1374246639.1792536837&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&en=consent_update&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dOWVhY2&gcu=1&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&tft=1792536837396&tfd=28199&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.419Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/ccm/s/collect?auid=1374246639.1792536837&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xeaxf1&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.421Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/we/160797/onsite/embed.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.422Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/we/160797/onsite/embed.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.447Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-946397343&cx=c&gtm=4e6ak0h2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.447Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=DC-15511378&cx=c&gtm=4e6ak0h2",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.468Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-XWMVLWF79R&gtm=45je6ak0h2v9225393130za20ozb6687584zd6687584xf1&_p=1792536809888&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&gdid=dOWVhY2&_eu=AAAAAGAC&cid=2052670909.1792536837&frm=0&pscdl=noapi&rcb=9&sr=1280x720&tt=external&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792536837&sct=1&seg=0&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&_tu=wA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.pg_uri=%2Fen_us%2Fhome&ep.content_group=Homepage&ep.pg_country=US&ep.pg_language=en&ep.hit_timestamp=2026-10-20T17%3A53%3A57-05%3A00&ep.internal_traffic=false&ep.user_email=&ep.sfmc_nb=_not-set_&ep.pg_type=homepage&ep.platform_type=SFCC&up.tms_container_version=1112&up.platform_type=SFCC&up.pg_country_user=US&up.user_status=notLogged&up.pg_language_user=en&tfd=28269",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.468Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-XWMVLWF79R&cid=2052670909.1792536837&gtm=45je6ak0h2v9225393130za20ozb6687584zd6687584xf1&rcb=9&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.469Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-946397343&cx=c&gtm=4e6ak0h2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.469Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=DC-15511378&cx=c&gtm=4e6ak0h2",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.469Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-XWMVLWF79R&gtm=45je6ak0h2v9225393130za20ozb6687584zd6687584xf1&_p=1792536809888&_gaz=1&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&gdid=dOWVhY2&_eu=AAAAAGAC&cid=2052670909.1792536837&frm=0&pscdl=noapi&rcb=9&sr=1280x720&tt=external&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&sid=1792536837&sct=1&seg=0&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&_tu=wA&en=page_view&_fv=1&_nsi=1&_ss=1&ep.pg_uri=%2Fen_us%2Fhome&ep.content_group=Homepage&ep.pg_country=US&ep.pg_language=en&ep.hit_timestamp=2026-10-20T17%3A53%3A57-05%3A00&ep.internal_traffic=false&ep.user_email=&ep.sfmc_nb=_not-set_&ep.pg_type=homepage&ep.platform_type=SFCC&up.tms_container_version=1112&up.platform_type=SFCC&up.pg_country_user=US&up.user_status=notLogged&up.pg_language_user=en&tfd=28269",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.470Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-XWMVLWF79R&cid=2052670909.1792536837&gtm=45je6ak0h2v9225393130za20ozb6687584zd6687584xf1&rcb=9&aip=1&dma=0&gcs=G111&gcd=13r3r3r3r5l1&npa=0&frm=0&tag_exp=115938466~115938468~118869188~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.490Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.noibu.com/collect-worker.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.499Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn.noibu.com/collect-worker.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.505Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.505Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.506Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/lib/main.2fbc2581.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.506Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/lib/main.2fbc2581.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.549Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&hf=0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html&ht=p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html&tr=1gclidw.1baut.1sp.1pntr.1img.1flc.1flc.1cvt.1cvt.1html.1html.1html.1html.1html.1html.1html.1html.1html.1html.5gclidw.5html.1html.5html.5html.1html.5html.1html.5html.1html.5html.5html.5html.5html&ti=1gclidw.2baut.2sp.2pntr.1img.2flc.2flc.2cvt.2cvt.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.1gclidw.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.549Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&hf=0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html.0__html&ht=p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html.p__html&tr=1gclidw.1baut.1sp.1pntr.1img.1flc.1flc.1cvt.1cvt.1html.1html.1html.1html.1html.1html.1html.1html.1html.1html.5gclidw.5html.1html.5html.5html.1html.5html.1html.5html.1html.5html.5html.5html.5html&ti=1gclidw.2baut.2sp.2pntr.1img.2flc.2flc.2cvt.2cvt.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.1gclidw.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html.2html&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.549Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sync.adotmob.com/user",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.549Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sync.adotmob.com/user",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.560Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/8437420/?random=1792536837557&cv=9&fst=1792536837557&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.560Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/8437420/?random=1792536837557&cv=9&fst=1792536837557&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&rfmt=3&fmt=4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.583Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/109942476021623?v=2.9.426&r=stable&domain=www.cartier.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.583Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/109942476021623?v=2.9.426&r=stable&domain=www.cartier.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.589Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.592Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/amzn.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.592Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/iu3?pid=b6a7b314-102c-431e-ae84-7a4b7af73ca4&event=PageView&gtmVersion=3.5&ts=1792536837588&eventSource=amzn.js&uuid=457a79bc-9797-405f-b766-ce45d05a3d68",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.592Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/allowlist/allowlist.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.593Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/iu3?pid=b6a7b314-102c-431e-ae84-7a4b7af73ca4&event=PageView&gtmVersion=3.5&ts=1792536837588&eventSource=amzn.js&uuid=457a79bc-9797-405f-b766-ce45d05a3d68",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.593Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c.amazon-adsystem.com/aat/allowlist/allowlist.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.593Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.593Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.593Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=26500&time=1792536837591&li_adsId=f46ac58b-3419-4093-ba35-20a9f0ea00f1&pageLoadId=5b384e9b-1202-4186-a8ee-acbec476f3e3&url=cartier.com%2Fpage_view_customtag&tm=gtmv2&eventId=925368373323379369641180_page_view",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.594Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=26500&time=1792536837591&li_adsId=f46ac58b-3419-4093-ba35-20a9f0ea00f1&pageLoadId=5b384e9b-1202-4186-a8ee-acbec476f3e3&url=cartier.com%2Fpage_view_customtag&tm=gtmv2&eventId=925368373323379369641180_page_view",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.598Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixels.spotify.com/v1/config/f92040ba998e446c876bf637508b7133",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.598Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixels.spotify.com/v1/config/f92040ba998e446c876bf637508b7133",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.599Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=21537&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.599Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=21537&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.601Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cm.teads.tv/v2/advertiser?referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tag_version=8.15.2_a4a3745&advertiser_id=10366&gtm_consent=true&has_consent=true&cht=timeout&zone=usCanada",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.601Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cm.teads.tv/v2/advertiser?referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tag_version=8.15.2_a4a3745&advertiser_id=10366&gtm_consent=true&has_consent=true&cht=timeout&zone=usCanada",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.604Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/5436491.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.604Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/5436491.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.639Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946397343/?random=1792536837630&cv=11&fst=1792536837630&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=9&rfmt=3&fmt=4",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.639Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/946397343/?random=1792536837630&cv=11&fst=1792536837630&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.640Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/946397343/?random=1792536837630&cv=11&fst=1792536837630&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.640Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/946397343/?random=1792536837630&cv=11&fst=1792536837630&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.641Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&auid=1374246639.1792536837&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&tid=AW-946397343&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=0&ep.pagetype=homepage&did=dOWVhY2&gdid=dOWVhY2&_tu=CA&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&tft=1792536837639&tfd=28442&tids=AW-946397343&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.641Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=0&ae=g&auid=1374246639.1792536837&dt=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&tid=AW-946397343&dl=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&scrsrc=www.googletagmanager.com&rnd=260355789.1792536837&navt=n&npa=0&ep.pagetype=homepage&did=dOWVhY2&gdid=dOWVhY2&_tu=CA&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcs=G111&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&tft=1792536837639&tfd=28442&tids=AW-946397343&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.674Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.674Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.684Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://privacy.commander1.com/privacy-consent?tc_firsttime=1&site=6977",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.685Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://15511378.fls.doubleclick.net/activityi;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.687Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.688Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.688Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://15511378.fls.doubleclick.net/activityi;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.700Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?tid=2612485862178&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&cb=1792536837698&dep=2%2CPAGE_LOAD",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.701Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?tid=2612485862178&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&cb=1792536837698&dep=2%2CPAGE_LOAD",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.701Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CPjM1YvYyZcDFZJEnQYdZKAFMg;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.702Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/activity;dc_pre=CKrS1YvYyZcDFfFEnQYdbrAxlQ;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.703Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://pixels.spotify.com/v1/ingest",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.703Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://pixels.spotify.com/v1/ingest",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.704Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://pixels.spotify.com/v1/ingest",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.704Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2612485862178&cb=1792536837702&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.705Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2612485862178&cb=1792536837702&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.707Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://collect.commander1.com/events?tc_s=7424&token=05567b6a-a6f4-416b-9617-80acc14c80af",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.708Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://collect.commander1.com/events?tc_s=7424&token=05567b6a-a6f4-416b-9617-80acc14c80af",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.708Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sdk.absolutelabs.app/forms/3b9fdde9",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.708Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sdk.absolutelabs.app/forms/3b9fdde9",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.712Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?tid=2612485862178&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Atrue%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D&cb=1792536837711",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.712Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?tid=2612485862178&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Atrue%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D&cb=1792536837711",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.713Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/config/com/4f900e42-92af-4fc6-bbe0-a3a2327db456.js?v=3.61.0-2610191940",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.714Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/config/com/4f900e42-92af-4fc6-bbe0-a3a2327db456.js?v=3.61.0-2610191940",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.715Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/cm/i?pid=4f900e42-92af-4fc6-bbe0-a3a2327db456&u_scsid=6890e7af-7560-4213-bfd1-0bd6c01d77f9&u_sclid=4f8a07ae-c3d0-4299-b148-3d5ab12baa96",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.718Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "blob:https://www.cartier.com/42ee5134-9559-4905-9598-e9e7e50a99b9",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.724Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0OQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.725Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0OQ.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.726Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=5497314930853250548;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOmYv2G_pOw9wSo1EScW4isRfpK1i41N-p2k2;_dc_time=1792536837;dc_pre=CPjM1YvYyZcDFZJEnQYdZKAFMg;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.727Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=12490633140739121865;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOp2MSKH3MRAVH-UN18joQ0-UEA6ZVcREu1Qt;_dc_time=1792536837;dc_pre=CKrS1YvYyZcDFfFEnQYdbrAxlQ;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=3;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.727Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://di.rlcdn.com/api/segment?gtmcb=1110951088&pdata=undefined%3Dundefined&pid=709638&redirect=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.737Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.amazon-adsystem.com/iu3?pid=b6a7b314-102c-431e-ae84-7a4b7af73ca4&event=PageView&gtmVersion=3.5&ts=1792536837588&eventSource=amzn.js&uuid=457a79bc-9797-405f-b766-ce45d05a3d68&dcc=t",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.760Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://15511378.fls.doubleclick.net/activityi;dc_pre=CJbA2IvYyZcDFffK0gQdSP0heg;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.761Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://15511378.fls.doubleclick.net/activityi;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOqAC-mghsMUd9WOkwm-AKXbCEzAX1MgN79h_;dc_pre=CLm62IvYyZcDFezi0gQdiEk9zA;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=1374246639.1792536837;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.771Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&tr=5html.5html.5cvt.5pntr.1pntr.5cvt.5baut.5sp.5pntr&ti=2html.2html.2cvt.2pntr.2pntr.2cvt.2baut.2sp.2pntr&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.771Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&tr=5html.5html.5cvt.5pntr.1pntr.5cvt.5baut.5sp.5pntr&ti=2html.2html.2cvt.2pntr.2pntr.2cvt.2baut.2sp.2pntr&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.801Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CJbA2IvYyZcDFffK0gQdSP0heg;src=15511378;type=car;cat=arrival;rcb=8;ord=1;num=586582028015;npa=0;auiddc=*;u2=page_view;u3=Homepage;u4=null;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KJA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_bDZd0FfgtONXnXYC5QofXsBpHyNyqrN2iA;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.802Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOqAC-mghsMUd9WOkwm-AKXbCEzAX1MgN79h_;dc_pre=CLm62IvYyZcDFezi0gQdiEk9zA;src=15511378;type=car;cat=homepage;rcb=8;ord=6292930155738;npa=0;auiddc=*;u2=page_view;u3=homepage;gdid=dOWVhY2;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=26.5.2;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6ak0h2v9220784743z8811372399za20gzb811372399zd6687584xeaxf1;gcs=G111;gcd=13r3r3r3r5l1;dma=0;dc_fmt=2;tag_exp=115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792536837_uJ6aANDpaRPH_ezYvAg87Hau2BXfQ4WsBQ;_dc_test=1;~oref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.869Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sc-static.net/scevent.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.882Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=26500&time=1792536837591&li_adsId=f46ac58b-3419-4093-ba35-20a9f0ea00f1&pageLoadId=5b384e9b-1202-4186-a8ee-acbec476f3e3&url=cartier.com%2Fpage_view_customtag&tm=gtmv2&eventId=925368373323379369641180_page_view&cookiesTest=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.937Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/cm/s?bt=1d53c387&pnid=140&cb=1792536837935&u_scsid=64c26070-1fc5-4068-8034-4de783c58e4c&u_sclid=1c4f79c6-82be-414c-a0ee-8e0b08f77c04",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:57.992Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/push?partner_id=2884&partner_url=https%3A%2F%2Ftr.snapchat.com%2Fcm%2Fp%3Frand%3D1792516232167%26pnid%3D140%26pcid%3D%24%7BTA_DEVICE_ID%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.018Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D26500%26time%3D1792536837591%26li_adsId%3Df46ac58b-3419-4093-ba35-20a9f0ea00f1%26pageLoadId%3D5b384e9b-1202-4186-a8ee-acbec476f3e3%26url%3Dcartier.com%252Fpage_view_customtag%26tm%3Dgtmv2%26eventId%3D925368373323379369641180_page_view%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.056Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.tapad.com/idsync/ex/push/check?partner_id=2884&partner_url=https%3A%2F%2Ftr.snapchat.com%2Fcm%2Fp%3Frand%3D1792516232167%26pnid%3D140%26pcid%3D%24%7BTA_DEVICE_ID%7D",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.083Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tr.snapchat.com/cm/p?rand=1792516232167&pnid=140&pcid=38586483-2d0a-4faa-b9c2-126f26f2bdb7",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.199Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://collect.commander1.com/events?tc_firsttime=1&tc_s=7424&token=05567b6a-a6f4-416b-9617-80acc14c80af",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.199Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=26500&time=1792536837591&li_adsId=f46ac58b-3419-4093-ba35-20a9f0ea00f1&pageLoadId=5b384e9b-1202-4186-a8ee-acbec476f3e3&url=cartier.com%2Fpage_view_customtag&tm=gtmv2&eventId=925368373323379369641180_page_view&cookiesTest=true&liSync=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.471Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/eu/we/160797/onsite/generic1786276379389.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.471Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/eu/we/160797/onsite/generic1786276379389.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.527Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/t/5436491",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.529Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/t/5436491",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.529Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=5436491&tm=gtm002&Ver=2&mid=0a61d29e-d59d-43df-b7bc-8cd8fd50f502&bo=1&sid=2293d3e0ccd911f19663bfedb4e49721&vid=2293f8e0ccd911f1ae191be5f0c3b3d8&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&kw=Cartier&p=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&r=&lt=2351&evt=pageLoad&sv=2&cdb=AQAS&rn=239923",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.529Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=5436491&tm=gtm002&Ver=2&mid=0a61d29e-d59d-43df-b7bc-8cd8fd50f502&bo=1&sid=2293d3e0ccd911f19663bfedb4e49721&vid=2293f8e0ccd911f1ae191be5f0c3b3d8&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&kw=Cartier&p=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&r=&lt=2351&evt=pageLoad&sv=2&cdb=AQAS&rn=239923",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.531Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/8437420/?random=1792536837557&cv=9&fst=1792533600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3Mtt37lKsk73USlEOGH_B9OXiAZVa5AUARtav7NvK9GYMohyFePbaG4zVw_PVIEA0AVwU_3lrEf3bSDKpczIfli-7ZCIoy5AdnBGHC6X_Pa0GVTfleNabHGT-Y5_B2bYnwNq5qVnlXxgrJIGpWcbWYZS-J5sEGhFy4gU76OzwrRC0_ArHPUzhP7s5ml4zQRgiJ-glKuyvoJhQ_-OZJFH7Rb0YK91vVGDcM11Yx86OCeM84a1_TXaDp0-HpszpfcU_ecFvtoY1Zq-Vyfss2qu5g&random=1994182079&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.531Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=22132&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.531Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/8437420/?random=1792536837557&cv=9&fst=1792533600000&num=1&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247839%2C658953495&u_h=720&u_w=1280&ig=1&frm=0&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&hn=www.googleadservices.com&uaa=arm&uab=64&uam=&uap=macOS&uapv=26.5.2&uaw=0&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3Mtt37lKsk73USlEOGH_B9OXiAZVa5AUARtav7NvK9GYMohyFePbaG4zVw_PVIEA0AVwU_3lrEf3bSDKpczIfli-7ZCIoy5AdnBGHC6X_Pa0GVTfleNabHGT-Y5_B2bYnwNq5qVnlXxgrJIGpWcbWYZS-J5sEGhFy4gU76OzwrRC0_ArHPUzhP7s5ml4zQRgiJ-glKuyvoJhQ_-OZJFH7Rb0YK91vVGDcM11Yx86OCeM84a1_TXaDp0-HpszpfcU_ecFvtoY1Zq-Vyfss2qu5g&random=1994182079&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.531Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=22132&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.538Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/static/ct/token_create.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.539Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/ct.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.539Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/static/ct/token_create.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.547Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://dmp.adotmob.com/analytics",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.547Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://dmp.adotmob.com/analytics",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.549Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://dmp.adotmob.com/analytics",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.552Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://static.sojern.com/cip/w/s?id=367307&f_v=v6_js&p_v=1&version=5&auto_url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&auto_ccid=x08qb-scu0y-r40k2-jxg9i-uvt9m&auto_ga=2052670909.1792536837&e_eml=null&auto_eml=eW91ckBlbWFpbC5jb20%253D&auto_eml_count=1&auto_eml_domain=ZW1haWwuY29t&ws=1280x720&tz=300&pc=&sha256_eml=&sha1_eml=&md5_eml=&ccid=&vid=hot&cid=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.554Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://beacon.sojern.com/pixel/p/367307?f_v=v6_js&p_v=2&id=367307&cid=&f_v=v6_js&p_v=1&version=5&ws=1280x720&tz=300&pc=&sha256_eml=&sha1_eml=&md5_eml=&ccid=2052670909.1792536837%7Cx08qb-scu0y-r40k2-jxg9i-uvt9m&vid=hot&domain=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&s=ccid_ga%7Cccid_auto%7Cdeiced",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.554Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sdk.absolutelabs.app/cc",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.554Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://beacon.sojern.com/pixel/p/367307?f_v=v6_js&p_v=2&id=367307&cid=&f_v=v6_js&p_v=1&version=5&ws=1280x720&tz=300&pc=&sha256_eml=&sha1_eml=&md5_eml=&ccid=2052670909.1792536837%7Cx08qb-scu0y-r40k2-jxg9i-uvt9m&vid=hot&domain=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&s=ccid_ga%7Cccid_auto%7Cdeiced",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.555Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://sdk.absolutelabs.app/cc",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.555Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.555Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.559Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.559Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/946397343/?random=1792536837630&cv=11&fst=1792533600000&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3KjTPTEhqktCwJYpR_y_-Vuh4GdZ9qRUJozb1qh1_R0CoVhq8qJcQSZJtk7VkfY3FaP_eKQfjsrcXmx1LTUO_hXqUNF587wAGWm_nmgF8n1G7iZuiI1rY0wSCLO-OCQ677TYSPrYtWDsqpZ_qGxo99LpCQskLMWleH1_d38jkd16cegU104Gk0Y2OSq90G-rkeFdAHX-zAZKWE6mpEQybdrXVYgEb0FdK0pP0vnFocKkrfN8Y6xZ5u4UVkXQ81yCohMGPNsqU16zgN8BIobMIg&random=3716686196&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.559Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/946397343/?random=1792536837630&cv=11&fst=1792533600000&bg=ffffff&guid=ON&async=1&gtm=45be6ak0h2v899208466z8811372399za20gzb811372399zd6687584xeaxf1&gcd=13r3r3r3r5l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120420415~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&rcb=16&frm=0&tiba=Cartier%C2%AE%20Official%20Website%20-%20Jeweler%20and%20Watchmaker%20since%201847&did=dOWVhY2&gdid=dOWVhY2&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1374246639.1792536837&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=pagetype%3Dhomepage&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS1AEAQM4h3KjTPTEhqktCwJYpR_y_-Vuh4GdZ9qRUJozb1qh1_R0CoVhq8qJcQSZJtk7VkfY3FaP_eKQfjsrcXmx1LTUO_hXqUNF587wAGWm_nmgF8n1G7iZuiI1rY0wSCLO-OCQ677TYSPrYtWDsqpZ_qGxo99LpCQskLMWleH1_d38jkd16cegU104Gk0Y2OSq90G-rkeFdAHX-zAZKWE6mpEQybdrXVYgEb0FdK0pP0vnFocKkrfN8Y6xZ5u4UVkXQ81yCohMGPNsqU16zgN8BIobMIg&random=3716686196&rmt_tld=0&ipr=y",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.584Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.610Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.611Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.612Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.614Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.615Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=xfr07dm&cookie_sync=1&upv=3.0.0&upid=5vu5p80&ref=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.616Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-ipv6.tiktokw.us/ipv6/enrich_ipv6",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.616Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.616Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.653Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&hf=0__html&ht=p__html&tr=5html.5html.5img.5html.1html&ti=2html.2html.1img.2html.2html&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.655Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2612485862178&cb=1792536838651&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.655Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&hf=0__html&ht=p__html&tr=5html.5html.5img.5html.1html&ti=2html.2html.1img.2html.2html&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.655Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2612485862178&cb=1792536838651&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%2C%22ref%22%3A%22%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.656Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=22727&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.656Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=22727&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.667Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/eu/we/160797/onsite/onsiteData1786276379233.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.667Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://nebula-cdn.kampyle.com/eu/we/160797/onsite/onsiteData1786276379233.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.688Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://t.teads.tv/track?action=browser-topics&env=js-web&tag_version=8.15.2_a4a3745&provider=tag&advertiser_id=10366&referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&user_session_id=3803894b-534a-41df-b94e-cb558275ea99&firstPartyCookieTeadsId=7407a23a-f19c-4e76-bfe4-7b0bbcbfe9c7&hasConsent=true&cht=timeout",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.688Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.15.2_a4a3745&provider=tag&advertiser_id=10366&referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&user_session_id=3803894b-534a-41df-b94e-cb558275ea99&firstPartyCookieTeadsId=7407a23a-f19c-4e76-bfe4-7b0bbcbfe9c7&hasConsent=true&cht=timeout",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.689Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://t.teads.tv/track?action=browser-topics&env=js-web&tag_version=8.15.2_a4a3745&provider=tag&advertiser_id=10366&referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&user_session_id=3803894b-534a-41df-b94e-cb558275ea99&firstPartyCookieTeadsId=7407a23a-f19c-4e76-bfe4-7b0bbcbfe9c7&hasConsent=true&cht=timeout",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.689Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://t.teads.tv/track?action=pageView&env=js-web&tag_version=8.15.2_a4a3745&provider=tag&advertiser_id=10366&referer=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&user_session_id=3803894b-534a-41df-b94e-cb558275ea99&firstPartyCookieTeadsId=7407a23a-f19c-4e76-bfe4-7b0bbcbfe9c7&hasConsent=true&cht=timeout",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.695Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/s/0.8.72",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.695Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/s/0.8.72",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.716Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr6.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.717Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr6.snapchat.com/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.732Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://sdk.absolutelabs.app/report?id=3b9fdde9&ud=1a43744a-37f9-4405-a9c8-f92f5bbfc088&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F155.0.0.0+Safari%2F537.36&ur=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&lg=en-US&bt=America%2FChicago&si=1&e=%23%23PAGE%23%23",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.732Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://sdk.absolutelabs.app/report?id=3b9fdde9&ud=1a43744a-37f9-4405-a9c8-f92f5bbfc088&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F155.0.0.0+Safari%2F537.36&ur=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&lg=en-US&bt=America%2FChicago&si=1&e=%23%23PAGE%23%23",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.732Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://sdk.absolutelabs.app/report?id=3b9fdde9&ud=1a43744a-37f9-4405-a9c8-f92f5bbfc088&ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F155.0.0.0+Safari%2F537.36&ur=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&lg=en-US&bt=America%2FChicago&si=1&e=%23%23PAGE%23%23",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.754Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cei?advertiser_id=xfr07dm&cookie_sync=1&upv=3.0.0&upid=5vu5p80&ref=https%3a%2f%2fwww.cartier.com&redirect=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.781Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://beacon.sojern.com/pixel/p/367307?ccid=2052670909.1792536837%7Cx08qb-scu0y-r40k2-jxg9i-uvt9m&cid=&ckspd=1&domain=https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome&f_v=v6_js&f_v=v6_js&id=367307&md5_eml=&p_v=2&p_v=1&pc=&s=ccid_ga%7Cccid_auto%7Cdeiced&sha1_eml=&sha256_eml=&tz=300&version=5&vid=hot&ws=1280x720",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.781Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://richemontintlsa.germany-2.evergage.com/api2/event/cartier_prod?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJob21lcGFnZSIsImxvY2FsZSI6ImVuX1VTIiwidXJsIjoiaHR0cHM6Ly93d3cuY2FydGllci5jb20vZW4tdXMvaG9tZSIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMjMzIiwiY29udGVudFpvbmVzIjpbImdsb2JhbF9wb3B1cCIsImdsb2JhbF90ZWNobmljYWwiLCJiYW5uZXJfaG9tZXBhZ2UiXX0sInVzZXIiOnsiYW5vbnltb3VzSWQiOiI4OWMyMThjMmJlNjYzOTZhIiwiYXR0cmlidXRlcyI6eyJjb3VudHJ5IjoiVVMiLCJsb2NhbGUiOiJlbl9VUyIsImxhbmd1YWdlIjoiZW4iLCJsYXN0VmlzaXRlZFBhdGhuYW1lIjoiL2VuLXVzL2hvbWUifX0sImludGVyYWN0aW9uIjp7Im5hbWUiOiJIb21lcGFnZSJ9LCJwYWdlVmlldyI6dHJ1ZSwiY29uc2VudHMiOltdLCJhY2NvdW50Ijp7fSwiX3Rvb2xzRXZlbnRMaW5rSWQiOiI2Nzg3MTU2NzU0MTQ3NzQxIiwiZXhwbGFpbiI6dHJ1ZX0%3D",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.781Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://richemontintlsa.germany-2.evergage.com/api2/event/cartier_prod?event=eyJzb3VyY2UiOnsicGFnZVR5cGUiOiJob21lcGFnZSIsImxvY2FsZSI6ImVuX1VTIiwidXJsIjoiaHR0cHM6Ly93d3cuY2FydGllci5jb20vZW4tdXMvaG9tZSIsInVybFJlZmVycmVyIjoiIiwiY2hhbm5lbCI6IldlYiIsImJlYWNvblZlcnNpb24iOjE2LCJjb25maWdWZXJzaW9uIjoiMjMzIiwiY29udGVudFpvbmVzIjpbImdsb2JhbF9wb3B1cCIsImdsb2JhbF90ZWNobmljYWwiLCJiYW5uZXJfaG9tZXBhZ2UiXX0sInVzZXIiOnsiYW5vbnltb3VzSWQiOiI4OWMyMThjMmJlNjYzOTZhIiwiYXR0cmlidXRlcyI6eyJjb3VudHJ5IjoiVVMiLCJsb2NhbGUiOiJlbl9VUyIsImxhbmd1YWdlIjoiZW4iLCJsYXN0VmlzaXRlZFBhdGhuYW1lIjoiL2VuLXVzL2hvbWUifX0sImludGVyYWN0aW9uIjp7Im5hbWUiOiJIb21lcGFnZSJ9LCJwYWdlVmlldyI6dHJ1ZSwiY29uc2VudHMiOltdLCJhY2NvdW50Ijp7fSwiX3Rvb2xzRXZlbnRMaW5rSWQiOiI2Nzg3MTU2NzU0MTQ3NzQxIiwiZXhwbGFpbiI6dHJ1ZX0%3D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.798Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.799Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.800Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.800Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.800Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.801Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.802Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=0d846042-6dcf-4bc5-86f1-6677c2c57bb0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.802Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.804Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=MGQ4NDYwNDItNmRjZi00YmM1LTg2ZjEtNjY3N2MyYzU3YmIw&gdpr=0&gdpr_consent=&ttd_tdid=0d846042-6dcf-4bc5-86f1-6677c2c57bb0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.804Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://analytics-fe.digital-cloud-eu-main.medallia.eu/api/web/events",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.812Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_cm=true&google_hm=NTlkOTNjMDctZjg5OC00NTNhLWEzMTgtNmY5ZTdlYjE5Yzkz&google_nid=sojern_dmp&sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.812Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https://pixel.sojern.com/idsync/apn?a=1&consent=1&id=$UID&sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.812Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?gdpr=0&ttd_passthrough=sjrn_id%3D59d93c07-f898-453a-a318-6f9e7eb19c93%26sjrn_lbid%3D129dc8d46a054b46799929a51d378861%26sjrn_src%3D1%26sjrn_ts%3D1792536838&ttd_pid=90g73w4&ttd_tpi=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c1.adform.net/serving/cookie/match?cid=59d93c07-f898-453a-a318-6f9e7eb19c93&party=1296&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=13890523;type=sales;cat=carti003;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=16084693;type=track0;cat=carti0;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/pxl/?adv=6k1b2c4&ct=0%3Av3uud95&fmt=3",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/px?consent=1&id=1947367&t=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/seg?add=41590127&consent=1&t=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cm.g.doubleclick.net/pixel?google_cm=true&google_hm=NTlkOTNjMDctZjg5OC00NTNhLWEzMTgtNmY5ZTdlYjE5Yzkz&google_nid=sojern_dmp&sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/getuid?https://pixel.sojern.com/idsync/apn?a=1&consent=1&id=$UID&sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?gdpr=0&ttd_passthrough=sjrn_id%3D59d93c07-f898-453a-a318-6f9e7eb19c93%26sjrn_lbid%3D129dc8d46a054b46799929a51d378861%26sjrn_src%3D1%26sjrn_ts%3D1792536838&ttd_pid=90g73w4&ttd_tpi=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c1.adform.net/serving/cookie/match?cid=59d93c07-f898-453a-a318-6f9e7eb19c93&party=1296&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=13890523;type=sales;cat=carti003;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=16084693;type=track0;cat=carti0;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/pxl/?adv=6k1b2c4&ct=0%3Av3uud95&fmt=3",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/px?consent=1&id=1947367&t=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.813Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/seg?add=41590127&consent=1&t=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.828Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=16084693;dc_pre=CJzMmozYyZcDFVDHdQkdLAIBFA;type=track0;cat=carti0;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.828Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ad.doubleclick.net/ddm/activity/src=13890523;dc_pre=CMjImozYyZcDFSfAKAUdwi00Kw;type=sales;cat=carti003;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.852Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=12205344294166047552;_dc_ptd=ChAI8KLc1gYQ-9TkgKun_btLEh8Adb4NOh0DDmPB6MiL1yo6h1Pypo8bII4IJuKxOD1Q;_dc_time=1792536838;cid=CAQS4gEAQM4h3Mv6cOSm4zkRkgLcOtrbqPJGxM2cAQOmbeciCh-OdRihRo0Ax5Xc4rChnGncxmtyAEDdZJ64seoFkxcHVhP3STdOUIwLKbVHxycaUREhnX43MT0GbTfVu75m8JzMgpYkSUPvp44JvCgm1YrLURgnROFapqsLv0vwygpwYW927Itwl7OD-WOVeny9VnYaPxWVKkbjpXB7jIUE4f5rVf9XkqblL8hnlwPB3jKjfgKyB3xa8JkQqCv81sGcXQLX9jma2ys3scEpiLrKY1zP1iGFv6aSh3jNOR-OkFdolzfm;eps=AHas8cDwr_ZqDR1BxSyfLxO5t6XI4m1_0GdWCA8--WNWLZfPsAGq__P4540BnACHrABTbSxxmWMYRnaD1qVE0DGAf12hcDBosRR7mXPz_Fi5GxWejA;src=13890523;dc_pre=CMjImozYyZcDFSfAKAUdwi00Kw;type=sales;cat=carti003;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.853Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://adservice.google.com/ddm/fls/z/src=16084693;dc_pre=CJzMmozYyZcDFVDHdQkdLAIBFA;type=track0;cat=carti0;qty=1;cost=0;u1=;u16=;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=UNKNOWN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.857Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/j",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.857Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/j",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.858Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&google_gid=CAESEG6elsHivfqO4OycUEnKr_E&google_cver=1",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.871Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.sojern.com/idsync/google?sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838&google_gid=CAESEMYYB2Fp0SnUoT3DEAL2B3U&google_cver=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.891Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.sojern.com/idsync/ttd?ttd_id=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&gdpr=0&gdpr_consent=&sjrn_id=59d93c07-f898-453a-a318-6f9e7eb19c93&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.900Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&expiration=1795128838&gdpr=0&gdpr_consent=",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.902Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.910Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fseg%3Fadd%3D41590127%26consent%3D1%26t%3D1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.910Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%3A%2F%2Fpixel.sojern.com%2Fidsync%2Fapn%3Fa%3D1%26consent%3D1%26id%3D%24UID%26sjrn_id%3D1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy%26sjrn_lbid%3D129dc8d46a054b46799929a51d378861%26sjrn_src%3D1%26sjrn_ts%3D1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.917Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.918Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://tr.snapchat.com/p",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.923Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://c1.adform.net/serving/cookie/match?CC=1&cid=59d93c07-f898-453a-a318-6f9e7eb19c93&party=1296&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.927Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/syncd?dsp_id=93&user_group=1&user_id=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&expires=30&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbidswitch",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.929Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D0d846042-6dcf-4bc5-86f1-6677c2c57bb0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.939Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.sojern.com/idsync/apn?a=1&consent=1&id=5422849720030141905&sjrn_id=1f7yvIeKY1lxbk2r7Jppjc3P16E4DLwkVxxfvVLXq-rFXVVkXF28fFms1FXRsPLy&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.955Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.sojern.com/idsync/adf?adfid=1153164702037200713&cid=59d93c07-f898-453a-a318-6f9e7eb19c93&CC=1&sjrn_lbid=129dc8d46a054b46799929a51d378861&sjrn_src=1&sjrn_ts=1792536838",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.956Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.961Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=3463632592359521424&ttd_tdid=0d846042-6dcf-4bc5-86f1-6677c2c57bb0",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.987Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://ib.adnxs.com/bounce?%2Fpx%3Fconsent%3D1%26id%3D1947367%26t%3D1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.987Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&gdpr=0&gdpr_consent=&piggybackCookie=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&r=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dpubmatic",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:58.993Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&expiration=1795128838&gdpr=0&gdpr_consent=&C=1",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.026Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://x.bidswitch.net/ul_cb/syncd?dsp_id=93&user_group=1&user_id=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&expires=30&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dbidswitch",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.058Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bidswitch",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.100Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&tr=5flc.5flc.5html&ti=2flc.2flc.2html&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.100Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&e=gtag.config&eid=20237&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&tr=5flc.5flc.5html&ti=2flc.2flc.2html&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.141Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=pubmatic",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.157Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.157Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.249Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI4NDkmdGw9MTI5NjAw&piggybackCookie=0d846042-6dcf-4bc5-86f1-6677c2c57bb0&gdpr=0&gdpr_consent=",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.251Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://richemontintlsa.germany-2.evergage.com/pr?.top=577&action=Homepage&.tt=467&.dt=958&.lt=2351&.bv=16&_ak=richemontintlsa&_ds=cartier_prod&.scv=233&channel=Web&_r=046594&.anonId=89c218c2be66396a&_anon=true",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.253Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://richemontintlsa.germany-2.evergage.com/pr?.top=577&action=Homepage&.tt=467&.dt=958&.lt=2351&.bv=16&_ak=richemontintlsa&_ds=cartier_prod&.scv=233&channel=Web&_r=046594&.anonId=89c218c2be66396a&_anon=true",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.537Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.537Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.537Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.594Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=23322&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:53:59.595Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=23322&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.228Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://173bf110.akstat.io/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.228Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://173bf110.akstat.io/",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.929Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw1bc9c087%2Fhomepage%2F2026%2FJuly%2FW1%2F3_ECOM00092_Appointment_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw920d734b%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FServices-watches_Tripe-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwcc2dd278%2Fhomepage%2F2026%2FJuly%2FW1%2F2_ECOM00067_Services-Jewelry_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw95f26190%2FIcons%2Fgift_wrapping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwafea8e2d%2FIcons%2Freturns.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwfe8fe540%2FIcons%2Fshipping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.929Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw1bc9c087%2Fhomepage%2F2026%2FJuly%2FW1%2F3_ECOM00092_Appointment_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw920d734b%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FServices-watches_Tripe-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwcc2dd278%2Fhomepage%2F2026%2FJuly%2FW1%2F2_ECOM00067_Services-Jewelry_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw95f26190%2FIcons%2Fgift_wrapping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwafea8e2d%2FIcons%2Freturns.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwfe8fe540%2FIcons%2Fshipping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.929Z",
+    "stage": "consent-action",
+    "method": "OPTIONS",
+    "url": "https://cdn77.api.userway.org/api/img-dscr/v2/sBVtsSwDfC/3573523/cPDaQVEzAx4inhDv/alts.json?dto=%7B%22sorted%22%3A%5B%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw1bc9c087%2Fhomepage%2F2026%2FJuly%2FW1%2F3_ECOM00092_Appointment_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw920d734b%2Fhomepage%2F2026%2FOctober%2FW1%2FUS-CA%2FServices-watches_Tripe-Module_1080x1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fdw%2Fimage%2Fv2%2FBGTJ_PRD%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwcc2dd278%2Fhomepage%2F2026%2FJuly%2FW1%2F2_ECOM00067_Services-Jewelry_1080X1080.jpg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdw95f26190%2FIcons%2Fgift_wrapping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwafea8e2d%2FIcons%2Freturns.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%2C%7B%22src%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fon%2Fdemandware.static%2F-%2FLibrary-Sites-CartierSharedLibrary-BGTJ%2Fdefault%2Fdwfe8fe540%2FIcons%2Fshipping.svg%22%2C%22alt%22%3A%22%22%2C%22dir%22%3A%22RO%22%7D%5D%2C%22tier%22%3A%22PAID_QUOTA_TIER%22%2C%22pageUrl%22%3A%22https%3A%2F%2Fwww.cartier.com%2Fen-us%2Fhome%22%7D",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.952Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=23917&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:00.953Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=23917&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:01.975Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=24512&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T22:54:01.976Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/a?id=GTM-TTN4KLZ&v=3&t=t&pid=1945725130&gtm=45He6ak0h2v811372399za20gzb6687584zd6687584xf1&cv=355&rv=6ak0&tc=155&x=2&tag_exp=115938466~115938468~118897920~118897930~120385422~120469145~120469153~121246026~121246034&es=1&e=*&eid=24512&u=AgAAAIAIIAAAAAAI&ut=AgAAgAAB&h=Ag&z=0",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

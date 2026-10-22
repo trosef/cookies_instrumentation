@@ -1,0 +1,1050 @@
+[
+  {
+    "timestamp": "2026-10-20T23:08:38.039Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://api.usercentrics.eu/translations/translations-en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.074Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/DefaultUI-f5ca15c4-ca816d55.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.079Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/FirstLayerCustomization-e7c04bdf-93d3e621.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.079Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/ButtonsCustomization-e2593b87-f53cb39e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.079Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://app.usercentrics.eu/browser-ui/3.110.0/SecondLayerUI-2281d766-2e260c33.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.079Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsmcdn.audioeye.com/aem.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.080Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.080Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://launchpad-wrapper.privacymanager.io/62599357-43bd-46ce-8605-1d82ebdd3604/launchpad-liveramp.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.080Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://snapshot.carfax.com/latest/snapshot.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.086Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.c360a.salesforce.com/beacon/c360a/a6d344c6-54ae-4dbb-9486-ae64da71ace7/scripts/c360a.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.087Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-5PCDXE2SGQ&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.088Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-974264858&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.090Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=AW-975154757&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.091Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=DC-4235921&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.098Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C7PI4O39OPOOJ4K3V7P0&lib=ttq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.101Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=15&frm=0&apvc=1&ae=g&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&ep.ads_data_redaction=0&gdid=dOThhZD&_tu=CA&gtm=45He6aj1h1v858305408za200zd858305408xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120385422~120469145~120469153~121049589~121246026~121246034&tft=1792537718097&tfd=369&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.101Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.kia.com/cdn-cgi/rum?",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.108Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://a.tribalfusion.com/pixel/tags/Kia%20Motors%202022%20Other%20Pages%20Pixel/794453/pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.115Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.tribalfusion.com/displayAd.js?dver=0.8&th=9990335264",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.116Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/bootstrap.js?h=246d5bc1481f5e35b67eaaa744eb89f0",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.120Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://launchpad.privacymanager.io/latest/launchpad.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.147Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://connect.facebook.net/en_US/fbevents.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.148Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://assets.prod.analytics.dealer.com/pixall/pix-kia.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.148Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://static.ads-twitter.com/uwt.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.148Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/bat.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.150Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/core.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.158Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/tag_path/profile/visit/js/1_0?dtm_cid=83396&dtm_fid=7320&dtm_promo_id=204&dtm_cmagic=c565e6&dtm_token=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7&dtm_token_sc=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak7ob&dtmc_loc=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dtmc_tms=4&cachebuster=GTM-KT9VDSV-293-1792537718149",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.164Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.redditstatic.com/ads/pixel.js?pixel_id=a2_g420921pz5yq",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.167Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.clinch.co/a_js/client_pixels/clq/script.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.169Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/up_loader.1.1.0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.170Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/scripts/sdt1.js?containerId=KIA&dl=sd",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.179Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.moloco.com/p/moloco-pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.190Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/seltos/2027/trims/x-line-sx-awd-prestige-pkg/exterior/bda381/360/05.png/jcr:content/renditions/mobile.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.190Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage/2027/trims/x-pro-prestige-awd/exterior/adb4c1/360/05.png/jcr:content/renditions/mobile.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.190Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/sorento/2027/trims/x-pro-sx-prestige/exterior/625e57/360/05.png/jcr:content/renditions/mobile.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.190Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/ka4/2027/trims/sx-prestige/exterior/445870/360/05.png/jcr:content/renditions/mobile.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.190Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/telluride/2027/trims/x-pro-sx-prestige/exterior/666667/360/05.png/jcr:content/renditions/mobile.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.206Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/974264858/?random=1792537718198&cv=11&fst=1792537718198&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=9&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.209Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/974264858/?random=1792537718198&cv=11&fst=1792537718198&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=9&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.209Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=9&frm=0&apvc=0&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&tid=AW-974264858&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537718208&tfd=480&tids=AW-974264858&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.211Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://insight.adsrvr.org/track/cei?advertiser_id=90vueza&cookie_sync=1&upv=3.0.0&upid=caiwisu&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.222Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537718215&cv=11&fst=1792537718215&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.224Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537718215&cv=11&fst=1792537718215&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.224Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537718222&cv=11&fst=1792537718222&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.227Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537718222&cv=11&fst=1792537718222&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.227Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/975154757/?random=1792537718225&cv=11&fst=1792537718225&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.229Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/975154757/?random=1792537718225&cv=11&fst=1792537718225&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.230Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=0&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&tid=AW-975154757&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1792537718228&tfd=500&tids=AW-975154757&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.230Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=1&frm=0&apvc=0&ae=g&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&tid=AW-975154757&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&ep.ads_data_redaction=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&tft=1792537718229&tfd=501&tids=AW-975154757&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.234Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://login-ds.dotomi.com/profile/visit/final/js?dtm_form_uid=105308851602143617&cachebuster=GTM-KT9VDSV-293-1792537718149&tcflag=true&dtmc_loc=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dtm_token_assignment_type=1&dtm_cid=83396&dtm_fid=7320&dtm_yld_site_id=fbe8da35-08b8-4caf-8d3f-150ca72f88cc&dtm_zip_code=36849&dtm_user_dc=ric&dtm_id_assgn_type=1&dtm_token_sc=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak-yg&dtm_state=AL&dtm_user_agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F155.0.0.0%20Safari%2F537.36&dtm_country_code=US&init_wl_code=4&ops_test_camp=false&dtm_token=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7&dtmc_tms=4&dtm_dma_code=522&dtm_cmagic=c565e6&init_ts=1792537718177&dtm_client_optout=false&dtm_tag_complete=false&wl_domains_key=%5E(.*%5C.)%3Fkia%5C.com%24-www.kia.com-%2Ftag_path-&dtm_promo_id=204&dtm_cookies_enabled=true&data_object_type_code=0&canonical_url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dtmc_ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&dtm_token_dc=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7&dtm_token_ls=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7&dtm_token_ss=AQAEzjOJVgDHGQEUGt6bAQBExQABAQCgWpN4uwEBAKBak3i7&dtm_sync=0%2420746%2420746%249252335-0%2357734-0%2352136-0%239252325-0%2374572-0%2396431-0%2398193-0%2314000-0%2326832-0%235010-0%2379190-0%2314200-0%2369627-0%2315900-0%239252048-0%2319998-0%23&dtm_consent_ls=UNSPECIFIED&dtm_consent_ss=UNSPECIFIED&dtm_consent_dc=UNSPECIFIED&dtm_consent=UNSPECIFIED&cli_promo_id=204&cmps_queried=true",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.235Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://td.yieldify.com/yieldify/code.js?w_uuid=fbe8da35-08b8-4caf-8d3f-150ca72f88cc&k=1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.242Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://js.adsrvr.org/universal_pixel.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.247Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/destination?id=AW-11191334772&cx=c&gtm=4e6aj1h1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.248Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=17&frm=0&apvc=0&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&tid=DC-4235921&en=page_view&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&gdid=dOThhZD&_tu=CA&gtm=45fe6aj1h1v9181630726za20ozb858305408zd858305408xecxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792537718246&tfd=518&tids=DC-4235921&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.250Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.tribalfusion.com/visitor?%7B%22tagKey%22%3A%223972262005%22%2C%22th%22%3A9990335264%2C%22version%22%3A%221.1%22%2C%22tKey%22%3A%22abmneMXU7e1aiOSbBAUrQP0EUiTfUxP2%22%2C%22url%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator%22%2C%22rurl%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22clientName%22%3A%22Kia%2520Motors%25202022%2520Other%2520Pages%2520Pixel%22%2C%22clientID%22%3A794453%2C%22eventType%22%3A%22visitor%22%2C%22segmentNumber%22%3A1%2C%22segmentName%22%3A%22Other%20Visitor%20Pages%22%7D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.251Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/main.MWFjYmVlZGY0MQ.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.255Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/357795334408363?v=2.9.426&r=stable&domain=www.kia.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.262Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://pixall.esm1.net/v2/event",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.263Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/action/5202151.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.263Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://s.pinimg.com/ct/lib/main.2fbc2581.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.266Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://alb.reddit.com/rp?id=a2_g420921pz5yq&event=PageVisit",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.269Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/scripts/sdanalytics/sda.js?clientId=KIA&instanceName=sda&scenario=T1",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.269Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://cdn.moloco.com/p/rc/pxl-DQHgNCIN.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.271Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=246d5bc1481f5e35b67eaaa744eb89f0&lang=en&cb=2026-10-19b",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.273Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://t.co/1/i/adsct?bci=4&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=7dd9a33d-b8a5-4082-8be3-5eec9991ee77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=51640ed7-c701-4070-9617-44d8072d6a8c&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=26.5.2&tw_document_href=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&tw_document_referrer=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1792537688524-136802781&twpid=tw.1792537688524.568817048785193133&txn_id=nun13&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.273Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.twitter.com/1/i/adsct?bci=4&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=3&event=%7B%7D&event_id=7dd9a33d-b8a5-4082-8be3-5eec9991ee77&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=51640ed7-c701-4070-9617-44d8072d6a8c&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=26.5.2&tw_document_href=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&tw_document_referrer=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tw_engaged_ms=0&tw_iframe_status=0&tw_pid_src=2&tw_session_count=1&tw_session_id=1792537688524-136802781&twpid=tw.1792537688524.568817048785193133&txn_id=nun13&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.273Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/v2/scripts/loader.js?h=246d5bc1481f5e35b67eaaa744eb89f0&lang=en&cb=2026-10-19b",
+    "resourceType": "other",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.281Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11191334772/?random=1792537718277&cv=11&fst=1792537718277&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.284Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11191334772/?random=1792537718277&cv=11&fst=1792537718277&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.284Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/11191334772/?random=1792537718282&cv=11&fst=1792537718282&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.285Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/rmkt/collect/11191334772/?random=1792537718282&cv=11&fst=1792537718282&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=68&gcp=5",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.285Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=6&frm=0&apvc=0&ae=g&auid=993925857.1792537688&dt=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&tid=AW-11191334772&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dr=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&scrsrc=www.googletagmanager.com&rnd=1156387226.1792537718&navt=n&npa=0&ep.ads_data_redaction=0&did=dOThhZD&gdid=dOThhZD&_tu=CA&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcs=G111&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&tft=1792537718285&tfd=556&tids=AW-11191334772&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.286Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/974264858/?random=1792537718198&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1v9175493491za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938469~118897920~118897930~119793973~120213116~120385422~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=9&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3CNuU2ZQ_zSaSlruPc0Noxbmf6GHJcjUZNTqMrnc0fDuDEq6nsRq7IiG7uPtg1KbCEBNHo4AX_WlwjbeaTB75-U6ue2zK8mNTxKNCD42q6aifuv623TzgSBz16eVPWRvnxd3NQJyzHVEPH5B1xW0Di_qlHpMvDYYT32AEG7KNIkA_vyJomo3DojoAP7lwmdyFWnGLejREpjCIQDtNfnBOhCnyhXQWSyTMAwPZWOBjJuoWsMTBrwF354vKXuwx42k1Tl5N-k5gUYhQ5w8ewgBh0gMdOLikmT43buknm_l&random=368414801&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.286Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537718215&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be6aj1h1z8d_AW-975154757za20ozb858305408zd858305408xecxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3KOhMPMCUZJSVnvwF_JzugXt_ENlGdcqva_Bj5Rf-vMO_ImleGEDXpASejc-i8G6d7ptPwNzzBm0AKEeBCXEbexqkaHCV22ELm8ZjrPg7UvRs7XmuwvCDVLqI0ECiOnrDDAODwg8GW-CQb1ffXGr56nRTLT_S0eFUXTB1_Ufu5jflCmmJxKddQGB16fLaLhG8jXnNqwDqki3idJDcUuDasMGb7F2jt5V5cdc46NpHSHowrg1GVXRBHlkvmMdr-_mruD69jnbE1Bg0KIbziauvSfpYEOrv1VUuL1pgaod&random=2984196711&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.294Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://analytics.tiktok.com/i18n/pixel/static/identify_0504602d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.295Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.296Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.315Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://md-eecad2978f7a43f5b7838c919258e6de.ecs.us-east-2.on.aws/events?cee=no",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.316Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://connect.facebook.net/signals/config/1546130715708472?v=2.9.426&r=stable&domain=www.kia.com&hme=766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f&ex_m=118%2C241%2C171%2C27%2C82%2C83%2C162%2C78%2C77%2C11%2C181%2C102%2C20%2C153%2C141%2C46%2C85%2C90%2C149%2C176%2C183%2C8%2C4%2C5%2C7%2C6%2C3%2C103%2C115%2C32%2C17%2C31%2C18%2C33%2C34%2C35%2C37%2C55%2C163%2C87%2C126%2C22%2C24%2C51%2C47%2C49%2C48%2C95%2C104%2C108%2C124%2C160%2C164%2C53%2C125%2C29%2C26%2C133%2C79%2C43%2C166%2C165%2C167%2C157%2C155%2C30%2C42%2C66%2C123%2C178%2C80%2C21%2C128%2C93%2C76%2C23%2C97%2C98%2C130%2C96%2C151%2C150%2C154%2C109%2C177%2C180%2C41%2C56%2C127%2C54%2C161%2C72%2C185%2C110%2C184%2C210%2C255%2C84%2C274%2C273%2C272%2C14%2C25%2C28%2C40%2C62%2C117%2C68%2C10%2C73%2C111%2C112%2C113%2C119%2C144%2C38%2C36%2C146%2C147%2C148%2C143%2C142%2C172%2C86%2C175%2C173%2C174%2C57%2C69%2C67%2C137%2C19%2C179%2C52%2C324%2C325%2C326%2C323%2C340%2C362%2C248%2C237%2C70%2C238%2C236%2C365%2C356%2C59%2C249%2C121%2C145%2C92%2C135%2C61%2C134%2C140%2C139%2C65%2C74%2C168%2C88%2C89%2C129%2C44%2C39%2C60%2C63%2C114%2C182%2C1%2C138%2C16%2C136%2C12%2C2%2C64%2C105%2C15%2C75%2C71%2C132%2C101%2C100%2C187%2C188%2C106%2C107%2C9%2C116%2C186%2C58%2C158%2C99%2C91%2C81%2C131%2C120%2C169%2C50%2C159%2C0%2C94%2C152%2C156%2C170%2C45%2C122%2C13%2C189%2C268%2C266%2C261%2C263%2C264%2C265%2C262%2C260%2C247%2C267%2C269%2C259%2C217%2C218%2C270%2C271%2C258%2C257%2C276%2C230%2C225%2C228%2C229%2C207%2C223%2C390%2C304%2C308%2C312%2C313%2C314%2C309%2C315%2C307%2C302%2C317%2C318%2C306%2C316%2C320%2C310%2C305%2C311%2C319%2C321%2C303%2C240%2C301%2C206%2C226%2C227%2C251%2C224%2C222%2C246%2C278%2C242%2C215%2C216%2C212%2C213%2C214%2C211%2C209%2C220%2C221%2C219%2C327%2C383%2C231%2C281%2C288%2C289%2C282%2C284%2C287%2C285%2C286%2C283%2C280%2C299%2C293%2C296%2C292%2C300%2C297%2C291%2C295%2C298%2C294%2C290%2C359",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.316Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr/?id=357795334408363&ev=PageView&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&rl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&if=false&ts=1792537718311&iw=false&sw=1280&sh=720&v=2.9.426&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1792537688690.158881651895321676&eid=ob3_plugin-set_6baa3b563cf8f0c76174731d1d5c868392f2240542df717b9ed3d0419272109a&cs_est=true&ler=empty&cdl=API_unavailable&pmd[title]=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&pmd[locale]=en&pmd[keywords]=payment%20calculator&pmd[description]=Find%20your%20perfect%20monthly%20payment%20by%20using%20the%20payment%20estimate%20calculator%20for%20your%20desired%20model%20and%20trim.&plt=279.10000002384186&imft=1&tz=-300&it=1792537718254&coo=false&tm=1&cf=1&expv2[0]=pl1&expv2[1]=el3&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep1&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&rqm=GET",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.321Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://pixelfnt-v6-us.dsp-api.moloco.com/v1/aal?cid=MLCP.1.1792537688879.1983417540&sid=1792537688879_8a430e68c392498b",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.322Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=pxl-DQHgNCIN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.322Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://pixelfnt-us.dsp-api.moloco.com/v1/pixels/moloco/events?pixel_id=pxl-DQHgNCIN",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.324Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537718225&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3Hapy7c9IjZiM6xRtbmOHEFVmP9NfcIDMMz2RyAeCZwDELtCXikMacuh_WiCuZQ8PIf1LZS5oVoJ5pOVLRcaoztWshgSQTSsMakmzdopXp2e-4hq5e6BncV0D30Jo0qJz2JOuXr3eqs_Ls_V2lIKfC1b7Cnq7iL3TZQZq3g4EXy1AN0_VqIHBtnTwfZo7JUlUcueBZ9wbTBoq7pZW3l_mgBeSXUa0dr50cHNDuDxcxlZhDUISXZ9G0On7wuvDPf12LN4P5czqSh_oCJrBTssbLGLqWC66yql3EEkk_4y&random=3571501242&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.324Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/975154757/?random=1792537718222&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=1&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3CBJflb0CxDqm56lARHUsgCfXo_SK2kHJjckTT3a3RTXgGBPRrzqsBzX7ZZEyx6CYdstE7vv8fR1wYZkWNuItQxd7veQZUXsnydnU7GefZx8xium9VSOKhQ8_sDkyaXbaFiXX6CZnpBFXq-9utA3jW3JQ4qWkO0buE-VIA_xPREKMrHiU79CtTXxX4NwraghCY1rPsML_P-9jGnpVGLBF8t3WZGxO_zqzS0mgKZLzbjOUG6kL6zeYDkguspeD5OeKbPTEqF6CZmPoBcil1eYouTBsWdKgMeEQmcMeFzp&random=3369919330&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.327Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://custom.yieldify.com/v1/100690/101172/89073e4b86/bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.327Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://td.yieldify.com/0.0.1/tag/1.504.1/main-web-worker.js",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.328Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/t/5202151",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.329Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bat.bing.com/actionp/0?ti=5202151&tm=gtm002&Ver=2&mid=2c282356-3444-4157-b415-b2427aa6f41a&bo=1&evt=consent&src=update&cdb=AQAS&asc=G",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.329Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/action/0?ti=5202151&tm=gtm002&Ver=2&mid=2c282356-3444-4157-b415-b2427aa6f41a&bo=2&sid=1d588090ccdb11f1a8bb6b73dad11da5&vid=1d586220ccdb11f186e669687be02f34&vids=0&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=720&sc=30&nwd=1&tl=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&kw=payment%20calculator&p=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&r=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&lt=348&evt=pageLoad&sv=2&asc=G&cdb=AQAS&rn=601841",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.331Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "blob:https://www.kia.com/25ed2aff-4e9d-4f15-9417-31a14d58b3f6",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.332Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVl6ZzBaakZpTldFdFl6WXlNaTAwWkdRMUxUazBZVE10TURFME56RXlNVEl4TkdKaw%22%7D&cb=1792537718331&dep=2%2CPAGE_LOAD",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.333Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/user/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&cb=1792537718332&dep=5%2CEVENT_TAGS_ABSENT",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.333Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?tid=2620655982689&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVl6ZzBaakZpTldFdFl6WXlNaTAwWkdRMUxUazBZVE10TURFME56RXlNVEl4TkdKaw%22%7D&event=init&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc_ls%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D&cb=1792537718332",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.338Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=interaction&cl=KIA&rid=KIA&prid=KIAT1&uid=3aed721f-2129-4a55-9242-ea712d752277&sid=182aac7c-cf9c-4fcd-ac8a-944805ff78f6&pid=f427ffaa-32ca-41b8-bf98-2458585c29e4&hid=05719dd1-5e18-4f74-9007-55b35531fd74&sdid=89dise&sc=T1&id0=211md1wkyctzg&id1=d973beae7ea29227706d659f94b9ab75&id2=21re90mdd3hmv&cb=98u06m&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rs=1280x720&ts=1792537717731&t=Kia%20America%20Official%20Site%3A%20Discover%20the%20New%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=792&pti=793&prs=4&pre=88&pdl=426&plc=450&it=click&ix=59.1&iy=4.6&ixp=%2F%2Fheader%5B%40id%3D%22global-header%22%5D%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B3%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fdiv%5B1%5D%2Fsection%5B1%5D%2Fa%5B1%5D%2Fdiv%5B1%5D&iox=31.3&ioy=78.6&pc=GTM!2229!1FB!2632&rsn=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.340Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/startup.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.344Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://synchroscript.deliveryengine.adswizz.com/syncMe?partnerDomain=dotomi.com&idType=cookie&partnerUserId=AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak-zV&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.344Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://thrtle.com/insync?vxii_pid=10087&vxii_pdid=AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak-zV&gdpr_consent=",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.363Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://connect.facebook.net//log/error?p=pixel&pn=SmartSetup&sl=1&v=2.9.426&e=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues&s=Error%3A%20%5BSmartSetup%5D%20Rule%20processing%20issues%0A%20%20%20%20at%20r%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F357795334408363%3Fv%3D2.9.426%26r%3Dstable%26domain%3Dwww.kia.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C74%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C91%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%3A50%3A237)%0A%20%20%20%20at%20Ve%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F1546130715708472%3Fv%3D2.9.426%26r%3Dstable%26domain%3Dwww.kia.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C74%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C91%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%252C268%252C266%252C261%252C263%252C264%252C265%252C262%252C260%252C247%252C267%252C269%252C259%252C217%252C218%252C270%252C271%252C258%252C257%252C276%252C230%252C225%252C228%252C229%252C207%252C223%252C390%252C304%252C308%252C312%252C313%252C314%252C309%252C315%252C307%252C302%252C317%252C318%252C306%252C316%252C320%252C310%252C305%252C311%252C319%252C321%252C303%252C240%252C301%252C206%252C226%252C227%252C251%252C224%252C222%252C246%252C278%252C242%252C215%252C216%252C212%252C213%252C214%252C211%252C209%252C220%252C221%252C219%252C327%252C383%252C231%252C281%252C288%252C289%252C282%252C284%252C287%252C285%252C286%252C283%252C280%252C299%252C293%252C296%252C292%252C300%252C297%252C291%252C295%252C298%252C294%252C290%252C359%3A111%3A18533)%0A%20%20%20%20at%20je%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F1546130715708472%3Fv%3D2.9.426%26r%3Dstable%26domain%3Dwww.kia.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C74%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C91%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%252C268%252C266%252C261%252C263%252C264%252C265%252C262%252C260%252C247%252C267%252C269%252C259%252C217%252C218%252C270%252C271%252C258%252C257%252C276%252C230%252C225%252C228%252C229%252C207%252C223%252C390%252C304%252C308%252C312%252C313%252C314%252C309%252C315%252C307%252C302%252C317%252C318%252C306%252C316%252C320%252C310%252C305%252C311%252C319%252C321%252C303%252C240%252C301%252C206%252C226%252C227%252C251%252C224%252C222%252C246%252C278%252C242%252C215%252C216%252C212%252C213%252C214%252C211%252C209%252C220%252C221%252C219%252C327%252C383%252C231%252C281%252C288%252C289%252C282%252C284%252C287%252C285%252C286%252C283%252C280%252C299%252C293%252C296%252C292%252C300%252C297%252C291%252C295%252C298%252C294%252C290%252C359%3A111%3A18893)%0A%20%20%20%20at%20Object.%3Canonymous%3E%20(https%3A%2F%2Fconnect.facebook.net%2Fsignals%2Fconfig%2F1546130715708472%3Fv%3D2.9.426%26r%3Dstable%26domain%3Dwww.kia.com%26hme%3D766752a074f0cb0756dd3275a46fdecbcfe3de1ab8f573546734b619e44d384f%26ex_m%3D118%252C241%252C171%252C27%252C82%252C83%252C162%252C78%252C77%252C11%252C181%252C102%252C20%252C153%252C141%252C46%252C85%252C90%252C149%252C176%252C183%252C8%252C4%252C5%252C7%252C6%252C3%252C103%252C115%252C32%252C17%252C31%252C18%252C33%252C34%252C35%252C37%252C55%252C163%252C87%252C126%252C22%252C24%252C51%252C47%252C49%252C48%252C95%252C104%252C108%252C124%252C160%252C164%252C53%252C125%252C29%252C26%252C133%252C79%252C43%252C166%252C165%252C167%252C157%252C155%252C30%252C42%252C66%252C123%252C178%252C80%252C21%252C128%252C93%252C76%252C23%252C97%252C98%252C130%252C96%252C151%252C150%252C154%252C109%252C177%252C180%252C41%252C56%252C127%252C54%252C161%252C72%252C185%252C110%252C184%252C210%252C255%252C84%252C274%252C273%252C272%252C14%252C25%252C28%252C40%252C62%252C117%252C68%252C10%252C73%252C111%252C112%252C113%252C119%252C144%252C38%252C36%252C146%252C147%252C148%252C143%252C142%252C172%252C86%252C175%252C173%252C174%252C57%252C69%252C67%252C137%252C19%252C179%252C52%252C324%252C325%252C326%252C323%252C340%252C362%252C248%252C237%252C70%252C238%252C236%252C365%252C356%252C59%252C249%252C121%252C145%252C92%252C135%252C61%252C134%252C140%252C139%252C65%252C74%252C168%252C88%252C89%252C129%252C44%252C39%252C60%252C63%252C114%252C182%252C1%252C138%252C16%252C136%252C12%252C2%252C64%252C105%252C15%252C75%252C71%252C132%252C101%252C100%252C187%252C188%252C106%252C107%252C9%252C116%252C186%252C58%252C158%252C99%252C91%252C81%252C131%252C120%252C169%252C50%252C159%252C0%252C94%252C152%252C156%252C170%252C45%252C122%252C13%252C189%252C268%252C266%252C261%252C263%252C264%252C265%252C262%252C260%252C247%252C267%252C269%252C259%252C217%252C218%252C270%252C271%252C258%252C257%252C276%252C230%252C225%252C228%252C229%252C207%252C223%252C390%252C304%252C308%252C312%252C313%252C314%252C309%252C315%252C307%252C302%252C317%252C318%252C306%252C316%252C320%252C310%252C305%252C311%252C319%252C321%252C303%252C240%252C301%252C206%252C226%252C227%252C251%252C224%252C222%252C246%252C278%252C242%252C215%252C216%252C212%252C213%252C214%252C211%252C209%252C220%252C221%252C219%252C327%252C383%252C231%252C281%252C288%252C289%252C282%252C284%252C287%252C285%252C286%252C283%252C280%252C299%252C293%252C296%252C292%252C300%252C297%252C291%252C295%252C298%252C294%252C290%252C359%3A123%3A921)%0A%20%20%20%20at%20https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A803%0A%20%20%20%20at%20b%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A368%3A1706)%0A%20%20%20%20at%20e.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A66%3A677)%0A%20%20%20%20at%20r.tt%20%5Bas%20getEventCustomParameters%5D%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A475%3A12739)%0A%20%20%20%20at%20o.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A142%3A10504)%0A%20%20%20%20at%20o.value%20(https%3A%2F%2Fconnect.facebook.net%2Fen_US%2Ffbevents.js%3A142%3A9314)&ue=0&rs=stable&ed=%5B%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221556985762702955%22%2C%222086589788952098%22%2C%221022306736860163%22%2C%221549798966962496%22%2C%221517670285898230%22%5D%2C%22key%22%3A%22page_title%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%2225547107841633884%22%2C%22985919303762290%22%2C%221439412654392111%22%5D%2C%22key%22%3A%22strikethrough_price%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221033695533044732%22%2C%221760579195206281%22%2C%221723844125380988%22%2C%221092014520250068%22%2C%222235408173694702%22%5D%2C%22key%22%3A%22image_url%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221452701620056215%22%5D%2C%22key%22%3A%22availability%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222187166828895671%22%2C%22902974179564585%22%2C%221739962807094041%22%2C%224584708711849008%22%2C%223012670772398815%22%5D%2C%22key%22%3A%22page_description%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221444850107589040%22%2C%221153855953642471%22%2C%222129478450993661%22%5D%2C%22key%22%3A%22price%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221053682954319675%22%2C%221741187964675709%22%5D%2C%22key%22%3A%22all_entity_images%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221140320551858838%22%2C%22980369351200541%22%2C%222067153504150006%22%5D%2C%22key%22%3A%22currency%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221446638790986832%22%2C%221159898266616597%22%2C%222135357864523650%22%5D%2C%22key%22%3A%22page_url%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222697631114021359%22%2C%221107323068729094%22%2C%221594609496016024%22%5D%2C%22key%22%3A%22attribute_color%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%22990968126634910%22%2C%222592852607888884%22%2C%223304542393072717%22%5D%2C%22key%22%3A%22price_range%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221416990163329786%22%2C%222655206788269411%22%5D%2C%22key%22%3A%22page_type%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222947293942281013%22%2C%221135154325705401%22%5D%2C%22key%22%3A%22entity_description%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%2228790981940560605%22%2C%2228661531390152379%22%2C%222939522623078217%22%5D%2C%22key%22%3A%22page_keywords%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222032162104018226%22%2C%221126027856540088%22%2C%222132151127440293%22%5D%2C%22key%22%3A%22article_name%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221424527672462621%22%2C%221639285851041076%22%2C%2228901969436138001%22%5D%2C%22key%22%3A%22entity_name%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221435167988766560%22%2C%221100297802982571%22%2C%221408105921473105%22%5D%2C%22key%22%3A%22currencies_accepted%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222584490278698069%22%2C%221094678456685186%22%5D%2C%22key%22%3A%22article_type%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221099466722980362%22%2C%221723381775428836%22%5D%2C%22key%22%3A%22publisher%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221133285232374357%22%2C%222005665506787663%22%2C%221444914837818236%22%5D%2C%22key%22%3A%22event_description%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221657251989425205%22%2C%221648309886926572%22%2C%2228934581692840963%22%5D%2C%22key%22%3A%22author%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%2229062529233342931%22%2C%221144575081433196%22%2C%222160054387915854%22%5D%2C%22key%22%3A%22aggregate_rating%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221468305128548717%22%5D%2C%22key%22%3A%22airline%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%224672266813060059%22%2C%221386738963447538%22%2C%221584785639527382%22%5D%2C%22key%22%3A%22event_date%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222156115618448849%22%2C%221676531590635366%22%2C%221643721710594683%22%5D%2C%22key%22%3A%22promotion%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222548528988979022%22%5D%2C%22key%22%3A%22flight_number%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%221821169155687212%22%2C%221107481545208596%22%2C%2227883952374615174%22%5D%2C%22key%22%3A%22event_location%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%223687215088101509%22%2C%222009169943124458%22%5D%2C%22key%22%3A%22event_name%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222350456475695626%22%5D%2C%22key%22%3A%22room_occupancy%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222147395606165626%22%5D%2C%22key%22%3A%22departure_airport%22%7D%2C%7B%22category%22%3A%22no_values%22%2C%22ids%22%3A%5B%222387350301798713%22%5D%2C%22key%22%3A%22tourist_attraction_type%22%7D%2C%7B%22category%22%3A%22value_length_truncated%22%2C%22ids%22%3A%5B%22968353309203691%22%5D%2C%22key%22%3A%22publisher%22%7D%2C%7B%22category%22%3A%22value_length_truncated%22%2C%22ids%22%3A%5B%222066696694718621%22%5D%2C%22key%22%3A%22room_type%22%7D%2C%7B%22category%22%3A%22value_length_truncated%22%2C%22ids%22%3A%5B%221304619742745881%22%5D%2C%22key%22%3A%22hotel_name%22%7D%2C%7B%22category%22%3A%22value_length_truncated%22%2C%22ids%22%3A%5B%221777014800242125%22%5D%2C%22key%22%3A%22destination%22%7D%2C%7B%22category%22%3A%22value_length_truncated%22%2C%22ids%22%3A%5B%222296506457780944%22%5D%2C%22key%22%3A%22arrival_airport%22%7D%2C%7B%22category%22%3A%22boilerplate_value_stripped%22%2C%22ids%22%3A%5B%22968353309203691%22%5D%2C%22key%22%3A%22publisher%22%7D%2C%7B%22category%22%3A%22boilerplate_value_stripped%22%2C%22ids%22%3A%5B%222066696694718621%22%5D%2C%22key%22%3A%22room_type%22%7D%2C%7B%22category%22%3A%22boilerplate_value_stripped%22%2C%22ids%22%3A%5B%221304619742745881%22%5D%2C%22key%22%3A%22hotel_name%22%7D%2C%7B%22category%22%3A%22boilerplate_value_stripped%22%2C%22ids%22%3A%5B%221777014800242125%22%5D%2C%22key%22%3A%22destination%22%7D%2C%7B%22category%22%3A%22boilerplate_value_stripped%22%2C%22ids%22%3A%5B%222296506457780944%22%5D%2C%22key%22%3A%22arrival_airport%22%7D%2C%7B%22category%22%3A%22css_selector_error%22%2C%22ids%22%3A%5B%221660822068914077(li%5Bdata-model-id%3D%20X9-W5-*%20%5D%20a%5Baria-label%3D%20EV5%20%5D%20%7C%20Failed%20to%20execute%20%27querySelect)%22%5D%2C%22key%22%3A%22entity_description%22%2C%22message%22%3A%22li%5Bdata-model-id%3D%20X9-W5-*%20%5D%20a%5Baria-label%3D%20EV5%20%5D%20%7C%20Failed%20to%20execute%20%27querySelectorAll%27%20on%20%27Document%27%3A%20%27li%5Bdata-model-id%3D%20X9-W5-*%20%5D%20a%5Baria-label%3D%20EV5%20%5D%27%20is%20not%20a%20valid%20selector.%22%7D%2C%7B%22category%22%3A%22css_selector_error%22%2C%22ids%22%3A%5B%222733148810412668(meta%5Bproperty%3D%20og%3Atitle%20%5D%20%7C%20Failed%20to%20execute%20%27querySelectorAll%27%20on%20%27Document%27%3A%20)%22%5D%2C%22key%22%3A%22event_name%22%2C%22message%22%3A%22meta%5Bproperty%3D%20og%3Atitle%20%5D%20%7C%20Failed%20to%20execute%20%27querySelectorAll%27%20on%20%27Document%27%3A%20%27meta%5Bproperty%3D%20og%3Atitle%20%5D%27%20is%20not%20a%20valid%20selector.%22%7D%2C%7B%22category%22%3A%22css_selector_error%22%2C%22ids%22%3A%5B%221482909766991270(meta%5Bproperty%3D%20og%3Aurl%20%5D%20%7C%20Failed%20to%20execute%20%27querySelectorAll%27%20on%20%27Document%27%3A%20%27m)%22%5D%2C%22key%22%3A%22entity_url%22%2C%22message%22%3A%22meta%5Bproperty%3D%20og%3Aurl%20%5D%20%7C%20Failed%20to%20execute%20%27querySelectorAll%27%20on%20%27Document%27%3A%20%27meta%5Bproperty%3D%20og%3Aurl%20%5D%27%20is%20not%20a%20valid%20selector.%22%7D%5D&rqm=FGET",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.363Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.facebook.com/tr/?id=1546130715708472&ev=PageView&dl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&rl=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&if=false&ts=1792537718361&iw=false&sw=1280&sh=720&v=2.9.426&r=stable&a=tmSimo-GTM-WebTemplate&ec=0&o=12318&aems=0%3B0&fbp=fb.1.1792537688690.158881651895321676&ler=empty&cdl=API_unavailable&pmd[title]=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&pmd[locale]=en&pmd[keywords]=payment%20calculator&pmd[description]=Find%20your%20perfect%20monthly%20payment%20by%20using%20the%20payment%20estimate%20calculator%20for%20your%20desired%20model%20and%20trim.&plt=279.10000002384186&imft=1&tz=-300&iss=1&it=1792537718254&coo=false&tm=1&ss=%7B%22variant_presence%22%3A%5B%7B%22rid%22%3A%221069459879194985%22%2C%22v%22%3A%5B%22no_variant%22%5D%7D%5D%2C%22page_type%22%3A%5B%7B%22rid%22%3A%221424091799920201%22%2C%22v%22%3A%5B%22Kia%20Innovation%22%5D%7D%5D%2C%22article_type%22%3A%5B%7B%22rid%22%3A%2229364025326516930%22%2C%22v%22%3A%5B%22Vehicles%22%5D%7D%5D%7D&ss_rks=%7B%22currency%22%3A%7B%22tv%22%3A1%2C%22rules%22%3A%7B%221347994640502869%22%3A1%7D%7D%7D&expv2[0]=pl1&expv2[1]=el2&expv2[2]=bc1&expv2[3]=ra2&expv2[4]=rp2&expv2[5]=im1&expv2[6]=hf1&expv2[7]=sd1&expv2[8]=sp1&expv2[9]=ek1&expv2[10]=pc1&expv2[11]=gs1&expv2[12]=zs1&expv2[13]=cp1&expv2[14]=es1&expv2[15]=ac1&expv2[16]=so1&expv2[17]=wc1&expv2[18]=la1&expv2[19]=sf1&expv2[20]=da1&expv2[21]=io1&expv2[22]=ae1&expv2[23]=sx1&expv2[24]=if1&expv2[25]=fd1&expv2[26]=bg1&expv2[27]=mg1&expv2[28]=kl1&expv2[29]=sg1&expv2[30]=mk1&expv2[31]=sn1&expv2[32]=ec1&expv2[33]=mp1&expv2[34]=ps1&expv2[35]=fx1&expv2[36]=vt1&expv2[37]=dp1&expv2[38]=fw1&expv2[39]=cn1&expv2[40]=tz1&expv2[41]=pe1&expv2[42]=ee1&expv2[43]=bu1&expv2[44]=ta1&expv2[45]=ot1&expv2[46]=hv1&expv2[47]=ep3&expv2[48]=rh0&expv2[49]=ah0&expv2[50]=nv1&rqm=GET",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.366Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/cm?id=b9f5c7de-85f6-48cc-ba86-351b90373b6b&r=https%3A%2F%2Fa.tribalfusion.com%2Fi.match%3Fp%3Db12%26redirect%3Dhttps%253A%252F%252Fus-u.openx.net%252Fw%252F1.0%252Fsd%253Fid%253D537141727%2526val%253D%2524TF_USER_ID_ENC%2524%26u%3D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.368Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11191334772/?random=1792537718277&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3MddXO7ip697hpiz3e4MX2rQZpmbYnOo-mRPzd7UhThHzWrhRJJc2UdQ71KuVOlR7umAZYKe7lYg6gmwbYqIT29mv-N36bGtQZRd0qcZ2pysCooLJD-2HzhBbY4wOBJGhL5Tleue63ns7EV0KWxdlyZ1a7odL3gs8JDJC0VzS-32e8EHW2crts0L2GZIl-DMXjgPqf4g8Lnz2m7cedlrv97NeSLJifnIVjHnIIj4oP121r2-4JcMNUNDlM3VwGhmZbJvOh99-FruVFbEWbI0detHAqQyFvB8ONRYtD82&random=2347583237&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.369Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://v2.dc.yieldify.com/i?e=ue&tv=2-3.12.0&aid=101172&yuid=adc8374c-a300-59c3-804f-d439142c5d7f&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dtm=1792537718367&sc=1&ec=8&trv=1.504.1&tuuid=6ffc0379-67b9-437b-b88a-0c823f22a664&bid=51ea3358-e02b-4579-91bf-da9b07bbe199&hcc=false&bot=false&ue_px=eyJkYXRhIjp7ImRhdGEiOnsiZXQiOiJQYWdlVmlldyIsImRldiI6ImRlc2t0b3AiLCJkd2VsbCI6MCwib2lkIjoxMDA2OTAsIndpZCI6MTAxMTcyLCJkdCI6IkFRQUhFc0xHd0s2NEJnRTB1WGlwQVFCRXhRRUJBUUNnV3BONHV3RUJBS0Jhay16ViIsInJlZiI6Imh0dHBzOi8vd3d3LmtpYS5jb20vdXMvZW4iLCJwYWdldHlwZSI6W10sImFwdCI6W10sImloIjpmYWxzZX19fQ%3D%3D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.374Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://bat.bing.com/p/insights/s/0.8.72",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.388Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://a.tribalfusion.com/i.match?p=b12&redirect=https%3A%2F%2Fus-u.openx.net%2Fw%2F1.0%2Fsd%3Fid%3D537141727%26val%3D%24TF_USER_ID_ENC%24&u=ebc2b3d4-e551-4559-99b8-4394efb75357",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.402Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/static/ct/token_create.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.404Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/ct.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.405Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://ct.pinterest.com/v3/?event=pagevisit&ed=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%7D&tid=2620655982689&cb=1792537718402&dep=5%2CEVENT_TAGS_ABSENT&pd=%7B%22np%22%3A%22gtm%22%2C%22gtm_version%22%3A%22legacy%22%2C%22pin_unauth%22%3A%22dWlkPVl6ZzBaakZpTldFdFl6WXlNaTAwWkdRMUxUazBZVE10TURFME56RXlNVEl4TkdKaw%22%7D&ad=%7B%22loc%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator%22%2C%22ref%22%3A%22https%3A%2F%2Fwww.kia.com%2Fus%2Fen%22%2C%22if%22%3Afalse%2C%22sh%22%3A720%2C%22sw%22%3A1280%2C%22mh%22%3A%222fbc2581%22%2C%22is_eu%22%3Afalse%2C%22is_restricted_region%22%3Afalse%2C%22epikDataSource%22%3Anull%2C%22derivedEpikDataSource%22%3Anull%2C%22unauthIdDataSource%22%3A%22fpc_ls%22%2C%22architecture%22%3A%22arm%22%2C%22bitness%22%3A%2264%22%2C%22brands%22%3A%5B%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%22155%22%7D%2C%7B%22brand%22%3A%22Not(A%3ABrand%22%2C%22version%22%3A%2224%22%7D%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22macOS%22%2C%22platformVersion%22%3A%2226.5.2%22%2C%22uaFullVersion%22%3A%22155.0.8059.85%22%7D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.427Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://thrtle.com/insync?gdpr_consent=&vxii_pdid=AQAHEsLGwK64BgE0uXipAQBExQEBAQCgWpN4uwEBAKBak-zV&vxii_pid=12&vxii_pid1=10087&vxii_rcid=0c4cc87d-bbf5-42d4-9564-99b3de6ad1d3",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.437Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://tagging.shiftdigitalapps.io/endpoint/kia/1x1.gif?ht=pageview&cl=KIA&rid=KIA&prid=KIAT1&uid=3aed721f-2129-4a55-9242-ea712d752277&sid=182aac7c-cf9c-4fcd-ac8a-944805ff78f6&pid=001289c1-550b-4111-968a-ccaf60f0e68f&hid=a5b2f599-2842-4744-b7eb-6a5f6afae5a7&sdid=yqzx1&sc=T1&id0=211md1wkyctzg&id1=d973beae7ea29227706d659f94b9ab75&id2=21re90mdd3hmv&evars=&props=containerSource!2Production%2FKia%2Fsdt1.js!1containerUrl!2https%3A%2F%2Ftagging.shiftdigitalapps.io%2Fscripts%2Fsdt1.js%3FcontainerId%3DKIA%26dl%3Dsd!1tagSource!2Production%2Fdefault%2Fsda.js!1pagetype!2payment%20calculator&pv=&aid=&cmp=&cmpn=&cmpt=&ch=&daa=&dac=&dak=&dal=&dapl=&dapo=&dap=&kw=&smt=&tgid=&tz=America%2FChicago&tzo=300&cb=z5dwe5&d=30-bit&enc=UTF-8&fl=&if=false&je=false&l=en-us&rf=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rs=1280x720&ts=1792537718436&t=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&u=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&tu=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&v=4.0&b=f3b9a45900a9-prod&vp=1280x720&xd=false&ptl=605&pti=605&prs=3&pre=67&pdl=279&plc=347&pc=GTM!2175!1FB!2416",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.448Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.audioeye.com/v1/send",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.448Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/sites/246d5bc1481f5e35b67eaaa744eb89f0/active.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.456Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/smartrems.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.458Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/launcher.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.458Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.458Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/compliance.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.460Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600&display=swap",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.460Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/fullCSS.bundle.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.461Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/v2/2026-10-19b/tangoEngine.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.461Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://wsv3cdn.audioeye.com/static-scripts/m/audioeye-scanner-esm/v11.2.44/audioeye-scanner-esm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.476Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://bat.bing.com/p/insights/c/i",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.549Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://us-u.openx.net/w/1.0/sd?id=537141727&val=18072661919217351395",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.549Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-user-list/11191334772/?random=1792537718282&cv=11&fst=1792537200000&bg=ffffff&guid=ON&async=1&gtm=45be6aj1h1v9181795008z8858305408za20gzb858305408zd858305408xeaxf1&gcd=13v3v3v3v5l1&dma=0&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548195&u_w=1280&u_h=720&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&ref=https%3A%2F%2Fwww.kia.com%2Fus%2Fen&rcb=6&frm=0&tiba=Payment%20Estimate%20Calculator%20%7C%20Pricing%20%26%20Financing%20Tool%20to%20Lease%20or%20Buy%20%7C%20Kia&did=dOThhZD&gdid=dOThhZD&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=993925857.1792537688&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&_tu=CA&data=ads_data_redaction%3Dfalse&ept=9&rfmt=3&fmt=3&is_vtc=1&cid=CAQS4gEAQM4h3GUb9ZHre7kd9Q_lKknnaOuj21asDr1dzarofIIZ4GPaJ8Hr3hOm1WjdqbmJYbKWCCTf5EG6ftZuTFod0tGNvBnTZprU31Zkmu2-mtft1lhov93jqueXRa_gUau343V0jMgMSStQdQTXYTriOgf9-I6X4DV_lDw81o1bGHze4zEp9ATJC9XR3-GeFGP4-WebRFhRjptcEOSyY12SgTvXVnl3cqn5snS6CIdaCIRl7HS3i_thpkn0VLGTdZfN2gpFPsYmUiVw9ze0e_6zNKD15TrZsZOyXzIzzL30dZTg&random=3299381467&rmt_tld=0&ipr=y",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.582Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.799Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel/act",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:38.799Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/monitor",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:39.133Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/v2/authentication",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:39.165Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://g5qtk9bwgq3tsntbhfqtsn30gm.c360a.salesforce.com/web/events/a6d344c6-54ae-4dbb-9486-ae64da71ace7",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:39.214Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://insight.adsrvr.org/track/realtimeconversion",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:39.358Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://v2.dc.yieldify.com/i?e=ue&tv=2-3.12.0&aid=101172&yuid=adc8374c-a300-59c3-804f-d439142c5d7f&url=https%3A%2F%2Fwww.kia.com%2Fus%2Fen%2Fpayment-calculator&dtm=1792537719356&sc=1&ec=9&trv=1.504.1&tuuid=6ffc0379-67b9-437b-b88a-0c823f22a664&bid=51ea3358-e02b-4579-91bf-da9b07bbe199&hcc=false&bot=false&ue_px=eyJkYXRhIjp7ImRhdGEiOnsiZXQiOiJVc2VyUHJvZmlsZSIsImRldiI6ImRlc2t0b3AiLCJkd2VsbCI6MTAxMSwib2lkIjoxMDA2OTAsIndpZCI6MTAxMTcyLCJkdCI6IkFRQUhFc0xHd0s2NEJnRTB1WGlwQVFCRXhRRUJBUUNnV3BONHV3RUJBS0Jhay16ViIsImVwcyI6dHJ1ZSwic3RhdGUiOnsic2UiOnsiYyI6MSwiZWMiOjgsImxhIjoxNzkyNTM3NzE5MzUyLCJwIjozLCJzYyI6Mjh9LCJ1Ijp7ImlkIjoiYWRjODM3NGMtYTMwMC01OWMzLTgwNGYtZDQzOTE0MmM1ZDdmIiwiZmwiOiIwIiwicHJvZmlsZSI6eyJjYW1wYWlnbnMiOnt9fSwiZHRtVG9rZW5NYWluIjoiQVFBSEVzTEd3SzY0QmdFMHVYaXBBUUJFeFFFQkFRQ2dXcE40dXdFQkFLQmFrLXpWIn0sInNjcCI6eyIxOTc5NzA1NDYwIjp7InNjIjoxLCJkdXJhdGlvbiI6InNlc3Npb24iLCJ2YWx1ZSI6IlwiIFwiIn19fX19fQ%3D%3D",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:08:39.847Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://login-ds.dotomi.com/ucm/DMCSuccessLogger?dtmid=437908851500497159&sessionid=1792537688719&comId=83396&dtm_command_op_date=1792537718228&uniqueid=105308851602143617&px_timeout=1500&px_latencies=%5B%7B%22px_id%22%3A%2231899%22%2C%22px_latency%22%3A1501%7D%2C%7B%22px_id%22%3A%2231935%22%2C%22px_latency%22%3A206%7D%5D",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  }
+]

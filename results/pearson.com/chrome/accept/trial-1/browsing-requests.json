@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "2026-10-20T23:18:31.124Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/eds/scripts/delayed.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:18:31.256Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/work/talent-solutions/media_1d3eeba151f05285a899fbe62f43b47e4fe8864e6.jpg?width=1200&format=webply&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:18:32.363Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://analytics.google.com/g/collect?v=2&tid=G-K8MHCWK5EH&gtm=45je6aj1v873843660z89250328016za20gzb9250328016zd9250328016xf1&_p=1792538306930&gcs=G111&gcd=13v3v3v3v5l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAACQC&cid=148712410.1792538246&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=9&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Fwww.pearson.com%2Fen-us%2Fwork%2Ftalent-solutions%2Ftalent-assessment&dr=https%3A%2F%2Fwww.pearson.com%2Fen-us&sid=1792538245&sct=1&seg=1&dt=Talent%20Assessment&_tu=CA&_s=3&tfd=5733",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-20T23:18:33.954Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/work/talent-solutions/media_170d46dbf4a38a594705713c93f94bba7fb75616c.jpg?width=2000&format=webp&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:18:33.954Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/work/talent-solutions/media_14ef976364296b00f423ca8370274fc95024ba0e7.jpg?width=2000&format=webp&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:18:33.954Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/work/talent-solutions/media_1a5b0d694aabbfd6726378131844eaa10e1a36378.jpg?width=2000&format=webp&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-20T23:18:33.954Z",
+    "stage": "browsing",
+    "method": "GET",
+    "url": "https://www.pearson.com/en-us/work/talent-solutions/media_16cee6a0d6f3b29f37e2d49531938ae35b04c7e28.jpg?width=2000&format=webp&optimize=medium",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  }
+]
