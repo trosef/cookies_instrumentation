@@ -1,0 +1,37 @@
+{
+  "website": "https://hm.com",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "03",
+  "startTime": "2026-10-22T17:13:05.117Z",
+  "endTime": "2026-10-22T17:14:07.316Z",
+  "requestCount": 173,
+  "cookieCount": 30,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-22T17:13:18.615Z",
+      "cookieCount": 28,
+      "requestCountSoFar": 170
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-22T17:13:35.716Z",
+      "cookieCount": 30,
+      "requestCountSoFar": 173
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-22T17:14:07.314Z",
+      "cookieCount": 30,
+      "requestCountSoFar": 173
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 23,
+  "errors": []
+}

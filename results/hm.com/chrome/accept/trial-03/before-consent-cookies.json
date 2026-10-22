@@ -1,0 +1,282 @@
+[
+  {
+    "name": "HMCORP_locale",
+    "value": "en_US",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808241265.908208,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HMCOUNTRY_name",
+    "value": "United States",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808241265.908242,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_so",
+    "value": "368DAAABF1B8D3D213BE5D5A12EF58BB4414ED07D584E9C04BBACD0605F3784C~YAAQskI5F/WieUOhAQAACl2bZAmz13XU0IVq9Ac98Lu5j4+OJnc/+rXcc0xPFix9ZAAtHAnEV1LFOHhQ8MsI7jRsIIHFDlNRFwzgho6hW5uj5zZKKZ8W/UPRPpdfEgA4ec+1FylCQKGRjB1ESpEnCUu8IrJn50ve3KDvJLFmmStgkYYnH1jbhbjixt4ZCZ9Mjlkytq74wGkSwZQT7s8A8CshPNEOcemyq1jo+5tgYhhJ6wA7f7VFFDrkifb/kRaKqzhesObFKmrNrM/7SF0rZ+OSY4kVYpDbKsEw9/4TESPL7JvwiH9Rl2nG+t1C5eOqa9q8zWIteliaWG93bMoSNuAGkj69XYHX5KqUHmizV5e+bYaFa/PVXNlmRM6RrUtquJOZJqLEIZPHiz000t/Iee4QJj8J0ThhUyZfdoSTlOg57Q19JlbElHkc1bfd++7Sr5qPZ7tF/mmBW31QQOwL2NZwpT/AMsE=~1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792775665.908307,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akainst",
+    "value": "AM",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AKA_A2",
+    "value": "A",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792692866.758069,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sz",
+    "value": "F0D2A747184F278687E4D3E74EB8B69B~YAAQskI5F0aleUOhAQAAXGCbZAFUrVukkzduGD6jSuOoDObvinOOFj0WKfbGoQs/JA59kZnQh/O1NcR91xowvLHUE8rD18s+z1tVEKH8Z+oU+SdsA0bBdE9F4fecfcp+oFCI/C9Gp0OfKhUfGxTtMIviwkGkSz3A+KyCFB9mhjp5R+yrN1VUtON9q+vezElJsogos8jxLPWvZWiZvJr+bzaTIeoisgZBESxCLoxJtgleG+DJ3purRiGzLtlfvV2q4QMaeq2fp8Qi6gI6qczjQXk7t8Mvkqj8RK1NCef52yl4ZcRKQAy639imt3ipqPCkrFUG9SCR9eaVpPG80MY5jPl+2rCWKJg0nngKgVLIm51UoKyLSSUQL5XcpPS2C7YEJe5Lrz0U/1QhrGB3UFnIyTspjUk=~3753029~3486264",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792703665.758525,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_lso",
+    "value": "368DAAABF1B8D3D213BE5D5A12EF58BB4414ED07D584E9C04BBACD0605F3784C~YAAQskI5F/WieUOhAQAACl2bZAmz13XU0IVq9Ac98Lu5j4+OJnc/+rXcc0xPFix9ZAAtHAnEV1LFOHhQ8MsI7jRsIIHFDlNRFwzgho6hW5uj5zZKKZ8W/UPRPpdfEgA4ec+1FylCQKGRjB1ESpEnCUu8IrJn50ve3KDvJLFmmStgkYYnH1jbhbjixt4ZCZ9Mjlkytq74wGkSwZQT7s8A8CshPNEOcemyq1jo+5tgYhhJ6wA7f7VFFDrkifb/kRaKqzhesObFKmrNrM/7SF0rZ+OSY4kVYpDbKsEw9/4TESPL7JvwiH9Rl2nG+t1C5eOqa9q8zWIteliaWG93bMoSNuAGkj69XYHX5KqUHmizV5e+bYaFa/PVXNlmRM6RrUtquJOZJqLEIZPHiz000t/Iee4QJj8J0ThhUyZfdoSTlOg57Q19JlbElHkc1bfd++7Sr5qPZ7tF/mmBW31QQOwL2NZwpT/AMsE=~1~1792689268088",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": 1795281268,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akavpau_www2_en_us",
+    "value": "1792689568~id=8eeba7a200662bb0a7c15aef73c7f99a",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "QueueITAccepted-SDFrts345E-V3_hmam",
+    "value": "EventId%3Dhmam%26RedirectType%3Dsafetynet%26IssueTime%3D1792689268%26Hash%3D5799b1677bff7fbd413e316e291a1ce220bdf7458f981879c35fb20a7d618b10",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": 1792775668.692527,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "B02302D30A4E28CF68BF59A4B6451DE8~000000000000000000000000000000~YAAQskI5F9GoeUOhAQAAVmebZAGErAvPdINLGVQw3f8s4cNHVyTAKf8lYjKoI/wT4iAjIJCJGwGfy0S77WN4QRdDn3FF3WLAwJaK9aARyrvSeuXtPUTkWPhEC6Njb6kVg1U2UVX9AzI4max/cYp7MTrZGUG4T5IVcO427A/davlOAw3jb9hVWAHaNaf/RkF7O8GJKaXv3zhPhM31J1iSo24A5QYtGDjL52Rj9UYmg7VGoNZKUSXVk07JgEKx3oU8b3sus6UwZA6KCxwVa0Q2hTbce7U1Behy2s1C4hyGNkPrAzESQj/ixt6FbqxDW+mjN3Z1kSyphs7UX9FkSeEtbdCVEQ2R4x3jzJ/B++agvqKabufrp+LRVLqhuC3MlRhzHHCIiHVdQ4uiojujBZ5Fue1eWangQrCjcibuWsgjHEAFq0d12866HVvsdpZwLXsnMgG23L3BM1xgMD1X9d8O+M9YDY1LctPhYDMOi2TIXPMTCcbOVTGq1Cicntji",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792696466.597545,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "INGRESSCOOKIE",
+    "value": "1792689269.58.638.914734|ce11af63eaca573be5110d180bb330ca",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "AB5C26E5FD11C065316ADCECCED2A9DEE562D6C91B593A00828E463C6D03DD8FA62A284357DB1B7A575F4111ECB5B6DF373726153AF9806B6564C26EFF29104D.hybris-ecm-web-6fd86d9fdf-6djj8",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "userCookie",
+    "value": "##eyJjYXJ0Q291bnQiOjB9##",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bm_sv",
+    "value": "4A48E083831BE95A95EEBBEA383AE4A4~YAAQskI5FxCpeUOhAQAA52ebZAFtH9trELLmUeRVz3Q7zHcX3VJ2EqgYFZgE1S9t/8IcQ5yEUU23Jkvon7/15ZLP3aOFlgKkNx3MnddR+pGY/gT1eiPI5rl6m8FSk6vg79LMwoTEEqspNapCS28rcRGEQLHxoGCMDAWoQr6weEwPSZk7Sf2HlkUJQJKAexsrjsPZwRgLMhIDbSaCWiciRBNswAnm9WdPzpk+Vlqt2o7orj6fdUiegVBaaZQ=~1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792696468.692615,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__sn",
+    "value": "1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225269,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_ses_id",
+    "value": "1792689268937%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__pn",
+    "value": "1%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_sid",
+    "value": "s_9280557006146413.1792689268942",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_testdata",
+    "value": "normal",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "RT",
+    "value": "\"z=1&dm=hm.com&si=e7faa43f-798b-4f67-b019-0bfb464e1c46&ss=mvjswi5k&sl=1&tt=2kh&bcn=%2F%2Face99add.akstat.io%2F&ld=2kj\"",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1793294068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_exp",
+    "value": "Thu, 22 Oct 2026 17:44:29 GMT",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__ss",
+    "value": "0%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akamref",
+    "value": "",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_abck",
+    "value": "1878B2DF17F08DCF81FE2436C71EBC13~-1~YAAQskI5FyKqeUOhAQAApmmbZBANj4I5BrerYpFQFwx8K3IdCiFvOtPhlZlE3p55qoa9JcZKsqtbYXqWH/l37tjBcj+ySzfWDAIRjUUFycMUaN9aAGsRZFqAgZyiUJTToTW06c7I/Y89K2Bp2KXv4jE7fQCQJq/9dcjOFSZ4LWMMcaRO5C13PKwmaH85tH4eRssDyD3X7I6w+4+lCPtnf7UdThos34th16rPPdhL9f+CB+Fm38Oyjx66uOwd9wGh5bZxOakJKkqKb8O9OmYFXrS30litRJQF/NxgRSoXdT5EortCeVrpL15m29FuXreRvToq+isUaVV/cTMAtIQvBpcpBj2ajcwBDsFhVrT9gaAlp1s1oyRgpTMQYBS+SeBjjyDLjlkXdrrSaUtmpl79vfO1Dahd9qISw4HzrDUTaJ2mb8yhYx9GE6p7uhRTLdafNnjtBBkYlo/mx4CcssFINX0dgbjv9NAegygmP8Ze+/KW7hx74Mny1QQVYQrrDdH52vzjQPTg6IDS12VYWJFdwIWmJOUPgQu2KYqxWxeXresBlHdFmaA40mRoM412Acr3k0kwBs47~-1~-1~1792692867~AAQAAAAG%2f%2f%2f%2f%2fxcrjBv04WhXJzMYTv1U1jgV5wFeAHnYnEX2gIPOjoYo1J0ykumlC0gW3vrVg%2f3YVi1ib2fx5YR9ywcUOb+8H83diuuMLDsLSSRR~-1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225269.145513,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "HMCORP_locale_autoassigned",
+    "value": "false",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808457269,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__se",
+    "value": "5%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__st",
+    "value": "1792691069432%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691069,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_s",
+    "value": "YAAQskI5F12teUOhAQAAKHCbZAZPdlR5A/HODChTj2l2kBilq0GLiIuAdZ37ICOLVB+Byy5+2b3tQBVqj/Ewyl2LlvJTLcWz294zkTslafeyVU31fi8EjKRuuxk/ysJAAfg54Br0cBKxYcTdKYau1Ey4GWZgnJmrQK20+ZWq1vaU5lcoQf001+ev2zQlL/PuQTjWBwZh6vX2HQBOgwClVRhWZ7miQT8eCp8P6DDXM8TCTXP+HgffDmko2rYIhC7LnIKCWjbvSGh8HL0UuroVnuDrbZilBF4nFag9fOr8JzmK/s7KHCxVyc+RQ7o+jlEldFzo+wC3fYNSTQnH4oduuDNxA7tV8U5fInXaGb+XpiF5Tij9h26hrstSBHsKxbnhJkPqbyULbBPUhxJAoYlLIg9A95c612PABNeozIY/sB8lrjUKjB5d1Nmx0UllAX6BHk/7ZImQvj2SUBxV2NshJuxHg+U7zslfp4YacVYqW3nq7Dp01iLIHmkQF8x4e7bjx05RYc5nNvxk7BIgH5JFMozlv50TeIbLT66l4V7aRUDPVTWlwAhQnmdTyKxXyAORUiDFK7hYve7PLQGWlwHaK4Yysw15dND9F6tccbOIyxacWhhP6R2//pJwsi71SneNzITlCAy7mERWRXSX2MtWdYhQtCUisqs22rL0u55lw3lmDTBGgPkMZ1VauK2rrMtFVQlN502Ek/2Onm4FiJb7JL0kiL1sxOYoERzZHJfq09GPdIsJI/u06xuuTDIQ8StjQXRg+XoEk1ZdI/IKtNFdZaidnjjTcCkziIsZ0XdQBDmEuqINxEhIkgNXZCeFREPEIV9tf72ZrybhtdKgpZovRCEEeL23JScdwcdu39y6vOhGqfdP3LCI+4pEsqPB36me6ccEVgNRCCbMBzrv8dvD2+93R23KYhDrmonx/h34Sk4QqP3b5JxyRRZ4CsANL0lRWgBWdbiF9HgW1RlSOfmh/2Px13Qzq56lBL05Zy6rGEgQr475oIJalOvINSrHJY4bDmiTt5AeMOgeMOQ7sK4LL273JF27bVnmJl02p+xdbDRGZY+YE2Kq88w=",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1795367670.803338,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

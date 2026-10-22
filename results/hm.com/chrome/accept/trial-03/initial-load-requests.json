@@ -1,0 +1,1378 @@
+[
+  {
+    "timestamp": "2026-10-22T17:14:25.647Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://hm.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:25.910Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www.hm.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.172Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/en_us/index.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.860Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fabric.hmgroup.com/fabric-fonts/1/northstar/css/fonts.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fabric.hmgroup.com/fabric-fonts/1/northstar/font/HMSlussen[TITL,wdth,wght].woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s1-cdn.hm.com/global/frontend/fabric-tokens/3.3/northstar_v2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/c44a5d0bb9c2aa53.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8b37d1d10ebd48a5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/361947c97961fb7a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/c116738430abbb0a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/fd04c1b820d21c9f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/809e340efeb17501.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a5b53ef027842683.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.861Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/78f4438b95d55482.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a3d39a85af549380.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/577718ac41e2909c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/2c19ecc9d409b0a5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/3fea8589bd24cf47.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8aa36fb99659dcad.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/e16c306a4dc2b22d.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/d17fca10c42490c9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/53fa733915a1bc25.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/ce5bcd82bc3fa594.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/95051f70290993de.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/2346df152673310a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/3b6b6e9614ceb0e1.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/d8239071251e0e01.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/48be5e702b5a4391.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/efd594fe6cdbfb44.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.863Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/5dbc71809a5a3932.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/c7a2c03067c7a374.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/01bff523a64b1d05.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/e003837842b937f2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/2fb089b8c51d6d7e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/c7669c2b3076fe62.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/f4f4a409ecd1658c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/579979079eeb6085.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8894a1fd5213e1bc.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/fd03e07271e4433c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/7fbbefa2eea12d12.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/7399685ed317e9b5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/7ce85c775c6693af.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/6881e84b0293c4c3.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a14815451345fd5a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/6c77877e3784b9d0.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/35fb81e6d1bc2fdb.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/73eee318b8f5809e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/290b7183fcfa3798.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/fa2153adec192f7a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a49e3548f8a04520.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/ca2062d836d66782.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/67e2139715e2e4ac.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/be85f427f1ab65be.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/9a86c2ae693b2f3f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/5e55d4f3a76c221e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/2e4aa227b47fa22d.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/2c53a9abe22c7de6.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8dd8bd6d796caae7.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/062ae1888b97a2b7.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/cc621805809174e2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.864Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/9cdc1af8bddf3aaf.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/513eff8af4e040fd.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/745a4796acc8ca78.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/053854a91fe0b8c2.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/84cedc086c7daef9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/15df3006a8046d3e.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/627508db50be8d76.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/5f062db951067770.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/910fec957ce5f7b3.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/d504c9837ca9a64a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/86ed2481a1f0c8fa.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/6be47a86fc59b761.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8e16a3e02af906c0.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/bf7b7e860d8463e9.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/03d4cf07aac28c45.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/705a396e2b558b4f.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.871Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/0cf3acb6fa12d9c3.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/f50f5989989d1e56.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a92c46035752773c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/d99dee7d3946df89.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/153419e8c40f70b6.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/73024e10b8b91281.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/418244226c568555.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/52df0abab2db009c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/9d875c1379fb0ec5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/4d2854a7f73cea66.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/78d31aff7a3103e8.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/27b362ec6e0f3ad5.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/e2fe13e5707bff71.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/078399cf14001e1a.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/92ff14615d11b7ac.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/ab3a3e3928af48d6.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/4b97c7561f0d496d.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://image.hm.com/content/dam/hm-images/global-campaigns/season-05/start-page-assets/women/week-43/WA10264P44-16x9-Startpage-wk43.jpg?imwidth=1366",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fabulous.hmgroup.com/files/fabulous.bundle.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/91410c55-3b1ae31183fb041b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/ba3c663e-1306d84f2cf3fc5f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/7e42aecb-515d5b9f40f43812.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/338-34f941f8bb899cba.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/9770-242d469f87e7f7a0.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/9164-c882aa5e29c580dc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/5491-bfdc8ab0fd334802.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/3708-37696c6f2fdf2ba6.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/9312-c7a6a5ab6558883f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/2113.f0e040fb75ceca04.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/3398.caa6bbafd04ba44a.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/cb3bbfd5.745c807fb8c00d6f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/9838.21a787c299e1dc4e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/1941.10cd3b4eb5fd8fb3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/2251.b55f0aa6e76472dc.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/webpack-60ec0718572a343b.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/framework-e8345689f6b3e37a.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/main-88aa14d9cdb84f0e.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/pages/_app-8509c39e743df7f9.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/5134-e54d9e27670b79bd.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/9396-97a96d7e6225f91d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/1770-10d3d1c7afe30478.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.872Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/pages/index.html-d254796690053b7d.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.874Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static//hm-inspire-discover-9dfb8e4088502814e7a9b1cf10f9056800c8b972/_buildManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.874Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static//hm-inspire-discover-9dfb8e4088502814e7a9b1cf10f9056800c8b972/_ssgManifest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:26.874Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/akam/13/141a5584",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/3rt9c8f35GOmkt/FTgSUDs/WXkIHDh/0XDM",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.014Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/D8t9c8f3/Ai4WUDs/R3ALVGh/eQCoV?v=2cdff488-008a-7135-2a7e-dc8833401739",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.367Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://s.go-mpulse.net/boomerang/EPMEN-VPFQ4-GM3WK-22BJD-TU9B7",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.583Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/3rt9c8f35GOmkt/FTgSUDs/WXkIHDh/0XDM",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.601Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://fabulous.hmgroup.com/files/v4/hm/prod/web/datafile_en_us.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/43d366121d7d6c61.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.933Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/ef46db3751d8e999.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:27.933Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/5399.4bc33854f7091fc3.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.238Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/552.baaa57bdcae43152.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.238Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://turbocookie.hmgroup.com/tcc-hm/cookie-banner-hm.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.239Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/hm/us/prod/utag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.239Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/7951.89a1d244231b536f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.258Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/en_us/v1/formatters",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.258Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/en_us/apis/navigation/v1/carousel-data.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.285Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/pages/%5Bdepartment%5D-4ead985103346c22.js",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.290Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/53196515d5b7f8b8.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/6be45e796116cdf6.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/3c8c6c32b56d2c2c.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/674.dc997fac8a0d2fe2.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/76300f2a604c2eb4.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/a37460845043ad24.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/8272.b1fc648ccd31c0ae.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.291Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/2671.c253fcaaa242750f.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.294Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/en_us/v1/user/login",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.304Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://image.hm.com/content/dam/hm-images/global-campaigns/season-05/start-page-assets/women/week-43/DD10264P15-4x5-Startpage-wk43.jpg?imwidth=1024",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.307Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://image.hm.com/content/dam/hm-images/global-campaigns/season-05/start-page-assets/women/week-43/WA10264P62-4x5-Startpage-wk43.jpg?imwidth=1024",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.317Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://c.go-mpulse.net/api/config.json?key=EPMEN-VPFQ4-GM3WK-22BJD-TU9B7&d=www2.hm.com&t=5975631&v=1.792.0&sl=0&si=d668cd26-6bec-42b7-9aa1-4d8199c259f4-tnbjw2&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,BFCache,LOGN&acao=&ak.ai=171241",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.318Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/chunks/pages/%5Bdepartment%5D-4ead985103346c22.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.318Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://www2.hm.com/hm-inspire-discover/_next/static/css/8b37d1d10ebd48a5.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.344Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/hm/goe/prod/utag.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.466Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www2.hm.com/akam/13/pixel_141a5584",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.858Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "blob:https://www2.hm.com/1d20b0a3-0622-4a2f-991b-246487908436",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.879Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/3rt9c8f35GOmkt/FTgSUDs/WXkIHDh/0XDM",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.924Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://turbocookie.hmgroup.com/hm/cookie-list/HM_en_us.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.946Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://isp-lookup-prod-x5b7jhrkea-ew.a.run.app/v1/",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.947Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/hm/goe/prod/utag.545.js?utv=ut4.55.202604070603",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:28.948Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://tags.tiqcdn.com/utag/hm/goe/prod/utag.v.js?a=hm/goe/202610200530&cb=1792689268947",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.075Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.075Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/idsync/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.122Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.125Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.128Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.174Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://trial-eum-clientnsv4-s.akamaihd.net/eum/getdns.txt?c=putlksnbq",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.175Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://trial-eum-clienttons-s.akamaihd.net/eum/getdns.txt?c=putlksnbq",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.365Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://jahxlzax3aczm2w2ir2q-putlks-f9b7cc0f0-clientnsv4-s.akamaihd.net/eum/results.txt",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.369Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://72-15-117-228_s-23-32-45-38_ts-1792689269-clienttons-s.akamaihd.net/eum/results.txt",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.436Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://depcollect.hmgroup.com/dep/v1/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:29.494Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://ace99add.akstat.io/",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:30.401Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "blob:https://www2.hm.com/2de07583-a33e-441e-a00d-03145dbaa8c4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:30.569Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/D8t9c8f3/Ai4WUDs/R3ALVGh/eQCoV",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:14:38.064Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://www2.hm.com/nT_vwQlMGNMr/Mx/EpqQE_BZz_/D8t9c8f3/Ai4WUDs/R3ALVGh/eQCoV",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  }
+]

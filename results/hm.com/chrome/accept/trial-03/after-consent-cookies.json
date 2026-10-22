@@ -1,0 +1,842 @@
+[
+  {
+    "name": "X-AB",
+    "value": "428b79d905c147e289eb837b2d9eed79",
+    "domain": "sc-static.net",
+    "path": "/scevent.min.js",
+    "expires": 1792775680.901923,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HMCORP_locale",
+    "value": "en_US",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808241265.908208,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "HMCOUNTRY_name",
+    "value": "United States",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808241265.908242,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_so",
+    "value": "368DAAABF1B8D3D213BE5D5A12EF58BB4414ED07D584E9C04BBACD0605F3784C~YAAQskI5F/WieUOhAQAACl2bZAmz13XU0IVq9Ac98Lu5j4+OJnc/+rXcc0xPFix9ZAAtHAnEV1LFOHhQ8MsI7jRsIIHFDlNRFwzgho6hW5uj5zZKKZ8W/UPRPpdfEgA4ec+1FylCQKGRjB1ESpEnCUu8IrJn50ve3KDvJLFmmStgkYYnH1jbhbjixt4ZCZ9Mjlkytq74wGkSwZQT7s8A8CshPNEOcemyq1jo+5tgYhhJ6wA7f7VFFDrkifb/kRaKqzhesObFKmrNrM/7SF0rZ+OSY4kVYpDbKsEw9/4TESPL7JvwiH9Rl2nG+t1C5eOqa9q8zWIteliaWG93bMoSNuAGkj69XYHX5KqUHmizV5e+bYaFa/PVXNlmRM6RrUtquJOZJqLEIZPHiz000t/Iee4QJj8J0ThhUyZfdoSTlOg57Q19JlbElHkc1bfd++7Sr5qPZ7tF/mmBW31QQOwL2NZwpT/AMsE=~1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792775665.908307,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akainst",
+    "value": "AM",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AKA_A2",
+    "value": "A",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792692866.758069,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sz",
+    "value": "F0D2A747184F278687E4D3E74EB8B69B~YAAQskI5F0aleUOhAQAAXGCbZAFUrVukkzduGD6jSuOoDObvinOOFj0WKfbGoQs/JA59kZnQh/O1NcR91xowvLHUE8rD18s+z1tVEKH8Z+oU+SdsA0bBdE9F4fecfcp+oFCI/C9Gp0OfKhUfGxTtMIviwkGkSz3A+KyCFB9mhjp5R+yrN1VUtON9q+vezElJsogos8jxLPWvZWiZvJr+bzaTIeoisgZBESxCLoxJtgleG+DJ3purRiGzLtlfvV2q4QMaeq2fp8Qi6gI6qczjQXk7t8Mvkqj8RK1NCef52yl4ZcRKQAy639imt3ipqPCkrFUG9SCR9eaVpPG80MY5jPl+2rCWKJg0nngKgVLIm51UoKyLSSUQL5XcpPS2C7YEJe5Lrz0U/1QhrGB3UFnIyTspjUk=~3753029~3486264",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792703665.758525,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_lso",
+    "value": "368DAAABF1B8D3D213BE5D5A12EF58BB4414ED07D584E9C04BBACD0605F3784C~YAAQskI5F/WieUOhAQAACl2bZAmz13XU0IVq9Ac98Lu5j4+OJnc/+rXcc0xPFix9ZAAtHAnEV1LFOHhQ8MsI7jRsIIHFDlNRFwzgho6hW5uj5zZKKZ8W/UPRPpdfEgA4ec+1FylCQKGRjB1ESpEnCUu8IrJn50ve3KDvJLFmmStgkYYnH1jbhbjixt4ZCZ9Mjlkytq74wGkSwZQT7s8A8CshPNEOcemyq1jo+5tgYhhJ6wA7f7VFFDrkifb/kRaKqzhesObFKmrNrM/7SF0rZ+OSY4kVYpDbKsEw9/4TESPL7JvwiH9Rl2nG+t1C5eOqa9q8zWIteliaWG93bMoSNuAGkj69XYHX5KqUHmizV5e+bYaFa/PVXNlmRM6RrUtquJOZJqLEIZPHiz000t/Iee4QJj8J0ThhUyZfdoSTlOg57Q19JlbElHkc1bfd++7Sr5qPZ7tF/mmBW31QQOwL2NZwpT/AMsE=~1~1792689268088",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": 1795281268,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akavpau_www2_en_us",
+    "value": "1792689568~id=8eeba7a200662bb0a7c15aef73c7f99a",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "QueueITAccepted-SDFrts345E-V3_hmam",
+    "value": "EventId%3Dhmam%26RedirectType%3Dsafetynet%26IssueTime%3D1792689268%26Hash%3D5799b1677bff7fbd413e316e291a1ce220bdf7458f981879c35fb20a7d618b10",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": 1792775668.692527,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "B02302D30A4E28CF68BF59A4B6451DE8~000000000000000000000000000000~YAAQskI5F9GoeUOhAQAAVmebZAGErAvPdINLGVQw3f8s4cNHVyTAKf8lYjKoI/wT4iAjIJCJGwGfy0S77WN4QRdDn3FF3WLAwJaK9aARyrvSeuXtPUTkWPhEC6Njb6kVg1U2UVX9AzI4max/cYp7MTrZGUG4T5IVcO427A/davlOAw3jb9hVWAHaNaf/RkF7O8GJKaXv3zhPhM31J1iSo24A5QYtGDjL52Rj9UYmg7VGoNZKUSXVk07JgEKx3oU8b3sus6UwZA6KCxwVa0Q2hTbce7U1Behy2s1C4hyGNkPrAzESQj/ixt6FbqxDW+mjN3Z1kSyphs7UX9FkSeEtbdCVEQ2R4x3jzJ/B++agvqKabufrp+LRVLqhuC3MlRhzHHCIiHVdQ4uiojujBZ5Fue1eWangQrCjcibuWsgjHEAFq0d12866HVvsdpZwLXsnMgG23L3BM1xgMD1X9d8O+M9YDY1LctPhYDMOi2TIXPMTCcbOVTGq1Cicntji",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792696466.597545,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "INGRESSCOOKIE",
+    "value": "1792689269.58.638.914734|ce11af63eaca573be5110d180bb330ca",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "AB5C26E5FD11C065316ADCECCED2A9DEE562D6C91B593A00828E463C6D03DD8FA62A284357DB1B7A575F4111ECB5B6DF373726153AF9806B6564C26EFF29104D.hybris-ecm-web-6fd86d9fdf-6djj8",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "userCookie",
+    "value": "##eyJjYXJ0Q291bnQiOjB9##",
+    "domain": "www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bm_sv",
+    "value": "4A48E083831BE95A95EEBBEA383AE4A4~YAAQskI5FxCpeUOhAQAA52ebZAFtH9trELLmUeRVz3Q7zHcX3VJ2EqgYFZgE1S9t/8IcQ5yEUU23Jkvon7/15ZLP3aOFlgKkNx3MnddR+pGY/gT1eiPI5rl6m8FSk6vg79LMwoTEEqspNapCS28rcRGEQLHxoGCMDAWoQr6weEwPSZk7Sf2HlkUJQJKAexsrjsPZwRgLMhIDbSaCWiciRBNswAnm9WdPzpk+Vlqt2o7orj6fdUiegVBaaZQ=~1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792696468.692615,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__sn",
+    "value": "1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225280,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main_ses_id",
+    "value": "1792689268937%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__pn",
+    "value": "1%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_sid",
+    "value": "s_9280557006146413.1792689268942",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_testdata",
+    "value": "normal",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "RT",
+    "value": "\"z=1&dm=hm.com&si=e7faa43f-798b-4f67-b019-0bfb464e1c46&ss=mvjswi5k&sl=1&tt=2kh&bcn=%2F%2Face99add.akstat.io%2F&ld=2kj\"",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1793294068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__ss",
+    "value": "0%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "akamref",
+    "value": "",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "HMCORP_locale_autoassigned",
+    "value": "false",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1808457269,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_s",
+    "value": "YAAQskI5F9y8eUOhAQAAfo2bZAZaqZFpfOz9FIx3IYsSc3HUiobExsnOExlc0bR82qcQV1LyxUGF/gW1Ncvkoffx5jEuhZWSQrpcOhr1CqAaAVto0Fw7XuWXs4P88cPYorymtc+greEHVPzbUkWmAVvCZt38Wu/g5VQwiqOOjxMZDR1HQ3IXzGd91bVsOfXtMYuio1Of/uvce9OAobktGYDl8XJRIn40lNig51RuGBPnzQj03F1aehoEicZkwmscQcjgfiikxJ+7mDMBel2kI/N7a88Y8Wde77P1Ti/sxn9wdxzaLeYTpTNUhpOZkwQE+CmbFdGCJahRzv69TYcrFR5YJUZkhSOecQcgcytFYD9Vi4OOhOeczzJoEzCej229TtAoxi5HSAa+jPIuTteBSbnMjdnUhBa6Qa87DX1o9z0RTLGy5+CESa/Wo5/BUTveQcUvZ4FYDlhgu404h4/CA2cN/+SQLIE6YBL+xLZMyScq0vavxsK/Q/PjJ5Mrg2qfhkC6BzBlur9Cp4ASodj+EkKOwbW4Q5EWZUFI9DyvZrNqkDfOwRdd5zSRik8S1OWIztASMU3DFK7qkF0JbaGlQ6RaNRupf6dcZwEgUeUQpL4jPGS+t7eHWDwCWqXfdh9ayMNqGMkgu+LvVDBFDmS4JUGdrK8p241DC3sW4vYwfpT42g/KDh8EVfBK8AGbiFwC90HGJziT/g0Pt+ULnb7pDJsFY2D1gW7RgYEtqGDBuuvcCAK48jeDvdKFDjiHFHRLX9dxInOjHSfdBqkbAUmX05nrw/ioPNCj6vsvW0qk4oCy/yL9+nNsKejb9QwMT4YiAW1YFOyLN63o9Lrt4p4/4ktotp0TbzY69dcp22YMV3XgaK9CZnAMpPUJDUc5dzlu+JVvThYricTEBPUbI1yOqIe/GTHiv8j3U2zUVRNTGFhB8S4XHsTeqbRzuyO40ejjd8QpTdmCOmAsbi2Ecbvn7gxVNXEQG6dtTHYzE35ChNs8n0hrnSes/uFtr3qITPlqhP+6DUo0AsulRJB7N8cPuh5OYuxAfc+s1QSBGCDZNf6USnr7k7JGEi2PL0GlAUc3gYxhTAc=",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1795367678.323744,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "hmgroup_consent",
+    "value": "datestamp=2026-10-22T17:14:40.574Z&url=https://www2.hm.com/en_us/index.html&consentId=d05cd44a-1c46-4790-b48b-aad0674d4e93&consentVersion=2.0&groups=C0001:1,C0002:1,C0003:1,C0004:1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225280.574655,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "datestamp=2026-10-22T17:14:40.574Z&url=https://www2.hm.com/en_us/index.html&consentId=926df9d7-cf33-4cc7-8390-7dbb94a9765d&consentVersion=2.0&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225280.574899,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dep_exp",
+    "value": "Thu, 22 Oct 2026 17:44:40 GMT",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__se",
+    "value": "7%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "utag_main__st",
+    "value": "1792691080587%3Bexp-session",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691080,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_abck",
+    "value": "1878B2DF17F08DCF81FE2436C71EBC13~-1~YAAQskI5F/PBeUOhAQAA6ZabZBByMzET7ujom3vFzYIQdmZe6NADTwmQEw/UOHi6jJD5WTwo8Xrg6R3ytzxE3mPLFO1tSfQ8A4x9CltKNIvdgZhzj1BJhHyP+5mZtMNoQSJX6i262BeS454H8gkjw1OuO9cngl5Y47zlgivhbVru5W3OBt0eF68TfhAcBlSmubKCybxWvnJ+23zSL1xlT48kXdd14dd9+lEXJj9wQKRs8sEeiYlcw/eV5oF6YjB4tYOy1Tvg1ZOKTeC6SB7gqoMiZJMKDIis80Ev3G1CYrAhtV6A2f8L8QQxXOR20yFQWJdJ/lOcMmNY+Wkom9val9fpYAnSkxTO4fVRA98Zpb0SKMbpBPh9YXDVEpuL8aT+2iCzy4SZ4wpfQGJPv45XlLUsaGTnIJeeZUMzQv0ThaPqirzmtsYVUY74AXoDnQzbKDNiUI89rKsfXCo5DrTZtF++NX/uvG9p6MpDO/mPWJQR07ACUOmtzIy2bb9Tce/A24B1pmBornta/AQ7W8dAG/CiWobqghREtoW0ASOkYRMWp24LpCHZHNDTq3Mqo8A+ilk9R5f+UlJAVAf88CEhYPYKq4Gs3QXMsccgUw==~-1~-1~1792692867~AAQAAAAG%2f%2f%2f%2f%2fxcrjBv04WhXJzMYTv1U1jgV5wFeAHnYnEX2gIPOjoYo1J0ykumlC0gW3vrVg%2f3YVi1ib2fx5YR9ywcUOb+8H83diuuMLDsLSSRR~-1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225280.7751,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_twpid",
+    "value": "tw.1792689280904.352499501141294500",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385290.908822,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_scid",
+    "value": "F4GJ2s6ASvu9vNCGBWrz9viWRWM_WST4",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826817280,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_scid_r",
+    "value": "F4GJ2s6ASvu9vNCGBWrz9viWRWM_WST4",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826817280,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": ".mGHQwjEQyFO7Jvy0y7cEkhUmVHQ_VW8vi4uIGMSc5E-1792689281.0483427-1.0.1.1-_j_qkEAn.e8GpuazIwUrglrxlPF49FM6bIa9S2uUsj_h05xhfODUJP635E5UAf6DsWYScjao2yOeDYBQ0BiCtfqup.dwJucGP5JI.vNyj3OA07xmxhoGCdKEN4HDqIUK",
+    "domain": ".bzrcdn.openai.com",
+    "path": "/",
+    "expires": 1792691081.110021,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "c2MSQVJ_10W_1xv.AMrMyeau42kFm8.0dBMCACn2Ofg-1792689281.0483427-1.0.1.1-l_0RtF8id4mLnA57y52H7n6_XRIHyf3iLCd4nkRlc2U",
+    "domain": ".bzrcdn.openai.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_ga_Z1370GPB5L",
+    "value": "GS2.2.s1792689281$o1$g0$t1792689281$j60$l0$h0$d25RjGcO6j2f4pPqcHAfzZVeuVfEIgRFc4A",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1827249281.150266,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1109604390.1792689281",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1827249281.150655,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetsid",
+    "value": "11773060ce3c11f1ab70bf34ac4e2fd6",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792775681,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "11771460ce3c11f1b0205d9d1031d43b",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__attentive_id",
+    "value": "0bdb60d1914b4e4588722cd23289e67f",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__attentive_session_id",
+    "value": "ae813a92c1274354ab9df4b07f3e5924",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691081,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_attn_",
+    "value": "eyJ1Ijoie1wiY29cIjoxNzkyNjg5MjgxMTY1LFwidW9cIjoxNzkyNjg5MjgxMTY1LFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjBiZGI2MGQxOTE0YjRlNDU4ODcyMmNkMjMyODllNjdmXCJ9In0=",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "__attentive_cco",
+    "value": "1792689281166",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tst",
+    "value": "AaK0cjZvxjSdIFYANpF2QyC8Mg2HPlYmco6T6ZPcw3nvJmM9XEopnsVpcx0XV4FJr-e-xd6A726hjHSvtzM1JKTqNI68JrLekB6q0j52JF5NCfv6H3rzT6_PZq_VFQAEZ6DwtzSgxwoSBZozE9C1siA",
+    "domain": ".pinterest.com",
+    "path": "/",
+    "expires": 1792862081.174075,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "muc_ads",
+    "value": "690b8d4e-c6fc-45f5-a84c-a60ef599b543",
+    "domain": ".t.co",
+    "path": "/",
+    "expires": 1827249281.186591,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "Vrjjb3VNwdtgFfj_TjN9Yy9O47tM8i0T6oYOeQqrEa0-1792689281.203988-1.0.1.1-u3oJrHntlJXhSLsAtaVbRj2p.5f7lh_.j7uGoZY.FhvbY0VHuqb7RErH9MjIYxn625byPMBQoShh7Vza_5PbtFM2U3bJrAZsEnd5rDrbnZP3A.nX6Bxrdm.JAgy5YciZ",
+    "domain": ".t.co",
+    "path": "/",
+    "expires": 1792691081.186607,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_marketing",
+    "value": "v1%3A179268928121505407",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827249281.190762,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_ads",
+    "value": "v1%3A179268928121505407",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827249281.19078,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "personalization_id",
+    "value": "\"v1_K5CKVa5H7N8eh4zFGlnrcA==\"",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827249281.19079,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id",
+    "value": "v1%3A179268928121505407",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1827249281.190802,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "0AyR6j0oIllvGB1vGeqlqWwXa0WiVZnAVe5vnBxNQgc-1792689281.2076685-1.0.1.1-4tBfZxIsXEFHVR4M2vEHNMBL72Z3PKy9omwYeENQWkgSNQ6bm9DfJDD5zsYZxos5rFBbFbVNA5OVS3OxBwqqviU11S_qCnVv0AnYdUOSNoSvO5P9AsefuK9GymS9DbHs",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1792691081.190812,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MR",
+    "value": "0",
+    "domain": ".bat.bing.com",
+    "path": "/",
+    "expires": 1793294082.233985,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__oaiq_consent",
+    "value": "true",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1795281281.232098,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__obref",
+    "value": "5473232b-2621-47f2-8ef0-372a140082ff",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1824225281.230149,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "1F77C39C41C36D473D7DD46640576CC7",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1826385282.233961,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_pin_unauth",
+    "value": "dWlkPU5UQTFZalpsWkRZdE1XTmpNeTAwWVRjeUxUbGlOV1F0WVRjME16azVaVE13TkdVMg",
+    "domain": ".www2.hm.com",
+    "path": "/",
+    "expires": 1824225281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_c",
+    "value": "0",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826853281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_id",
+    "value": "668fd112-2c45-a55b-fb18-5ec5b7cd6b27.1792689281.1.1792689281.1792689281.1772209689.1826853281244.1.x",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826853281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "3L3iioyBx8f9cmLTPa1DtHFLsGq.1792689281271",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1826385281.276829,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1792689281276.62745244880440223",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1800465281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_s",
+    "value": "1.5.U.9.1792691081291",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691081,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_s_ctx",
+    "value": "%7B%22firstViewTime%22%3A1792689281245%2C%22firstViewUrl%22%3A%22https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html%22%2C%22sessionReferrer%22%3A%22%22%7D",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691081,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_pinterest_ct_ua",
+    "value": "TWc9PSYxVUVxakw5S1N4U2NLYkRLR25KajQvK3ZXNWRXSzFvQ2IyU0k5RVoyVCtnWGJQczlrd1RvS0tPWWVaR0ljRGNRSzgyaDkxdTNnSmU1ZzRiY3U0MnBkNVNRZGNzbFRYOGdUcXhuMGtTbHBQVT0mNHBjN1BoemRETWRnTmxSVHM5NG5MWFR4aGtzPQ==",
+    "domain": ".ct.pinterest.com",
+    "path": "/",
+    "expires": 1824225281.335821,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__attentive_pv",
+    "value": "1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691081,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__attentive_ss_referrer",
+    "value": "ORGANIC",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792691081,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__attentive_dv",
+    "value": "1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1792775681,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "0xr4Wqihtl9xxcDHC..Bq2kSB...1.0.Bq2kSB.AWdb_OoHFLRvU1k3Qu_WacuHaXc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800465281.430974,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1629792522.1792689281.-.-.1792689281.411890903.1792689282.1792689281",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1800465281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "C",
+    "value": "1",
+    "domain": ".adform.net",
+    "path": "/",
+    "expires": 1795367681.598106,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sc_at",
+    "value": "v2|H4sIAAAAAAAA/03Gyw0AIQgFwIpI+IkPu1nWUIXFe3VOk2xdAaXB/ZHnZqpdQb9bO3qOgh1xXjJTA6mQ85Qv6dTADEAAAAA=",
+    "domain": ".snapchat.com",
+    "path": "/",
+    "expires": 1826385281.960308,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ttp",
+    "value": "01M5J9Q6JCZZ0XHF7YGND6W9C7_.tt.1.1792689281612",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "uid",
+    "value": "3418288354804503349",
+    "domain": ".adform.net",
+    "path": "/",
+    "expires": 1797873290.703957,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_TS",
+    "value": "1792689281841",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797873281.866495,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_DID",
+    "value": "95b79cf8-0fd0-4743-849e-e1e95123085c",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797873281.866523,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUlrwjEFsuHpi5gHZzdRvTZHlf1MN0RFqky_lLZLg9YSucUqpqrl6Qj6Q1lX",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827249281.84028,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TapAd_3WAY_SYNCS",
+    "value": "",
+    "domain": ".tapad.com",
+    "path": "/",
+    "expires": 1797873281.866547,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_sctr",
+    "value": "1%7C1792645200000",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826817281,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "FsHGlQ6mLjc3.kAuY9hJ_M2aGJSKryieJsmOcu94V6o-1792689282.6142893-1.0.1.1-9xtItE2uWmQW3ie3Vc8nRH.YOZnfyicYF2Yrbml9lhiTQ0nUBIOMGTdt5nCpC9IKBhh3mGxHgqQB4FazAoyjkyZcTQR0.FVWYqukbyjID72.EgWVm9PfB2Y4CCbF2.d_",
+    "domain": ".bzr.openai.com",
+    "path": "/",
+    "expires": 1792691082.646546,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "qTG9KlSu4ZmTPLZ7NlF1g3C1MVE.5o8ssQxJUq5ojqc-1792689282.6142893-1.0.1.1-iZhb63FQRjZDpZ0SWoHp.oioP_8e3jtN2VVAt3EYMHU",
+    "domain": ".bzr.openai.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_twsid",
+    "value": "1792689280904-445290454.1.1792689290906",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385290.906985,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "ttcsid",
+    "value": "1792689281615::mzvIiua1y5Fjg6HINF_z.1.1792689291624.0::1.-15974.0::0.0.0.0::0.0.0",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385291,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttcsid_C4QSSN7M5GFN4SM6UID0",
+    "value": "1792689281614::_OEVGMG9ZS7eFj7UCu_3.1.1792689291628.1",
+    "domain": ".hm.com",
+    "path": "/",
+    "expires": 1826385291,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

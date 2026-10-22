@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-10-22T17:14:43.358Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://k-eu1.az.contentsquare.net/v2/recording?rt=5&v=15.270.0%2Bfix-ed4a84aa&pid=20224&pn=1&sn=1&uu=668fd112-2c45-a55b-fb18-5ec5b7cd6b27&let=1792689282647&rst=1792689281292&ri=4&ct=2",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:43.643Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/monitor",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:43.644Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/monitor",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.644Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://9054599.fls.doubleclick.net/activityi;src=9054599;type=us-co0;cat=globa004;rcb=14;ord=6636388693144;npa=0;auiddc=1629792522.1792689281;u5=1;u6=1;u7=DESKTOP;u8=US;u11=undefined;u2=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html;gdid=dYmQxMT.dOWZjZj.dNWVlNT;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFg;gtb=2;gtm=45c92e6al0v9181647103za204zd9181647103xecxf4;gcs=G111;gcd=13r3r3r3r6l1;dma=0;dc_fmt=1;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;match_id=;gap.gtb=2;~oref=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.651Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://a1.adform.net/Serving/TrackPoint/?pm=1696295&ADFPageName=US%20-%20Quality%20Visit%2010&ADFdivider=%7C&ord=809850381456&ADFtpmode=2&itm=eyJic3oiOjF9&loc=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html&Set1=en-US%7Cen-US%7C1280x720%7C30",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.696Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://9054599.fls.doubleclick.net/activityi;dc_pre=COGB9oKQzpcDFTFbnQYd3ZYCug;src=9054599;type=us-co0;cat=globa004;rcb=14;ord=6636388693144;npa=0;auiddc=1629792522.1792689281;u5=1;u6=1;u7=DESKTOP;u8=US;u11=undefined;u2=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html;gdid=dYmQxMT.dOWZjZj.dNWVlNT;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFg;gtb=2;gtm=45c92e6al0v9181647103za204zd9181647103xecxf4;gcs=G111;gcd=13r3r3r3r6l1;dma=0;dc_fmt=1;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;match_id=;gap.gtb=2;~oref=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html?",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.766Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/gmp/conversion/_dc_unique_id=2249191235966297386;_dc_ptd=ChAI8Ojm1gYQ4Je1yvWE5M4zEh8ACL6xfh2cpD4XgrEELBpzxFy-CFm8s-TYQK0bQwBC;_dc_time=1792689290;cid=CAQS4QEAQM4h3MvTmGQYCAvMzxOvnJwwSHkJVSN_EfMxIkrMxe9RW26lCwhQ5WmMd8ZaFa1sXfMP5GQHHKwqgYmZc_d5bhL-efwAeOUguOnRw0sFkCnJD4lauDA5sLLVuUbUmvc_kpXGOz7buw6Sknvw8_cZYOG4CZTZC4gjYExd1yvoT38n6a4y1JKTU7Kt8XzDwcA_WMPXwXH3fHa0cNl5XsdfzID83kJlOQ1zyycuU1iy9cIBb8HaMi2o621Ay3T_AZCBeJeBt_5EP0WRuvBNYf99GpKsrVcuC1Men-5bB_x6tA0;eps=AHas8cDzivZjfOpx6nlcNHQn3wzhNYug19-hm5rOrK11UlawyNhUihvVCn25wp5cbBKn0ZcTLOpASDHK1HnmENq_v-sZApjPBnImHN5ss826wjfaLQ;dc_pre=COGB9oKQzpcDFTFbnQYd3ZYCug;src=9054599;type=us-co0;cat=globa004;rcb=14;ord=6636388693144;npa=0;auiddc=1629792522.1792689281;u5=1;u6=1;u7=DESKTOP;u8=US;u11=undefined;u2=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html;gdid=dYmQxMT.dOWZjZj.dNWVlNT;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=IFg;gtb=2;gtm=45c92e6al0v9181647103za204zd9181647103xecxf4;gcs=G111;gcd=13r3r3r3r6l1;dma=0;dc_fmt=1;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;match_id=;gap.gtb=2;~oref=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html?",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.770Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/377903843/?random=1792689290766&cv=9&fst=1792689290766&num=1&npa=1&label=M4a_CPGnkrcDEOO1mbQB&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953496&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.770Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.googleadservices.com/pagead/conversion/732550205/?random=1792689290768&cv=9&fst=1792689290766&num=2&npa=1&label=UAIYCNnEptEBEL2op90C&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247838%2C658953495&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&rfmt=3&fmt=4",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.844Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/732550205/?random=1736769666&cv=9&fst=1792689290766&num=2&npa=1&label=UAIYCNnEptEBEL2op90C&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247838%2C658953495&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjX1b4tueu-LQ&fsk=ChEI8Ojm1gYQo5aynpTN-qz5ARIsAAFdw4O1vqKx6swRoE2ssG3OxmhCnZOK1Jl5AjCX4GkQAtyLlb-WOR2pJhIaAnO-&pscrd=IhMIgr79gpDOlwMVLcnSBB1njzJHOiRodHRwczovLzkwNTQ1OTkuZmxzLmRvdWJsZWNsaWNrLm5ldC9CWENoRUk4T2ptMWdZUTNvSHF4dlR0bnVxbEFSSXRBTjNlRjFnRnVBeW10cG80ajdyNWZwb0VYOEFTMV9MdjNJUEhILU5paUFfbUZUQW1VYUFmWlJQRlMzMVN6DAgJYggIABAAGAAgAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.846Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/377903843/?random=1419670877&cv=9&fst=1792689290766&num=1&npa=1&label=M4a_CPGnkrcDEOO1mbQB&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953496&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgyCsL4t19W-Lbnrvi0&fsk=ChEI8Ojm1gYQo5aynpTN-qz5ARIsAAFdw4NcpPJ_KlXhdV1MveLOjDpd9xSCYlNvF2Xj6XzJEbiUIf7UmwzV5vsaAhBs&pscrd=IhMIv6L9gpDOlwMVg-7SBB0cYTF5OiRodHRwczovLzkwNTQ1OTkuZmxzLmRvdWJsZWNsaWNrLm5ldC9CWENoRUk4T2ptMWdZUTNvSHF4dlR0bnVxbEFSSXRBTjNlRjFqbll3SEQtM0VqazB5U0hPNGpyTGxiemRSYXZER2duS24zUkt4UHRwTWhHTnptalNVVmVLTm56DAgJYggIABAAGAAgAA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.896Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/732550205/?random=1736769666&cv=9&fst=1792689290766&num=2&npa=1&label=UAIYCNnEptEBEL2op90C&guid=ON&resp=GooglemKTybQhCsO&eid=375603260%2C466465926%2C512247838%2C658953495&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCOHTsQIIh9uxAgjTxbECCOvMsQII7c6xAgjVz7ECCIrysQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgjX1b4tueu-LQ&fsk=ChEI8Ojm1gYQo5aynpTN-qz5ARIsAAFdw4O1vqKx6swRoE2ssG3OxmhCnZOK1Jl5AjCX4GkQAtyLlb-WOR2pJhIaAnO-&pscrd=IhMIgr79gpDOlwMVLcnSBB1njzJHOiRodHRwczovLzkwNTQ1OTkuZmxzLmRvdWJsZWNsaWNrLm5ldC9CWENoRUk4T2ptMWdZUTNvSHF4dlR0bnVxbEFSSXRBTjNlRjFnRnVBeW10cG80ajdyNWZwb0VYOEFTMV9MdjNJUEhILU5paUFfbUZUQW1VYUFmWlJQRlMzMVN6DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEAQM4h3PyuLnOQbe99kDaUOdehdjWdrlZC0dMJhjM1rcU1fAHUEtW_Zsvlw6-j7z66PlEPt5XGU4zPhTHU_u2N4Q_fGqRq5pioGj7oYxkqxHLAYbvOpKfYx7OAo1M046z2fGyyYxjGWTjbDy5JLrzvqNJam1aBpVHN86w1BeqxKtrLLbTcE6zMACCZ89L0hbzF_d-IT7NVfFJBobw321vaoIBs3cHYwUZ3uFjrvWeagiD7sJ6OrBHR7fltvQ4a&random=3829479887&resp=GooglemKTybQhCsO",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.908Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://www.google.com/pagead/1p-conversion/377903843/?random=1419670877&cv=9&fst=1792689290766&num=1&npa=1&label=M4a_CPGnkrcDEOO1mbQB&guid=ON&resp=GooglemKTybQhCsO&eid=375603261%2C466465926%2C512247838%2C658953496&u_h=956&u_w=1470&ig=1&auid=1629792522.1792689281&frm=2&url=https%3A%2F%2F9054599.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCOGB9oKQzpcDFTFbnQYd3ZYCug%3Bsrc%3D9054599%3Btype%3Dus-co0%3Bcat%3Dgloba004%3Brcb%3D14%3Bord%3D6636388693144%3Bnpa%3D0%3Bauiddc%3D1629792522.1792689281%3Bu5%3D1%3Bu6%3D1%3Bu7%3DDESKTOP%3Bu8%3DUS%3Bu11%3Dundefined%3Bu2%3Dhttps%253A%252F%252Fwww2.hm.com%252Fen_us%252Findex.html%3Bgdid%3DdYmQxMT.dOWZjZj.dNWVlNT%3Buaa%3Darm%3Buab%3D64%3Buafvl%3DGoogle%252520Chrome%253B155.0.8059.85%257CChromium%253B155.0.8059.85%257CNot(A%25253ABrand%253B24.0.0.0%3Buamb%3D0%3Buam%3D%3Buap%3DmacOS%3Buapv%3D13.0.0%3Buaw%3D0%3Bpscdl%3Dnoapi%3Bfrm%3D0%3B_tu%3DIFg%3Bgtb%3D2%3Bgtm%3D45c92e6al0v9181647103za204zd&ref=https%3A%2F%2Fwww2.hm.com%2F&top=https%3A%2F%2Fwww2.hm.com%2F&hn=www.googleadservices.com&fmt=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCIfbsQII08WxAgjrzLECCO3OsQII1c-xAgiK8rECCPTasQII4uqxAgjo7rECCJLrsQIIyeOxAgiX1LECCMnbsQIIpt2xAgiw3rECCIDbsQIIzeGxAg&cerd=CgyCsL4t19W-Lbnrvi0&fsk=ChEI8Ojm1gYQo5aynpTN-qz5ARIsAAFdw4NcpPJ_KlXhdV1MveLOjDpd9xSCYlNvF2Xj6XzJEbiUIf7UmwzV5vsaAhBs&pscrd=IhMIv6L9gpDOlwMVg-7SBB0cYTF5OiRodHRwczovLzkwNTQ1OTkuZmxzLmRvdWJsZWNsaWNrLm5ldC9CWENoRUk4T2ptMWdZUTNvSHF4dlR0bnVxbEFSSXRBTjNlRjFqbll3SEQtM0VqazB5U0hPNGpyTGxiemRSYXZER2duS24zUkt4UHRwTWhHTnptalNVVmVLTm56DAgJYggIABAAGAAgAA&is_vtc=1&vdi=1&cid=CAQSvgEAQM4h3EU9yKMw5kqHbU3NbVk2Jm_6tfCDoFdzu4Oxr49Pb-NnGRAfuJf-_P5qGcNGbxVS4aanlbkjCy36qDjsgA3oIY8irpFQFt0ZJbeBykROo3IRKeVw16fYAZ0NmV1t1sxQxVxYeWlrkPkIovcjIcaFC8HGcASVF05-vVRnqSGX1xMKDAkBvFO9un6N7FD2kex5lYn9uH-_qa6fDUYtnJkAUibGktqhoez8ounBDIkQq6W7RpQ4uFi_a2rr&random=3260498627&resp=GooglemKTybQhCsO",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.911Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://t.co/i/adsct?bci=4&cv=32%260&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=2&event_id=8f29c245-ce2a-4344-bbed-02b9d488f9e6&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0819188e-23bc-4e44-944e-c72265d81142&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=13.0.0&tw_document_href=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html&tw_engaged_ms=10004&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792689280904-445290454&twpid=tw.1792689280904.352499501141294500&txn_id=o1bgu&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:50.912Z",
+    "stage": "post-consent",
+    "method": "GET",
+    "url": "https://analytics.twitter.com/i/adsct?bci=4&cv=32%260&dv=America%2FChicago%26en-US%2Cen%26Google%20Inc.%26MacIntel%26127%261280%26720%268%2630%261280%26720%260%26na%261&eci=2&event_id=8f29c245-ce2a-4344-bbed-02b9d488f9e6&events=%5B%5B%22auto_long_site_dwell%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=0819188e-23bc-4e44-944e-c72265d81142&tw_ch_fvl=Google%20Chrome%2F155.0.8059.85%2CChromium%2F155.0.8059.85%2CNot(A%3ABrand%2F24.0.0.0&tw_ch_pv=13.0.0&tw_document_href=https%3A%2F%2Fwww2.hm.com%2Fen_us%2Findex.html&tw_engaged_ms=10004&tw_iframe_status=0&tw_pid_src=1&tw_session_count=1&tw_session_id=1792689280904-445290454&twpid=tw.1792689280904.352499501141294500&txn_id=o1bgu&type=javascript&version=2.4.12",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:51.629Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/pixel",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:14:51.630Z",
+    "stage": "post-consent",
+    "method": "POST",
+    "url": "https://analytics.tiktok.com/api/v2/monitor",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  }
+]

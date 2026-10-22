@@ -1,0 +1,380 @@
+[
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2026-10-22T17:08:07.815Z",
+    "domain": ".kpmg.com",
+    "path": "/xx",
+    "expires": 1824224887,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Thu+Oct+22+2026+12%3A08%3A07+GMT-0500+(Central+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ebf71a67-464b-4805-b5bf-721ea0c154e3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&intType=1",
+    "domain": ".kpmg.com",
+    "path": "/xx",
+    "expires": 1824224887,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ECIDNODE",
+    "value": "09076653465202389452851169096668448337",
+    "domain": "kpmg.com",
+    "path": "/xx",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gig_canary",
+    "value": "latest",
+    "domain": "cdns.gigya.com",
+    "path": "/",
+    "expires": 1792689458.025536,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "affinity",
+    "value": "\"a2d7b9dd322f9772\"",
+    "domain": "kpmg.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gmid",
+    "value": "gmid.ver4.AtLtG2ry3A.fWQbB_pN7wOCgX5doLUUKcsz5ahCy23PPF2RK0iE-FAD9ouBzn7iWBda4CtrTkDw.vDOIguBHlC47DvzFdbcvqUQL8U8TZHS1IRJFyBWWg-ELoopBCmXfbZx5QvF5u24VZJqjFykR-fD-ib50Az9scg.sc3",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824224858.891104,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ucid",
+    "value": "abl8AFOYnXgdoxd8K3G0Hw",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824224858.891233,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "hasGmid",
+    "value": "ver4",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1808413658.891265,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gig_bootstrap_4_azL3BNfXLB_XWsTbbzd9Vw",
+    "value": "login_ver4",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1824224858,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "demdex",
+    "value": "09058964460310033762854063877888193472",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1808240888.402849,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_00B621ED542E84FD0A4C98A1_AdobeOrg_cluster",
+    "value": "va6",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1792690688.734858,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_00B621ED542E84FD0A4C98A1_AdobeOrg_identity",
+    "value": "CiYwOTA3NjY1MzQ2NTIwMjM4OTQ1Mjg1MTE2OTA5NjY2ODQ0ODMzN1ISCMq01qSWNBABGAEqA1ZBNjAA8AHKtNakljQ=",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1826816888,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_00B621ED542E84FD0A4C98A1%40AdobeOrg",
+    "value": "MCMID|09076653465202389452851169096668448337",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1826384888,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid",
+    "value": "12055970-4c9d-4b8e-b653-f74013737d4d",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1826903289.042984,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tuuid_lu",
+    "value": "1792688889|ix:0|mctv:0|pm:0|rp:0",
+    "domain": ".company-target.com",
+    "path": "/",
+    "expires": 1826903289.04305,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "rlas3",
+    "value": "aN/afKYibG/wYVywFmL1rLYk9HYBFFxB5CAiJBrGTbM=",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1824224889.152495,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "li_sugr",
+    "value": "d7329328-d90b-49bb-b199-fc4cef88ef4a",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1800464889.347694,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&50ab97e2-8d5e-417d-8b64-472c96250d5c\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1824224889.347736,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=3687:u=1:x=1:i=1792688889:t=1792775289:v=2:sig=AQGLvhku0UkkTVd1x-7S-mYnv-a3imRX\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792775289.116324,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "x36HNoy5S5wf6zywLOhv_hM_eEjYrlZZVd0IVHTRrMc-1792688889.1203778-1.0.1.1-9hL5YPX1Ca_yM19G0FZw9YxyzxigDWz3jY73xl3EMoWBvD30n3FIbzsoKUPtvg.n4u9JmHla57nulqy5sOei0Z__XdJa0.oEAEaWt0fI7Z1rXpD1lA_cRct0sm.iczTj",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792690689.116351,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_mkto_trk",
+    "value": "id:658-GGA-005&token:_mch-kpmg.com-cbbc77ea319ebfa8b049cd8f85e70ff2",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1827248889.121815,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxrc",
+    "value": "CPmF6dYGEgUI6AcQABIGCMrdKhAA",
+    "domain": ".rlcdn.com",
+    "path": "/",
+    "expires": 1797872889.152542,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMID",
+    "value": "atpC.cAoJJwAPttdABOffAAA",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1824224889.206068,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPS",
+    "value": "1632",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800464889.163106,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "CMPRO",
+    "value": "1632",
+    "domain": ".casalemedia.com",
+    "path": "/",
+    "expires": 1800464889.206104,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UserMatchHistory",
+    "value": "AQL29PsPoQ8e_wAAAaFklZ1ooPVu1OSkO14fD_yBu-vmLsU9FS2cQtCp_S_sp9nlosyJwhSU8t4d8g",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795280889.167111,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AnalyticsSyncHistory",
+    "value": "AQLSBz5XKZNLnQAAAaFklZ1oa-D7w1KWTBgtPUH5nSe_SG3s4fgblgOSakhZi-t6H0LacP6uYwpMBDw3LPXKfQ",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795280889.167134,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tvid",
+    "value": "f4200b303fb34d89af8c36f807bf5bfd",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "expires": 1824245789.207494,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "tv_UIDM",
+    "value": "12055970-4c9d-4b8e-b653-f74013737d4d",
+    "domain": ".tremorhub.com",
+    "path": "/",
+    "expires": 1827248889.207531,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|wypOiAq3L6DnBnT3X8AiL6u4ydBSUUj+0xGAVhCEp6tyg3/Kg9m+M8o9R6SdApbLKVGr8UwQKEUwHTRO1/p4iA59h2Rwxmgjlp8cC0c/MLZDCSCRGmh07e5dPuPpsn+cTJ5JZPPIZ88tEcbtS1ZdL3ZhJkY2ZzdsLvQWh5qHkp2WvEnWSmTsitzpQ7vzkXQ/",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824224889.208695,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVJSOFPY-1A-GDLL",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824224889.20872,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVJSOFPY-1A-GDLL",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824224889.208731,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|wypOiAq3L6DnBnT3X8AiL6u4ydBSUUj+0xGAVhCEp6tyg3/Kg9m+M8o9R6SdApbLKVGr8UwQKEUwHTRO1/p4iA59h2Rwxmgjlp8cC0c/MLZDCSCRGmh07e5dPuPpsn+cTJ5JZPPIZ88tEcbtS1ZdL3ZhJkY2ZzdsLvQWh5qHkp2WvEnWSmTsitzpQ7vzkXQ/",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824224889.208745,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1800464889.208761,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "KRTBCOOKIE_1571",
+    "value": "24048-12055970-4c9d-4b8e-b653-f74013737d4d&KRTB&24062-12055970-4c9d-4b8e-b653-f74013737d4d&KRTB&24063-12055970-4c9d-4b8e-b653-f74013737d4d&KRTB&24070-12055970-4c9d-4b8e-b653-f74013737d4d",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795280889.225191,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "PugT",
+    "value": "1792688889",
+    "domain": ".pubmatic.com",
+    "path": "/",
+    "expires": 1795280889.225288,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&20261022170809f9e5a600-0401-4d29-8fd1-890d24c12c61AQEBj-O8Rys68V4-vocF4HgOJkBYDFGl\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1824224889.26812,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

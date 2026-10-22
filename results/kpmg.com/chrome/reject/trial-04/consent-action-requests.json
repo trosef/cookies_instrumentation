@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2026-10-22T17:12:17.075Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://smetrics.kpmg.com/b/ss/kpmgtotalaem/1/JS-2.25.0/s?AQB=1&pageName=KPMG%20International%20%7C%20Home&g=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&server=kpmg.com&events=event155&v7=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&v145=not%20given%20choice&v146=%20anonymous&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:12:17.075Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://kpmg.com/bin/kpmg/siteSelectorServlet?pagePath=/xx/en",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:12:17.083Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://kpmgi-privacy.my.onetrust.com/request/v1/consentreceipts",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:12:17.290Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://smetrics.kpmg.com/b/ss/kpmgtotalaem/1/JS-2.25.0/s?AQB=1&pccr=true&vidn=356D21F8B86F24C7-400003E840F30B84&pageName=KPMG%20International%20%7C%20Home&g=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&server=kpmg.com&events=event155&v7=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&v145=not%20given%20choice&v146=%20anonymous&AQE=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  }
+]

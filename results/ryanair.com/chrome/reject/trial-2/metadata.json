@@ -1,0 +1,37 @@
+{
+  "website": "https://www.ryanair.com/us/en",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "2",
+  "startTime": "2026-10-22T17:16:31.361Z",
+  "endTime": "2026-10-22T17:17:03.385Z",
+  "requestCount": 212,
+  "cookieCount": 8,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-22T17:16:42.829Z",
+      "cookieCount": 7,
+      "requestCountSoFar": 88
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-22T17:16:56.028Z",
+      "cookieCount": 8,
+      "requestCountSoFar": 212
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-22T17:17:03.383Z",
+      "cookieCount": 8,
+      "requestCountSoFar": 212
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 94,
+  "errors": []
+}

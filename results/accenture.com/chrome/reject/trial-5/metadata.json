@@ -1,0 +1,37 @@
+{
+  "website": "https://www.accenture.com/us-en",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "5",
+  "startTime": "2026-10-22T17:18:03.411Z",
+  "endTime": "2026-10-22T17:18:45.664Z",
+  "requestCount": 164,
+  "cookieCount": 33,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-22T17:18:14.893Z",
+      "cookieCount": 32,
+      "requestCountSoFar": 157
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-22T17:18:30.688Z",
+      "cookieCount": 33,
+      "requestCountSoFar": 163
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-22T17:18:45.661Z",
+      "cookieCount": 33,
+      "requestCountSoFar": 164
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 112,
+  "errors": []
+}

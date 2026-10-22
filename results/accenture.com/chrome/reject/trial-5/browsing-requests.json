@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-10-22T17:18:39.632Z",
+    "stage": "browsing",
+    "method": "POST",
+    "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub3d7d6627feed8cd40ac36fdc41b8c30b&dd-evp-origin-version=6.33.0&dd-evp-origin=browser&dd-request-id=c88faeea-ed0c-45a5-b26a-1c835827ac6d&batch_time=1792689519629&_dd.api=fetch",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

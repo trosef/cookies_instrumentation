@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-10-22T17:18:17.451Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.accenture.com/etc/clientlibs/dtm-reactor/EN785f1994af8549b6b4a28ab29b6a7455/55621ea95d50/9203afe82f7a/0454742d40be/RC99ccd871e30349d78fb741dadb8c101f-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:18:18.470Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:18:18.565Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.facebook.com/tr/",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:18:18.571Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://ad.doubleclick.net/activity;src=10351289;rcb=13;npa=0;gdid=dYWJhMj;uaa=arm;uab=64;uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0;uamb=0;uam=;uap=macOS;uapv=13.0.0;uaw=0;pscdl=noapi;frm=0;_tu=ACA;gtm=45fe6al0v9190935837za200zd9190935837xecxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=6;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1792689498_2k7rV85y1JqreWOpePNRyo91wxLDSpyUQA;~oref=https%3A%2F%2Fwww.accenture.com%2Fen?",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:18:18.571Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google.com/ccm/collect?rcb=13&frm=0&ncl=1&apvc=0&dt=Reinvented%20with%20Accenture&tid=DC-10351289&en=trackOptanonEvent&dl=https%3A%2F%2Fwww.accenture.com%2Fen&scrsrc=www.googletagmanager.com&rnd=477597138.1792689488&navt=n&npa=0&ep.optanonCategory=OneTrust%20Cookie%20Consent&ep.optanonAction=Banner%20Close%20Button&gdid=dYWJhMj&gtm=45fe6al0v9190935837za200zd9190935837xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034&tft=1792689498566&tfd=14444&tids=DC-10351289&fmt=8",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:18:18.571Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://privacyportal-de.onetrust.com/request/v1/consentreceipts/anonymous",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]

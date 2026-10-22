@@ -1,0 +1,94 @@
+[
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2026-10-22T17:12:17.075Z",
+    "domain": ".kpmg.com",
+    "path": "/xx",
+    "expires": 1824225137,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Thu+Oct+22+2026+12%3A12%3A17+GMT-0500+(Central+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b23165f-6613-42b5-8e33-60fd0c066e7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0&intType=3",
+    "domain": ".kpmg.com",
+    "path": "/xx",
+    "expires": 1824225137,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gig_canary",
+    "value": "latest",
+    "domain": "cdns.gigya.com",
+    "path": "/",
+    "expires": 1792689723.30077,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "affinity",
+    "value": "\"e3c32fce743ce3f2\"",
+    "domain": "kpmg.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gmid",
+    "value": "gmid.ver4.AtLtb60zsg.QLTu1AaKJ7Mt6FWX51qsQgO7VA5kT2_r-DyIo6wnS6q_7q1vdyxbfnZrZQ5U89iD.0m8gxL6gXrebGZmQlLR_ydXsAIMrj6r7mfFj1gBQQvFQ_tGwWCJ1abfoiZFN__j04c_78Lrov8BBK8OdFHzRXQ.sc3",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824225125.193299,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ucid",
+    "value": "SZwvBjD4dCszkAvBZJ6kIQ",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824225125.193493,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "hasGmid",
+    "value": "ver4",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1808413925.193571,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gig_bootstrap_4_azL3BNfXLB_XWsTbbzd9Vw",
+    "value": "login_ver4",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1824225124,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_vi",
+    "value": "[CS]v1|356D21F8B86F24C7-400003E840F30B84[CE]",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1827249137.337904,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

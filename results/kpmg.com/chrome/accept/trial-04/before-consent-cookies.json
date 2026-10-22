@@ -1,0 +1,74 @@
+[
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Thu+Oct+22+2026+12%3A07%3A38+GMT-0500+(Central+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ebf71a67-464b-4805-b5bf-721ea0c154e3&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+    "domain": ".kpmg.com",
+    "path": "/xx",
+    "expires": 1824224858,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gig_canary",
+    "value": "latest",
+    "domain": "cdns.gigya.com",
+    "path": "/",
+    "expires": 1792689458.025536,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://kpmg.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "affinity",
+    "value": "\"a2d7b9dd322f9772\"",
+    "domain": "kpmg.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gmid",
+    "value": "gmid.ver4.AtLtG2ry3A.fWQbB_pN7wOCgX5doLUUKcsz5ahCy23PPF2RK0iE-FAD9ouBzn7iWBda4CtrTkDw.vDOIguBHlC47DvzFdbcvqUQL8U8TZHS1IRJFyBWWg-ELoopBCmXfbZx5QvF5u24VZJqjFykR-fD-ib50Az9scg.sc3",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824224858.891104,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ucid",
+    "value": "abl8AFOYnXgdoxd8K3G0Hw",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1824224858.891233,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "hasGmid",
+    "value": "ver4",
+    "domain": ".login.kpmg.com",
+    "path": "/",
+    "expires": 1808413658.891265,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gig_bootstrap_4_azL3BNfXLB_XWsTbbzd9Vw",
+    "value": "login_ver4",
+    "domain": ".kpmg.com",
+    "path": "/",
+    "expires": 1824224858,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

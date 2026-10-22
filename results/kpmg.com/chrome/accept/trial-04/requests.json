@@ -1,0 +1,682 @@
+[
+  {
+    "timestamp": "2026-10-22T17:07:37.223Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.457Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/xx/en.html",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.564Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.565Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans/OpenSans-Regular.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.565Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans/OpenSans-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.565Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans/OpenSans-Medium.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans/OpenSans-Medium.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Material_Icons/MaterialIcons-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Material_Icons/MaterialIcons-Regular.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans_Condensed/OpenSans_Condensed-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans_Condensed/OpenSans_Condensed-Regular.ttf",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-base.lc-bee0a8382ad36e345dda31b92379d226-lc.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site.lc-1d2c81ea6172f1a99f3407945e8ea768-lc.min.css",
+    "resourceType": "stylesheet",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.lc-70264651675213ed7f7cc5a02a00f621-lc.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.566Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/scripttemplates/otSDKStub.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.571Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/business-people-sitting-on-chairs:cq5dam-web-2732-1088?wid=2732&hei=1088",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.571Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.572Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-base.lc-7649a0dbd0d151365c23153b98b8cc0e-lc.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.572Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site.lc-c7433a67e4b15ef08f0454b1432a5729-lc.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.572Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdns.gigya.com/js/gigya.js?apikey=4_azL3BNfXLB_XWsTbbzd9Vw",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.903Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/consent/0190e9c8-2535-7ea0-93fe-c861429b12b0/0190e9c8-2535-7ea0-93fe-c861429b12b0.json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.908Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/images/alert-icons.svg",
+    "resourceType": "other",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.931Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Material_Icons/MaterialIconsOutlined-Regular.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans/OpenSans-SemiBold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/OpenSans_Condensed/OpenSans_Condensed-Bold.woff2",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Icomoon_Social_Icons/icomoon.ttf?uy9nx",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/content/experience-fragments/kpmgpublic/xx/en/site/header/master/_jcr_content/root/header_v2/logo.coreimg.svg/1787056531657/logo.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/building-with-chair:cq5dam-web-1120-684?wid=560&hei=342",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/empoyees-inside-building-with-lots-of-ai-screen:cq5dam-web-1120-684?wid=560&hei=342",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/employess-inside-building:cq5dam-web-1120-684?wid=560&hei=342",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/chair-inside-glass-building-sustainbility:cq5dam-web-1120-684?wid=560&hei=342",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://assets.kpmg.com/is/image/kpmgcloud/ceo-outlook-nba-img:cq5dam-web-1366-264?wid=1024&hei=264",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:37.932Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/adobe/dynamicmedia/deliver/dm-aid--e83ae29e-9e31-4c36-8fc6-603513fa298d/make-the-difference.jpg?crop=10.0p,6.7p,79.8p,86.4p&quality=82&preferwebp=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.021Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/bin/kpmg/accounts/pagereferences?locale=en&country=xx",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.030Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Icomoon_File_Icons/icomoon.ttf?she5hb",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.074Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/scripttemplates/202407.2.0/otBannerSdk.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.138Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/etc.clientlibs/kpmg/clientlibs/clientlib-site/resources/fonts/Icomoon_Icons/icomoon.ttf?frmosu",
+    "resourceType": "font",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.159Z",
+    "stage": "initial-load",
+    "method": "POST",
+    "url": "https://kpmg.com/akamai/geo-tracker.html",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.163Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdns.gigya.com/js/config.js?apiKey=4_azL3BNfXLB_XWsTbbzd9Vw&version=latest&build=2400&ver=1792688760000&flavor=no-eval",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.217Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/consent/0190e9c8-2535-7ea0-93fe-c861429b12b0/4fb26e4d-bbc1-4cad-826a-76ba2e907dbf/en.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.241Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/js/Api.htm?apiKey=4_azL3BNfXLB_XWsTbbzd9Vw&version=latest&build=2400&flavor=no-eval&serviceName=apiService",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.280Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/scripttemplates/202407.2.0/assets/otFlat.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.280Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/scripttemplates/202407.2.0/assets/v2/otPcTab.json",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.280Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/scripttemplates/202407.2.0/assets/otCommonStyles.css",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.414Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/sdk.config.get?apiKey=4_azL3BNfXLB_XWsTbbzd9Vw&httpStatusCodes=true&ver=1792688760000",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.441Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/logos/static/ot_close.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.441Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://cdn.cookielaw.org/logos/static/ot_guard_logo.svg",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.449Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/logos/80f0f529-1935-4858-b3ef-fd87711f2bef/59bffbe2-4eaa-48d8-8f03-3f105f6cde70/KPMG_logo.svg.png",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.449Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://collection.kpmg.com/logos/static/powered_by_logo.svg",
+    "resourceType": "image",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.456Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login.kpmg.com/accounts.webSdkBootstrap?apiKey=4_azL3BNfXLB_XWsTbbzd9Vw&pageURL=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&sdk=js_latest&sdkBuild=2400&format=json",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.476Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://kpmg.com/bin/kpmg/geolocation?countryCode=us",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.905Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/js/sso.htm?APIKey=3_e2ggAN5_ZqWrSNeM0HSHMYT8P16JqxINgs88bIrpCmPIiLJZ4zOqT69Wy7I6UByO&ssoSegment=&version=latest&build=2400&flavor=no-eval&sourceKey=4_azL3BNfXLB_XWsTbbzd9Vw",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:38.945Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/sdk.config.get?apiKey=3_e2ggAN5_ZqWrSNeM0HSHMYT8P16JqxINgs88bIrpCmPIiLJZ4zOqT69Wy7I6UByO&httpStatusCodes=true&ver=1792688760000",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:39.117Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/js/sso.htm?APIKey=3_e2ggAN5_ZqWrSNeM0HSHMYT8P16JqxINgs88bIrpCmPIiLJZ4zOqT69Wy7I6UByO&ssoSegment=&version=latest&build=2400&flavor=no-eval&sourceKey=4_azL3BNfXLB_XWsTbbzd9Vw",
+    "resourceType": "document",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:07:39.159Z",
+    "stage": "initial-load",
+    "method": "GET",
+    "url": "https://login1.kpmg.com/sdk.config.get?apiKey=3_e2ggAN5_ZqWrSNeM0HSHMYT8P16JqxINgs88bIrpCmPIiLJZ4zOqT69Wy7I6UByO&httpStatusCodes=true&ver=1792688760000",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:08:07.815Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://kpmg.com/bin/kpmg/siteSelectorServlet?pagePath=/xx/en",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:08:07.826Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/9ff0694f1438/dd433ce7efb6/launch-5b72ccf8a16a.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:07.826Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://kpmgi-privacy.my.onetrust.com/request/v1/consentreceipts",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.178Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://api.company-target.com/api/v2/ip.json?key=ayvX8Uwe2cyBesSxvt3tP0Il8VinNdyO0JGjawE7&page=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&referrer=&page_title=KPMG%20International%20%7C%20Home&src=adobelaunch",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.178Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://adobedc.demdex.net/ee/v1/interact?configId=bc8d800d-6230-4cef-8319-395205c09f8c&requestId=6dc9177c-4828-4fed-af0c-c04fddd9cd5a",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.413Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://smetrics.kpmg.com/ee/va6/v1/interact?configId=bc8d800d-6230-4cef-8319-395205c09f8c&requestId=b6f1832d-1948-409d-b630-42921a6acc0a",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.666Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://smetrics.kpmg.com/ee/va6/v1/interact?configId=bc8d800d-6230-4cef-8319-395205c09f8c&requestId=298da513-b2cf-4f47-961c-544c6ea079cd",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": false
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.740Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tag.demandbase.com/pZy5a2F8.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.740Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/9ff0694f1438/dd433ce7efb6/b758e5e9afb3/RCe32e8d91793a4fd1818b7a5aeeaf18ae-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.793Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.793Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://assets.adobedtm.com/9ff0694f1438/dd433ce7efb6/b758e5e9afb3/RC28067a94f1b64bf1bf67140bfa869069-source.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.841Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://munchkin.marketo.net/munchkin.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.890Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://s.company-target.com/s/sync?exc=lr",
+    "resourceType": "document",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.890Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/464526.gif",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.890Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://api.company-target.com/api/v3/ip.json?referrer=&page=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&page_title=KPMG%20International%20%7C%20Home",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.934Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://tag-logger.demandbase.com/bg9s?x-amz-cf-id=htS1wpDQRRXzVT87Spp0gzH5kQAN3p6RelWvb6xl56JZKQB-AQjtsg==&api-version=v3",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:08.973Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=9841330&time=1792688888973&li_adsId=b8db146e-d350-41d4-b343-b0eb37d92d67&pageLoadId=9e4e4a3b-99ec-44fa-8e61-0e87ecb0a46b&url=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.046Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://munchkin.marketo.net/165/munchkin.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.049Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=18&expiry=1808413689&external_user_id=12055970-4c9d-4b8e-b653-f74013737d4d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.049Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://partners.tremorhub.com/sync?UIDM=12055970-4c9d-4b8e-b653-f74013737d4d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.050Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTQyODQmdGw9NDMyMDA=&piggybackCookie=12055970-4c9d-4b8e-b653-f74013737d4d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.050Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://pixel.rubiconproject.com/tap.php?v=1181926&nid=5578&put=12055970-4c9d-4b8e-b653-f74013737d4d",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.086Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://id.rlcdn.com/1000.gif?memo=CI6tHBoNCPmF6dYGEgUI6AcQAEIASgA",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.117Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=9841330&time=1792688888973&li_adsId=b8db146e-d350-41d4-b343-b0eb37d92d67&pageLoadId=9e4e4a3b-99ec-44fa-8e61-0e87ecb0a46b&url=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&cookiesTest=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.122Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://658-gga-005.mktoresp.com/webevents/visitWebPage?_mchNc=1792688889122&_mchCn=&_mchId=658-GGA-005&_mchTk=_mch-kpmg.com-cbbc77ea319ebfa8b049cd8f85e70ff2&_mchWs=j1RZ&_mchHo=kpmg.com&_mchPo=&_mchRu=%2Fxx%2Fen.html&_mchPc=https%3A&_mchVr=165&_mchEcid=00B621ED542E84FD0A4C98A1%40AdobeOrg%3Ava6%3A09076653465202389452851169096668448337&_mchHa=&_mchRe=&_mchQp=",
+    "resourceType": "ping",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.153Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://segments.company-target.com/log?vendor=liveramp&user_id=Xc1297O67nczavxpJ7nwlbS-7d7LRX0IuYm7IAnTsq728M5As",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.164Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=18&expiry=1808413689&external_user_id=12055970-4c9d-4b8e-b653-f74013737d4d&C=1",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.168Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%3Fv%3D2%26fmt%3Djs%26pid%3D9841330%26time%3D1792688888973%26li_adsId%3Db8db146e-d350-41d4-b343-b0eb37d92d67%26pageLoadId%3D9e4e4a3b-99ec-44fa-8e61-0e87ecb0a46b%26url%3Dhttps%253A%252F%252Fkpmg.com%252Fxx%252Fen.html%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.269Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://px.ads.linkedin.com/collect?v=2&fmt=js&pid=9841330&time=1792688888973&li_adsId=b8db146e-d350-41d4-b343-b0eb37d92d67&pageLoadId=9e4e4a3b-99ec-44fa-8e61-0e87ecb0a46b&url=https%3A%2F%2Fkpmg.com%2Fxx%2Fen.html&cookiesTest=true&liSync=true",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:08:09.355Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  }
+]

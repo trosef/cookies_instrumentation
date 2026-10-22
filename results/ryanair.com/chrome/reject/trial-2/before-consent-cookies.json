@@ -1,0 +1,72 @@
+[
+  {
+    "name": "fr-correlation-id",
+    "value": "195bc9db-0f0f-4b2c-989e-1c773372e681",
+    "domain": ".www.ryanair.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rid",
+    "value": "5c4e43a7-a723-46e7-a255-3d97ed6fa024",
+    "domain": ".www.ryanair.com",
+    "path": "/",
+    "expires": 1824177620.248619,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rid.sig",
+    "value": "jyna6R42wntYgoTpqvxHMK7H+KyM6xLed+9I3KsvYZaVt7P36AL6zp9dGFPu5uVxaIiFpNXrszr+LfNCdY3IT+0ytrNN7buomNJI0Wj7cM1uAEu4cL/C71HfOdZxexmLQk8n5bDITjXUUfe4KMct2XxSwQRrrbLaLjisKGvZgc5hvNW3RcUXQ+ZzbanCF/JvTkXKQP440/mjHdkMIHFfoUQy+O20rzp3br01urT2QZT+IAdKGwfu4gF6ZdYDSJ1KpSPTFiXXsIerw8bNnY0dq7zk7eEBcqypYCgINUv4YSzMxyOSTKXbyi+ZdqUTAQon7/E9saOj+sSSpo/j4uSgDhLLnJt+F0Mu9hzic+PF617YL8jYFHBAGxNjTQZFGpYJYNrrbQ1jCz5XcRVOkLaIbhZMGO2u9mOaeyaOpwlDJ4xRA7m1oqTlKoBNjpnu/0rBGCQWN6U24l9hadVPBo5VfnBe+skz2gh3f+UGj0jZm9SOG9WBkTJkFXCS9jvzh8tsSLI4O/jxUlLbzEsDzOCEtazQ9VWJzglO5OSquv4SxKScdVXdrLZuunQK3szoGH7s2ZolEU00WtDALb82WHfgzpOXF89Gw85yNF/r16gFmlYHB5XN3tnvyNvHx+xOWT+eaGbZ/K7jnzkI9/Knaw2a4WkIi04UP2SEjgJ0P1FDiuZJ5Yj3A/b7n6T/GoqwBpVEC2XEuTbQkQRuMIAXnXEwCpVHVuIGFQGwbhdqobN5qruKy5R37UwqFRHGFAiPvKq4fNpKHTWD4ZR5IKPZaZ0qL1TWRnM5QYNpIg1sE2FwAxX+2wvHpOOZQiCpw2Gyk+29MJf32q3bcEPlS218gNb6xA==",
+    "domain": ".www.ryanair.com",
+    "path": "/",
+    "expires": 1824177620.24905,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "xid",
+    "value": "c368d3a5-0bd1-49ae-b939-800be28b40a6",
+    "domain": ".www.ryanair.com",
+    "path": "/",
+    "expires": 1793246420.249107,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mkt",
+    "value": "/us/en/",
+    "domain": ".ryanair.com",
+    "path": "/",
+    "expires": 1824225392,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "STORAGE_PREFERENCES",
+    "value": "{\"STRICTLY_NECESSARY\":true,\"PERFORMANCE\":false,\"FUNCTIONAL\":false,\"TARGETING\":false,\"SOCIAL_MEDIA\":false,\"PIXEL\":false,\"__VERSION\":5}",
+    "domain": ".www.ryanair.com",
+    "path": "/",
+    "expires": 1795281392,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "0K4X0ZbclpykWx1Cd..Bq2kTx...1.0.Bq2kTx.AWfuoeOG-7n_O_4Tzanunt-7eqo",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800465393.089681,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

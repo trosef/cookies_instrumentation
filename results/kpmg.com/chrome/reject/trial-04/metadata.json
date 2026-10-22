@@ -1,0 +1,37 @@
+{
+  "website": "https://kpmg.com",
+  "browser": "Chrome",
+  "condition": "reject",
+  "trial": "04",
+  "startTime": "2026-10-22T17:12:01.896Z",
+  "endTime": "2026-10-22T17:12:35.097Z",
+  "requestCount": 59,
+  "cookieCount": 9,
+  "waitTimesMs": {
+    "initial": 10000,
+    "afterConsent": 10000,
+    "afterBrowsing": 5000
+  },
+  "checkpoints": [
+    {
+      "label": "before-consent",
+      "timestamp": "2026-10-22T17:12:13.553Z",
+      "cookieCount": 7,
+      "requestCountSoFar": 55
+    },
+    {
+      "label": "after-consent",
+      "timestamp": "2026-10-22T17:12:29.077Z",
+      "cookieCount": 9,
+      "requestCountSoFar": 59
+    },
+    {
+      "label": "final",
+      "timestamp": "2026-10-22T17:12:35.095Z",
+      "cookieCount": 9,
+      "requestCountSoFar": 59
+    }
+  ],
+  "thirdPartyRequestCountByHostname": 5,
+  "errors": []
+}

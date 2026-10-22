@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.accenture.com/en",
+    "storage": {
+      "localStorage": {
+        "com.adobe.reactor.dataElements.[Core][OneTrustActiveGroups]": "\",1,2,3,4,\"",
+        "com.adobe.reactor.dataElements.[Core][Cookies Settings Text]": "\"Manage Cookie Settings\"",
+        "lastExternalReferrerTime": "1792689538119",
+        "clientip": "72.15.117.228",
+        "firstPageLoadExist": "1",
+        "lastExternalReferrer": "empty",
+        "_gcl_ls": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"B8FP-Zzf36FXA6g_I0SOGnhRVxkPXTB0MA\",\"lastJoinedTimeMs\":1792689537796},\"expires\":1792689837796}}",
+        "_lfa": "LF1.1.5929a41cbbfccee4.1792689537916",
+        "p_plt": "3.13",
+        "_lfa_expiry": "2027-10-22T17:18:57.916Z",
+        "li_adsId": "7366aa6d-e1dd-416d-9db5-81fc5292ef88",
+        "com.adobe.alloy.AAB73BC75245B44A0A490D4D_AdobeOrg.consentHashes.Adobe.1.0": "3165644325"
+      },
+      "sessionStorage": {
+        "com.adobe.reactor.dataElements.ECID": "64632234419306034413608443762125422715",
+        "customReferrer_previousPage": "https://www.accenture.com/en",
+        "_dd_tab_id": "5d4be361-9fc2-4766-8a26-f4361377f37b"
+      }
+    }
+  }
+]

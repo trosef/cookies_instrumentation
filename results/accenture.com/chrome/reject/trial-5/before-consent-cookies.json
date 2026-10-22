@@ -1,0 +1,328 @@
+[
+  {
+    "name": "affinity",
+    "value": "\"e23fbc881b96d531\"",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Thu+Oct+22+2026+12%3A18%3A05+GMT-0500+(Central+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ce8f35d1-379b-49cb-b204-309a85c52ba6&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.accenture.com%2Fen&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1824225485,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_dduserid",
+    "value": "4f12bc4f-957a-8f7-21d-ba5b31b1df7",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": 1824225486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "_dd_s",
+    "value": "aid=11bd9c1e-5997-4557-accb-67293eb1b23f&rum=2&id=537ab5c6-e976-4bc8-90bd-dece5ba0ec11&created=1792689486603&expire=1792690386603",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": 1824225486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "urlTrackingHistory",
+    "value": "https%3A%2F%2Fwww.accenture.com%2Fen",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "s_plt",
+    "value": "2.51%2Chttps%3A%2F%2Fwww.accenture.com%2Fen",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "demdex",
+    "value": "49313797228654345332530144540713179812",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1808241486.865057,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_identity",
+    "value": "CiY0OTAzMjcxMjc2OTA0NjYzNTI3MjU1NjAxODc3NDE5NTU4ODMyNlISCJT4-qSWNBABGAEqA1ZBNjAA8AGU-PqkljQ=",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1826817486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_consent",
+    "value": "general=in",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1808241486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_AAB73BC75245B44A0A490D4D_AdobeOrg_cluster",
+    "value": "va6",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1792691288.368018,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_AAB73BC75245B44A0A490D4D%40AdobeOrg",
+    "value": "MCMID|49032712769046635272556018774195588326",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1826385486,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "s_ecid",
+    "value": "49032712769046635272556018774195588326",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": 1795371487,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "TDID",
+    "value": "31f40265-4ba6-4541-b6e6-b27c2c5f0324",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824225487.958502,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "audit_p",
+    "value": "1|N6sN7nr7SCy8pngvF2m/U2xYEY1PlWJdkG2zVLFcDkQjogBJSscpyf1O3pKvaMchQk2p244Yu3+M1KxoLazIt9i2Wk5FrGos0XY24Ec+XLuOxtpudAyOzEOs2DnicYnZxn0qNY/awFctCGqgCGRNjFNP5kxQit2MONvkwZWUEatbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824225487.851158,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://accenture.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "khaos",
+    "value": "MVJT19MV-W-9DPX",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824225487.851198,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "khaos_p",
+    "value": "MVJT19MV-W-9DPX",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824225487.851213,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://accenture.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "audit",
+    "value": "1|N6sN7nr7SCy8pngvF2m/U2xYEY1PlWJdkG2zVLFcDkQjogBJSscpyf1O3pKvaMchQk2p244Yu3+M1KxoLazIt9i2Wk5FrGos0XY24Ec+XLuOxtpudAyOzEOs2DnicYnZxn0qNY/awFctCGqgCGRNjFNP5kxQit2MONvkwZWUEatbOz6AjJtUa8ZnH3r7x5VAdeodiyl5GGjkt77VmXBK7kiCfUmSYXqD+ohH/uuQN8oOr/S07bYDcYQkZmofZQkSVSwKu1RXSJT0/fhu8/pkBO4VeIulq+4M1TRwmTZWV3Xc6UO785F0Pw==",
+    "domain": ".rubiconproject.com",
+    "path": "/",
+    "expires": 1824225487.851225,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUmQ2HxH-ECaCzADQa80WTy5-r7bFdNf1ah_Xl7wE-AsT4Pobx8Tq-foaxrIn18",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1827249487.858572,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_lfa",
+    "value": "LF1.1.2867dd51b684f4a5.1792689487860",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1824225487,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "XANDR_PANID",
+    "value": "ozF1Xivz8ULUDhWzwYESz4lEODPp-QZM372qBGRInliazjL9IIZKXVLQCvzbA9aHSSILEr487AJK8klrILgkardO6KhchQF7yBXuIx4c9sU.",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800465487.928482,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://accenture.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "uuid2",
+    "value": "63064673261063283",
+    "domain": ".adnxs.com",
+    "path": "/",
+    "expires": 1800465487.928514,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "li_sugr",
+    "value": "61238652-84ac-4e53-b354-bdb27c550584",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1800465488.155226,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bcookie",
+    "value": "\"v=2&cd93151d-89b5-4d7b-84fe-e2109914bed8\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1824225488.155279,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "lidc",
+    "value": "\"b=VGST05:s=V:r=V:a=V:p=V:g=3687:u=1:x=1:i=1792689487:t=1792775887:v=2:sig=AQGKnW5KP0Ax6xNSwtawCGAel96gw-2Z\"",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792775887.902975,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "m25JAQC9XshpGL754KzYoGsTWxsVnOmPIAxMqyZ99ko-1792689487.9067397-1.0.1.1-AsQcuW_FvfZ4oj.8EHJ3HwQ8xuBzg8mzDjA7AuNUqR6QKM2mVP5OINb8M8EAQYJtLUTTQZ2gP0bmsysYgP81CAPANpzlIjCOuNEnqeFAbbzKQO4vya3QEV3yH7Bs9e29",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1792691287.902994,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "UserMatchHistory",
+    "value": "AQKw43Pr1SN0kAAAAaFknsBr1-DWcPwqKh2xfLSNPKBpNWnVN_NWNC3ypP4QfTCTAMVbv3_TezSuDw",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795281487.955169,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AnalyticsSyncHistory",
+    "value": "AQKNR9Tq9XchQQAAAaFknsBr0KDAEHngotrX-mAyLK7yzA2tu2jgLIYvo_aJMj9wyVEIUwEw071_SMq0y-jvFg",
+    "domain": ".linkedin.com",
+    "path": "/",
+    "expires": 1795281487.955217,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TDCPM",
+    "value": "CAESFgoHcnViaWNvbhILCIqR6JDPmtg_EAUSFQoGZ29vZ2xlEgsI7v2Wk8-a2D8QBRIXCghhcHBuZXh1cxILCKyF7ZPPmtg_EAUYBSACKAYyCwia7eq95ZrYPxAFWgdvcnVtdmplYAF6CQoFdGllcjEQAQ..",
+    "domain": ".adsrvr.org",
+    "path": "/",
+    "expires": 1824225487.958541,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bscookie",
+    "value": "\"v=1&20261022171808d960d9db-2422-482c-8c2d-a27fdf57af03AQFl7hMFLafBC1t3dAStsa5sKf2kcmxQ\"",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1824225488.085237,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ReferringSourceCode",
+    "value": "acn_5",
+    "domain": "www.accenture.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "fr",
+    "value": "07tZaN309akniO0ln..Bq2kVQ...1.0.Bq2kVQ.AWepHzeSjyDvY-W3UI538-Fxemw",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1800465488.170782,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ELOQUA",
+    "value": "GUID=6F90BF5D210D488981870C0C74B38F74",
+    "domain": ".accenture.com",
+    "path": "/",
+    "expires": 1826907489.268065,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

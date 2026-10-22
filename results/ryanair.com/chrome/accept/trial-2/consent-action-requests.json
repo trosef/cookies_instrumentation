@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-10-22T17:17:22.623Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://www.googletagmanager.com/gtag/js?id=G-YBBVD7Z3XL&l=GTAGdataLayer",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:17:22.623Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://assets.ryanair.com/shared-scripts/nr-loader-latest.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:17:22.697Z",
+    "stage": "consent-action",
+    "method": "GET",
+    "url": "https://js-agent.newrelic.com/nr-spa-1.278.3.min.js",
+    "resourceType": "script",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:17:22.898Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/1/NRBR-1d639e79cd38283ae78?a=389251397&sa=1&v=1.278.3&t=Unnamed%20Transaction&ct=http://custom.transaction/homepage&rst=14228&ck=0&s=0&ref=https://www.ryanair.com/us/en&ptid=234bc54ead26ea4d&af=err,spa,xhr,stn,ins&be=206&fe=1301&dc=741&perf=%7B%22timing%22:%7B%22of%22:1792689428668,%22n%22:0,%22f%22:0,%22dn%22:1,%22dne%22:68,%22c%22:68,%22s%22:92,%22ce%22:125,%22rq%22:125,%22rp%22:206,%22rpe%22:208,%22di%22:263,%22ds%22:947,%22de%22:947,%22dc%22:1507,%22l%22:1507,%22le%22:1507%7D,%22navigation%22:%7B%7D%7D&fp=252&fcp=1220",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:17:23.074Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YBBVD7Z3XL&gtm=45je6al0v876702552za200zd876702552xf1&_p=1792689442615&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1689872382.1792689443&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x720&uaa=arm&uab=64&uafvl=Google%2520Chrome%3B155.0.8059.85%7CChromium%3B155.0.8059.85%7CNot(A%253ABrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=13.0.0&uaw=0&ul=en-us&_s=1&tag_exp=115616986~115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034~123548194&sid=1792689443&sct=1&seg=0&dl=https%3A%2F%2Fwww.ryanair.com%2Fus%2Fen&dt=Official%20Ryanair%20website%20%7C%20Cheap%20flights%20in%20Europe%20%7C%20Ryanair&_tu=gA&en=view_promotion&_fv=1&_nsi=1&_ss=1&_ee=1&pr1=nmFS211026&ep.content_group=none%3A%20homepage&ep.cd_PageType=none%3A%20homepage&ep.cd_PageName=website%3A%20en-us%3A%20none%3A%20homepage&ep.cd_PageVersion=desktop&ep.cd_PageVariation=ver.spa-flights&ep.cd_CultureCode=en-us&ep.cd_UserId=&ep.cd_LoginStatus=Logged%20Out&ep.cd_CorrelationId=f5cd17d3-8d35-4e78-aeca-d23677154b56&ep.cd_ExperimentId=05881938-340d-4321-a266-8676fe514848&ep.cd_TestVariation=eB_nw_ff_ai%7CeA_ct_noupg%7CeA_ct_bg1%7CeC_nw_top%7CeB_nw_lipp%7CeB_nw_inspdy%7CeA_ct_no_bdle%7CeB_nw_sts_ind_pcg%7CeB_nw_upsts%7C&ep.cd_EventAction=Impression&ep.cd_EventLabel=HP_Static&ep.event_category=Onsite%20Engagement&ep.promotion_id=https%3A%2F%2Fwww.ryanair.com%2Fus%2Fen%2Flp%2Fdiscounts-and-promos%2Fflash-sale&ep.promotion_name=FS211026&ep.creative_name=https%3A%2F%2Fwww.ryanair.com%2Fryanair3%2Fdam%2F2026%2Fflights%2F10%2F23-oct-flash-sale-crea-6811%2Fhero%2FUS_IE_CREA-6811_Sale_Hero-Banner.jpg.transform%2F1x%2Fimage.aacb144139f532b180d7d0fb8b071d5f.jpg.jpg&ep.creative_slot=HP-Static-1&tfd=14396",
+    "resourceType": "fetch",
+    "thirdPartyByHostname": true
+  },
+  {
+    "timestamp": "2026-10-22T17:17:23.214Z",
+    "stage": "consent-action",
+    "method": "POST",
+    "url": "https://bam.nr-data.net/events/1/NRBR-1d639e79cd38283ae78?a=389251397&sa=1&v=1.278.3&t=Unnamed%20Transaction&ct=http://custom.transaction/homepage&rst=14544&ck=0&s=0&ref=https://www.ryanair.com/us/en&ptid=234bc54ead26ea4d",
+    "resourceType": "xhr",
+    "thirdPartyByHostname": true
+  }
+]
