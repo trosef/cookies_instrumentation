@@ -1,0 +1,22 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "5d0r7zCn3wWKh676ktQL.qzF5JpimjPhgDah0xwRYYA-1792685312.1147268-1.0.1.1-jZehKaiRLnuccoNn6OjlG6NFcbMVqq8eoF9vuRmPUFR6EH6S7skkm4Ktq5hwAisnZOlsE7voe9EA6_AbKaEMTimjSXvU7C6B_2t3Ps074.arQGUKD1OV2HZMDLWdobF7",
+    "domain": ".www.ikea.com",
+    "path": "/",
+    "expires": 1792687112.095181,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ikexp_id",
+    "value": "447292ad-d6ac-4167-b998-3241fed63fe1",
+    "domain": ".ikea.com",
+    "path": "/",
+    "expires": 1824221313.538431,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

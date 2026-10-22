@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://www.ikea.com/not-found/",
+    "storage": {
+      "localStorage": {
+        "LOCAL_ISO_STORAGE_KEY": "US",
+        "LOCAL_LANGUAGE_STORAGE_KEY": "EN"
+      },
+      "sessionStorage": {}
+    }
+  }
+]

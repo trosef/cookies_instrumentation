@@ -1,0 +1,124 @@
+[
+  {
+    "name": "sp_t",
+    "value": "41ae9463-b61f-4aca-8867-2f31b66d4b55",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1824221369.90645,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sp_new",
+    "value": "1",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1792771769.906522,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sp_landing",
+    "value": "https%3A%2F%2Fopen.spotify.com%2F",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1792771769.906565,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cs_mk_ga",
+    "value": "0.7795506838277847_1792685371669",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1792687171,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Thu+Oct+22+2026+11%3A09%3A31+GMT-0500+(Central+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2F&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1824221371,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "UID",
+    "value": "179f7d0ec37b8876e76ee161792685371",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "expires": 1826381371.81304,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "XID",
+    "value": "179f7d0ec37b8876e76ee161792685371",
+    "domain": ".scorecardresearch.com",
+    "path": "/",
+    "expires": 1826381371.813115,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None",
+    "partitionKey": "https://spotify.com",
+    "_crHasCrossSiteAncestor": true
+  },
+  {
+    "name": "_ga_ZWG1NSHWD8",
+    "value": "GS2.1.s1792685371$o1$g0$t1792685371$j60$l0$h0",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1827245371.816829,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1758316851.1792685372",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1827245371.865674,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.150706562.1792685372",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1792771771,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat_UA-5784146-31",
+    "value": "1",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1792685431,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_BMC5VGR8YS",
+    "value": "GS2.2.s1792685372$o1$g1$t1792685372$j60$l0$h0",
+    "domain": ".spotify.com",
+    "path": "/",
+    "expires": 1827245372.098666,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

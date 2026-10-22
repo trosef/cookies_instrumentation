@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-10-22T16:10:50.020Z",
+    "stage": "final-observation",
+    "method": "GET",
+    "url": "https://ping.chartbeat.net/ping?h=bbc.com&p=%2F&u=CjlgBBCDGOMPBlaDFm&d=bbc.com&g=50924&g0=No%20Section&g1=NewsMediaOrganization&g4=indexPage&n=1&f=00001&c=0.5&x=0&m=0&y=13305&o=1280&w=720&j=45&R=0&W=0&I=1&E=5&e=0&r=&PA=https%3A%2F%2Fwww.bbc.com%2F&b=1382&_s=%7B%7D&t=C-in0DC5vvDFClphb6Dtw0W4eQdE3&V=154&tz=300&_=a&sn=3&sv=DOVGfWLBAwMDD2JdaCMNtJMBmUnMr&sr=external&sd=1&im=067b2fff&_",
+    "resourceType": "image",
+    "thirdPartyByHostname": true
+  }
+]
