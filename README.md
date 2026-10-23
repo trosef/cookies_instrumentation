@@ -1,6 +1,6 @@
 Cookies Consent Experiment
 - Before running the script install node.js and google chrome
-- install playwright
+- Install playwright
 ```
 npm playwright
 ```
